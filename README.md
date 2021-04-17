@@ -10,49 +10,49 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2021-04-17 15:17:14 +0800`
+`更新时间：2021-04-17 16:16:47 +0800`
 
 ## 今日热门仓库
 
 1. [openethereum / openethereum](https://github.com/openethereum/openethereum)
     - The fast, light, and robust client for the Ethereum mainnet.
-    - language: **Rust** &nbsp;&nbsp; stars: **574** &nbsp;&nbsp; folks: **118**  &nbsp;&nbsp; `134 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **577** &nbsp;&nbsp; folks: **118**  &nbsp;&nbsp; `136 stars today`
 
 1. [Chia-Network / chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
     - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-    - language: **Python** &nbsp;&nbsp; stars: **2,199** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `345 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,211** &nbsp;&nbsp; folks: **219**  &nbsp;&nbsp; `370 stars today`
 
 1. [Forescout / project-memoria-detector](https://github.com/Forescout/project-memoria-detector)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **193** &nbsp;&nbsp; folks: **25**  &nbsp;&nbsp; `59 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **195** &nbsp;&nbsp; folks: **25**  &nbsp;&nbsp; `63 stars today`
 
 1. [ChristianChiarulli / LunarVim](https://github.com/ChristianChiarulli/LunarVim)
     - A Neovim config made with sane defaults
-    - language: **Lua** &nbsp;&nbsp; stars: **2,353** &nbsp;&nbsp; folks: **557**  &nbsp;&nbsp; `131 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **2,359** &nbsp;&nbsp; folks: **557**  &nbsp;&nbsp; `137 stars today`
 
 1. [ferib / D2R-Offline](https://github.com/ferib/D2R-Offline)
     - Diablo II: Resurrected, Offline-mode patcher
-    - language: **C#** &nbsp;&nbsp; stars: **223** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `111 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **223** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `115 stars today`
 
 1. [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
     - Offline build planner for Path of Exile.
-    - language: **Lua** &nbsp;&nbsp; stars: **1,114** &nbsp;&nbsp; folks: **753**  &nbsp;&nbsp; `57 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **1,116** &nbsp;&nbsp; folks: **754**  &nbsp;&nbsp; `62 stars today`
 
 1. [avboy1337 / 1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day)
     - 无
-    - language: **HTML** &nbsp;&nbsp; stars: **231** &nbsp;&nbsp; folks: **86**  &nbsp;&nbsp; `75 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **233** &nbsp;&nbsp; folks: **87**  &nbsp;&nbsp; `78 stars today`
 
 1. [ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
     - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
-    - language: **无** &nbsp;&nbsp; stars: **4,390** &nbsp;&nbsp; folks: **1,476**  &nbsp;&nbsp; `183 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **4,395** &nbsp;&nbsp; folks: **1,476**  &nbsp;&nbsp; `191 stars today`
 
 1. [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha)
     - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-    - language: **Java** &nbsp;&nbsp; stars: **20,019** &nbsp;&nbsp; folks: **5,087**  &nbsp;&nbsp; `79 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **20,021** &nbsp;&nbsp; folks: **5,089**  &nbsp;&nbsp; `84 stars today`
 
 1. [coqui-ai / TTS](https://github.com/coqui-ai/TTS)
     - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-    - language: **Python** &nbsp;&nbsp; stars: **1,106** &nbsp;&nbsp; folks: **63**  &nbsp;&nbsp; `204 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,113** &nbsp;&nbsp; folks: **63**  &nbsp;&nbsp; `217 stars today`
 
 1. [hhroot / 2021_Hvv](https://github.com/hhroot/2021_Hvv)
     - 2021 hw
@@ -60,51 +60,51 @@
 
 1. [MohamedYoussouf / Design-Resources](https://github.com/MohamedYoussouf/Design-Resources)
     - A curated list of design resources from design templates, stock photos, icons, colors, and much more.
-    - language: **无** &nbsp;&nbsp; stars: **684** &nbsp;&nbsp; folks: **18**  &nbsp;&nbsp; `200 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **691** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `203 stars today`
 
 1. [EvgSkv / logica](https://github.com/EvgSkv/logica)
     - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **643** &nbsp;&nbsp; folks: **29**  &nbsp;&nbsp; `100 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **647** &nbsp;&nbsp; folks: **29**  &nbsp;&nbsp; `105 stars today`
 
 1. [rby90 / project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c)
     - A curated list of project-based tutorials in C
-    - language: **无** &nbsp;&nbsp; stars: **6,436** &nbsp;&nbsp; folks: **677**  &nbsp;&nbsp; `114 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **6,442** &nbsp;&nbsp; folks: **677**  &nbsp;&nbsp; `123 stars today`
 
 1. [encoredev / encore](https://github.com/encoredev/encore)
     - The Go backend framework with superpowers
-    - language: **Go** &nbsp;&nbsp; stars: **1,535** &nbsp;&nbsp; folks: **20**  &nbsp;&nbsp; `272 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,550** &nbsp;&nbsp; folks: **20**  &nbsp;&nbsp; `283 stars today`
 
 1. [louisfb01 / start-machine-learning-in-2020](https://github.com/louisfb01/start-machine-learning-in-2020)
     - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
-    - language: **无** &nbsp;&nbsp; stars: **608** &nbsp;&nbsp; folks: **113**  &nbsp;&nbsp; `110 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **614** &nbsp;&nbsp; folks: **113**  &nbsp;&nbsp; `118 stars today`
 
 1. [nlohmann / json](https://github.com/nlohmann/json)
     - JSON for Modern C++
-    - language: **C++** &nbsp;&nbsp; stars: **24,083** &nbsp;&nbsp; folks: **4,167**  &nbsp;&nbsp; `95 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **24,087** &nbsp;&nbsp; folks: **4,167**  &nbsp;&nbsp; `99 stars today`
 
 1. [tauri-apps / tauri](https://github.com/tauri-apps/tauri)
     - Build smaller, faster, and more secure desktop applications with a web frontend.
-    - language: **Rust** &nbsp;&nbsp; stars: **15,243** &nbsp;&nbsp; folks: **302**  &nbsp;&nbsp; `310 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **15,247** &nbsp;&nbsp; folks: **302**  &nbsp;&nbsp; `278 stars today`
 
 1. [GorvGoyl / Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
     - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-    - language: **无** &nbsp;&nbsp; stars: **9,826** &nbsp;&nbsp; folks: **628**  &nbsp;&nbsp; `871 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **9,856** &nbsp;&nbsp; folks: **629**  &nbsp;&nbsp; `901 stars today`
 
 1. [huggingface / transformers](https://github.com/huggingface/transformers)
     - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-    - language: **Python** &nbsp;&nbsp; stars: **44,697** &nbsp;&nbsp; folks: **10,620**  &nbsp;&nbsp; `286 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **44,708** &nbsp;&nbsp; folks: **10,620**  &nbsp;&nbsp; `298 stars today`
 
 1. [elixir-nx / livebook](https://github.com/elixir-nx/livebook)
     - Interactive and collaborative code notebooks - made with Phoenix LiveView.
-    - language: **Elixir** &nbsp;&nbsp; stars: **929** &nbsp;&nbsp; folks: **44**  &nbsp;&nbsp; `207 stars today`
+    - language: **Elixir** &nbsp;&nbsp; stars: **931** &nbsp;&nbsp; folks: **44**  &nbsp;&nbsp; `213 stars today`
 
 1. [dogecoin / dogecoin](https://github.com/dogecoin/dogecoin)
     - very currency
-    - language: **C++** &nbsp;&nbsp; stars: **5,511** &nbsp;&nbsp; folks: **1,285**  &nbsp;&nbsp; `376 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **5,520** &nbsp;&nbsp; folks: **1,285**  &nbsp;&nbsp; `391 stars today`
 
 1. [easychen / one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology)
     - 一人公司方法论
-    - language: **无** &nbsp;&nbsp; stars: **1,197** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `156 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **1,202** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `164 stars today`
 
 1. [alberteije / T2Ti-Pegasus-PDV-Lite](https://github.com/alberteije/T2Ti-Pegasus-PDV-Lite)
     - Repositório do Projeto T2Ti Pegasus PDV Lite
@@ -112,26 +112,26 @@
 
 1. [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch)
     - Open source distributed and RESTful search engine.
-    - language: **Java** &nbsp;&nbsp; stars: **1,854** &nbsp;&nbsp; folks: **80**  &nbsp;&nbsp; `190 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **1,855** &nbsp;&nbsp; folks: **81**  &nbsp;&nbsp; `192 stars today`
 
 
 ## 近一周热门仓库
 
 1. [tailwindlabs / headlessui](https://github.com/tailwindlabs/headlessui)
     - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,799** &nbsp;&nbsp; folks: **209**  &nbsp;&nbsp; `2,069 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,807** &nbsp;&nbsp; folks: **210**  &nbsp;&nbsp; `2,077 stars this week`
 
 1. [Chia-Network / chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
     - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-    - language: **Python** &nbsp;&nbsp; stars: **2,199** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `1,029 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,211** &nbsp;&nbsp; folks: **219**  &nbsp;&nbsp; `1,046 stars this week`
 
 1. [bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
     - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,837** &nbsp;&nbsp; folks: **2,334**  &nbsp;&nbsp; `993 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,840** &nbsp;&nbsp; folks: **2,336**  &nbsp;&nbsp; `994 stars this week`
 
 1. [ory / keto](https://github.com/ory/keto)
     - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
-    - language: **Go** &nbsp;&nbsp; stars: **2,000** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `451 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **2,001** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `451 stars this week`
 
 1. [foxlet / macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
     - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
@@ -139,15 +139,15 @@
 
 1. [google / leveldb](https://github.com/google/leveldb)
     - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-    - language: **C++** &nbsp;&nbsp; stars: **24,247** &nbsp;&nbsp; folks: **5,489**  &nbsp;&nbsp; `858 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **24,250** &nbsp;&nbsp; folks: **5,489**  &nbsp;&nbsp; `858 stars this week`
 
 1. [google / lyra](https://github.com/google/lyra)
     - A Very Low-Bitrate Codec for Speech Compression
-    - language: **C++** &nbsp;&nbsp; stars: **2,108** &nbsp;&nbsp; folks: **169**  &nbsp;&nbsp; `653 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **2,109** &nbsp;&nbsp; folks: **169**  &nbsp;&nbsp; `654 stars this week`
 
 1. [openethereum / openethereum](https://github.com/openethereum/openethereum)
     - The fast, light, and robust client for the Ethereum mainnet.
-    - language: **Rust** &nbsp;&nbsp; stars: **574** &nbsp;&nbsp; folks: **118**  &nbsp;&nbsp; `212 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **577** &nbsp;&nbsp; folks: **118**  &nbsp;&nbsp; `214 stars this week`
 
 1. [josevalim / nested-data-structure-traversal](https://github.com/josevalim/nested-data-structure-traversal)
     - 无
@@ -155,27 +155,27 @@
 
 1. [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
-    - language: **Python** &nbsp;&nbsp; stars: **23,086** &nbsp;&nbsp; folks: **5,670**  &nbsp;&nbsp; `1,017 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **23,089** &nbsp;&nbsp; folks: **5,670**  &nbsp;&nbsp; `1,022 stars this week`
 
 1. [bevyengine / bevy](https://github.com/bevyengine/bevy)
     - A refreshingly simple data-driven game engine built in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **8,688** &nbsp;&nbsp; folks: **645**  &nbsp;&nbsp; `657 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **8,689** &nbsp;&nbsp; folks: **645**  &nbsp;&nbsp; `658 stars this week`
 
 1. [apple / swift-collections](https://github.com/apple/swift-collections)
     - A package of production grade Swift data structures
-    - language: **Swift** &nbsp;&nbsp; stars: **1,157** &nbsp;&nbsp; folks: **59**  &nbsp;&nbsp; `222 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **1,158** &nbsp;&nbsp; folks: **59**  &nbsp;&nbsp; `222 stars this week`
 
 1. [go-kratos / kratos](https://github.com/go-kratos/kratos)
     - A Go framework for microservices.
-    - language: **Go** &nbsp;&nbsp; stars: **12,288** &nbsp;&nbsp; folks: **2,609**  &nbsp;&nbsp; `255 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **12,288** &nbsp;&nbsp; folks: **2,611**  &nbsp;&nbsp; `255 stars this week`
 
 1. [goplus / gop](https://github.com/goplus/gop)
     - GoPlus - The Go+ language for data science
-    - language: **Go** &nbsp;&nbsp; stars: **4,756** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `210 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,758** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `211 stars this week`
 
 1. [apache / superset](https://github.com/apache/superset)
     - Apache Superset is a Data Visualization and Data Exploration Platform
-    - language: **Python** &nbsp;&nbsp; stars: **38,016** &nbsp;&nbsp; folks: **7,184**  &nbsp;&nbsp; `1,238 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **38,017** &nbsp;&nbsp; folks: **7,184**  &nbsp;&nbsp; `1,239 stars this week`
 
 1. [zhangdaiscott / JimuReport](https://github.com/zhangdaiscott/JimuReport)
     - 一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
@@ -183,31 +183,31 @@
 
 1. [awesome-selfhosted / awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
     - A list of Free Software network services and web applications which can be hosted on your own servers
-    - language: **JavaScript** &nbsp;&nbsp; stars: **57,403** &nbsp;&nbsp; folks: **4,418**  &nbsp;&nbsp; `928 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **57,406** &nbsp;&nbsp; folks: **4,418**  &nbsp;&nbsp; `932 stars this week`
 
 1. [edeng23 / binance-trade-bot](https://github.com/edeng23/binance-trade-bot)
     - Automated cryptocurrency trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **3,506** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `408 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,506** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `409 stars this week`
 
 1. [binance-chain / bsc](https://github.com/binance-chain/bsc)
     - A Binance Smart Chain client based on the go-ethereum fork
-    - language: **Go** &nbsp;&nbsp; stars: **298** &nbsp;&nbsp; folks: **105**  &nbsp;&nbsp; `61 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **298** &nbsp;&nbsp; folks: **106**  &nbsp;&nbsp; `61 stars this week`
 
 1. [streamich / react-use](https://github.com/streamich/react-use)
     - React Hooks — 👍
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,506** &nbsp;&nbsp; folks: **1,517**  &nbsp;&nbsp; `328 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,507** &nbsp;&nbsp; folks: **1,518**  &nbsp;&nbsp; `328 stars this week`
 
 1. [scikit-learn / scikit-learn](https://github.com/scikit-learn/scikit-learn)
     - scikit-learn: machine learning in Python
-    - language: **Python** &nbsp;&nbsp; stars: **45,397** &nbsp;&nbsp; folks: **21,329**  &nbsp;&nbsp; `256 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **45,398** &nbsp;&nbsp; folks: **21,328**  &nbsp;&nbsp; `256 stars this week`
 
 1. [NVIDIA / NeMo](https://github.com/NVIDIA/NeMo)
     - NeMo: a toolkit for conversational AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,571** &nbsp;&nbsp; folks: **460**  &nbsp;&nbsp; `37 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,573** &nbsp;&nbsp; folks: **461**  &nbsp;&nbsp; `37 stars this week`
 
 1. [covid19india / covid19india-react](https://github.com/covid19india/covid19india-react)
     - Tracking the impact of COVID-19 in India
-    - language: **JavaScript** &nbsp;&nbsp; stars: **5,295** &nbsp;&nbsp; folks: **3,069**  &nbsp;&nbsp; `64 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **5,296** &nbsp;&nbsp; folks: **3,070**  &nbsp;&nbsp; `64 stars this week`
 
 1. [ripple / rippled](https://github.com/ripple/rippled)
     - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
@@ -215,18 +215,18 @@
 
 1. [react-hook-form / react-hook-form](https://github.com/react-hook-form/react-hook-form)
     - 📋 React Hooks for forms validation (Web + React Native)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,081** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `246 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,082** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `246 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [r4j0x00 / exploits](https://github.com/r4j0x00/exploits)
     - 无
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,032** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `1,625 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,034** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `1,627 stars this month`
 
 1. [Chia-Network / chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
     - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-    - language: **Python** &nbsp;&nbsp; stars: **2,199** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `1,818 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,211** &nbsp;&nbsp; folks: **219**  &nbsp;&nbsp; `1,831 stars this month`
 
 1. [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
     - Experimental Nintendo Switch Emulator written in C#
@@ -234,7 +234,7 @@
 
 1. [merry75 / educative.io_courses](https://github.com/merry75/educative.io_courses)
     - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-    - language: **无** &nbsp;&nbsp; stars: **1,267** &nbsp;&nbsp; folks: **1,206**  &nbsp;&nbsp; `809 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **1,267** &nbsp;&nbsp; folks: **1,207**  &nbsp;&nbsp; `809 stars this month`
 
 1. [GUI / covid-vaccine-spotter](https://github.com/GUI/covid-vaccine-spotter)
     - 无
@@ -242,19 +242,19 @@
 
 1. [tailwindlabs / headlessui](https://github.com/tailwindlabs/headlessui)
     - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,799** &nbsp;&nbsp; folks: **209**  &nbsp;&nbsp; `2,491 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,807** &nbsp;&nbsp; folks: **210**  &nbsp;&nbsp; `2,499 stars this month`
 
 1. [bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
     - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,837** &nbsp;&nbsp; folks: **2,334**  &nbsp;&nbsp; `1,235 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,840** &nbsp;&nbsp; folks: **2,336**  &nbsp;&nbsp; `1,238 stars this month`
 
 1. [docker / awesome-compose](https://github.com/docker/awesome-compose)
     - Awesome Docker Compose samples
-    - language: **HTML** &nbsp;&nbsp; stars: **10,608** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `3,353 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **10,609** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `3,354 stars this month`
 
 1. [mattermost / focalboard](https://github.com/mattermost/focalboard)
     - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-    - language: **HTML** &nbsp;&nbsp; stars: **3,032** &nbsp;&nbsp; folks: **148**  &nbsp;&nbsp; `2,994 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **3,032** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `2,994 stars this month`
 
 1. [nasa / openmct](https://github.com/nasa/openmct)
     - A web based mission control framework.
@@ -262,19 +262,19 @@
 
 1. [ChristianChiarulli / LunarVim](https://github.com/ChristianChiarulli/LunarVim)
     - A Neovim config made with sane defaults
-    - language: **Lua** &nbsp;&nbsp; stars: **2,353** &nbsp;&nbsp; folks: **557**  &nbsp;&nbsp; `599 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **2,359** &nbsp;&nbsp; folks: **557**  &nbsp;&nbsp; `605 stars this month`
 
 1. [geekcomputers / Python](https://github.com/geekcomputers/Python)
     - My Python Examples
-    - language: **Python** &nbsp;&nbsp; stars: **22,330** &nbsp;&nbsp; folks: **9,921**  &nbsp;&nbsp; `1,707 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,330** &nbsp;&nbsp; folks: **9,921**  &nbsp;&nbsp; `1,709 stars this month`
 
 1. [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
     - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-    - language: **Java** &nbsp;&nbsp; stars: **126,138** &nbsp;&nbsp; folks: **40,964**  &nbsp;&nbsp; `2,888 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **126,141** &nbsp;&nbsp; folks: **40,967**  &nbsp;&nbsp; `2,891 stars this month`
 
 1. [AobingJava / JavaFamily](https://github.com/AobingJava/JavaFamily)
     - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-    - language: **无** &nbsp;&nbsp; stars: **24,155** &nbsp;&nbsp; folks: **5,437**  &nbsp;&nbsp; `1,204 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **24,157** &nbsp;&nbsp; folks: **5,439**  &nbsp;&nbsp; `1,206 stars this month`
 
 1. [stefan-jansen / machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
     - Code for Machine Learning for Algorithmic Trading, 2nd edition.
@@ -286,19 +286,19 @@
 
 1. [sveltejs / kit](https://github.com/sveltejs/kit)
     - A monorepo for SvelteKit and friends
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,882** &nbsp;&nbsp; folks: **169**  &nbsp;&nbsp; `1,215 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,882** &nbsp;&nbsp; folks: **169**  &nbsp;&nbsp; `1,217 stars this month`
 
 1. [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
-    - language: **Python** &nbsp;&nbsp; stars: **23,086** &nbsp;&nbsp; folks: **5,670**  &nbsp;&nbsp; `1,847 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,089** &nbsp;&nbsp; folks: **5,670**  &nbsp;&nbsp; `1,850 stars this month`
 
 1. [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
     - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    - language: **Ruby** &nbsp;&nbsp; stars: **8,952** &nbsp;&nbsp; folks: **896**  &nbsp;&nbsp; `1,836 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **8,953** &nbsp;&nbsp; folks: **896**  &nbsp;&nbsp; `1,837 stars this month`
 
 1. [google / leveldb](https://github.com/google/leveldb)
     - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-    - language: **C++** &nbsp;&nbsp; stars: **24,247** &nbsp;&nbsp; folks: **5,489**  &nbsp;&nbsp; `1,068 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **24,250** &nbsp;&nbsp; folks: **5,489**  &nbsp;&nbsp; `1,070 stars this month`
 
 1. [jklepatch / eattheblocks](https://github.com/jklepatch/eattheblocks)
     - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
@@ -306,7 +306,7 @@
 
 1. [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
     - OpenZeppelin Contracts is a library for secure smart contract development.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,949** &nbsp;&nbsp; folks: **4,503**  &nbsp;&nbsp; `500 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,950** &nbsp;&nbsp; folks: **4,503**  &nbsp;&nbsp; `501 stars this month`
 
 1. [hagopj13 / node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate)
     - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
@@ -314,7 +314,7 @@
 
 1. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
     - Protocol Buffers - Google's data interchange format
-    - language: **C++** &nbsp;&nbsp; stars: **47,490** &nbsp;&nbsp; folks: **12,657**  &nbsp;&nbsp; `794 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **47,491** &nbsp;&nbsp; folks: **12,656**  &nbsp;&nbsp; `795 stars this month`
 
 1. [zhangdaiscott / JimuReport](https://github.com/zhangdaiscott/JimuReport)
     - 一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
