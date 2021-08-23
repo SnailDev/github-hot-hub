@@ -10,29 +10,29 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2021-08-24 05:09:52 +0800`
+`更新时间：2021-08-24 06:11:39 +0800`
 
 ## 今日热门仓库
 
 1. [armosec / kubescape](https://github.com/armosec/kubescape)
     - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
-    - language: **Go** &nbsp;&nbsp; stars: **1,030** &nbsp;&nbsp; folks: **34**  &nbsp;&nbsp; `230 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,040** &nbsp;&nbsp; folks: **34**  &nbsp;&nbsp; `230 stars today`
 
 1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
     - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **114,813** &nbsp;&nbsp; folks: **31,172**  &nbsp;&nbsp; `241 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **114,821** &nbsp;&nbsp; folks: **31,171**  &nbsp;&nbsp; `241 stars today`
 
 1. [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
     - Papers from the computer science community to read and discuss.
-    - language: **Shell** &nbsp;&nbsp; stars: **48,021** &nbsp;&nbsp; folks: **4,146**  &nbsp;&nbsp; `620 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **48,029** &nbsp;&nbsp; folks: **4,146**  &nbsp;&nbsp; `620 stars today`
 
 1. [RustPython / RustPython](https://github.com/RustPython/RustPython)
     - A Python Interpreter written in Rust
-    - language: **Python** &nbsp;&nbsp; stars: **8,195** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `11 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **8,216** &nbsp;&nbsp; folks: **552**  &nbsp;&nbsp; `11 stars today`
 
 1. [ManimCommunity / manim](https://github.com/ManimCommunity/manim)
     - A community-maintained Python framework for creating mathematical animations.
-    - language: **Python** &nbsp;&nbsp; stars: **6,318** &nbsp;&nbsp; folks: **532**  &nbsp;&nbsp; `1,037 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,328** &nbsp;&nbsp; folks: **532**  &nbsp;&nbsp; `1,037 stars today`
 
 1. [Lux-AI-Challenge / Lux-Design-2021](https://github.com/Lux-AI-Challenge/Lux-Design-2021)
     - Home to the design and engine of the Lux AI Challenge Season 1
@@ -40,11 +40,11 @@
 
 1. [CSSEGISandData / COVID-19](https://github.com/CSSEGISandData/COVID-19)
     - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-    - language: **无** &nbsp;&nbsp; stars: **27,268** &nbsp;&nbsp; folks: **17,462**  &nbsp;&nbsp; `8 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **27,269** &nbsp;&nbsp; folks: **17,463**  &nbsp;&nbsp; `8 stars today`
 
 1. [dogecoin / dogecoin](https://github.com/dogecoin/dogecoin)
     - very currency
-    - language: **C++** &nbsp;&nbsp; stars: **12,754** &nbsp;&nbsp; folks: **2,261**  &nbsp;&nbsp; `113 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **12,758** &nbsp;&nbsp; folks: **2,261**  &nbsp;&nbsp; `113 stars today`
 
 1. [shufflewzc / faker2](https://github.com/shufflewzc/faker2)
     - 不知名大佬备份
@@ -52,19 +52,19 @@
 
 1. [Code-Pop / Real-World_Vue-3](https://github.com/Code-Pop/Real-World_Vue-3)
     - Example app for Vue Mastery's Real World Vue 3 course
-    - language: **Vue** &nbsp;&nbsp; stars: **135** &nbsp;&nbsp; folks: **203**  &nbsp;&nbsp; `5 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **136** &nbsp;&nbsp; folks: **203**  &nbsp;&nbsp; `5 stars today`
 
 1. [langjam / jam0001](https://github.com/langjam/jam0001)
     - 无
-    - language: **JavaScript** &nbsp;&nbsp; stars: **193** &nbsp;&nbsp; folks: **158**  &nbsp;&nbsp; `91 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **197** &nbsp;&nbsp; folks: **158**  &nbsp;&nbsp; `91 stars today`
 
 1. [orico / www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com)
     - The Machine Learning & Deep Learning Compendium is an open-source knowledge-sharing project compiled using Gitbook.
-    - language: **无** &nbsp;&nbsp; stars: **456** &nbsp;&nbsp; folks: **45**  &nbsp;&nbsp; `333 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **458** &nbsp;&nbsp; folks: **45**  &nbsp;&nbsp; `333 stars today`
 
 1. [MonitorControl / MonitorControl](https://github.com/MonitorControl/MonitorControl)
     - 🖥 Control your external monitor brightness & volume on your Mac
-    - language: **Swift** &nbsp;&nbsp; stars: **8,922** &nbsp;&nbsp; folks: **299**  &nbsp;&nbsp; `62 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **8,931** &nbsp;&nbsp; folks: **299**  &nbsp;&nbsp; `62 stars today`
 
 1. [DIGITALCRIMINAL / OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)
     - Scrape all the media from an OnlyFans account - Updated regularly
@@ -72,7 +72,7 @@
 
 1. [commaai / openpilot](https://github.com/commaai/openpilot)
     - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
-    - language: **C++** &nbsp;&nbsp; stars: **29,249** &nbsp;&nbsp; folks: **5,436**  &nbsp;&nbsp; `226 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **29,263** &nbsp;&nbsp; folks: **5,436**  &nbsp;&nbsp; `226 stars today`
 
 1. [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
     - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -80,90 +80,90 @@
 
 1. [cabaletta / baritone](https://github.com/cabaletta/baritone)
     - google maps for block game
-    - language: **Java** &nbsp;&nbsp; stars: **3,451** &nbsp;&nbsp; folks: **850**  &nbsp;&nbsp; `49 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **3,452** &nbsp;&nbsp; folks: **850**  &nbsp;&nbsp; `49 stars today`
 
 1. [go-gitea / gitea](https://github.com/go-gitea/gitea)
     - Git with a cup of tea, painless self-hosted git service
-    - language: **Go** &nbsp;&nbsp; stars: **25,921** &nbsp;&nbsp; folks: **3,231**  &nbsp;&nbsp; `34 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **25,927** &nbsp;&nbsp; folks: **3,231**  &nbsp;&nbsp; `34 stars today`
 
 1. [ocornut / imgui](https://github.com/ocornut/imgui)
     - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    - language: **C++** &nbsp;&nbsp; stars: **31,390** &nbsp;&nbsp; folks: **5,300**  &nbsp;&nbsp; `89 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **31,391** &nbsp;&nbsp; folks: **5,300**  &nbsp;&nbsp; `89 stars today`
 
 1. [ossu / computer-science](https://github.com/ossu/computer-science)
     - 🎓 Path to a free self-taught education in Computer Science!
-    - language: **无** &nbsp;&nbsp; stars: **94,231** &nbsp;&nbsp; folks: **12,886**  &nbsp;&nbsp; `112 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **94,236** &nbsp;&nbsp; folks: **12,886**  &nbsp;&nbsp; `112 stars today`
 
 1. [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
     - The Magic Mask for Android
-    - language: **C++** &nbsp;&nbsp; stars: **19,833** &nbsp;&nbsp; folks: **4,057**  &nbsp;&nbsp; `87 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **19,835** &nbsp;&nbsp; folks: **4,057**  &nbsp;&nbsp; `87 stars today`
 
 1. [babysor / Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
     - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    - language: **Python** &nbsp;&nbsp; stars: **2,723** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `964 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,727** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `964 stars today`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-    - language: **Python** &nbsp;&nbsp; stars: **6,804** &nbsp;&nbsp; folks: **1,596**  &nbsp;&nbsp; `58 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,809** &nbsp;&nbsp; folks: **1,596**  &nbsp;&nbsp; `58 stars today`
 
 1. [skyline-emu / skyline](https://github.com/skyline-emu/skyline)
     - Run Nintendo Switch homebrew & games on your Android device!
-    - language: **C** &nbsp;&nbsp; stars: **1,235** &nbsp;&nbsp; folks: **249**  &nbsp;&nbsp; `9 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **1,242** &nbsp;&nbsp; folks: **249**  &nbsp;&nbsp; `9 stars today`
 
 1. [mmistakes / minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
     - 📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-    - language: **HTML** &nbsp;&nbsp; stars: **8,415** &nbsp;&nbsp; folks: **15,920**  &nbsp;&nbsp; `13 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **8,418** &nbsp;&nbsp; folks: **15,920**  &nbsp;&nbsp; `13 stars today`
 
 
 ## 近一周热门仓库
 
 1. [NvChad / NvChad](https://github.com/NvChad/NvChad)
     - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
-    - language: **Lua** &nbsp;&nbsp; stars: **5,755** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `2,694 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **5,758** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `2,668 stars this week`
 
 1. [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
     - The Serenity Operating System 🐞
-    - language: **C++** &nbsp;&nbsp; stars: **15,049** &nbsp;&nbsp; folks: **1,520**  &nbsp;&nbsp; `744 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **15,049** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `744 stars this week`
 
 1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
     - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **29,286** &nbsp;&nbsp; folks: **4,560**  &nbsp;&nbsp; `845 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **29,287** &nbsp;&nbsp; folks: **4,561**  &nbsp;&nbsp; `845 stars this week`
 
 1. [Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray)
     - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
-    - language: **C++** &nbsp;&nbsp; stars: **12,229** &nbsp;&nbsp; folks: **2,163**  &nbsp;&nbsp; `460 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **12,230** &nbsp;&nbsp; folks: **2,163**  &nbsp;&nbsp; `461 stars this week`
 
 1. [tauri-apps / tauri](https://github.com/tauri-apps/tauri)
     - Build smaller, faster, and more secure desktop applications with a web frontend.
-    - language: **Rust** &nbsp;&nbsp; stars: **21,388** &nbsp;&nbsp; folks: **479**  &nbsp;&nbsp; `1,247 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **21,390** &nbsp;&nbsp; folks: **479**  &nbsp;&nbsp; `1,247 stars this week`
 
 1. [papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love)
     - Papers from the computer science community to read and discuss.
-    - language: **Shell** &nbsp;&nbsp; stars: **48,021** &nbsp;&nbsp; folks: **4,146**  &nbsp;&nbsp; `1,145 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **48,029** &nbsp;&nbsp; folks: **4,146**  &nbsp;&nbsp; `1,145 stars this week`
 
 1. [zxbu / webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver)
     - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
-    - language: **Java** &nbsp;&nbsp; stars: **1,090** &nbsp;&nbsp; folks: **163**  &nbsp;&nbsp; `358 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **1,090** &nbsp;&nbsp; folks: **164**  &nbsp;&nbsp; `357 stars this week`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **11,425** &nbsp;&nbsp; folks: **2,488**  &nbsp;&nbsp; `826 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,425** &nbsp;&nbsp; folks: **2,489**  &nbsp;&nbsp; `826 stars this week`
 
 1. [ocornut / imgui](https://github.com/ocornut/imgui)
     - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    - language: **C++** &nbsp;&nbsp; stars: **31,390** &nbsp;&nbsp; folks: **5,300**  &nbsp;&nbsp; `301 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **31,391** &nbsp;&nbsp; folks: **5,300**  &nbsp;&nbsp; `308 stars this week`
 
 1. [dogecoin / dogecoin](https://github.com/dogecoin/dogecoin)
     - very currency
-    - language: **C++** &nbsp;&nbsp; stars: **12,754** &nbsp;&nbsp; folks: **2,261**  &nbsp;&nbsp; `213 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **12,758** &nbsp;&nbsp; folks: **2,261**  &nbsp;&nbsp; `213 stars this week`
 
 1. [google-research / google-research](https://github.com/google-research/google-research)
     - Google Research
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **19,203** &nbsp;&nbsp; folks: **4,278**  &nbsp;&nbsp; `432 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **19,205** &nbsp;&nbsp; folks: **4,278**  &nbsp;&nbsp; `432 stars this week`
 
 1. [antfu / vitesse](https://github.com/antfu/vitesse)
     - 🏕 Opinionated Vite Starter Template
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,860** &nbsp;&nbsp; folks: **166**  &nbsp;&nbsp; `149 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,861** &nbsp;&nbsp; folks: **166**  &nbsp;&nbsp; `149 stars this week`
 
 1. [xmrig / xmrig](https://github.com/xmrig/xmrig)
     - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
@@ -175,11 +175,11 @@
 
 1. [rg3dengine / rg3d](https://github.com/rg3dengine/rg3d)
     - 3D and 2D game engine written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **2,636** &nbsp;&nbsp; folks: **93**  &nbsp;&nbsp; `155 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **2,637** &nbsp;&nbsp; folks: **93**  &nbsp;&nbsp; `155 stars this week`
 
 1. [tronprotocol / java-tron](https://github.com/tronprotocol/java-tron)
     - Java implementation of the Tron whitepaper
-    - language: **Java** &nbsp;&nbsp; stars: **2,775** &nbsp;&nbsp; folks: **946**  &nbsp;&nbsp; `22 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **2,776** &nbsp;&nbsp; folks: **946**  &nbsp;&nbsp; `22 stars this week`
 
 1. [dotnet / aspnetcore](https://github.com/dotnet/aspnetcore)
     - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
@@ -215,7 +215,7 @@
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **152,429** &nbsp;&nbsp; folks: **17,281**  &nbsp;&nbsp; `3,622 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **152,441** &nbsp;&nbsp; folks: **17,282**  &nbsp;&nbsp; `3,622 stars this week`
 
 
 ## 近一月热门仓库
@@ -226,7 +226,7 @@
 
 1. [NvChad / NvChad](https://github.com/NvChad/NvChad)
     - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
-    - language: **Lua** &nbsp;&nbsp; stars: **5,755** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `3,141 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **5,758** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `3,144 stars this month`
 
 1. [CryptoBlades / cryptoblades](https://github.com/CryptoBlades/cryptoblades)
     - 无
@@ -234,7 +234,7 @@
 
 1. [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
     - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,269** &nbsp;&nbsp; folks: **229**  &nbsp;&nbsp; `2,739 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,269** &nbsp;&nbsp; folks: **229**  &nbsp;&nbsp; `2,732 stars this month`
 
 1. [doocs / source-code-hunter](https://github.com/doocs/source-code-hunter)
     - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -266,11 +266,11 @@
 
 1. [mitmproxy / mitmproxy](https://github.com/mitmproxy/mitmproxy)
     - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-    - language: **Python** &nbsp;&nbsp; stars: **24,352** &nbsp;&nbsp; folks: **3,017**  &nbsp;&nbsp; `1,358 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **24,353** &nbsp;&nbsp; folks: **3,017**  &nbsp;&nbsp; `1,359 stars this month`
 
 1. [blueedgetechno / windows11](https://github.com/blueedgetechno/windows11)
     - windows 11 in react 💻🌈⚡
-    - language: **CSS** &nbsp;&nbsp; stars: **3,688** &nbsp;&nbsp; folks: **300**  &nbsp;&nbsp; `2,109 stars this month`
+    - language: **CSS** &nbsp;&nbsp; stars: **3,688** &nbsp;&nbsp; folks: **300**  &nbsp;&nbsp; `2,107 stars this month`
 
 1. [clouDr-f2e / rubick](https://github.com/clouDr-f2e/rubick)
     - 🔧 基于 electron 的开源工具箱，自由集成丰富插件。
@@ -282,7 +282,7 @@
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A youtube-dl fork with additional features and fixes
-    - language: **Python** &nbsp;&nbsp; stars: **1,900** &nbsp;&nbsp; folks: **183**  &nbsp;&nbsp; `846 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **1,908** &nbsp;&nbsp; folks: **183**  &nbsp;&nbsp; `854 stars this month`
 
 1. [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
     - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
@@ -290,15 +290,15 @@
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **328,929** &nbsp;&nbsp; folks: **26,434**  &nbsp;&nbsp; `2,803 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **328,930** &nbsp;&nbsp; folks: **26,434**  &nbsp;&nbsp; `2,803 stars this month`
 
 1. [saadeghi / daisyui](https://github.com/saadeghi/daisyui)
     - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
-    - language: **Vue** &nbsp;&nbsp; stars: **4,564** &nbsp;&nbsp; folks: **147**  &nbsp;&nbsp; `2,188 stars this month`
+    - language: **Vue** &nbsp;&nbsp; stars: **4,565** &nbsp;&nbsp; folks: **147**  &nbsp;&nbsp; `2,189 stars this month`
 
 1. [Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray)
     - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
-    - language: **C++** &nbsp;&nbsp; stars: **12,229** &nbsp;&nbsp; folks: **2,163**  &nbsp;&nbsp; `965 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **12,230** &nbsp;&nbsp; folks: **2,163**  &nbsp;&nbsp; `966 stars this month`
 
 1. [android / compose-samples](https://github.com/android/compose-samples)
     - Official Jetpack Compose samples.
@@ -306,7 +306,7 @@
 
 1. [Megvii-BaseDetection / YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
     - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
-    - language: **Python** &nbsp;&nbsp; stars: **3,501** &nbsp;&nbsp; folks: **575**  &nbsp;&nbsp; `1,705 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,502** &nbsp;&nbsp; folks: **575**  &nbsp;&nbsp; `1,703 stars this month`
 
 1. [spring-projects / spring-authorization-server](https://github.com/spring-projects/spring-authorization-server)
     - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
@@ -314,11 +314,11 @@
 
 1. [datafuselabs / datafuse](https://github.com/datafuselabs/datafuse)
     - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
-    - language: **Rust** &nbsp;&nbsp; stars: **1,907** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `1,025 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **1,908** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `1,026 stars this month`
 
 1. [tauri-apps / tauri](https://github.com/tauri-apps/tauri)
     - Build smaller, faster, and more secure desktop applications with a web frontend.
-    - language: **Rust** &nbsp;&nbsp; stars: **21,388** &nbsp;&nbsp; folks: **479**  &nbsp;&nbsp; `3,222 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **21,390** &nbsp;&nbsp; folks: **479**  &nbsp;&nbsp; `3,222 stars this month`
 
 
 ## 历史归档
