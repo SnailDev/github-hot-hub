@@ -10,180 +10,180 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2022-05-15 22:12:41 +0800`
+`更新时间：2022-05-15 23:13:52 +0800`
 
 ## 今日热门仓库
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **140,245** &nbsp;&nbsp; folks: **22,009**  &nbsp;&nbsp; `164 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **140,258** &nbsp;&nbsp; folks: **22,011**  &nbsp;&nbsp; `170 stars today`
 
 1. [aptos-labs / aptos-core](https://github.com/aptos-labs/aptos-core)
     - A layer 1 for everyone!
-    - language: **Rust** &nbsp;&nbsp; stars: **1,809** &nbsp;&nbsp; folks: **927**  &nbsp;&nbsp; `54 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **1,817** &nbsp;&nbsp; folks: **933**  &nbsp;&nbsp; `54 stars today`
 
 1. [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
     - A book series on JavaScript. @YDKJS on twitter.
-    - language: **无** &nbsp;&nbsp; stars: **153,079** &nbsp;&nbsp; folks: **30,303**  &nbsp;&nbsp; `44 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **153,092** &nbsp;&nbsp; folks: **30,303**  &nbsp;&nbsp; `44 stars today`
 
 1. [android / nowinandroid](https://github.com/android/nowinandroid)
     - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-    - language: **Kotlin** &nbsp;&nbsp; stars: **1,721** &nbsp;&nbsp; folks: **117**  &nbsp;&nbsp; `240 stars today`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **1,737** &nbsp;&nbsp; folks: **118**  &nbsp;&nbsp; `240 stars today`
 
 1. [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
     - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    - language: **Python** &nbsp;&nbsp; stars: **4,246** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `54 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,249** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `47 stars today`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **26,211** &nbsp;&nbsp; folks: **8,562**  &nbsp;&nbsp; `101 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **26,216** &nbsp;&nbsp; folks: **8,563**  &nbsp;&nbsp; `98 stars today`
 
 1. [Cveinnt / LiveTerm](https://github.com/Cveinnt/LiveTerm)
     - 💻 Build terminal styled websites in minutes!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **546** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `92 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **568** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `92 stars today`
 
 1. [b3nj5m1n / xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
     - 无
-    - language: **Shell** &nbsp;&nbsp; stars: **327** &nbsp;&nbsp; folks: **15**  &nbsp;&nbsp; `71 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **333** &nbsp;&nbsp; folks: **15**  &nbsp;&nbsp; `71 stars today`
 
 1. [Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
     - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **20,983** &nbsp;&nbsp; folks: **4,523**  &nbsp;&nbsp; `54 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **20,987** &nbsp;&nbsp; folks: **4,522**  &nbsp;&nbsp; `54 stars today`
 
 1. [lapce / lapce](https://github.com/lapce/lapce)
     - Lightning-fast and Powerful Code Editor written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **10,728** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `93 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **10,741** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `73 stars today`
 
 1. [NannyML / nannyml](https://github.com/NannyML/nannyml)
     - Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
-    - language: **Python** &nbsp;&nbsp; stars: **304** &nbsp;&nbsp; folks: **13**  &nbsp;&nbsp; `80 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **312** &nbsp;&nbsp; folks: **13**  &nbsp;&nbsp; `80 stars today`
 
 1. [Rari-Capital / solmate](https://github.com/Rari-Capital/solmate)
     - Modern, opinionated, and gas optimized building blocks for smart contract development.
-    - language: **Solidity** &nbsp;&nbsp; stars: **1,675** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `14 stars today`
+    - language: **Solidity** &nbsp;&nbsp; stars: **1,679** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `14 stars today`
 
 1. [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas)
     - A Collection of application ideas which can be used to improve your coding skills.
-    - language: **无** &nbsp;&nbsp; stars: **52,162** &nbsp;&nbsp; folks: **7,154**  &nbsp;&nbsp; `251 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **52,175** &nbsp;&nbsp; folks: **7,154**  &nbsp;&nbsp; `251 stars today`
 
 1. [HalseySpicy / Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
     - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
-    - language: **Vue** &nbsp;&nbsp; stars: **324** &nbsp;&nbsp; folks: **32**  &nbsp;&nbsp; `27 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **327** &nbsp;&nbsp; folks: **32**  &nbsp;&nbsp; `27 stars today`
 
 1. [ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
     - 🛁 Clean Code concepts adapted for JavaScript
-    - language: **JavaScript** &nbsp;&nbsp; stars: **67,382** &nbsp;&nbsp; folks: **8,996**  &nbsp;&nbsp; `57 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **67,384** &nbsp;&nbsp; folks: **8,995**  &nbsp;&nbsp; `57 stars today`
 
 1. [supabase / supabase](https://github.com/supabase/supabase)
     - The open source Firebase alternative. Follow to stay updated about our public Beta.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,023** &nbsp;&nbsp; folks: **1,911**  &nbsp;&nbsp; `212 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,028** &nbsp;&nbsp; folks: **1,911**  &nbsp;&nbsp; `211 stars today`
 
 1. [zbezj / HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
     - 无
-    - language: **无** &nbsp;&nbsp; stars: **7,201** &nbsp;&nbsp; folks: **1,114**  &nbsp;&nbsp; `33 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **7,205** &nbsp;&nbsp; folks: **1,114**  &nbsp;&nbsp; `33 stars today`
 
 1. [dokku / dokku](https://github.com/dokku/dokku)
     - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-    - language: **Shell** &nbsp;&nbsp; stars: **22,853** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `80 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **22,865** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `80 stars today`
 
 1. [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
     - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
-    - language: **Java** &nbsp;&nbsp; stars: **7,124** &nbsp;&nbsp; folks: **4,272**  &nbsp;&nbsp; `12 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **7,126** &nbsp;&nbsp; folks: **4,273**  &nbsp;&nbsp; `12 stars today`
 
 1. [tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
     - Free and open source manga reader for Android.
-    - language: **Kotlin** &nbsp;&nbsp; stars: **16,642** &nbsp;&nbsp; folks: **2,047**  &nbsp;&nbsp; `15 stars today`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **16,645** &nbsp;&nbsp; folks: **2,047**  &nbsp;&nbsp; `15 stars today`
 
 1. [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
     - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-    - language: **JavaScript** &nbsp;&nbsp; stars: **140,710** &nbsp;&nbsp; folks: **23,404**  &nbsp;&nbsp; `49 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **140,722** &nbsp;&nbsp; folks: **23,403**  &nbsp;&nbsp; `49 stars today`
 
 1. [Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
     - A Windows/macOS GUI based on Clash
-    - language: **无** &nbsp;&nbsp; stars: **29,921** &nbsp;&nbsp; folks: **4,541**  &nbsp;&nbsp; `55 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **29,928** &nbsp;&nbsp; folks: **4,541**  &nbsp;&nbsp; `55 stars today`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **201,038** &nbsp;&nbsp; folks: **23,417**  &nbsp;&nbsp; `143 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **201,051** &nbsp;&nbsp; folks: **23,418**  &nbsp;&nbsp; `143 stars today`
 
 1. [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
     - Offline build planner for Path of Exile.
-    - language: **Lua** &nbsp;&nbsp; stars: **2,013** &nbsp;&nbsp; folks: **1,406**  &nbsp;&nbsp; `4 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **2,015** &nbsp;&nbsp; folks: **1,406**  &nbsp;&nbsp; `5 stars today`
 
 1. [spicetify / spicetify-cli](https://github.com/spicetify/spicetify-cli)
     - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **10,883** &nbsp;&nbsp; folks: **457**  &nbsp;&nbsp; `9 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **10,902** &nbsp;&nbsp; folks: **457**  &nbsp;&nbsp; `9 stars today`
 
 
 ## 近一周热门仓库
 
 1. [terra-money / core](https://github.com/terra-money/core)
     - GO implementation of the Terra Protocol
-    - language: **JavaScript** &nbsp;&nbsp; stars: **902** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `214 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **903** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `214 stars this week`
 
 1. [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
     - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-    - language: **JavaScript** &nbsp;&nbsp; stars: **49,465** &nbsp;&nbsp; folks: **7,112**  &nbsp;&nbsp; `2,854 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **49,469** &nbsp;&nbsp; folks: **7,111**  &nbsp;&nbsp; `2,861 stars this week`
 
 1. [flutter / samples](https://github.com/flutter/samples)
     - A collection of Flutter examples and demos
-    - language: **Dart** &nbsp;&nbsp; stars: **12,009** &nbsp;&nbsp; folks: **5,268**  &nbsp;&nbsp; `404 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **12,010** &nbsp;&nbsp; folks: **5,268**  &nbsp;&nbsp; `404 stars this week`
 
 1. [digitalocean / nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
     - ⚙️ NGINX config generator on steroids 💉
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,770** &nbsp;&nbsp; folks: **1,265**  &nbsp;&nbsp; `1,444 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,790** &nbsp;&nbsp; folks: **1,267**  &nbsp;&nbsp; `1,444 stars this week`
 
 1. [Koko-boya / Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources)
     - Combined Resource Folder from Multiple Sources of certain anime game
-    - language: **Lua** &nbsp;&nbsp; stars: **399** &nbsp;&nbsp; folks: **140**  &nbsp;&nbsp; `170 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **400** &nbsp;&nbsp; folks: **140**  &nbsp;&nbsp; `170 stars this week`
 
 1. [Tencent / tmagic-editor](https://github.com/Tencent/tmagic-editor)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,653** &nbsp;&nbsp; folks: **234**  &nbsp;&nbsp; `698 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,654** &nbsp;&nbsp; folks: **235**  &nbsp;&nbsp; `702 stars this week`
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-    - language: **Python** &nbsp;&nbsp; stars: **21,748** &nbsp;&nbsp; folks: **4,465**  &nbsp;&nbsp; `1,381 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **21,752** &nbsp;&nbsp; folks: **4,465**  &nbsp;&nbsp; `1,367 stars this week`
 
 1. [tauri-apps / tauri](https://github.com/tauri-apps/tauri)
     - Build smaller, faster, and more secure desktop applications with a web frontend.
-    - language: **Rust** &nbsp;&nbsp; stars: **40,453** &nbsp;&nbsp; folks: **986**  &nbsp;&nbsp; `2,058 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **40,457** &nbsp;&nbsp; folks: **986**  &nbsp;&nbsp; `2,011 stars this week`
 
 1. [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
     - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    - language: **Python** &nbsp;&nbsp; stars: **4,246** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `316 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,249** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `322 stars this week`
 
 1. [1Marc / todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022)
     - Vanilla JS TodoMVC App in 2022
-    - language: **CSS** &nbsp;&nbsp; stars: **524** &nbsp;&nbsp; folks: **47**  &nbsp;&nbsp; `292 stars this week`
+    - language: **CSS** &nbsp;&nbsp; stars: **525** &nbsp;&nbsp; folks: **47**  &nbsp;&nbsp; `292 stars this week`
 
 1. [facebookresearch / metaseq](https://github.com/facebookresearch/metaseq)
     - Repo for external large-scale work
-    - language: **Python** &nbsp;&nbsp; stars: **2,805** &nbsp;&nbsp; folks: **240**  &nbsp;&nbsp; `700 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,805** &nbsp;&nbsp; folks: **240**  &nbsp;&nbsp; `730 stars this week`
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **140,245** &nbsp;&nbsp; folks: **22,009**  &nbsp;&nbsp; `802 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **140,258** &nbsp;&nbsp; folks: **22,011**  &nbsp;&nbsp; `802 stars this week`
 
 1. [alibaba / fastjson2](https://github.com/alibaba/fastjson2)
     - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
-    - language: **Java** &nbsp;&nbsp; stars: **1,315** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `544 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **1,316** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `540 stars this week`
 
 1. [gogs / gogs](https://github.com/gogs/gogs)
     - Gogs is a painless self-hosted Git service
-    - language: **Go** &nbsp;&nbsp; stars: **40,040** &nbsp;&nbsp; folks: **4,559**  &nbsp;&nbsp; `791 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **40,040** &nbsp;&nbsp; folks: **4,559**  &nbsp;&nbsp; `883 stars this week`
 
 1. [0x192 / universal-android-debloater](https://github.com/0x192/universal-android-debloater)
     - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-    - language: **Rust** &nbsp;&nbsp; stars: **3,124** &nbsp;&nbsp; folks: **167**  &nbsp;&nbsp; `437 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,124** &nbsp;&nbsp; folks: **167**  &nbsp;&nbsp; `433 stars this week`
 
 1. [lapce / lapce](https://github.com/lapce/lapce)
     - Lightning-fast and Powerful Code Editor written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **10,728** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `370 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **10,741** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `370 stars this week`
 
 1. [NvChad / NvChad](https://github.com/NvChad/NvChad)
     - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
-    - language: **Lua** &nbsp;&nbsp; stars: **9,465** &nbsp;&nbsp; folks: **598**  &nbsp;&nbsp; `624 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **9,466** &nbsp;&nbsp; folks: **597**  &nbsp;&nbsp; `621 stars this week`
 
 1. [simonbs / Runestone](https://github.com/simonbs/Runestone)
     - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
@@ -191,78 +191,78 @@
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **201,038** &nbsp;&nbsp; folks: **23,417**  &nbsp;&nbsp; `1,044 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **201,051** &nbsp;&nbsp; folks: **23,418**  &nbsp;&nbsp; `1,044 stars this week`
 
 1. [microsoft / calculator](https://github.com/microsoft/calculator)
     - Windows Calculator: A simple yet powerful calculator that ships with Windows
-    - language: **C++** &nbsp;&nbsp; stars: **24,713** &nbsp;&nbsp; folks: **4,457**  &nbsp;&nbsp; `452 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **24,713** &nbsp;&nbsp; folks: **4,457**  &nbsp;&nbsp; `446 stars this week`
 
 1. [supabase / supabase](https://github.com/supabase/supabase)
     - The open source Firebase alternative. Follow to stay updated about our public Beta.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,023** &nbsp;&nbsp; folks: **1,911**  &nbsp;&nbsp; `1,168 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,028** &nbsp;&nbsp; folks: **1,911**  &nbsp;&nbsp; `1,168 stars this week`
 
 1. [huggingface / datasets](https://github.com/huggingface/datasets)
     - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-    - language: **Python** &nbsp;&nbsp; stars: **13,320** &nbsp;&nbsp; folks: **1,677**  &nbsp;&nbsp; `138 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **13,322** &nbsp;&nbsp; folks: **1,678**  &nbsp;&nbsp; `138 stars this week`
 
 1. [go-kratos / kratos](https://github.com/go-kratos/kratos)
     - Your ultimate Go microservices framework for the cloud-native era.
-    - language: **Go** &nbsp;&nbsp; stars: **17,763** &nbsp;&nbsp; folks: **3,431**  &nbsp;&nbsp; `312 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **17,764** &nbsp;&nbsp; folks: **3,431**  &nbsp;&nbsp; `308 stars this week`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-    - language: **Rust** &nbsp;&nbsp; stars: **17,452** &nbsp;&nbsp; folks: **1,744**  &nbsp;&nbsp; `471 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,455** &nbsp;&nbsp; folks: **1,744**  &nbsp;&nbsp; `531 stars this week`
 
 1. [google / iosched](https://github.com/google/iosched)
     - The Google I/O Android App
-    - language: **Kotlin** &nbsp;&nbsp; stars: **21,401** &nbsp;&nbsp; folks: **6,264**  &nbsp;&nbsp; `56 stars this week`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **21,401** &nbsp;&nbsp; folks: **6,263**  &nbsp;&nbsp; `56 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [The-Run-Philosophy-Organization / run](https://github.com/The-Run-Philosophy-Organization/run)
     - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-    - language: **无** &nbsp;&nbsp; stars: **14,746** &nbsp;&nbsp; folks: **1,064**  &nbsp;&nbsp; `9,647 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **14,754** &nbsp;&nbsp; folks: **1,065**  &nbsp;&nbsp; `9,570 stars this month`
 
 1. [lucidrains / DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
     - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
-    - language: **Python** &nbsp;&nbsp; stars: **4,624** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `3,537 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,626** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `3,531 stars this month`
 
 1. [hehonghui / the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
     - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
-    - language: **CSS** &nbsp;&nbsp; stars: **9,137** &nbsp;&nbsp; folks: **1,131**  &nbsp;&nbsp; `3,877 stars this month`
+    - language: **CSS** &nbsp;&nbsp; stars: **9,138** &nbsp;&nbsp; folks: **1,131**  &nbsp;&nbsp; `3,878 stars this month`
 
 1. [alembics / disco-diffusion](https://github.com/alembics/disco-diffusion)
     - 无
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,737** &nbsp;&nbsp; folks: **278**  &nbsp;&nbsp; `1,291 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,740** &nbsp;&nbsp; folks: **278**  &nbsp;&nbsp; `1,292 stars this month`
 
 1. [SebLague / Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)
     - 无
-    - language: **C#** &nbsp;&nbsp; stars: **2,012** &nbsp;&nbsp; folks: **230**  &nbsp;&nbsp; `1,529 stars this month`
+    - language: **C#** &nbsp;&nbsp; stars: **2,014** &nbsp;&nbsp; folks: **230**  &nbsp;&nbsp; `1,530 stars this month`
 
 1. [httpie / httpie](https://github.com/httpie/httpie)
     - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-    - language: **Python** &nbsp;&nbsp; stars: **21,050** &nbsp;&nbsp; folks: **3,672**  &nbsp;&nbsp; `15,243 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,056** &nbsp;&nbsp; folks: **3,672**  &nbsp;&nbsp; `15,243 stars this month`
 
 1. [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
     - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **35,963** &nbsp;&nbsp; folks: **6,958**  &nbsp;&nbsp; `4,141 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **35,964** &nbsp;&nbsp; folks: **6,959**  &nbsp;&nbsp; `4,115 stars this month`
 
 1. [aptos-labs / aptos-core](https://github.com/aptos-labs/aptos-core)
     - A layer 1 for everyone!
-    - language: **Rust** &nbsp;&nbsp; stars: **1,809** &nbsp;&nbsp; folks: **927**  &nbsp;&nbsp; `1,439 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **1,817** &nbsp;&nbsp; folks: **933**  &nbsp;&nbsp; `1,446 stars this month`
 
 1. [mastodon / mastodon](https://github.com/mastodon/mastodon)
     - Your self-hosted, globally interconnected microblogging community
-    - language: **Ruby** &nbsp;&nbsp; stars: **29,147** &nbsp;&nbsp; folks: **4,551**  &nbsp;&nbsp; `1,731 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **29,149** &nbsp;&nbsp; folks: **4,551**  &nbsp;&nbsp; `1,726 stars this month`
 
 1. [sunflower-land / sunflower-land](https://github.com/sunflower-land/sunflower-land)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,215** &nbsp;&nbsp; folks: **374**  &nbsp;&nbsp; `318 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,217** &nbsp;&nbsp; folks: **374**  &nbsp;&nbsp; `319 stars this month`
 
 1. [terra-money / core](https://github.com/terra-money/core)
     - GO implementation of the Terra Protocol
-    - language: **JavaScript** &nbsp;&nbsp; stars: **902** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `250 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **903** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `250 stars this month`
 
 1. [pytube / pytube](https://github.com/pytube/pytube)
     - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -270,55 +270,55 @@
 
 1. [appsmithorg / appsmith](https://github.com/appsmithorg/appsmith)
     - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,917** &nbsp;&nbsp; folks: **1,451**  &nbsp;&nbsp; `3,047 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,918** &nbsp;&nbsp; folks: **1,451**  &nbsp;&nbsp; `3,047 stars this month`
 
 1. [Vonng / ddia](https://github.com/Vonng/ddia)
     - 《Designing Data-Intensive Application》DDIA中文翻译
-    - language: **Python** &nbsp;&nbsp; stars: **14,117** &nbsp;&nbsp; folks: **3,100**  &nbsp;&nbsp; `1,356 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,118** &nbsp;&nbsp; folks: **3,100**  &nbsp;&nbsp; `1,356 stars this month`
 
 1. [openai / DALL-E](https://github.com/openai/DALL-E)
     - PyTorch package for the discrete VAE used for DALL·E.
-    - language: **Python** &nbsp;&nbsp; stars: **5,515** &nbsp;&nbsp; folks: **907**  &nbsp;&nbsp; `767 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,516** &nbsp;&nbsp; folks: **907**  &nbsp;&nbsp; `767 stars this month`
 
 1. [facebook / lexical](https://github.com/facebook/lexical)
     - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,959** &nbsp;&nbsp; folks: **258**  &nbsp;&nbsp; `4,338 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,961** &nbsp;&nbsp; folks: **258**  &nbsp;&nbsp; `4,291 stars this month`
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-    - language: **Python** &nbsp;&nbsp; stars: **21,748** &nbsp;&nbsp; folks: **4,465**  &nbsp;&nbsp; `1,925 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,752** &nbsp;&nbsp; folks: **4,465**  &nbsp;&nbsp; `1,927 stars this month`
 
 1. [benbjohnson / litestream](https://github.com/benbjohnson/litestream)
     - Streaming replication for SQLite.
-    - language: **Go** &nbsp;&nbsp; stars: **6,144** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `1,184 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **6,151** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `1,189 stars this month`
 
 1. [vlang / v](https://github.com/vlang/v)
     - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-    - language: **V** &nbsp;&nbsp; stars: **29,012** &nbsp;&nbsp; folks: **1,783**  &nbsp;&nbsp; `1,012 stars this month`
+    - language: **V** &nbsp;&nbsp; stars: **29,013** &nbsp;&nbsp; folks: **1,783**  &nbsp;&nbsp; `1,010 stars this month`
 
 1. [Textualize / textual](https://github.com/Textualize/textual)
     - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-    - language: **Python** &nbsp;&nbsp; stars: **10,827** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `1,813 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,827** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `1,812 stars this month`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **26,211** &nbsp;&nbsp; folks: **8,562**  &nbsp;&nbsp; `678 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **26,216** &nbsp;&nbsp; folks: **8,563**  &nbsp;&nbsp; `678 stars this month`
 
 1. [bevyengine / bevy](https://github.com/bevyengine/bevy)
     - A refreshingly simple data-driven game engine built in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **15,976** &nbsp;&nbsp; folks: **1,490**  &nbsp;&nbsp; `992 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **15,979** &nbsp;&nbsp; folks: **1,491**  &nbsp;&nbsp; `994 stars this month`
 
 1. [bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days)
     - 50+ mini web projects using HTML, CSS & JS
-    - language: **CSS** &nbsp;&nbsp; stars: **13,177** &nbsp;&nbsp; folks: **3,925**  &nbsp;&nbsp; `1,008 stars this month`
+    - language: **CSS** &nbsp;&nbsp; stars: **13,179** &nbsp;&nbsp; folks: **3,926**  &nbsp;&nbsp; `1,010 stars this month`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-    - language: **Rust** &nbsp;&nbsp; stars: **17,452** &nbsp;&nbsp; folks: **1,744**  &nbsp;&nbsp; `1,155 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,455** &nbsp;&nbsp; folks: **1,744**  &nbsp;&nbsp; `1,157 stars this month`
 
 1. [PaddlePaddle / PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
     - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
-    - language: **Python** &nbsp;&nbsp; stars: **7,608** &nbsp;&nbsp; folks: **1,937**  &nbsp;&nbsp; `782 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,608** &nbsp;&nbsp; folks: **1,937**  &nbsp;&nbsp; `780 stars this month`
 
 
 ## 历史归档
