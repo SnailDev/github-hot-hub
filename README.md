@@ -10,109 +10,109 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2022-10-26 18:16:10 +0800`
+`更新时间：2022-10-26 19:13:00 +0800`
 
 ## 今日热门仓库
 
-1. [Textualize / textual](https://github.com/Textualize/textual)
-    - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-    - language: **Python** &nbsp;&nbsp; stars: **14,886** &nbsp;&nbsp; folks: **409**  &nbsp;&nbsp; `319 stars today`
-
-1. [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95)
-    - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,343** &nbsp;&nbsp; folks: **1,249**  &nbsp;&nbsp; `264 stars today`
-
-1. [guacsec / guac](https://github.com/guacsec/guac)
-    - 无
-    - language: **Go** &nbsp;&nbsp; stars: **411** &nbsp;&nbsp; folks: **32**  &nbsp;&nbsp; `100 stars today`
-
-1. [halfrost / LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-    - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-    - language: **Go** &nbsp;&nbsp; stars: **27,586** &nbsp;&nbsp; folks: **5,036**  &nbsp;&nbsp; `134 stars today`
-
-1. [losvedir / transit-lang-cmp](https://github.com/losvedir/transit-lang-cmp)
-    - Programming language comparison by reimplementing the same transit data app
-    - language: **Elixir** &nbsp;&nbsp; stars: **330** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `62 stars today`
-
-1. [mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-    - Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **1,994** &nbsp;&nbsp; folks: **67**  &nbsp;&nbsp; `500 stars today`
+1. [answerdev / answer](https://github.com/answerdev/answer)
+    - An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+    - language: **Go** &nbsp;&nbsp; stars: **1,489** &nbsp;&nbsp; folks: **96**  &nbsp;&nbsp; `286 stars today`
 
 1. [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
     - Master the command line, in one page
-    - language: **无** &nbsp;&nbsp; stars: **113,740** &nbsp;&nbsp; folks: **11,942**  &nbsp;&nbsp; `601 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **113,761** &nbsp;&nbsp; folks: **11,943**  &nbsp;&nbsp; `587 stars today`
 
-1. [avitorio / outstatic](https://github.com/avitorio/outstatic)
-    - Outstatic - A static CMS for Next.js
-    - language: **TypeScript** &nbsp;&nbsp; stars: **960** &nbsp;&nbsp; folks: **38**  &nbsp;&nbsp; `178 stars today`
+1. [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic)
+    - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+    - language: **Rust** &nbsp;&nbsp; stars: **15,667** &nbsp;&nbsp; folks: **489**  &nbsp;&nbsp; `284 stars today`
 
-1. [MystenLabs / sui](https://github.com/MystenLabs/sui)
-    - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-    - language: **Rust** &nbsp;&nbsp; stars: **2,249** &nbsp;&nbsp; folks: **6,022**  &nbsp;&nbsp; `110 stars today`
+1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+    - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,335** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `38 stars today`
 
-1. [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command)
-    - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-    - language: **Markdown** &nbsp;&nbsp; stars: **20,642** &nbsp;&nbsp; folks: **4,537**  &nbsp;&nbsp; `138 stars today`
+1. [JoePenna / Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
+    - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,612** &nbsp;&nbsp; folks: **250**  &nbsp;&nbsp; `107 stars today`
 
-1. [cmhungsteve / Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
-    - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
-    - language: **无** &nbsp;&nbsp; stars: **1,819** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `72 stars today`
+1. [vercel / turbo](https://github.com/vercel/turbo)
+    - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+    - language: **Rust** &nbsp;&nbsp; stars: **12,466** &nbsp;&nbsp; folks: **740**  &nbsp;&nbsp; `2,247 stars today`
 
-1. [Automattic / pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios)
-    - Pocket Casts iOS app 🎧
-    - language: **Swift** &nbsp;&nbsp; stars: **1,148** &nbsp;&nbsp; folks: **71**  &nbsp;&nbsp; `98 stars today`
-
-1. [stretchr / testify](https://github.com/stretchr/testify)
-    - A toolkit with common assertions and mocks that plays nicely with the standard library
-    - language: **Go** &nbsp;&nbsp; stars: **17,998** &nbsp;&nbsp; folks: **1,352**  &nbsp;&nbsp; `28 stars today`
-
-1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
-    - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **35,673** &nbsp;&nbsp; folks: **6,007**  &nbsp;&nbsp; `41 stars today`
+1. [dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+    - Experience macOS just like before
+    - language: **Python** &nbsp;&nbsp; stars: **3,615** &nbsp;&nbsp; folks: **409**  &nbsp;&nbsp; `100 stars today`
 
 1. [tenable / terrascan](https://github.com/tenable/terrascan)
     - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-    - language: **Go** &nbsp;&nbsp; stars: **3,528** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `100 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **3,535** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `77 stars today`
 
-1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
-    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **201,095** &nbsp;&nbsp; folks: **36,190**  &nbsp;&nbsp; `137 stars today`
+1. [mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+    - Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **2,011** &nbsp;&nbsp; folks: **68**  &nbsp;&nbsp; `522 stars today`
 
-1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
-    - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-    - language: **Rust** &nbsp;&nbsp; stars: **31,098** &nbsp;&nbsp; folks: **2,706**  &nbsp;&nbsp; `103 stars today`
+1. [Textualize / textual](https://github.com/Textualize/textual)
+    - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+    - language: **Python** &nbsp;&nbsp; stars: **14,901** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `301 stars today`
 
-1. [freefq / free](https://github.com/freefq/free)
-    - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-    - language: **无** &nbsp;&nbsp; stars: **24,922** &nbsp;&nbsp; folks: **5,002**  &nbsp;&nbsp; `57 stars today`
+1. [vercel / next.js](https://github.com/vercel/next.js)
+    - The React Framework
+    - language: **JavaScript** &nbsp;&nbsp; stars: **94,487** &nbsp;&nbsp; folks: **20,809**  &nbsp;&nbsp; `138 stars today`
 
-1. [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
-    - Reactive Programming in Swift
-    - language: **Swift** &nbsp;&nbsp; stars: **22,862** &nbsp;&nbsp; folks: **4,021**  &nbsp;&nbsp; `11 stars today`
+1. [Asabeneh / 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+    - 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…
+    - language: **JavaScript** &nbsp;&nbsp; stars: **16,797** &nbsp;&nbsp; folks: **4,344**  &nbsp;&nbsp; `54 stars today`
 
-1. [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
-    - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-    - language: **Go** &nbsp;&nbsp; stars: **10,211** &nbsp;&nbsp; folks: **1,702**  &nbsp;&nbsp; `35 stars today`
+1. [komodorio / helm-dashboard](https://github.com/komodorio/helm-dashboard)
+    - The missing UI for Helm - visualize your releases
+    - language: **JavaScript** &nbsp;&nbsp; stars: **294** &nbsp;&nbsp; folks: **10**  &nbsp;&nbsp; `55 stars today`
 
-1. [flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-    - Flipper Zero firmware source code
-    - language: **C** &nbsp;&nbsp; stars: **3,579** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `46 stars today`
+1. [aheze / OpenFind](https://github.com/aheze/OpenFind)
+    - An app to find text in real life. Now open-source!
+    - language: **Swift** &nbsp;&nbsp; stars: **415** &nbsp;&nbsp; folks: **25**  &nbsp;&nbsp; `67 stars today`
 
-1. [FTM-Labs / Aptos-NFT-Mint](https://github.com/FTM-Labs/Aptos-NFT-Mint)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **114** &nbsp;&nbsp; folks: **65**  &nbsp;&nbsp; `21 stars today`
+1. [MonsterNone / tmall-miao](https://github.com/MonsterNone/tmall-miao)
+    - 喵币助手：双十一天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。（热爱穿行纪、喵果总动员）
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,904** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `194 stars today`
 
-1. [LSPosed / MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
-    - 无
-    - language: **Shell** &nbsp;&nbsp; stars: **2,408** &nbsp;&nbsp; folks: **6,931**  &nbsp;&nbsp; `56 stars today`
+1. [pop-os / cosmic-text](https://github.com/pop-os/cosmic-text)
+    - Pure Rust multi-line text handling
+    - language: **Rust** &nbsp;&nbsp; stars: **323** &nbsp;&nbsp; folks: **9**  &nbsp;&nbsp; `46 stars today`
 
-1. [CodeXTF2 / ScreenshotBOF](https://github.com/CodeXTF2/ScreenshotBOF)
-    - An alternative screenshot capability for Cobalt Strike that uses WinAPI and does not perform a fork & run. Screenshot downloaded in memory.
-    - language: **C** &nbsp;&nbsp; stars: **175** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `26 stars today`
+1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+    - PowerShell for every system!
+    - language: **C#** &nbsp;&nbsp; stars: **35,676** &nbsp;&nbsp; folks: **6,006**  &nbsp;&nbsp; `54 stars today`
 
-1. [djsime1 / awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
-    - 🐬 A collection of awesome resources for the Flipper Zero device.
-    - language: **无** &nbsp;&nbsp; stars: **4,821** &nbsp;&nbsp; folks: **203**  &nbsp;&nbsp; `66 stars today`
+1. [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
+    - The Serenity Operating System 🐞
+    - language: **C++** &nbsp;&nbsp; stars: **22,480** &nbsp;&nbsp; folks: **2,399**  &nbsp;&nbsp; `45 stars today`
+
+1. [TheLastBen / fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion)
+    - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+    - language: **Python** &nbsp;&nbsp; stars: **1,154** &nbsp;&nbsp; folks: **104**  &nbsp;&nbsp; `128 stars today`
+
+1. [WalletConnect / web3modal](https://github.com/WalletConnect/web3modal)
+    - A single Web3 provider solution for all Wallets
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,496** &nbsp;&nbsp; folks: **862**  &nbsp;&nbsp; `17 stars today`
+
+1. [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command)
+    - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+    - language: **Markdown** &nbsp;&nbsp; stars: **20,652** &nbsp;&nbsp; folks: **4,537**  &nbsp;&nbsp; `135 stars today`
+
+1. [asdf-vm / asdf](https://github.com/asdf-vm/asdf)
+    - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+    - language: **Shell** &nbsp;&nbsp; stars: **15,857** &nbsp;&nbsp; folks: **616**  &nbsp;&nbsp; `20 stars today`
+
+1. [Azure / azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+    - The source for REST API specifications for Microsoft Azure.
+    - language: **无** &nbsp;&nbsp; stars: **1,822** &nbsp;&nbsp; folks: **4,015**  &nbsp;&nbsp; `3 stars today`
+
+1. [patriciogonzalezvivo / glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
+    - Console-based GLSL Sandbox for 2D/3D shaders
+    - language: **C++** &nbsp;&nbsp; stars: **3,528** &nbsp;&nbsp; folks: **291**  &nbsp;&nbsp; `16 stars today`
+
+1. [ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism)
+    - Optimism is Ethereum, scaled.
+    - language: **Go** &nbsp;&nbsp; stars: **1,700** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `21 stars today`
 
 
 ## 近一周热门仓库
@@ -121,136 +121,144 @@
     - A layer 1 for everyone!
     - language: **Rust** &nbsp;&nbsp; stars: **4,431** &nbsp;&nbsp; folks: **2,340**  &nbsp;&nbsp; `444 stars this week`
 
-1. [tw93 / Pake](https://github.com/tw93/Pake)
-    - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.
-    - language: **Rust** &nbsp;&nbsp; stars: **1,741** &nbsp;&nbsp; folks: **74**  &nbsp;&nbsp; `735 stars this week`
+1. [PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+    - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+    - language: **C++** &nbsp;&nbsp; stars: **2,060** &nbsp;&nbsp; folks: **130**  &nbsp;&nbsp; `927 stars this week`
 
 1. [halfrost / LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
     - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-    - language: **Go** &nbsp;&nbsp; stars: **27,586** &nbsp;&nbsp; folks: **5,036**  &nbsp;&nbsp; `677 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **27,587** &nbsp;&nbsp; folks: **5,038**  &nbsp;&nbsp; `676 stars this week`
 
-1. [dragonflydb / dragonfly](https://github.com/dragonflydb/dragonfly)
-    - A modern replacement for Redis and Memcached
-    - language: **C++** &nbsp;&nbsp; stars: **15,549** &nbsp;&nbsp; folks: **488**  &nbsp;&nbsp; `874 stars this week`
-
-1. [google / prompt-to-prompt](https://github.com/google/prompt-to-prompt)
-    - 无
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **951** &nbsp;&nbsp; folks: **57**  &nbsp;&nbsp; `425 stars this week`
+1. [tw93 / Pake](https://github.com/tw93/Pake)
+    - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.
+    - language: **Rust** &nbsp;&nbsp; stars: **1,741** &nbsp;&nbsp; folks: **74**  &nbsp;&nbsp; `566 stars this week`
 
 1. [Textualize / textual](https://github.com/Textualize/textual)
     - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-    - language: **Python** &nbsp;&nbsp; stars: **14,886** &nbsp;&nbsp; folks: **409**  &nbsp;&nbsp; `782 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,901** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `782 stars this week`
+
+1. [marcj / TypeRunner](https://github.com/marcj/TypeRunner)
+    - High-performance TypeScript compiler
+    - language: **C++** &nbsp;&nbsp; stars: **2,107** &nbsp;&nbsp; folks: **32**  &nbsp;&nbsp; `659 stars this week`
+
+1. [google / prompt-to-prompt](https://github.com/google/prompt-to-prompt)
+    - 无
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **953** &nbsp;&nbsp; folks: **57**  &nbsp;&nbsp; `425 stars this week`
 
 1. [o3de / o3de](https://github.com/o3de/o3de)
     - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
-    - language: **C++** &nbsp;&nbsp; stars: **5,534** &nbsp;&nbsp; folks: **1,674**  &nbsp;&nbsp; `85 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **5,535** &nbsp;&nbsp; folks: **1,674**  &nbsp;&nbsp; `85 stars this week`
 
 1. [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
     - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-    - language: **Go** &nbsp;&nbsp; stars: **10,211** &nbsp;&nbsp; folks: **1,702**  &nbsp;&nbsp; `191 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **10,213** &nbsp;&nbsp; folks: **1,702**  &nbsp;&nbsp; `218 stars this week`
 
-1. [metabase / metabase](https://github.com/metabase/metabase)
-    - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
-    - language: **Clojure** &nbsp;&nbsp; stars: **30,314** &nbsp;&nbsp; folks: **4,115**  &nbsp;&nbsp; `345 stars this week`
-
-1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
-    - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **35,673** &nbsp;&nbsp; folks: **6,007**  &nbsp;&nbsp; `338 stars this week`
-
-1. [The-Run-Philosophy-Organization / run](https://github.com/The-Run-Philosophy-Organization/run)
-    - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-    - language: **无** &nbsp;&nbsp; stars: **22,095** &nbsp;&nbsp; folks: **1,763**  &nbsp;&nbsp; `474 stars this week`
+1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+    - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+    - language: **Python** &nbsp;&nbsp; stars: **26,115** &nbsp;&nbsp; folks: **5,320**  &nbsp;&nbsp; `567 stars this week`
 
 1. [geerlingguy / internet-pi](https://github.com/geerlingguy/internet-pi)
     - Raspberry Pi config for all things Internet.
     - language: **Jinja** &nbsp;&nbsp; stars: **3,328** &nbsp;&nbsp; folks: **322**  &nbsp;&nbsp; `101 stars this week`
 
+1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+    - PowerShell for every system!
+    - language: **C#** &nbsp;&nbsp; stars: **35,676** &nbsp;&nbsp; folks: **6,006**  &nbsp;&nbsp; `367 stars this week`
+
+1. [metabase / metabase](https://github.com/metabase/metabase)
+    - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+    - language: **Clojure** &nbsp;&nbsp; stars: **30,316** &nbsp;&nbsp; folks: **4,115**  &nbsp;&nbsp; `345 stars this week`
+
+1. [hashicorp / vagrant](https://github.com/hashicorp/vagrant)
+    - Vagrant is a tool for building and distributing development environments.
+    - language: **Ruby** &nbsp;&nbsp; stars: **24,565** &nbsp;&nbsp; folks: **4,314**  &nbsp;&nbsp; `92 stars this week`
+
 1. [rancher / rancher](https://github.com/rancher/rancher)
     - Complete container management platform
-    - language: **Go** &nbsp;&nbsp; stars: **20,090** &nbsp;&nbsp; folks: **2,677**  &nbsp;&nbsp; `128 stars this week`
-
-1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-    - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-    - language: **Python** &nbsp;&nbsp; stars: **26,107** &nbsp;&nbsp; folks: **5,319**  &nbsp;&nbsp; `567 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **20,091** &nbsp;&nbsp; folks: **2,677**  &nbsp;&nbsp; `128 stars this week`
 
 1. [spacedriveapp / spacedrive](https://github.com/spacedriveapp/spacedrive)
     - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
     - language: **Rust** &nbsp;&nbsp; stars: **14,828** &nbsp;&nbsp; folks: **393**  &nbsp;&nbsp; `282 stars this week`
 
-1. [JingShing / novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver)
-    - You can use this version to experience how novelai works without a good gpu.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **622** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `189 stars this week`
+1. [HyNetwork / hysteria](https://github.com/HyNetwork/hysteria)
+    - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+    - language: **Go** &nbsp;&nbsp; stars: **3,795** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `111 stars this week`
+
+1. [keepassxreboot / keepassxc](https://github.com/keepassxreboot/keepassxc)
+    - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+    - language: **C++** &nbsp;&nbsp; stars: **14,042** &nbsp;&nbsp; folks: **1,115**  &nbsp;&nbsp; `84 stars this week`
+
+1. [MichaelCade / 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+    - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+    - language: **Shell** &nbsp;&nbsp; stars: **19,270** &nbsp;&nbsp; folks: **4,154**  &nbsp;&nbsp; `601 stars this week`
 
 1. [dotnetcore / FastGithub](https://github.com/dotnetcore/FastGithub)
     - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-    - language: **C#** &nbsp;&nbsp; stars: **9,179** &nbsp;&nbsp; folks: **1,248**  &nbsp;&nbsp; `185 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **9,178** &nbsp;&nbsp; folks: **1,249**  &nbsp;&nbsp; `201 stars this week`
 
-1. [Eugeny / tabby](https://github.com/Eugeny/tabby)
-    - A terminal for a more modern age
-    - language: **TypeScript** &nbsp;&nbsp; stars: **39,465** &nbsp;&nbsp; folks: **2,412**  &nbsp;&nbsp; `494 stars this week`
+1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
+    - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+    - language: **Rust** &nbsp;&nbsp; stars: **31,103** &nbsp;&nbsp; folks: **2,707**  &nbsp;&nbsp; `831 stars this week`
 
-1. [microsoft / calculator](https://github.com/microsoft/calculator)
-    - Windows Calculator: A simple yet powerful calculator that ships with Windows
-    - language: **C++** &nbsp;&nbsp; stars: **26,067** &nbsp;&nbsp; folks: **4,686**  &nbsp;&nbsp; `238 stars this week`
+1. [DominikDoom / a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
+    - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
+    - language: **JavaScript** &nbsp;&nbsp; stars: **270** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `79 stars this week`
 
-1. [fastify / fastify](https://github.com/fastify/fastify)
-    - Fast and low overhead web framework, for Node.js
-    - language: **JavaScript** &nbsp;&nbsp; stars: **25,364** &nbsp;&nbsp; folks: **1,867**  &nbsp;&nbsp; `135 stars this week`
+1. [JingShing / novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver)
+    - You can use this version to experience how novelai works without a good gpu.
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **623** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `171 stars this week`
 
-1. [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-    - 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-    - language: **Java** &nbsp;&nbsp; stars: **49,741** &nbsp;&nbsp; folks: **7,191**  &nbsp;&nbsp; `1,071 stars this week`
+1. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+    - Protocol Buffers - Google's data interchange format
+    - language: **C++** &nbsp;&nbsp; stars: **56,775** &nbsp;&nbsp; folks: **14,510**  &nbsp;&nbsp; `144 stars this week`
 
-1. [AmbiML / sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
-    - Project Sparrow: Repo Materials
-    - language: **无** &nbsp;&nbsp; stars: **1,258** &nbsp;&nbsp; folks: **41**  &nbsp;&nbsp; `584 stars this week`
-
-1. [MystenLabs / sui](https://github.com/MystenLabs/sui)
-    - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-    - language: **Rust** &nbsp;&nbsp; stars: **2,249** &nbsp;&nbsp; folks: **6,022**  &nbsp;&nbsp; `453 stars this week`
-
-1. [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-    - Master the command line, in one page
-    - language: **无** &nbsp;&nbsp; stars: **113,740** &nbsp;&nbsp; folks: **11,942**  &nbsp;&nbsp; `2,038 stars this week`
-
-1. [GorvGoyl / Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
-    - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-    - language: **无** &nbsp;&nbsp; stars: **22,310** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `439 stars this week`
+1. [rclone / rclone](https://github.com/rclone/rclone)
+    - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+    - language: **Go** &nbsp;&nbsp; stars: **35,191** &nbsp;&nbsp; folks: **3,212**  &nbsp;&nbsp; `153 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - Stable Diffusion web UI
-    - language: **Python** &nbsp;&nbsp; stars: **17,168** &nbsp;&nbsp; folks: **2,951**  &nbsp;&nbsp; `12,723 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,173** &nbsp;&nbsp; folks: **2,950**  &nbsp;&nbsp; `12,725 stars this month`
+
+1. [cloudflare / workerd](https://github.com/cloudflare/workerd)
+    - The JavaScript / Wasm runtime that powers Cloudflare Workers
+    - language: **C++** &nbsp;&nbsp; stars: **3,968** &nbsp;&nbsp; folks: **98**  &nbsp;&nbsp; `3,964 stars this month`
 
 1. [JoePenna / Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
     - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,607** &nbsp;&nbsp; folks: **250**  &nbsp;&nbsp; `1,355 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,612** &nbsp;&nbsp; folks: **250**  &nbsp;&nbsp; `1,357 stars this month`
 
 1. [firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions)
     - 🚀✨ Help beginners to contribute to open source projects
-    - language: **无** &nbsp;&nbsp; stars: **29,423** &nbsp;&nbsp; folks: **53,392**  &nbsp;&nbsp; `3,205 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **29,424** &nbsp;&nbsp; folks: **53,391**  &nbsp;&nbsp; `3,200 stars this month`
+
+1. [iced-rs / iced](https://github.com/iced-rs/iced)
+    - A cross-platform GUI library for Rust, inspired by Elm
+    - language: **Rust** &nbsp;&nbsp; stars: **16,556** &nbsp;&nbsp; folks: **709**  &nbsp;&nbsp; `1,685 stars this month`
 
 1. [XavierXiao / Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
     - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,916** &nbsp;&nbsp; folks: **336**  &nbsp;&nbsp; `2,038 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,916** &nbsp;&nbsp; folks: **336**  &nbsp;&nbsp; `2,019 stars this month`
 
 1. [BuilderIO / qwik](https://github.com/BuilderIO/qwik)
     - The HTML-first framework. Instant apps of any size with ~ 1kb JS
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,423** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `3,240 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,426** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `3,235 stars this month`
 
 1. [Stability-AI / stability-sdk](https://github.com/Stability-AI/stability-sdk)
     - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,482** &nbsp;&nbsp; folks: **176**  &nbsp;&nbsp; `877 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,482** &nbsp;&nbsp; folks: **176**  &nbsp;&nbsp; `875 stars this month`
 
 1. [TheAlgorithms / C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
     - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-    - language: **C++** &nbsp;&nbsp; stars: **22,096** &nbsp;&nbsp; folks: **5,933**  &nbsp;&nbsp; `1,214 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **22,098** &nbsp;&nbsp; folks: **5,935**  &nbsp;&nbsp; `1,216 stars this month`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **31,956** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `1,895 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **31,958** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `1,896 stars this month`
 
 1. [SigNoz / signoz](https://github.com/SigNoz/signoz)
     - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool
@@ -258,67 +266,59 @@
 
 1. [bnb-chain / bsc](https://github.com/bnb-chain/bsc)
     - A BNB Smart Chain client based on the go-ethereum fork
-    - language: **Go** &nbsp;&nbsp; stars: **1,851** &nbsp;&nbsp; folks: **840**  &nbsp;&nbsp; `159 stars this month`
-
-1. [inancgumus / learngo](https://github.com/inancgumus/learngo)
-    - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-    - language: **Go** &nbsp;&nbsp; stars: **16,168** &nbsp;&nbsp; folks: **2,112**  &nbsp;&nbsp; `1,250 stars this month`
-
-1. [alist-org / alist](https://github.com/alist-org/alist)
-    - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-    - language: **Go** &nbsp;&nbsp; stars: **11,181** &nbsp;&nbsp; folks: **1,711**  &nbsp;&nbsp; `1,776 stars this month`
-
-1. [xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
-    - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-    - language: **Java** &nbsp;&nbsp; stars: **27,721** &nbsp;&nbsp; folks: **9,689**  &nbsp;&nbsp; `971 stars this month`
-
-1. [dragonflydb / dragonfly](https://github.com/dragonflydb/dragonfly)
-    - A modern replacement for Redis and Memcached
-    - language: **C++** &nbsp;&nbsp; stars: **15,549** &nbsp;&nbsp; folks: **488**  &nbsp;&nbsp; `3,289 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **1,851** &nbsp;&nbsp; folks: **840**  &nbsp;&nbsp; `158 stars this month`
 
 1. [helix-editor / helix](https://github.com/helix-editor/helix)
     - A post-modern modal text editor.
-    - language: **Rust** &nbsp;&nbsp; stars: **15,364** &nbsp;&nbsp; folks: **975**  &nbsp;&nbsp; `2,581 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **15,366** &nbsp;&nbsp; folks: **975**  &nbsp;&nbsp; `2,583 stars this month`
 
 1. [danielgatis / rembg](https://github.com/danielgatis/rembg)
     - Rembg is a tool to remove images background.
-    - language: **Python** &nbsp;&nbsp; stars: **5,689** &nbsp;&nbsp; folks: **842**  &nbsp;&nbsp; `1,070 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,691** &nbsp;&nbsp; folks: **842**  &nbsp;&nbsp; `1,072 stars this month`
 
-1. [transmission / transmission](https://github.com/transmission/transmission)
-    - Official Transmission BitTorrent client repository
-    - language: **C++** &nbsp;&nbsp; stars: **7,923** &nbsp;&nbsp; folks: **986**  &nbsp;&nbsp; `666 stars this month`
+1. [dragonflydb / dragonfly](https://github.com/dragonflydb/dragonfly)
+    - A modern replacement for Redis and Memcached
+    - language: **C++** &nbsp;&nbsp; stars: **15,549** &nbsp;&nbsp; folks: **488**  &nbsp;&nbsp; `3,277 stars this month`
+
+1. [inancgumus / learngo](https://github.com/inancgumus/learngo)
+    - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+    - language: **Go** &nbsp;&nbsp; stars: **16,168** &nbsp;&nbsp; folks: **2,112**  &nbsp;&nbsp; `1,243 stars this month`
 
 1. [github / docs](https://github.com/github/docs)
     - The open-source repo for docs.github.com
-    - language: **JavaScript** &nbsp;&nbsp; stars: **11,876** &nbsp;&nbsp; folks: **57,269**  &nbsp;&nbsp; `647 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **11,877** &nbsp;&nbsp; folks: **57,270**  &nbsp;&nbsp; `648 stars this month`
 
 1. [appwrite / appwrite](https://github.com/appwrite/appwrite)
     - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,677** &nbsp;&nbsp; folks: **2,193**  &nbsp;&nbsp; `1,239 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,678** &nbsp;&nbsp; folks: **2,192**  &nbsp;&nbsp; `1,238 stars this month`
 
-1. [neovim / neovim](https://github.com/neovim/neovim)
-    - Vim-fork focused on extensibility and usability
-    - language: **Vim Script** &nbsp;&nbsp; stars: **59,011** &nbsp;&nbsp; folks: **4,121**  &nbsp;&nbsp; `1,182 stars this month`
+1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
+    - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,335** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `1,110 stars this month`
 
-1. [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
-    - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    - language: **Python** &nbsp;&nbsp; stars: **31,912** &nbsp;&nbsp; folks: **6,910**  &nbsp;&nbsp; `1,511 stars this month`
+1. [transmission / transmission](https://github.com/transmission/transmission)
+    - Official Transmission BitTorrent client repository
+    - language: **C++** &nbsp;&nbsp; stars: **7,924** &nbsp;&nbsp; folks: **986**  &nbsp;&nbsp; `666 stars this month`
+
+1. [xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
+    - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+    - language: **Java** &nbsp;&nbsp; stars: **27,722** &nbsp;&nbsp; folks: **9,689**  &nbsp;&nbsp; `970 stars this month`
+
+1. [TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN)
+    - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+    - language: **Python** &nbsp;&nbsp; stars: **23,816** &nbsp;&nbsp; folks: **3,542**  &nbsp;&nbsp; `1,219 stars this month`
 
 1. [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
     - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-    - language: **Go** &nbsp;&nbsp; stars: **10,211** &nbsp;&nbsp; folks: **1,702**  &nbsp;&nbsp; `528 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **10,213** &nbsp;&nbsp; folks: **1,702**  &nbsp;&nbsp; `529 stars this month`
+
+1. [alist-org / alist](https://github.com/alist-org/alist)
+    - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+    - language: **Go** &nbsp;&nbsp; stars: **11,188** &nbsp;&nbsp; folks: **1,714**  &nbsp;&nbsp; `1,780 stars this month`
 
 1. [LunarVim / LunarVim](https://github.com/LunarVim/LunarVim)
     - An IDE layer for Neovim with sane defaults. Completely free and community driven.
     - language: **Lua** &nbsp;&nbsp; stars: **11,250** &nbsp;&nbsp; folks: **1,311**  &nbsp;&nbsp; `764 stars this month`
-
-1. [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)
-    - All Algorithms implemented in Java
-    - language: **Java** &nbsp;&nbsp; stars: **48,636** &nbsp;&nbsp; folks: **16,113**  &nbsp;&nbsp; `774 stars this month`
-
-1. [project-chip / connectedhomeip](https://github.com/project-chip/connectedhomeip)
-    - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
-    - language: **C++** &nbsp;&nbsp; stars: **4,877** &nbsp;&nbsp; folks: **1,059**  &nbsp;&nbsp; `500 stars this month`
 
 
 ## 历史归档
