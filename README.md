@@ -10,93 +10,93 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2022-12-08 05:11:25 +0800`
+`更新时间：2022-12-08 06:11:46 +0800`
 
 ## 今日热门仓库
 
 1. [rawandahmad698 / PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
     - ⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-    - language: **Python** &nbsp;&nbsp; stars: **741** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `321 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **752** &nbsp;&nbsp; folks: **55**  &nbsp;&nbsp; `321 stars today`
 
 1. [acheong08 / ChatGPT](https://github.com/acheong08/ChatGPT)
     - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
-    - language: **Python** &nbsp;&nbsp; stars: **3,433** &nbsp;&nbsp; folks: **307**  &nbsp;&nbsp; `1,260 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,445** &nbsp;&nbsp; folks: **307**  &nbsp;&nbsp; `1,260 stars today`
 
 1. [transitive-bullshit / chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
     - Node.js client for the unofficial ChatGPT API. 🔥
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,407** &nbsp;&nbsp; folks: **103**  &nbsp;&nbsp; `516 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,414** &nbsp;&nbsp; folks: **104**  &nbsp;&nbsp; `516 stars today`
 
 1. [vincelwt / chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
     - ChatGPT for Mac, living in your menubar.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **1,032** &nbsp;&nbsp; folks: **52**  &nbsp;&nbsp; `320 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **1,038** &nbsp;&nbsp; folks: **53**  &nbsp;&nbsp; `320 stars today`
 
 1. [JusticeRage / Gepetto](https://github.com/JusticeRage/Gepetto)
     - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
-    - language: **Python** &nbsp;&nbsp; stars: **1,094** &nbsp;&nbsp; folks: **86**  &nbsp;&nbsp; `165 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,100** &nbsp;&nbsp; folks: **86**  &nbsp;&nbsp; `165 stars today`
 
 1. [gragland / chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)
     - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **193** &nbsp;&nbsp; folks: **22**  &nbsp;&nbsp; `28 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **196** &nbsp;&nbsp; folks: **22**  &nbsp;&nbsp; `28 stars today`
 
 1. [xiaolincoder / CS-Base](https://github.com/xiaolincoder/CS-Base)
     - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-    - language: **无** &nbsp;&nbsp; stars: **3,610** &nbsp;&nbsp; folks: **546**  &nbsp;&nbsp; `338 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **3,611** &nbsp;&nbsp; folks: **546**  &nbsp;&nbsp; `338 stars today`
 
 1. [bupticybee / ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
     - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
-    - language: **Python** &nbsp;&nbsp; stars: **306** &nbsp;&nbsp; folks: **14**  &nbsp;&nbsp; `102 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **308** &nbsp;&nbsp; folks: **14**  &nbsp;&nbsp; `102 stars today`
 
 1. [mmabrouk / chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
     - API for interacting with ChatGPT using Python and from Shell.
-    - language: **Python** &nbsp;&nbsp; stars: **268** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `108 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **271** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `108 stars today`
 
 1. [m1guelpf / chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
     - Run your own GPTChat Telegram bot, with a single command!
-    - language: **Go** &nbsp;&nbsp; stars: **1,123** &nbsp;&nbsp; folks: **89**  &nbsp;&nbsp; `252 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,127** &nbsp;&nbsp; folks: **89**  &nbsp;&nbsp; `252 stars today`
 
 1. [iamadamdev / bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
     - Bypass Paywalls web browser extension for Chrome and Firefox.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **31,522** &nbsp;&nbsp; folks: **2,312**  &nbsp;&nbsp; `160 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **31,526** &nbsp;&nbsp; folks: **2,312**  &nbsp;&nbsp; `160 stars today`
 
 1. [Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
     - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,004** &nbsp;&nbsp; folks: **539**  &nbsp;&nbsp; `79 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,006** &nbsp;&nbsp; folks: **539**  &nbsp;&nbsp; `79 stars today`
 
 1. [android / architecture-templates](https://github.com/android/architecture-templates)
     - 无
-    - language: **无** &nbsp;&nbsp; stars: **936** &nbsp;&nbsp; folks: **55**  &nbsp;&nbsp; `163 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **941** &nbsp;&nbsp; folks: **56**  &nbsp;&nbsp; `163 stars today`
 
 1. [openai / openai-quickstart-node](https://github.com/openai/openai-quickstart-node)
     - Node.js example app from the OpenAI API quickstart tutorial
-    - language: **JavaScript** &nbsp;&nbsp; stars: **432** &nbsp;&nbsp; folks: **296**  &nbsp;&nbsp; `83 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **432** &nbsp;&nbsp; folks: **297**  &nbsp;&nbsp; `83 stars today`
 
 1. [wong2 / chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)
     - A browser extension to display ChatGPT response alongside Google Search results
-    - language: **CSS** &nbsp;&nbsp; stars: **4,541** &nbsp;&nbsp; folks: **219**  &nbsp;&nbsp; `1,155 stars today`
+    - language: **CSS** &nbsp;&nbsp; stars: **4,550** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `1,155 stars today`
 
 1. [apache / iotdb](https://github.com/apache/iotdb)
     - Apache IoTDB
-    - language: **Java** &nbsp;&nbsp; stars: **2,865** &nbsp;&nbsp; folks: **761**  &nbsp;&nbsp; `20 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **2,870** &nbsp;&nbsp; folks: **761**  &nbsp;&nbsp; `20 stars today`
 
 1. [openai / gpt-3](https://github.com/openai/gpt-3)
     - GPT-3: Language Models are Few-Shot Learners
-    - language: **无** &nbsp;&nbsp; stars: **12,042** &nbsp;&nbsp; folks: **1,508**  &nbsp;&nbsp; `48 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **12,046** &nbsp;&nbsp; folks: **1,508**  &nbsp;&nbsp; `48 stars today`
 
 1. [PowerJob / PowerJob](https://github.com/PowerJob/PowerJob)
     - Enterprise job scheduling middleware with distributed computing ability.
-    - language: **Java** &nbsp;&nbsp; stars: **3,997** &nbsp;&nbsp; folks: **720**  &nbsp;&nbsp; `38 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **3,998** &nbsp;&nbsp; folks: **720**  &nbsp;&nbsp; `38 stars today`
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **147,109** &nbsp;&nbsp; folks: **23,924**  &nbsp;&nbsp; `60 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **147,111** &nbsp;&nbsp; folks: **23,925**  &nbsp;&nbsp; `60 stars today`
 
 1. [laravel / framework](https://github.com/laravel/framework)
     - The Laravel Framework.
-    - language: **PHP** &nbsp;&nbsp; stars: **28,425** &nbsp;&nbsp; folks: **9,720**  &nbsp;&nbsp; `7 stars today`
+    - language: **PHP** &nbsp;&nbsp; stars: **28,426** &nbsp;&nbsp; folks: **9,720**  &nbsp;&nbsp; `7 stars today`
 
 1. [mpociot / chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
     - A VSCode extension that allows you to use ChatGPT
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,139** &nbsp;&nbsp; folks: **60**  &nbsp;&nbsp; `253 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,145** &nbsp;&nbsp; folks: **60**  &nbsp;&nbsp; `253 stars today`
 
 1. [rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks)
     - 无
@@ -104,11 +104,11 @@
 
 1. [gorilla / mux](https://github.com/gorilla/mux)
     - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-    - language: **Go** &nbsp;&nbsp; stars: **17,818** &nbsp;&nbsp; folks: **1,606**  &nbsp;&nbsp; `16 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **17,820** &nbsp;&nbsp; folks: **1,606**  &nbsp;&nbsp; `16 stars today`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - 无
-    - language: **无** &nbsp;&nbsp; stars: **218** &nbsp;&nbsp; folks: **8**  &nbsp;&nbsp; `61 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **226** &nbsp;&nbsp; folks: **8**  &nbsp;&nbsp; `61 stars today`
 
 1. [timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
     - 中文独立博客列表
@@ -119,19 +119,19 @@
 
 1. [PKUFlyingPig / cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
     - 计算机自学指南
-    - language: **HTML** &nbsp;&nbsp; stars: **21,227** &nbsp;&nbsp; folks: **2,868**  &nbsp;&nbsp; `4,002 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **21,228** &nbsp;&nbsp; folks: **2,868**  &nbsp;&nbsp; `4,002 stars this week`
 
 1. [invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI)
     - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,527** &nbsp;&nbsp; folks: **842**  &nbsp;&nbsp; `1,842 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,537** &nbsp;&nbsp; folks: **844**  &nbsp;&nbsp; `1,842 stars this week`
 
 1. [gbj / leptos](https://github.com/gbj/leptos)
     - Build fast web applications with Rust.
-    - language: **Rust** &nbsp;&nbsp; stars: **3,181** &nbsp;&nbsp; folks: **68**  &nbsp;&nbsp; `1,094 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,185** &nbsp;&nbsp; folks: **68**  &nbsp;&nbsp; `1,094 stars this week`
 
 1. [huggingface / diffusion-models-class](https://github.com/huggingface/diffusion-models-class)
     - Materials for the Hugging Face Diffusion Models Course
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,062** &nbsp;&nbsp; folks: **75**  &nbsp;&nbsp; `505 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,063** &nbsp;&nbsp; folks: **75**  &nbsp;&nbsp; `505 stars this week`
 
 1. [zlib-searcher / zlib-searcher](https://github.com/zlib-searcher/zlib-searcher)
     - search zlib/libgen index to get ipfs_cid.
@@ -147,7 +147,7 @@
 
 1. [mxrch / GHunt](https://github.com/mxrch/GHunt)
     - 🕵️‍♂️ Offensive Google framework.
-    - language: **Python** &nbsp;&nbsp; stars: **12,528** &nbsp;&nbsp; folks: **1,063**  &nbsp;&nbsp; `300 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **12,530** &nbsp;&nbsp; folks: **1,063**  &nbsp;&nbsp; `300 stars this week`
 
 1. [Visualize-ML / Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
     - Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改
@@ -159,11 +159,11 @@
 
 1. [openai / openai-python](https://github.com/openai/openai-python)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **1,075** &nbsp;&nbsp; folks: **300**  &nbsp;&nbsp; `185 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,077** &nbsp;&nbsp; folks: **301**  &nbsp;&nbsp; `185 stars this week`
 
 1. [vanhauser-thc / thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
     - hydra
-    - language: **C** &nbsp;&nbsp; stars: **6,967** &nbsp;&nbsp; folks: **1,622**  &nbsp;&nbsp; `62 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **6,969** &nbsp;&nbsp; folks: **1,622**  &nbsp;&nbsp; `62 stars this week`
 
 1. [actions / runner-images](https://github.com/actions/runner-images)
     - GitHub Actions runner images
@@ -179,11 +179,11 @@
 
 1. [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
     - A new bootable USB solution.
-    - language: **C** &nbsp;&nbsp; stars: **42,365** &nbsp;&nbsp; folks: **3,056**  &nbsp;&nbsp; `415 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **42,364** &nbsp;&nbsp; folks: **3,056**  &nbsp;&nbsp; `415 stars this week`
 
 1. [TomSchimansky / CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
     - A modern and customizable python UI-library based on Tkinter
-    - language: **Python** &nbsp;&nbsp; stars: **4,269** &nbsp;&nbsp; folks: **342**  &nbsp;&nbsp; `415 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,270** &nbsp;&nbsp; folks: **342**  &nbsp;&nbsp; `415 stars this week`
 
 1. [vulhub / vulhub](https://github.com/vulhub/vulhub)
     - Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -191,11 +191,11 @@
 
 1. [RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
     - The communications platform that puts data protection first.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **34,285** &nbsp;&nbsp; folks: **7,844**  &nbsp;&nbsp; `388 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **34,286** &nbsp;&nbsp; folks: **7,844**  &nbsp;&nbsp; `388 stars this week`
 
 1. [cmdr2 / stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui)
     - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **3,009** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `109 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **3,011** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `109 stars this week`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -203,30 +203,30 @@
 
 1. [kuchin / awesome-cto](https://github.com/kuchin/awesome-cto)
     - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-    - language: **无** &nbsp;&nbsp; stars: **17,767** &nbsp;&nbsp; folks: **967**  &nbsp;&nbsp; `3,027 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **17,768** &nbsp;&nbsp; folks: **967**  &nbsp;&nbsp; `3,027 stars this week`
 
 1. [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
     - 🔗 Some useful websites for programmers.
-    - language: **无** &nbsp;&nbsp; stars: **49,711** &nbsp;&nbsp; folks: **6,617**  &nbsp;&nbsp; `1,031 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **49,712** &nbsp;&nbsp; folks: **6,616**  &nbsp;&nbsp; `1,031 stars this week`
 
 1. [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
     - ALL IN ONE Hacking Tool For Hackers
-    - language: **Python** &nbsp;&nbsp; stars: **23,168** &nbsp;&nbsp; folks: **2,827**  &nbsp;&nbsp; `1,406 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **23,170** &nbsp;&nbsp; folks: **2,827**  &nbsp;&nbsp; `1,406 stars this week`
 
 1. [t3l3machus / Villain](https://github.com/t3l3machus/Villain)
     - Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
-    - language: **Python** &nbsp;&nbsp; stars: **1,571** &nbsp;&nbsp; folks: **277**  &nbsp;&nbsp; `756 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,574** &nbsp;&nbsp; folks: **278**  &nbsp;&nbsp; `756 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [projectdiscovery / katana](https://github.com/projectdiscovery/katana)
     - A next-generation crawling and spidering framework.
-    - language: **Go** &nbsp;&nbsp; stars: **4,938** &nbsp;&nbsp; folks: **213**  &nbsp;&nbsp; `4,929 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **4,939** &nbsp;&nbsp; folks: **213**  &nbsp;&nbsp; `4,929 stars this month`
 
 1. [mastodon / mastodon](https://github.com/mastodon/mastodon)
     - Your self-hosted, globally interconnected microblogging community
-    - language: **Ruby** &nbsp;&nbsp; stars: **37,278** &nbsp;&nbsp; folks: **5,615**  &nbsp;&nbsp; `5,487 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **37,278** &nbsp;&nbsp; folks: **5,616**  &nbsp;&nbsp; `5,487 stars this month`
 
 1. [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
     - Experimental Nintendo Switch Emulator written in C#
@@ -238,11 +238,11 @@
 
 1. [binwiederhier / ntfy](https://github.com/binwiederhier/ntfy)
     - Send push notifications to your phone or desktop using PUT/POST
-    - language: **Go** &nbsp;&nbsp; stars: **8,329** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `4,615 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **8,331** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `4,615 stars this month`
 
 1. [ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp)
     - Port of OpenAI's Whisper model in C/C++
-    - language: **C** &nbsp;&nbsp; stars: **2,763** &nbsp;&nbsp; folks: **186**  &nbsp;&nbsp; `1,701 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **2,801** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `1,701 stars this month`
 
 1. [palera1n / palera1n](https://github.com/palera1n/palera1n)
     - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
@@ -254,11 +254,11 @@
 
 1. [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
     - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-    - language: **JavaScript** &nbsp;&nbsp; stars: **41,683** &nbsp;&nbsp; folks: **6,684**  &nbsp;&nbsp; `2,174 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **41,686** &nbsp;&nbsp; folks: **6,685**  &nbsp;&nbsp; `2,174 stars this month`
 
 1. [Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
     - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **30,673** &nbsp;&nbsp; folks: **7,059**  &nbsp;&nbsp; `1,779 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **30,675** &nbsp;&nbsp; folks: **7,059**  &nbsp;&nbsp; `1,779 stars this month`
 
 1. [ant-design / ant-design](https://github.com/ant-design/ant-design)
     - An enterprise-class UI design language and React UI library
@@ -270,7 +270,7 @@
 
 1. [solidjs / solid-start](https://github.com/solidjs/solid-start)
     - SolidStart, the Solid app framework
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,552** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `1,099 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,553** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `1,099 stars this month`
 
 1. [Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
     - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改
@@ -282,7 +282,7 @@
 
 1. [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
     - A new bootable USB solution.
-    - language: **C** &nbsp;&nbsp; stars: **42,365** &nbsp;&nbsp; folks: **3,056**  &nbsp;&nbsp; `1,376 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **42,364** &nbsp;&nbsp; folks: **3,056**  &nbsp;&nbsp; `1,376 stars this month`
 
 1. [jeecgboot / jeecg-boot](https://github.com/jeecgboot/jeecg-boot)
     - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
@@ -290,7 +290,7 @@
 
 1. [PaddlePaddle / FastDeploy](https://github.com/PaddlePaddle/FastDeploy)
     - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.
-    - language: **C++** &nbsp;&nbsp; stars: **1,106** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `609 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **1,107** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `609 stars this month`
 
 1. [apernet / hysteria](https://github.com/apernet/hysteria)
     - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
@@ -298,23 +298,23 @@
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **63,102** &nbsp;&nbsp; folks: **6,697**  &nbsp;&nbsp; `964 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **63,103** &nbsp;&nbsp; folks: **6,697**  &nbsp;&nbsp; `964 stars this month`
 
 1. [gothinkster / realworld](https://github.com/gothinkster/realworld)
     - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-    - language: **TypeScript** &nbsp;&nbsp; stars: **70,665** &nbsp;&nbsp; folks: **6,616**  &nbsp;&nbsp; `879 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **70,668** &nbsp;&nbsp; folks: **6,616**  &nbsp;&nbsp; `879 stars this month`
 
 1. [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
     - Master the command line, in one page
-    - language: **无** &nbsp;&nbsp; stars: **121,562** &nbsp;&nbsp; folks: **12,416**  &nbsp;&nbsp; `6,624 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **121,569** &nbsp;&nbsp; folks: **12,416**  &nbsp;&nbsp; `6,624 stars this month`
 
 1. [supabase / supabase](https://github.com/supabase/supabase)
     - The open source Firebase alternative. Follow to stay updated about our public Beta.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **42,012** &nbsp;&nbsp; folks: **2,658**  &nbsp;&nbsp; `1,523 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **42,014** &nbsp;&nbsp; folks: **2,658**  &nbsp;&nbsp; `1,523 stars this month`
 
 1. [commaai / openpilot](https://github.com/commaai/openpilot)
     - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
-    - language: **Python** &nbsp;&nbsp; stars: **37,738** &nbsp;&nbsp; folks: **6,825**  &nbsp;&nbsp; `1,032 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **37,739** &nbsp;&nbsp; folks: **6,825**  &nbsp;&nbsp; `1,032 stars this month`
 
 
 ## 历史归档
