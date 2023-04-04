@@ -10,315 +10,311 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2023-04-04 19:09:11 +0800`
+`更新时间：2023-04-04 20:21:10 +0800`
 
 ## 今日热门仓库
 
 1. [Torantulino / Auto-GPT](https://github.com/Torantulino/Auto-GPT)
     - An experimental open-source attempt to make GPT-4 fully autonomous.
-    - language: **Python** &nbsp;&nbsp; stars: **6,245** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `3,210 stars today`
-
-1. [apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
-    - Stable Diffusion with Core ML on Apple Silicon
-    - language: **Python** &nbsp;&nbsp; stars: **9,845** &nbsp;&nbsp; folks: **433**  &nbsp;&nbsp; `1,194 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,369** &nbsp;&nbsp; folks: **562**  &nbsp;&nbsp; `3,210 stars today`
 
 1. [microsoft / JARVIS](https://github.com/microsoft/JARVIS)
     - JARVIS, a system to connect LLMs with ML community
-    - language: **Python** &nbsp;&nbsp; stars: **4,615** &nbsp;&nbsp; folks: **235**  &nbsp;&nbsp; `1,771 stars today`
-
-1. [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
-    - Offline build planner for Path of Exile.
-    - language: **Lua** &nbsp;&nbsp; stars: **2,826** &nbsp;&nbsp; folks: **1,743**  &nbsp;&nbsp; `60 stars today`
-
-1. [mckaywrigley / ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)
-    - Use AI to translate code from one language to another.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,437** &nbsp;&nbsp; folks: **148**  &nbsp;&nbsp; `499 stars today`
-
-1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
-    - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **247,650** &nbsp;&nbsp; folks: **25,353**  &nbsp;&nbsp; `398 stars today`
-
-1. [hahahumble / speechgpt](https://github.com/hahahumble/speechgpt)
-    - SpeechGPT is a web application that enables you to converse with ChatGPT.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,524** &nbsp;&nbsp; folks: **184**  &nbsp;&nbsp; `240 stars today`
-
-1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
-    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **216,323** &nbsp;&nbsp; folks: **38,506**  &nbsp;&nbsp; `299 stars today`
-
-1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-    - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **273,575** &nbsp;&nbsp; folks: **54,509**  &nbsp;&nbsp; `427 stars today`
-
-1. [lm-sys / FastChat](https://github.com/lm-sys/FastChat)
-    - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
-    - language: **Python** &nbsp;&nbsp; stars: **5,735** &nbsp;&nbsp; folks: **509**  &nbsp;&nbsp; `1,338 stars today`
-
-1. [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
-    - The Magic Mask for Android
-    - language: **C++** &nbsp;&nbsp; stars: **33,645** &nbsp;&nbsp; folks: **9,028**  &nbsp;&nbsp; `53 stars today`
-
-1. [stochasticai / xturing](https://github.com/stochasticai/xturing)
-    - Build and control your own LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **985** &nbsp;&nbsp; folks: **65**  &nbsp;&nbsp; `158 stars today`
-
-1. [rustformers / llama-rs](https://github.com/rustformers/llama-rs)
-    - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
-    - language: **Rust** &nbsp;&nbsp; stars: **2,444** &nbsp;&nbsp; folks: **101**  &nbsp;&nbsp; `172 stars today`
-
-1. [helix-editor / helix](https://github.com/helix-editor/helix)
-    - A post-modern modal text editor.
-    - language: **Rust** &nbsp;&nbsp; stars: **20,768** &nbsp;&nbsp; folks: **1,432**  &nbsp;&nbsp; `174 stars today`
-
-1. [ymcui / Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
-    - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
-    - language: **Python** &nbsp;&nbsp; stars: **2,421** &nbsp;&nbsp; folks: **202**  &nbsp;&nbsp; `478 stars today`
-
-1. [gothinkster / realworld](https://github.com/gothinkster/realworld)
-    - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-    - language: **TypeScript** &nbsp;&nbsp; stars: **73,623** &nbsp;&nbsp; folks: **6,846**  &nbsp;&nbsp; `141 stars today`
-
-1. [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
-    - Flipper Zero Unleashed Firmware
-    - language: **C** &nbsp;&nbsp; stars: **6,563** &nbsp;&nbsp; folks: **600**  &nbsp;&nbsp; `103 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,742** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `1,771 stars today`
 
 1. [OptimalScale / LMFlow](https://github.com/OptimalScale/LMFlow)
     - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,311** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `882 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,340** &nbsp;&nbsp; folks: **191**  &nbsp;&nbsp; `882 stars today`
 
-1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
-    - Source code for Twitter's Recommendation Algorithm
-    - language: **无** &nbsp;&nbsp; stars: **46,396** &nbsp;&nbsp; folks: **9,037**  &nbsp;&nbsp; `6,543 stars today`
+1. [lm-sys / FastChat](https://github.com/lm-sys/FastChat)
+    - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+    - language: **Python** &nbsp;&nbsp; stars: **5,857** &nbsp;&nbsp; folks: **515**  &nbsp;&nbsp; `1,338 stars today`
 
-1. [DeSinc / SallyBot](https://github.com/DeSinc/SallyBot)
-    - AI Chatbot coded in Discord.net C#
-    - language: **C#** &nbsp;&nbsp; stars: **122** &nbsp;&nbsp; folks: **17**  &nbsp;&nbsp; `31 stars today`
+1. [curl / trurl](https://github.com/curl/trurl)
+    - trurl is a command line tool for URL parsing and manipulation.
+    - language: **C** &nbsp;&nbsp; stars: **610** &nbsp;&nbsp; folks: **21**  &nbsp;&nbsp; `293 stars today`
 
-1. [terrastruct / d2](https://github.com/terrastruct/d2)
-    - D2 is a modern diagram scripting language that turns text to diagrams.
-    - language: **Go** &nbsp;&nbsp; stars: **12,146** &nbsp;&nbsp; folks: **242**  &nbsp;&nbsp; `343 stars today`
+1. [mckaywrigley / ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)
+    - Use AI to translate code from one language to another.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,456** &nbsp;&nbsp; folks: **151**  &nbsp;&nbsp; `499 stars today`
 
-1. [Synaptrix / ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
-    - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
-    - language: **Vue** &nbsp;&nbsp; stars: **1,109** &nbsp;&nbsp; folks: **107**  &nbsp;&nbsp; `160 stars today`
+1. [godly-devotion / MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+    - Run Stable Diffusion on Mac natively
+    - language: **Swift** &nbsp;&nbsp; stars: **3,291** &nbsp;&nbsp; folks: **120**  &nbsp;&nbsp; `551 stars today`
+
+1. [twitter / opensource-website](https://github.com/twitter/opensource-website)
+    - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+    - language: **SCSS** &nbsp;&nbsp; stars: **2,273** &nbsp;&nbsp; folks: **704**  &nbsp;&nbsp; `70 stars today`
+
+1. [ymcui / Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+    - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+    - language: **Python** &nbsp;&nbsp; stars: **2,443** &nbsp;&nbsp; folks: **203**  &nbsp;&nbsp; `478 stars today`
+
+1. [goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+    - ✅ The Node.js best practices list (March 2023)
+    - language: **JavaScript** &nbsp;&nbsp; stars: **88,104** &nbsp;&nbsp; folks: **9,113**  &nbsp;&nbsp; `182 stars today`
+
+1. [GammaTauAI / reflexion-human-eval](https://github.com/GammaTauAI/reflexion-human-eval)
+    - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
+    - language: **Python** &nbsp;&nbsp; stars: **412** &nbsp;&nbsp; folks: **39**  &nbsp;&nbsp; `30 stars today`
+
+1. [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
+    - Offline build planner for Path of Exile.
+    - language: **Lua** &nbsp;&nbsp; stars: **2,829** &nbsp;&nbsp; folks: **1,743**  &nbsp;&nbsp; `60 stars today`
 
 1. [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
     - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **46,761** &nbsp;&nbsp; folks: **9,584**  &nbsp;&nbsp; `534 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **46,784** &nbsp;&nbsp; folks: **9,587**  &nbsp;&nbsp; `534 stars today`
 
-1. [twitter / the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
-    - Source code for Twitter's Recommendation Algorithm
-    - language: **无** &nbsp;&nbsp; stars: **7,393** &nbsp;&nbsp; folks: **1,719**  &nbsp;&nbsp; `1,385 stars today`
+1. [bradtraversy / design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+    - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+    - language: **无** &nbsp;&nbsp; stars: **49,881** &nbsp;&nbsp; folks: **10,274**  &nbsp;&nbsp; `305 stars today`
 
-1. [Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
-    - One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,292** &nbsp;&nbsp; folks: **4,810**  &nbsp;&nbsp; `1,340 stars today`
+1. [dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+    - 🔥Highlighting the top ML papers every week.
+    - language: **无** &nbsp;&nbsp; stars: **713** &nbsp;&nbsp; folks: **25**  &nbsp;&nbsp; `126 stars today`
+
+1. [mayooear / gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+    - GPT4 & LangChain Chatbot for large PDF docs
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,442** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `398 stars today`
+
+1. [exaloop / codon](https://github.com/exaloop/codon)
+    - A high-performance, zero-overhead, extensible Python compiler using LLVM
+    - language: **C++** &nbsp;&nbsp; stars: **11,466** &nbsp;&nbsp; folks: **393**  &nbsp;&nbsp; `211 stars today`
+
+1. [apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
+    - Stable Diffusion with Core ML on Apple Silicon
+    - language: **Python** &nbsp;&nbsp; stars: **9,866** &nbsp;&nbsp; folks: **433**  &nbsp;&nbsp; `1,194 stars today`
+
+1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    - language: **Python** &nbsp;&nbsp; stars: **216,326** &nbsp;&nbsp; folks: **38,507**  &nbsp;&nbsp; `299 stars today`
+
+1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
+    - A collective list of free APIs
+    - language: **Python** &nbsp;&nbsp; stars: **233,344** &nbsp;&nbsp; folks: **26,560**  &nbsp;&nbsp; `301 stars today`
+
+1. [igorbrigadir / awesome-twitter-algo](https://github.com/igorbrigadir/awesome-twitter-algo)
+    - The release of the Twitter algorithm, annotated for recsys
+    - language: **无** &nbsp;&nbsp; stars: **156** &nbsp;&nbsp; folks: **9**  &nbsp;&nbsp; `32 stars today`
+
+1. [THUDM / ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+    - ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model
+    - language: **Python** &nbsp;&nbsp; stars: **12,815** &nbsp;&nbsp; folks: **1,302**  &nbsp;&nbsp; `442 stars today`
+
+1. [teknium1 / GPTeacher](https://github.com/teknium1/GPTeacher)
+    - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
+    - language: **无** &nbsp;&nbsp; stars: **311** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `65 stars today`
+
+1. [Facico / Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)
+    - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+    - language: **C** &nbsp;&nbsp; stars: **390** &nbsp;&nbsp; folks: **51**  &nbsp;&nbsp; `73 stars today`
+
+1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+    - 📚 Freely available programming books
+    - language: **无** &nbsp;&nbsp; stars: **273,598** &nbsp;&nbsp; folks: **54,510**  &nbsp;&nbsp; `427 stars today`
 
 
 ## 近一周热门仓库
 
 1. [binary-husky / chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
     - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
-    - language: **Python** &nbsp;&nbsp; stars: **20,781** &nbsp;&nbsp; folks: **2,258**  &nbsp;&nbsp; `17,304 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **20,866** &nbsp;&nbsp; folks: **2,262**  &nbsp;&nbsp; `17,304 stars this week`
 
 1. [Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
     - One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,292** &nbsp;&nbsp; folks: **4,810**  &nbsp;&nbsp; `9,891 stars this week`
-
-1. [getcursor / cursor](https://github.com/getcursor/cursor)
-    - An editor made for programming with AI 🤖
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,281** &nbsp;&nbsp; folks: **848**  &nbsp;&nbsp; `6,093 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,341** &nbsp;&nbsp; folks: **4,841**  &nbsp;&nbsp; `9,891 stars this week`
 
 1. [hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI)
     - Making large AI models cheaper, faster and more accessible
-    - language: **Python** &nbsp;&nbsp; stars: **26,505** &nbsp;&nbsp; folks: **2,985**  &nbsp;&nbsp; `6,943 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,518** &nbsp;&nbsp; folks: **2,985**  &nbsp;&nbsp; `6,943 stars this week`
 
-1. [databrickslabs / dolly](https://github.com/databrickslabs/dolly)
-    - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-    - language: **Python** &nbsp;&nbsp; stars: **4,079** &nbsp;&nbsp; folks: **405**  &nbsp;&nbsp; `1,840 stars this week`
+1. [getcursor / cursor](https://github.com/getcursor/cursor)
+    - An editor made for programming with AI 🤖
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,299** &nbsp;&nbsp; folks: **847**  &nbsp;&nbsp; `6,093 stars this week`
 
 1. [Bin-Huang / chatbox](https://github.com/Bin-Huang/chatbox)
     - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,943** &nbsp;&nbsp; folks: **573**  &nbsp;&nbsp; `3,275 stars this week`
-
-1. [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
-    - An open source ChatGPT UI.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,022** &nbsp;&nbsp; folks: **1,567**  &nbsp;&nbsp; `3,242 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,976** &nbsp;&nbsp; folks: **579**  &nbsp;&nbsp; `3,275 stars this week`
 
 1. [mayooear / gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
     - GPT4 & LangChain Chatbot for large PDF docs
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,427** &nbsp;&nbsp; folks: **914**  &nbsp;&nbsp; `2,216 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,442** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `2,216 stars this week`
 
-1. [openai / chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
-    - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
-    - language: **Python** &nbsp;&nbsp; stars: **12,748** &nbsp;&nbsp; folks: **1,624**  &nbsp;&nbsp; `2,826 stars this week`
+1. [mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+    - An open source ChatGPT UI.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,046** &nbsp;&nbsp; folks: **1,573**  &nbsp;&nbsp; `3,242 stars this week`
 
-1. [haoel / haoel.github.io](https://github.com/haoel/haoel.github.io)
-    - 无
-    - language: **Shell** &nbsp;&nbsp; stars: **9,112** &nbsp;&nbsp; folks: **1,353**  &nbsp;&nbsp; `839 stars this week`
-
-1. [LC1332 / Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)
-    - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,778** &nbsp;&nbsp; folks: **122**  &nbsp;&nbsp; `557 stars this week`
-
-1. [MarsX-dev / floatui](https://github.com/MarsX-dev/floatui)
-    - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **1,396** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `593 stars this week`
-
-1. [huggingface / peft](https://github.com/huggingface/peft)
-    - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-    - language: **Python** &nbsp;&nbsp; stars: **3,085** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `819 stars this week`
-
-1. [showlab / Tune-A-Video](https://github.com/showlab/Tune-A-Video)
-    - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
-    - language: **Python** &nbsp;&nbsp; stars: **2,683** &nbsp;&nbsp; folks: **202**  &nbsp;&nbsp; `1,233 stars this week`
-
-1. [PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-    - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-    - language: **无** &nbsp;&nbsp; stars: **27,268** &nbsp;&nbsp; folks: **8,324**  &nbsp;&nbsp; `4,348 stars this week`
-
-1. [hwchase17 / langchain](https://github.com/hwchase17/langchain)
-    - ⚡ Building applications with LLMs through composability ⚡
-    - language: **Python** &nbsp;&nbsp; stars: **20,200** &nbsp;&nbsp; folks: **1,835**  &nbsp;&nbsp; `3,795 stars this week`
-
-1. [programthink / zhao](https://github.com/programthink/zhao)
-    - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-    - language: **Python** &nbsp;&nbsp; stars: **12,261** &nbsp;&nbsp; folks: **2,758**  &nbsp;&nbsp; `402 stars this week`
-
-1. [logspace-ai / langflow](https://github.com/logspace-ai/langflow)
-    - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,305** &nbsp;&nbsp; folks: **227**  &nbsp;&nbsp; `1,288 stars this week`
-
-1. [motifland / markprompt](https://github.com/motifland/markprompt)
-    - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,407** &nbsp;&nbsp; folks: **93**  &nbsp;&nbsp; `545 stars this week`
-
-1. [202252197 / ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)
-    - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-    - language: **Vue** &nbsp;&nbsp; stars: **1,627** &nbsp;&nbsp; folks: **381**  &nbsp;&nbsp; `590 stars this week`
+1. [databrickslabs / dolly](https://github.com/databrickslabs/dolly)
+    - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+    - language: **Python** &nbsp;&nbsp; stars: **4,083** &nbsp;&nbsp; folks: **405**  &nbsp;&nbsp; `1,840 stars this week`
 
 1. [godly-devotion / MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
     - Run Stable Diffusion on Mac natively
-    - language: **Swift** &nbsp;&nbsp; stars: **3,279** &nbsp;&nbsp; folks: **120**  &nbsp;&nbsp; `1,581 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **3,291** &nbsp;&nbsp; folks: **120**  &nbsp;&nbsp; `1,581 stars this week`
 
-1. [acheong08 / ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4)
-    - Cloudflare Bypass for OpenAI based on `puid`
-    - language: **Go** &nbsp;&nbsp; stars: **621** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `299 stars this week`
+1. [huggingface / peft](https://github.com/huggingface/peft)
+    - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+    - language: **Python** &nbsp;&nbsp; stars: **3,090** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `819 stars this week`
 
-1. [gururise / AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
-    - Alpaca dataset from Stanford, cleaned and curated
-    - language: **Python** &nbsp;&nbsp; stars: **736** &nbsp;&nbsp; folks: **76**  &nbsp;&nbsp; `244 stars this week`
+1. [gd3kr / BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+    - Use commands in English to control Blender with OpenAI's GPT-4
+    - language: **Python** &nbsp;&nbsp; stars: **2,988** &nbsp;&nbsp; folks: **178**  &nbsp;&nbsp; `959 stars this week`
+
+1. [showlab / Tune-A-Video](https://github.com/showlab/Tune-A-Video)
+    - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+    - language: **Python** &nbsp;&nbsp; stars: **2,686** &nbsp;&nbsp; folks: **202**  &nbsp;&nbsp; `1,233 stars this week`
+
+1. [hwchase17 / langchain](https://github.com/hwchase17/langchain)
+    - ⚡ Building applications with LLMs through composability ⚡
+    - language: **Python** &nbsp;&nbsp; stars: **20,231** &nbsp;&nbsp; folks: **1,840**  &nbsp;&nbsp; `3,795 stars this week`
+
+1. [logspace-ai / langflow](https://github.com/logspace-ai/langflow)
+    - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,314** &nbsp;&nbsp; folks: **227**  &nbsp;&nbsp; `1,288 stars this week`
+
+1. [PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+    - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+    - language: **无** &nbsp;&nbsp; stars: **27,297** &nbsp;&nbsp; folks: **8,332**  &nbsp;&nbsp; `4,348 stars this week`
+
+1. [haoel / haoel.github.io](https://github.com/haoel/haoel.github.io)
+    - 无
+    - language: **Shell** &nbsp;&nbsp; stars: **9,117** &nbsp;&nbsp; folks: **1,353**  &nbsp;&nbsp; `839 stars this week`
+
+1. [openai / chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+    - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+    - language: **Python** &nbsp;&nbsp; stars: **12,755** &nbsp;&nbsp; folks: **1,627**  &nbsp;&nbsp; `2,826 stars this week`
 
 1. [huggingface / transformers](https://github.com/huggingface/transformers)
     - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-    - language: **Python** &nbsp;&nbsp; stars: **90,039** &nbsp;&nbsp; folks: **19,201**  &nbsp;&nbsp; `1,938 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **90,055** &nbsp;&nbsp; folks: **19,207**  &nbsp;&nbsp; `1,938 stars this week`
+
+1. [202252197 / ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)
+    - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+    - language: **Vue** &nbsp;&nbsp; stars: **1,629** &nbsp;&nbsp; folks: **382**  &nbsp;&nbsp; `590 stars this week`
+
+1. [acheong08 / ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4)
+    - Cloudflare Bypass for OpenAI based on `puid`
+    - language: **Go** &nbsp;&nbsp; stars: **622** &nbsp;&nbsp; folks: **151**  &nbsp;&nbsp; `299 stars this week`
+
+1. [programthink / zhao](https://github.com/programthink/zhao)
+    - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
+    - language: **Python** &nbsp;&nbsp; stars: **12,263** &nbsp;&nbsp; folks: **2,758**  &nbsp;&nbsp; `402 stars this week`
+
+1. [LC1332 / Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)
+    - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,780** &nbsp;&nbsp; folks: **122**  &nbsp;&nbsp; `557 stars this week`
+
+1. [dalinvip / Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
+    - ChatGPT资料汇总学习，持续更新......
+    - language: **无** &nbsp;&nbsp; stars: **2,401** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `746 stars this week`
+
+1. [hwchase17 / langchainjs](https://github.com/hwchase17/langchainjs)
+    - 无
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,693** &nbsp;&nbsp; folks: **229**  &nbsp;&nbsp; `388 stars this week`
 
 1. [LianjiaTech / BELLE](https://github.com/LianjiaTech/BELLE)
     - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
-    - language: **Python** &nbsp;&nbsp; stars: **3,104** &nbsp;&nbsp; folks: **252**  &nbsp;&nbsp; `864 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **3,112** &nbsp;&nbsp; folks: **252**  &nbsp;&nbsp; `864 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Chanzhaoyu / chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
     - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
-    - language: **Vue** &nbsp;&nbsp; stars: **14,347** &nbsp;&nbsp; folks: **4,500**  &nbsp;&nbsp; `11,028 stars this month`
+    - language: **Vue** &nbsp;&nbsp; stars: **14,373** &nbsp;&nbsp; folks: **4,510**  &nbsp;&nbsp; `11,028 stars this month`
 
 1. [oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui)
     - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
-    - language: **Python** &nbsp;&nbsp; stars: **5,236** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `4,618 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,250** &nbsp;&nbsp; folks: **464**  &nbsp;&nbsp; `4,618 stars this month`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - A powerful and modular stable diffusion GUI with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **4,244** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `3,710 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,246** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `3,710 stars this month`
+
+1. [Leizhenpeng / feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+    - 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+    - language: **Go** &nbsp;&nbsp; stars: **2,810** &nbsp;&nbsp; folks: **444**  &nbsp;&nbsp; `2,556 stars this month`
 
 1. [gencay / vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
     - An unofficial Visual Studio Code - OpenAI ChatGPT integration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,946** &nbsp;&nbsp; folks: **723**  &nbsp;&nbsp; `2,301 stars this month`
-
-1. [facebookresearch / llama](https://github.com/facebookresearch/llama)
-    - Inference code for LLaMA models
-    - language: **Python** &nbsp;&nbsp; stars: **16,195** &nbsp;&nbsp; folks: **2,553**  &nbsp;&nbsp; `9,619 stars this month`
-
-1. [ddiu8081 / chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
-    - A demo repo based on OpenAI API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,969** &nbsp;&nbsp; folks: **2,833**  &nbsp;&nbsp; `4,756 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,949** &nbsp;&nbsp; folks: **723**  &nbsp;&nbsp; `2,301 stars this month`
 
 1. [ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp)
     - Port of OpenAI's Whisper model in C/C++
-    - language: **C** &nbsp;&nbsp; stars: **14,418** &nbsp;&nbsp; folks: **1,183**  &nbsp;&nbsp; `6,878 stars this month`
-
-1. [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-    - Stable Diffusion web UI
-    - language: **Python** &nbsp;&nbsp; stars: **58,297** &nbsp;&nbsp; folks: **10,820**  &nbsp;&nbsp; `15,169 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **14,422** &nbsp;&nbsp; folks: **1,184**  &nbsp;&nbsp; `6,878 stars this month`
 
 1. [hwchase17 / langchain](https://github.com/hwchase17/langchain)
     - ⚡ Building applications with LLMs through composability ⚡
-    - language: **Python** &nbsp;&nbsp; stars: **20,200** &nbsp;&nbsp; folks: **1,835**  &nbsp;&nbsp; `11,026 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,231** &nbsp;&nbsp; folks: **1,840**  &nbsp;&nbsp; `11,026 stars this month`
 
 1. [PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
     - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-    - language: **无** &nbsp;&nbsp; stars: **27,268** &nbsp;&nbsp; folks: **8,324**  &nbsp;&nbsp; `16,255 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **27,297** &nbsp;&nbsp; folks: **8,332**  &nbsp;&nbsp; `16,255 stars this month`
 
-1. [Nutlope / roomGPT](https://github.com/Nutlope/roomGPT)
-    - Upload a photo of your room to generate your dream room with AI.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,483** &nbsp;&nbsp; folks: **600**  &nbsp;&nbsp; `5,395 stars this month`
+1. [facebookresearch / llama](https://github.com/facebookresearch/llama)
+    - Inference code for LLaMA models
+    - language: **Python** &nbsp;&nbsp; stars: **16,213** &nbsp;&nbsp; folks: **2,556**  &nbsp;&nbsp; `9,619 stars this month`
 
-1. [869413421 / chatgpt-web](https://github.com/869413421/chatgpt-web)
-    - 基于ChatGPT3.5 API实现的私有化web程序
-    - language: **Go** &nbsp;&nbsp; stars: **2,420** &nbsp;&nbsp; folks: **558**  &nbsp;&nbsp; `1,780 stars this month`
+1. [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+    - Stable Diffusion web UI
+    - language: **Python** &nbsp;&nbsp; stars: **58,324** &nbsp;&nbsp; folks: **10,826**  &nbsp;&nbsp; `15,169 stars this month`
 
 1. [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
     - Examples and guides for using the OpenAI API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,535** &nbsp;&nbsp; folks: **3,577**  &nbsp;&nbsp; `10,318 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,548** &nbsp;&nbsp; folks: **3,578**  &nbsp;&nbsp; `10,318 stars this month`
 
-1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-    - This repo includes ChatGPT prompt curation to use ChatGPT better.
-    - language: **HTML** &nbsp;&nbsp; stars: **59,790** &nbsp;&nbsp; folks: **7,174**  &nbsp;&nbsp; `23,950 stars this month`
+1. [JimmyLv / BibiGPT](https://github.com/JimmyLv/BibiGPT)
+    - BibiGPT · One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc. 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,573** &nbsp;&nbsp; folks: **232**  &nbsp;&nbsp; `2,191 stars this month`
 
-1. [yihong0618 / bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
-    - Make bilingual epub books Using AI translate
-    - language: **Python** &nbsp;&nbsp; stars: **4,977** &nbsp;&nbsp; folks: **681**  &nbsp;&nbsp; `4,174 stars this month`
+1. [869413421 / chatgpt-web](https://github.com/869413421/chatgpt-web)
+    - 基于ChatGPT3.5 API实现的私有化web程序
+    - language: **Go** &nbsp;&nbsp; stars: **2,424** &nbsp;&nbsp; folks: **558**  &nbsp;&nbsp; `1,780 stars this month`
 
 1. [huggingface / peft](https://github.com/huggingface/peft)
     - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-    - language: **Python** &nbsp;&nbsp; stars: **3,085** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `1,930 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,090** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `1,930 stars this month`
+
+1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+    - This repo includes ChatGPT prompt curation to use ChatGPT better.
+    - language: **HTML** &nbsp;&nbsp; stars: **59,821** &nbsp;&nbsp; folks: **7,178**  &nbsp;&nbsp; `23,950 stars this month`
+
+1. [ddiu8081 / chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+    - A demo repo based on OpenAI API.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,971** &nbsp;&nbsp; folks: **2,833**  &nbsp;&nbsp; `4,756 stars this month`
 
 1. [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **20,712** &nbsp;&nbsp; folks: **1,655**  &nbsp;&nbsp; `9,485 stars this month`
-
-1. [jerryjliu / llama_index](https://github.com/jerryjliu/llama_index)
-    - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
-    - language: **Python** &nbsp;&nbsp; stars: **10,649** &nbsp;&nbsp; folks: **1,019**  &nbsp;&nbsp; `5,884 stars this month`
-
-1. [sashabaranov / go-openai](https://github.com/sashabaranov/go-openai)
-    - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-    - language: **Go** &nbsp;&nbsp; stars: **3,605** &nbsp;&nbsp; folks: **452**  &nbsp;&nbsp; `2,530 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **20,731** &nbsp;&nbsp; folks: **1,656**  &nbsp;&nbsp; `9,485 stars this month`
 
 1. [fauxpilot / fauxpilot](https://github.com/fauxpilot/fauxpilot)
     - FauxPilot - an open-source alternative to GitHub Copilot server
-    - language: **Python** &nbsp;&nbsp; stars: **10,654** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `2,793 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,656** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `2,793 stars this month`
+
+1. [sashabaranov / go-openai](https://github.com/sashabaranov/go-openai)
+    - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+    - language: **Go** &nbsp;&nbsp; stars: **3,610** &nbsp;&nbsp; folks: **452**  &nbsp;&nbsp; `2,530 stars this month`
+
+1. [apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
+    - Stable Diffusion with Core ML on Apple Silicon
+    - language: **Python** &nbsp;&nbsp; stars: **9,866** &nbsp;&nbsp; folks: **433**  &nbsp;&nbsp; `3,742 stars this month`
 
 1. [huggingface / transformers](https://github.com/huggingface/transformers)
     - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-    - language: **Python** &nbsp;&nbsp; stars: **90,039** &nbsp;&nbsp; folks: **19,201**  &nbsp;&nbsp; `6,691 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **90,055** &nbsp;&nbsp; folks: **19,207**  &nbsp;&nbsp; `6,691 stars this month`
 
-1. [karfly / chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,530** &nbsp;&nbsp; folks: **697**  &nbsp;&nbsp; `1,600 stars this month`
+1. [jerryjliu / llama_index](https://github.com/jerryjliu/llama_index)
+    - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+    - language: **Python** &nbsp;&nbsp; stars: **10,660** &nbsp;&nbsp; folks: **1,022**  &nbsp;&nbsp; `5,884 stars this month`
 
 1. [BlinkDL / RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
     - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
-    - language: **Python** &nbsp;&nbsp; stars: **4,824** &nbsp;&nbsp; folks: **319**  &nbsp;&nbsp; `2,632 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,826** &nbsp;&nbsp; folks: **319**  &nbsp;&nbsp; `2,632 stars this month`
 
-1. [zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-    - Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现
-    - language: **Python** &nbsp;&nbsp; stars: **8,298** &nbsp;&nbsp; folks: **1,914**  &nbsp;&nbsp; `4,380 stars this month`
-
-1. [hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI)
-    - Making large AI models cheaper, faster and more accessible
-    - language: **Python** &nbsp;&nbsp; stars: **26,505** &nbsp;&nbsp; folks: **2,985**  &nbsp;&nbsp; `9,005 stars this month`
+1. [Nutlope / roomGPT](https://github.com/Nutlope/roomGPT)
+    - Upload a photo of your room to generate your dream room with AI.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,485** &nbsp;&nbsp; folks: **598**  &nbsp;&nbsp; `5,395 stars this month`
 
 
 ## 历史归档
