@@ -10,7 +10,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2023-10-24 05:09:43 +0800`
+`更新时间：2023-10-24 06:09:47 +0800`
 
 ## 今日热门仓库
 
