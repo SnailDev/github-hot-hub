@@ -55,7 +55,7 @@ class GitHub:
                 soup = BeautifulSoup(resp.text, features='html.parser')
                 articles = soup.select('main article.Box-row')
                 for article in articles:
-                    href = article.select_one('h1.h3 > a')['href']
+                    href = article.select_one('h2.h3 > a')['href']
                     url = 'https://github.com' + href
                     logger.info('%s %s', since, href)
 
