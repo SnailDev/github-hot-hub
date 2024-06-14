@@ -10,77 +10,77 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-06-14 22:12:39 +0800`
+`更新时间：2024-06-14 23:13:52 +0800`
 
 ## 今日热门仓库
 
 1. [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT)
     - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
-    - language: **C++** &nbsp;&nbsp; stars: **9,482** &nbsp;&nbsp; folks: **2,012**  &nbsp;&nbsp; `2 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **9,520** &nbsp;&nbsp; folks: **2,014**  &nbsp;&nbsp; `2 stars today`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,312** &nbsp;&nbsp; folks: **1,385**  &nbsp;&nbsp; `333 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,322** &nbsp;&nbsp; folks: **1,386**  &nbsp;&nbsp; `141 stars today`
 
 1. [Azure / azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java)
     - This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
-    - language: **Java** &nbsp;&nbsp; stars: **2,203** &nbsp;&nbsp; folks: **1,910**  &nbsp;&nbsp; `1 star today`
+    - language: **Java** &nbsp;&nbsp; stars: **2,204** &nbsp;&nbsp; folks: **1,910**  &nbsp;&nbsp; `1 star today`
 
 1. [web-platform-tests / wpt](https://github.com/web-platform-tests/wpt)
     - Test suites for Web platform specs — including WHATWG, W3C, and others
-    - language: **HTML** &nbsp;&nbsp; stars: **4,692** &nbsp;&nbsp; folks: **2,970**  &nbsp;&nbsp; `0 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **4,692** &nbsp;&nbsp; folks: **2,969**  &nbsp;&nbsp; `0 stars today`
 
 1. [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
     - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
-    - language: **Python** &nbsp;&nbsp; stars: **6,928** &nbsp;&nbsp; folks: **927**  &nbsp;&nbsp; `50 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,933** &nbsp;&nbsp; folks: **927**  &nbsp;&nbsp; `50 stars today`
 
 1. [fleetdm / fleet](https://github.com/fleetdm/fleet)
     - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    - language: **Go** &nbsp;&nbsp; stars: **2,317** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `2 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **2,328** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `2 stars today`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **38,013** &nbsp;&nbsp; folks: **4,052**  &nbsp;&nbsp; `283 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **38,030** &nbsp;&nbsp; folks: **4,054**  &nbsp;&nbsp; `283 stars today`
 
 1. [facebook / folly](https://github.com/facebook/folly)
     - An open-source C++ library developed and used at Facebook.
-    - language: **C++** &nbsp;&nbsp; stars: **27,333** &nbsp;&nbsp; folks: **5,447**  &nbsp;&nbsp; `7 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **27,335** &nbsp;&nbsp; folks: **5,447**  &nbsp;&nbsp; `7 stars today`
 
 1. [microsoft / LightGBM](https://github.com/microsoft/LightGBM)
     - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-    - language: **C++** &nbsp;&nbsp; stars: **16,213** &nbsp;&nbsp; folks: **3,784**  &nbsp;&nbsp; `4 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **16,219** &nbsp;&nbsp; folks: **3,784**  &nbsp;&nbsp; `4 stars today`
 
 1. [meetecho / janus-gateway](https://github.com/meetecho/janus-gateway)
     - Janus WebRTC Server
-    - language: **C** &nbsp;&nbsp; stars: **7,889** &nbsp;&nbsp; folks: **2,444**  &nbsp;&nbsp; `3 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **7,895** &nbsp;&nbsp; folks: **2,444**  &nbsp;&nbsp; `3 stars today`
 
 1. [lexbor / lexbor](https://github.com/lexbor/lexbor)
     - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
-    - language: **C** &nbsp;&nbsp; stars: **1,325** &nbsp;&nbsp; folks: **91**  &nbsp;&nbsp; `102 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **1,328** &nbsp;&nbsp; folks: **91**  &nbsp;&nbsp; `102 stars today`
 
 1. [apple / axlearn](https://github.com/apple/axlearn)
     - An Extensible Deep Learning Library
-    - language: **Python** &nbsp;&nbsp; stars: **1,392** &nbsp;&nbsp; folks: **169**  &nbsp;&nbsp; `145 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,400** &nbsp;&nbsp; folks: **170**  &nbsp;&nbsp; `145 stars today`
 
 1. [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
     - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-    - language: **C#** &nbsp;&nbsp; stars: **5,093** &nbsp;&nbsp; folks: **4,515**  &nbsp;&nbsp; `2 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **5,096** &nbsp;&nbsp; folks: **4,515**  &nbsp;&nbsp; `2 stars today`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-    - language: **C#** &nbsp;&nbsp; stars: **2,980** &nbsp;&nbsp; folks: **251**  &nbsp;&nbsp; `116 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **2,990** &nbsp;&nbsp; folks: **251**  &nbsp;&nbsp; `116 stars today`
 
 1. [google / gemma.cpp](https://github.com/google/gemma.cpp)
     - lightweight, standalone C++ inference engine for Google's Gemma models.
-    - language: **C++** &nbsp;&nbsp; stars: **5,622** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `0 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **5,625** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `0 stars today`
 
 1. [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
     - Firebase SDK for Apple App Development
-    - language: **Objective-C** &nbsp;&nbsp; stars: **5,370** &nbsp;&nbsp; folks: **1,419**  &nbsp;&nbsp; `1 star today`
+    - language: **Objective-C** &nbsp;&nbsp; stars: **5,371** &nbsp;&nbsp; folks: **1,420**  &nbsp;&nbsp; `1 star today`
 
 1. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
     - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **4,611** &nbsp;&nbsp; folks: **196**  &nbsp;&nbsp; `87 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **4,628** &nbsp;&nbsp; folks: **196**  &nbsp;&nbsp; `87 stars today`
 
 1. [google / highway](https://github.com/google/highway)
     - Performance-portable, length-agnostic SIMD with runtime dispatch
@@ -88,7 +88,7 @@
 
 1. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
     - Protocol Buffers - Google's data interchange format
-    - language: **C++** &nbsp;&nbsp; stars: **64,208** &nbsp;&nbsp; folks: **15,329**  &nbsp;&nbsp; `6 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **64,210** &nbsp;&nbsp; folks: **15,329**  &nbsp;&nbsp; `6 stars today`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
@@ -99,19 +99,19 @@
 
 1. [idootop / mi-gpt](https://github.com/idootop/mi-gpt)
     - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,634** &nbsp;&nbsp; folks: **362**  &nbsp;&nbsp; `3,406 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,640** &nbsp;&nbsp; folks: **362**  &nbsp;&nbsp; `3,406 stars this week`
 
 1. [jordanbaird / Ice](https://github.com/jordanbaird/Ice)
     - Powerful menu bar manager for macOS
-    - language: **Swift** &nbsp;&nbsp; stars: **8,855** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `5,606 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **8,863** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `5,606 stars this week`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **24,274** &nbsp;&nbsp; folks: **1,231**  &nbsp;&nbsp; `6,922 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **24,280** &nbsp;&nbsp; folks: **1,231**  &nbsp;&nbsp; `6,922 stars this week`
 
 1. [xenova / transformers.js](https://github.com/xenova/transformers.js)
     - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,237** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,194 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,240** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,194 stars this week`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
@@ -119,7 +119,7 @@
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **14,825** &nbsp;&nbsp; folks: **1,011**  &nbsp;&nbsp; `770 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **14,828** &nbsp;&nbsp; folks: **1,011**  &nbsp;&nbsp; `770 stars this week`
 
 1. [JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
     - The most customisable and low-latency cross platform/shell prompt renderer
@@ -127,54 +127,54 @@
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **38,013** &nbsp;&nbsp; folks: **4,052**  &nbsp;&nbsp; `866 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **38,030** &nbsp;&nbsp; folks: **4,054**  &nbsp;&nbsp; `866 stars this week`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **47,488** &nbsp;&nbsp; folks: **25,896**  &nbsp;&nbsp; `1,487 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **47,503** &nbsp;&nbsp; folks: **25,900**  &nbsp;&nbsp; `1,487 stars this week`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
-    - language: **Python** &nbsp;&nbsp; stars: **4,058** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `697 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,059** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `697 stars this week`
 
 1. [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
     - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
-    - language: **Python** &nbsp;&nbsp; stars: **7,052** &nbsp;&nbsp; folks: **799**  &nbsp;&nbsp; `557 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,054** &nbsp;&nbsp; folks: **799**  &nbsp;&nbsp; `557 stars this week`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript
-    - language: **C++** &nbsp;&nbsp; stars: **1,672** &nbsp;&nbsp; folks: **233**  &nbsp;&nbsp; `615 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **1,677** &nbsp;&nbsp; folks: **233**  &nbsp;&nbsp; `615 stars this week`
 
 1. [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
     - A new bootable USB solution.
-    - language: **C** &nbsp;&nbsp; stars: **59,809** &nbsp;&nbsp; folks: **3,916**  &nbsp;&nbsp; `791 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **59,816** &nbsp;&nbsp; folks: **3,916**  &nbsp;&nbsp; `791 stars this week`
 
 1. [logseq / logseq](https://github.com/logseq/logseq)
     - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-    - language: **Clojure** &nbsp;&nbsp; stars: **30,447** &nbsp;&nbsp; folks: **1,782**  &nbsp;&nbsp; `159 stars this week`
+    - language: **Clojure** &nbsp;&nbsp; stars: **30,451** &nbsp;&nbsp; folks: **1,781**  &nbsp;&nbsp; `159 stars this week`
 
 1. [duckdb / duckdb](https://github.com/duckdb/duckdb)
     - DuckDB is an analytical in-process SQL database management system
-    - language: **C++** &nbsp;&nbsp; stars: **19,307** &nbsp;&nbsp; folks: **1,588**  &nbsp;&nbsp; `740 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **19,311** &nbsp;&nbsp; folks: **1,588**  &nbsp;&nbsp; `740 stars this week`
 
 1. [termux / termux-app](https://github.com/termux/termux-app)
     - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    - language: **Java** &nbsp;&nbsp; stars: **32,276** &nbsp;&nbsp; folks: **3,417**  &nbsp;&nbsp; `394 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **32,278** &nbsp;&nbsp; folks: **3,417**  &nbsp;&nbsp; `394 stars this week`
 
 1. [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
     - Self-hosted game stream host for Moonlight.
-    - language: **C++** &nbsp;&nbsp; stars: **14,650** &nbsp;&nbsp; folks: **707**  &nbsp;&nbsp; `555 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **14,655** &nbsp;&nbsp; folks: **707**  &nbsp;&nbsp; `555 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **16,159** &nbsp;&nbsp; folks: **1,654**  &nbsp;&nbsp; `6,181 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **16,170** &nbsp;&nbsp; folks: **1,655**  &nbsp;&nbsp; `6,181 stars this month`
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **7,178** &nbsp;&nbsp; folks: **492**  &nbsp;&nbsp; `5,769 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,181** &nbsp;&nbsp; folks: **492**  &nbsp;&nbsp; `5,769 stars this month`
 
 1. [nocobase / nocobase](https://github.com/nocobase/nocobase)
     - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
@@ -182,15 +182,15 @@
 
 1. [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
     - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,131** &nbsp;&nbsp; folks: **2,342**  &nbsp;&nbsp; `2,281 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,132** &nbsp;&nbsp; folks: **2,342**  &nbsp;&nbsp; `2,281 stars this month`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **14,825** &nbsp;&nbsp; folks: **1,011**  &nbsp;&nbsp; `1,707 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **14,828** &nbsp;&nbsp; folks: **1,011**  &nbsp;&nbsp; `1,707 stars this month`
 
 1. [lencx / ChatGPT](https://github.com/lencx/ChatGPT)
     - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-    - language: **Rust** &nbsp;&nbsp; stars: **51,359** &nbsp;&nbsp; folks: **5,754**  &nbsp;&nbsp; `4,268 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **51,361** &nbsp;&nbsp; folks: **5,754**  &nbsp;&nbsp; `4,268 stars this month`
 
 1. [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     - Design patterns implemented in Java
@@ -198,43 +198,43 @@
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **24,274** &nbsp;&nbsp; folks: **1,231**  &nbsp;&nbsp; `8,092 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **24,280** &nbsp;&nbsp; folks: **1,231**  &nbsp;&nbsp; `8,092 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **273,911** &nbsp;&nbsp; folks: **25,824**  &nbsp;&nbsp; `12,242 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **273,927** &nbsp;&nbsp; folks: **25,826**  &nbsp;&nbsp; `12,242 stars this month`
 
 1. [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
     - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-    - language: **JavaScript** &nbsp;&nbsp; stars: **27,744** &nbsp;&nbsp; folks: **3,228**  &nbsp;&nbsp; `4,297 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **27,749** &nbsp;&nbsp; folks: **3,228**  &nbsp;&nbsp; `4,297 stars this month`
 
 1. [truefoundry / cognita](https://github.com/truefoundry/cognita)
     - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
-    - language: **Python** &nbsp;&nbsp; stars: **2,750** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `1,439 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,752** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `1,439 stars this month`
 
 1. [xenova / transformers.js](https://github.com/xenova/transformers.js)
     - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,237** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,456 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,240** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,456 stars this month`
 
 1. [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
     - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
-    - language: **Python** &nbsp;&nbsp; stars: **7,052** &nbsp;&nbsp; folks: **799**  &nbsp;&nbsp; `1,190 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,054** &nbsp;&nbsp; folks: **799**  &nbsp;&nbsp; `1,190 stars this month`
 
 1. [livekit / livekit](https://github.com/livekit/livekit)
     - End-to-end stack for WebRTC. SFU media server and SDKs.
-    - language: **Go** &nbsp;&nbsp; stars: **8,503** &nbsp;&nbsp; folks: **676**  &nbsp;&nbsp; `1,299 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **8,506** &nbsp;&nbsp; folks: **676**  &nbsp;&nbsp; `1,299 stars this month`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript
-    - language: **C++** &nbsp;&nbsp; stars: **1,672** &nbsp;&nbsp; folks: **233**  &nbsp;&nbsp; `747 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **1,677** &nbsp;&nbsp; folks: **233**  &nbsp;&nbsp; `747 stars this month`
 
 1. [mlc-ai / web-llm](https://github.com/mlc-ai/web-llm)
     - High-performance In-browser LLM Inference Engine
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,226** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `1,449 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,232** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `1,449 stars this month`
 
 1. [lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry)
     - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
-    - language: **C++** &nbsp;&nbsp; stars: **3,008** &nbsp;&nbsp; folks: **540**  &nbsp;&nbsp; `823 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **3,009** &nbsp;&nbsp; folks: **540**  &nbsp;&nbsp; `823 stars this month`
 
 
 ## 历史归档
