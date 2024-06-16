@@ -10,100 +10,100 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-06-16 20:21:28 +0800`
+`更新时间：2024-06-16 21:12:44 +0800`
 
 ## 今日热门仓库
 
 1. [zed-industries / zed](https://github.com/zed-industries/zed)
     - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    - language: **Rust** &nbsp;&nbsp; stars: **36,261** &nbsp;&nbsp; folks: **1,880**  &nbsp;&nbsp; `63 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **36,299** &nbsp;&nbsp; folks: **1,880**  &nbsp;&nbsp; `63 stars today`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-    - language: **C#** &nbsp;&nbsp; stars: **3,231** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `180 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **3,245** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `180 stars today`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **38,480** &nbsp;&nbsp; folks: **4,082**  &nbsp;&nbsp; `246 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **38,500** &nbsp;&nbsp; folks: **4,083**  &nbsp;&nbsp; `246 stars today`
 
 1. [godotengine / godot](https://github.com/godotengine/godot)
     - Godot Engine – Multi-platform 2D and 3D game engine
-    - language: **C++** &nbsp;&nbsp; stars: **85,644** &nbsp;&nbsp; folks: **18,919**  &nbsp;&nbsp; `30 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **85,645** &nbsp;&nbsp; folks: **18,919**  &nbsp;&nbsp; `30 stars today`
 
 1. [Anjok07 / ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
     - GUI for a Vocal Remover that uses Deep Neural Networks.
-    - language: **Python** &nbsp;&nbsp; stars: **15,683** &nbsp;&nbsp; folks: **1,197**  &nbsp;&nbsp; `27 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **15,689** &nbsp;&nbsp; folks: **1,197**  &nbsp;&nbsp; `27 stars today`
 
 1. [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT)
     - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
-    - language: **C++** &nbsp;&nbsp; stars: **9,971** &nbsp;&nbsp; folks: **2,066**  &nbsp;&nbsp; `28 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **9,973** &nbsp;&nbsp; folks: **2,067**  &nbsp;&nbsp; `28 stars today`
 
 1. [PaperMC / Paper](https://github.com/PaperMC/Paper)
     - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-    - language: **Java** &nbsp;&nbsp; stars: **9,022** &nbsp;&nbsp; folks: **2,176**  &nbsp;&nbsp; `20 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **9,028** &nbsp;&nbsp; folks: **2,176**  &nbsp;&nbsp; `20 stars today`
 
 1. [ml-explore / mlx](https://github.com/ml-explore/mlx)
     - MLX: An array framework for Apple silicon
-    - language: **C++** &nbsp;&nbsp; stars: **15,363** &nbsp;&nbsp; folks: **872**  &nbsp;&nbsp; `34 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **15,364** &nbsp;&nbsp; folks: **872**  &nbsp;&nbsp; `34 stars today`
 
 1. [ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples)
     - Examples in the MLX framework
-    - language: **Python** &nbsp;&nbsp; stars: **5,372** &nbsp;&nbsp; folks: **776**  &nbsp;&nbsp; `14 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,373** &nbsp;&nbsp; folks: **776**  &nbsp;&nbsp; `14 stars today`
 
 1. [iptv-org / iptv](https://github.com/iptv-org/iptv)
     - Collection of publicly available IPTV channels from all over the world
-    - language: **JavaScript** &nbsp;&nbsp; stars: **79,618** &nbsp;&nbsp; folks: **1,916**  &nbsp;&nbsp; `36 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **79,628** &nbsp;&nbsp; folks: **1,918**  &nbsp;&nbsp; `36 stars today`
 
 1. [mlc-ai / web-llm](https://github.com/mlc-ai/web-llm)
     - High-performance In-browser LLM Inference Engine
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,306** &nbsp;&nbsp; folks: **710**  &nbsp;&nbsp; `45 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,314** &nbsp;&nbsp; folks: **710**  &nbsp;&nbsp; `45 stars today`
 
 1. [odin-lang / Odin](https://github.com/odin-lang/Odin)
     - Odin Programming Language
-    - language: **Odin** &nbsp;&nbsp; stars: **5,925** &nbsp;&nbsp; folks: **542**  &nbsp;&nbsp; `9 stars today`
+    - language: **Odin** &nbsp;&nbsp; stars: **5,930** &nbsp;&nbsp; folks: **542**  &nbsp;&nbsp; `9 stars today`
 
 1. [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit)
     - On-device Inference of Whisper Speech Recognition Models for Apple Silicon
-    - language: **Swift** &nbsp;&nbsp; stars: **2,664** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `77 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **2,669** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `77 stars today`
 
 1. [pymc-devs / pymc](https://github.com/pymc-devs/pymc)
     - Bayesian Modeling and Probabilistic Programming in Python
-    - language: **Python** &nbsp;&nbsp; stars: **8,275** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `8 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **8,281** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `8 stars today`
 
 1. [NVIDIA / warp](https://github.com/NVIDIA/warp)
     - A Python framework for high performance GPU simulation and graphics
-    - language: **Python** &nbsp;&nbsp; stars: **2,586** &nbsp;&nbsp; folks: **160**  &nbsp;&nbsp; `649 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,602** &nbsp;&nbsp; folks: **160**  &nbsp;&nbsp; `649 stars today`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **27,295** &nbsp;&nbsp; folks: **2,125**  &nbsp;&nbsp; `17 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **27,306** &nbsp;&nbsp; folks: **2,125**  &nbsp;&nbsp; `17 stars today`
 
 1. [fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI)
     - The Abstraction and Reasoning Corpus
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,539** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `64 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,543** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `64 stars today`
 
 
 ## 近一周热门仓库
 
 1. [idootop / mi-gpt](https://github.com/idootop/mi-gpt)
     - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,791** &nbsp;&nbsp; folks: **385**  &nbsp;&nbsp; `2,747 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,796** &nbsp;&nbsp; folks: **386**  &nbsp;&nbsp; `2,747 stars this week`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **24,547** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `5,937 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **24,551** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `5,937 stars this week`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **38,480** &nbsp;&nbsp; folks: **4,082**  &nbsp;&nbsp; `1,196 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **38,500** &nbsp;&nbsp; folks: **4,083**  &nbsp;&nbsp; `1,196 stars this week`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **14,891** &nbsp;&nbsp; folks: **1,013**  &nbsp;&nbsp; `760 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **14,890** &nbsp;&nbsp; folks: **1,013**  &nbsp;&nbsp; `760 stars this week`
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,269** &nbsp;&nbsp; folks: **1,772**  &nbsp;&nbsp; `1,814 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,273** &nbsp;&nbsp; folks: **1,772**  &nbsp;&nbsp; `1,814 stars this week`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
@@ -111,23 +111,23 @@
 
 1. [stanfordnlp / dspy](https://github.com/stanfordnlp/dspy)
     - DSPy: The framework for programming—not prompting—foundation models
-    - language: **Python** &nbsp;&nbsp; stars: **13,001** &nbsp;&nbsp; folks: **993**  &nbsp;&nbsp; `458 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **13,002** &nbsp;&nbsp; folks: **993**  &nbsp;&nbsp; `458 stars this week`
 
 1. [xenova / transformers.js](https://github.com/xenova/transformers.js)
     - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,350** &nbsp;&nbsp; folks: **550**  &nbsp;&nbsp; `1,119 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,353** &nbsp;&nbsp; folks: **550**  &nbsp;&nbsp; `1,119 stars this week`
 
 1. [gchq / CyberChef](https://github.com/gchq/CyberChef)
     - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-    - language: **JavaScript** &nbsp;&nbsp; stars: **26,487** &nbsp;&nbsp; folks: **3,036**  &nbsp;&nbsp; `400 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **26,488** &nbsp;&nbsp; folks: **3,036**  &nbsp;&nbsp; `400 stars this week`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **274,384** &nbsp;&nbsp; folks: **25,855**  &nbsp;&nbsp; `3,232 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **274,399** &nbsp;&nbsp; folks: **25,854**  &nbsp;&nbsp; `3,232 stars this week`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
-    - language: **Python** &nbsp;&nbsp; stars: **4,108** &nbsp;&nbsp; folks: **312**  &nbsp;&nbsp; `702 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,110** &nbsp;&nbsp; folks: **312**  &nbsp;&nbsp; `702 stars this week`
 
 1. [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
     - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
@@ -135,38 +135,38 @@
 
 1. [duckdb / duckdb](https://github.com/duckdb/duckdb)
     - DuckDB is an analytical in-process SQL database management system
-    - language: **C++** &nbsp;&nbsp; stars: **19,439** &nbsp;&nbsp; folks: **1,595**  &nbsp;&nbsp; `684 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **19,443** &nbsp;&nbsp; folks: **1,595**  &nbsp;&nbsp; `684 stars this week`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,560** &nbsp;&nbsp; folks: **1,404**  &nbsp;&nbsp; `725 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,563** &nbsp;&nbsp; folks: **1,404**  &nbsp;&nbsp; `725 stars this week`
 
 1. [metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src)
     - Foundational model for human-like, expressive TTS
-    - language: **Python** &nbsp;&nbsp; stars: **3,331** &nbsp;&nbsp; folks: **576**  &nbsp;&nbsp; `86 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,332** &nbsp;&nbsp; folks: **576**  &nbsp;&nbsp; `86 stars this week`
 
 1. [hcengineering / platform](https://github.com/hcengineering/platform)
     - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-    - language: **Svelte** &nbsp;&nbsp; stars: **4,575** &nbsp;&nbsp; folks: **428**  &nbsp;&nbsp; `1,477 stars this week`
+    - language: **Svelte** &nbsp;&nbsp; stars: **4,581** &nbsp;&nbsp; folks: **428**  &nbsp;&nbsp; `1,477 stars this week`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-    - language: **C#** &nbsp;&nbsp; stars: **3,231** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `496 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **3,245** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `496 stars this week`
 
 1. [google / mesop](https://github.com/google/mesop)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,934** &nbsp;&nbsp; folks: **113**  &nbsp;&nbsp; `1,572 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,940** &nbsp;&nbsp; folks: **114**  &nbsp;&nbsp; `1,572 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **16,367** &nbsp;&nbsp; folks: **1,676**  &nbsp;&nbsp; `6,393 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **16,368** &nbsp;&nbsp; folks: **1,676**  &nbsp;&nbsp; `6,393 stars this month`
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **7,244** &nbsp;&nbsp; folks: **499**  &nbsp;&nbsp; `5,851 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,246** &nbsp;&nbsp; folks: **499**  &nbsp;&nbsp; `5,851 stars this month`
 
 1. [HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend)
     - A massively parallel, high-level programming language
@@ -174,27 +174,27 @@
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **14,891** &nbsp;&nbsp; folks: **1,013**  &nbsp;&nbsp; `1,837 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **14,890** &nbsp;&nbsp; folks: **1,013**  &nbsp;&nbsp; `1,837 stars this month`
 
 1. [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     - Design patterns implemented in Java
-    - language: **Java** &nbsp;&nbsp; stars: **87,936** &nbsp;&nbsp; folks: **26,129**  &nbsp;&nbsp; `1,384 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **87,937** &nbsp;&nbsp; folks: **26,129**  &nbsp;&nbsp; `1,384 stars this month`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **24,547** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `8,280 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **24,551** &nbsp;&nbsp; folks: **1,253**  &nbsp;&nbsp; `8,280 stars this month`
 
 1. [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
     - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-    - language: **JavaScript** &nbsp;&nbsp; stars: **27,844** &nbsp;&nbsp; folks: **3,239**  &nbsp;&nbsp; `4,291 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **27,846** &nbsp;&nbsp; folks: **3,240**  &nbsp;&nbsp; `4,291 stars this month`
 
 1. [truefoundry / cognita](https://github.com/truefoundry/cognita)
     - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
-    - language: **Python** &nbsp;&nbsp; stars: **2,786** &nbsp;&nbsp; folks: **208**  &nbsp;&nbsp; `1,470 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,788** &nbsp;&nbsp; folks: **208**  &nbsp;&nbsp; `1,470 stars this month`
 
 1. [xenova / transformers.js](https://github.com/xenova/transformers.js)
     - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,350** &nbsp;&nbsp; folks: **550**  &nbsp;&nbsp; `1,538 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,353** &nbsp;&nbsp; folks: **550**  &nbsp;&nbsp; `1,538 stars this month`
 
 1. [HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM)
     - A massively parallel, optimal functional runtime in Rust
@@ -206,15 +206,15 @@
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **274,384** &nbsp;&nbsp; folks: **25,855**  &nbsp;&nbsp; `12,613 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **274,399** &nbsp;&nbsp; folks: **25,854**  &nbsp;&nbsp; `12,613 stars this month`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript
-    - language: **C++** &nbsp;&nbsp; stars: **1,794** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `836 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **1,795** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `836 stars this month`
 
 1. [nocobase / nocobase](https://github.com/nocobase/nocobase)
     - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,624** &nbsp;&nbsp; folks: **1,149**  &nbsp;&nbsp; `4,093 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,627** &nbsp;&nbsp; folks: **1,150**  &nbsp;&nbsp; `4,093 stars this month`
 
 1. [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
     - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -222,15 +222,15 @@
 
 1. [duckdb / duckdb](https://github.com/duckdb/duckdb)
     - DuckDB is an analytical in-process SQL database management system
-    - language: **C++** &nbsp;&nbsp; stars: **19,439** &nbsp;&nbsp; folks: **1,595**  &nbsp;&nbsp; `2,265 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **19,443** &nbsp;&nbsp; folks: **1,595**  &nbsp;&nbsp; `2,265 stars this month`
 
 1. [JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
     - The most customisable and low-latency cross platform/shell prompt renderer
-    - language: **Go** &nbsp;&nbsp; stars: **15,301** &nbsp;&nbsp; folks: **2,266**  &nbsp;&nbsp; `929 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **15,304** &nbsp;&nbsp; folks: **2,266**  &nbsp;&nbsp; `929 stars this month`
 
 1. [ente-io / ente](https://github.com/ente-io/ente)
     - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
-    - language: **Dart** &nbsp;&nbsp; stars: **9,459** &nbsp;&nbsp; folks: **540**  &nbsp;&nbsp; `1,810 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **9,461** &nbsp;&nbsp; folks: **540**  &nbsp;&nbsp; `1,810 stars this month`
 
 
 ## 历史归档
