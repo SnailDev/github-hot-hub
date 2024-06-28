@@ -10,96 +10,96 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-06-29 06:10:58 +0800`
+`更新时间：2024-06-29 07:12:45 +0800`
 
 ## 今日热门仓库
 
 1. [modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
     - Enjoy the magic of Diffusion models!
-    - language: **Python** &nbsp;&nbsp; stars: **4,900** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `743 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,907** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `743 stars today`
 
 1. [microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel)
     - Integrate cutting-edge LLM technology quickly and easily into your apps
-    - language: **C#** &nbsp;&nbsp; stars: **19,409** &nbsp;&nbsp; folks: **2,892**  &nbsp;&nbsp; `22 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **19,417** &nbsp;&nbsp; folks: **2,892**  &nbsp;&nbsp; `22 stars today`
 
 1. [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
     - A curated list of free courses & certifications.
-    - language: **无** &nbsp;&nbsp; stars: **24,246** &nbsp;&nbsp; folks: **1,831**  &nbsp;&nbsp; `322 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **24,258** &nbsp;&nbsp; folks: **1,831**  &nbsp;&nbsp; `322 stars today`
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **Python** &nbsp;&nbsp; stars: **10,415** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `73 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,421** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `73 stars today`
 
 1. [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
     - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-    - language: **Swift** &nbsp;&nbsp; stars: **11,804** &nbsp;&nbsp; folks: **1,360**  &nbsp;&nbsp; `18 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **11,806** &nbsp;&nbsp; folks: **1,360**  &nbsp;&nbsp; `18 stars today`
 
 1. [sampotts / plyr](https://github.com/sampotts/plyr)
     - A simple HTML5, YouTube and Vimeo player
-    - language: **JavaScript** &nbsp;&nbsp; stars: **25,879** &nbsp;&nbsp; folks: **2,893**  &nbsp;&nbsp; `17 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **25,885** &nbsp;&nbsp; folks: **2,893**  &nbsp;&nbsp; `17 stars today`
 
 1. [nlohmann / json](https://github.com/nlohmann/json)
     - JSON for Modern C++
-    - language: **C++** &nbsp;&nbsp; stars: **41,135** &nbsp;&nbsp; folks: **6,570**  &nbsp;&nbsp; `38 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **41,138** &nbsp;&nbsp; folks: **6,570**  &nbsp;&nbsp; `38 stars today`
 
 1. [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
     - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-    - language: **PowerShell** &nbsp;&nbsp; stars: **15,209** &nbsp;&nbsp; folks: **994**  &nbsp;&nbsp; `501 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **15,223** &nbsp;&nbsp; folks: **994**  &nbsp;&nbsp; `501 stars today`
 
 1. [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
     - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **62,329** &nbsp;&nbsp; folks: **3,504**  &nbsp;&nbsp; `417 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **62,337** &nbsp;&nbsp; folks: **3,504**  &nbsp;&nbsp; `417 stars today`
 
 1. [astral-sh / uv](https://github.com/astral-sh/uv)
     - An extremely fast Python package installer and resolver, written in Rust.
-    - language: **Rust** &nbsp;&nbsp; stars: **12,986** &nbsp;&nbsp; folks: **360**  &nbsp;&nbsp; `63 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **12,991** &nbsp;&nbsp; folks: **360**  &nbsp;&nbsp; `63 stars today`
 
 1. [stacks-network / stacks-core](https://github.com/stacks-network/stacks-core)
     - The Stacks blockchain implementation
-    - language: **Rust** &nbsp;&nbsp; stars: **2,973** &nbsp;&nbsp; folks: **656**  &nbsp;&nbsp; `19 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **2,975** &nbsp;&nbsp; folks: **656**  &nbsp;&nbsp; `19 stars today`
 
 1. [snipe / snipe-it](https://github.com/snipe/snipe-it)
     - A free open source IT asset/license management system
-    - language: **PHP** &nbsp;&nbsp; stars: **10,165** &nbsp;&nbsp; folks: **3,045**  &nbsp;&nbsp; `155 stars today`
+    - language: **PHP** &nbsp;&nbsp; stars: **10,168** &nbsp;&nbsp; folks: **3,045**  &nbsp;&nbsp; `155 stars today`
 
 1. [NVIDIA / NeMo](https://github.com/NVIDIA/NeMo)
     - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-    - language: **Python** &nbsp;&nbsp; stars: **10,724** &nbsp;&nbsp; folks: **2,255**  &nbsp;&nbsp; `49 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,730** &nbsp;&nbsp; folks: **2,255**  &nbsp;&nbsp; `49 stars today`
 
 1. [mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
     - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-    - language: **无** &nbsp;&nbsp; stars: **6,265** &nbsp;&nbsp; folks: **492**  &nbsp;&nbsp; `387 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **6,274** &nbsp;&nbsp; folks: **492**  &nbsp;&nbsp; `387 stars today`
 
 1. [langfuse / langfuse](https://github.com/langfuse/langfuse)
     - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,456** &nbsp;&nbsp; folks: **405**  &nbsp;&nbsp; `20 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,460** &nbsp;&nbsp; folks: **405**  &nbsp;&nbsp; `20 stars today`
 
 
 ## 近一周热门仓库
 
 1. [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
     - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,998** &nbsp;&nbsp; folks: **2,490**  &nbsp;&nbsp; `1,649 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,998** &nbsp;&nbsp; folks: **2,492**  &nbsp;&nbsp; `1,649 stars this week`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **11,165** &nbsp;&nbsp; folks: **261**  &nbsp;&nbsp; `1,202 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **11,166** &nbsp;&nbsp; folks: **261**  &nbsp;&nbsp; `1,202 stars this week`
 
 1. [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic)
     - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
-    - language: **Java** &nbsp;&nbsp; stars: **1,411** &nbsp;&nbsp; folks: **220**  &nbsp;&nbsp; `402 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **1,413** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `402 stars this week`
 
 1. [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
     - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    - language: **Python** &nbsp;&nbsp; stars: **58,045** &nbsp;&nbsp; folks: **14,142**  &nbsp;&nbsp; `222 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **58,048** &nbsp;&nbsp; folks: **14,143**  &nbsp;&nbsp; `222 stars this week`
 
 1. [anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **1,062** &nbsp;&nbsp; folks: **142**  &nbsp;&nbsp; `57 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,065** &nbsp;&nbsp; folks: **142**  &nbsp;&nbsp; `57 stars this week`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **325,255** &nbsp;&nbsp; folks: **60,384**  &nbsp;&nbsp; `1,274 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **325,260** &nbsp;&nbsp; folks: **60,384**  &nbsp;&nbsp; `1,274 stars this week`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -111,62 +111,62 @@
 
 1. [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti)
     - Open Cyber Threat Intelligence Platform
-    - language: **JavaScript** &nbsp;&nbsp; stars: **5,104** &nbsp;&nbsp; folks: **813**  &nbsp;&nbsp; `180 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **5,105** &nbsp;&nbsp; folks: **813**  &nbsp;&nbsp; `180 stars this week`
 
 1. [snipe / snipe-it](https://github.com/snipe/snipe-it)
     - A free open source IT asset/license management system
-    - language: **PHP** &nbsp;&nbsp; stars: **10,165** &nbsp;&nbsp; folks: **3,045**  &nbsp;&nbsp; `85 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **10,168** &nbsp;&nbsp; folks: **3,045**  &nbsp;&nbsp; `85 stars this week`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **262,344** &nbsp;&nbsp; folks: **44,495**  &nbsp;&nbsp; `1,398 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **262,347** &nbsp;&nbsp; folks: **44,495**  &nbsp;&nbsp; `1,398 stars this week`
 
 1. [Lissy93 / web-check](https://github.com/Lissy93/web-check)
     - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,526** &nbsp;&nbsp; folks: **1,522**  &nbsp;&nbsp; `911 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,527** &nbsp;&nbsp; folks: **1,522**  &nbsp;&nbsp; `911 stars this week`
 
 1. [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
     - Open-Sora: Democratizing Efficient Video Production for All
-    - language: **Python** &nbsp;&nbsp; stars: **19,845** &nbsp;&nbsp; folks: **1,883**  &nbsp;&nbsp; `1,002 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **19,848** &nbsp;&nbsp; folks: **1,883**  &nbsp;&nbsp; `1,002 stars this week`
 
 1. [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **957** &nbsp;&nbsp; folks: **53**  &nbsp;&nbsp; `139 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **958** &nbsp;&nbsp; folks: **53**  &nbsp;&nbsp; `139 stars this week`
 
 1. [files-community / Files](https://github.com/files-community/Files)
     - Building the best file manager for Windows
-    - language: **C#** &nbsp;&nbsp; stars: **32,787** &nbsp;&nbsp; folks: **2,096**  &nbsp;&nbsp; `177 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **32,790** &nbsp;&nbsp; folks: **2,096**  &nbsp;&nbsp; `177 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **17,681** &nbsp;&nbsp; folks: **1,806**  &nbsp;&nbsp; `6,467 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,682** &nbsp;&nbsp; folks: **1,807**  &nbsp;&nbsp; `6,467 stars this month`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **25,794** &nbsp;&nbsp; folks: **1,314**  &nbsp;&nbsp; `9,161 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **25,798** &nbsp;&nbsp; folks: **1,314**  &nbsp;&nbsp; `9,161 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **280,041** &nbsp;&nbsp; folks: **26,282**  &nbsp;&nbsp; `13,697 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **280,049** &nbsp;&nbsp; folks: **26,284**  &nbsp;&nbsp; `13,697 stars this month`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **40,454** &nbsp;&nbsp; folks: **4,312**  &nbsp;&nbsp; `4,474 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **40,459** &nbsp;&nbsp; folks: **4,311**  &nbsp;&nbsp; `4,474 stars this month`
 
 1. [duckdb / duckdb](https://github.com/duckdb/duckdb)
     - DuckDB is an analytical in-process SQL database management system
-    - language: **C++** &nbsp;&nbsp; stars: **20,367** &nbsp;&nbsp; folks: **1,648**  &nbsp;&nbsp; `2,959 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **20,371** &nbsp;&nbsp; folks: **1,648**  &nbsp;&nbsp; `2,959 stars this month`
 
 1. [VikParuchuri / marker](https://github.com/VikParuchuri/marker)
     - Convert PDF to markdown quickly with high accuracy
-    - language: **Python** &nbsp;&nbsp; stars: **13,547** &nbsp;&nbsp; folks: **670**  &nbsp;&nbsp; `4,418 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,551** &nbsp;&nbsp; folks: **670**  &nbsp;&nbsp; `4,418 stars this month`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-    - language: **C#** &nbsp;&nbsp; stars: **4,010** &nbsp;&nbsp; folks: **328**  &nbsp;&nbsp; `1,382 stars this month`
+    - language: **C#** &nbsp;&nbsp; stars: **4,012** &nbsp;&nbsp; folks: **328**  &nbsp;&nbsp; `1,382 stars this month`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
@@ -178,19 +178,19 @@
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **7,683** &nbsp;&nbsp; folks: **529**  &nbsp;&nbsp; `3,870 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,684** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `3,870 stars this month`
 
 1. [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
     - Open-Sora: Democratizing Efficient Video Production for All
-    - language: **Python** &nbsp;&nbsp; stars: **19,845** &nbsp;&nbsp; folks: **1,883**  &nbsp;&nbsp; `2,673 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,848** &nbsp;&nbsp; folks: **1,883**  &nbsp;&nbsp; `2,673 stars this month`
 
 1. [omnivore-app / omnivore](https://github.com/omnivore-app/omnivore)
     - Omnivore is a complete, open source read-it-later solution for people who like reading.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,149** &nbsp;&nbsp; folks: **578**  &nbsp;&nbsp; `1,831 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,151** &nbsp;&nbsp; folks: **578**  &nbsp;&nbsp; `1,831 stars this month`
 
 1. [vanna-ai / vanna](https://github.com/vanna-ai/vanna)
     - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-    - language: **Python** &nbsp;&nbsp; stars: **8,944** &nbsp;&nbsp; folks: **657**  &nbsp;&nbsp; `1,454 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,951** &nbsp;&nbsp; folks: **657**  &nbsp;&nbsp; `1,454 stars this month`
 
 1. [JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
     - The most customisable and low-latency cross platform/shell prompt renderer
@@ -206,7 +206,7 @@
 
 1. [didi / xiaoju-survey](https://github.com/didi/xiaoju-survey)
     - 「快速」打造「专属」问卷系统, 让调研「更轻松」
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,873** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `1,177 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,874** &nbsp;&nbsp; folks: **221**  &nbsp;&nbsp; `1,177 stars this month`
 
 
 ## 历史归档
