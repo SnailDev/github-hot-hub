@@ -10,25 +10,25 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-07-03 17:13:24 +0800`
+`更新时间：2024-07-03 18:14:01 +0800`
 
 ## 今日热门仓库
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **53,582** &nbsp;&nbsp; folks: **27,793**  &nbsp;&nbsp; `822 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **53,683** &nbsp;&nbsp; folks: **27,814**  &nbsp;&nbsp; `822 stars today`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **36,408** &nbsp;&nbsp; folks: **7,142**  &nbsp;&nbsp; `410 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **36,471** &nbsp;&nbsp; folks: **7,148**  &nbsp;&nbsp; `410 stars today`
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,715** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `1,354 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,728** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `1,354 stars today`
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **39,521** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `1,614 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **39,548** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `1,614 stars today`
 
 1. [ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)
     - Elden Ring Save Editor. Compatible with PC and Playstation saves.
@@ -36,19 +36,19 @@
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **14,403** &nbsp;&nbsp; folks: **3,437**  &nbsp;&nbsp; `80 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,408** &nbsp;&nbsp; folks: **3,437**  &nbsp;&nbsp; `80 stars today`
 
 1. [cuixueshe / earthworm](https://github.com/cuixueshe/earthworm)
     - Learning English through the method of constructing sentences with conjunctions
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,551** &nbsp;&nbsp; folks: **548**  &nbsp;&nbsp; `234 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,562** &nbsp;&nbsp; folks: **548**  &nbsp;&nbsp; `234 stars today`
 
 1. [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
     - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,475** &nbsp;&nbsp; folks: **2,412**  &nbsp;&nbsp; `19 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,478** &nbsp;&nbsp; folks: **2,412**  &nbsp;&nbsp; `19 stars today`
 
 1. [actualbudget / actual-server](https://github.com/actualbudget/actual-server)
     - Actual's server
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,866** &nbsp;&nbsp; folks: **534**  &nbsp;&nbsp; `17 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,868** &nbsp;&nbsp; folks: **534**  &nbsp;&nbsp; `17 stars today`
 
 1. [moby / moby](https://github.com/moby/moby)
     - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -56,7 +56,7 @@
 
 1. [starship / starship](https://github.com/starship/starship)
     - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-    - language: **Rust** &nbsp;&nbsp; stars: **42,852** &nbsp;&nbsp; folks: **1,838**  &nbsp;&nbsp; `270 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **42,863** &nbsp;&nbsp; folks: **1,838**  &nbsp;&nbsp; `270 stars today`
 
 1. [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
     - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
@@ -64,66 +64,66 @@
 
 1. [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine)
     - Self-hosted game stream host for Moonlight.
-    - language: **C++** &nbsp;&nbsp; stars: **15,401** &nbsp;&nbsp; folks: **743**  &nbsp;&nbsp; `40 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **15,408** &nbsp;&nbsp; folks: **743**  &nbsp;&nbsp; `40 stars today`
 
 1. [facebook / react-native](https://github.com/facebook/react-native)
     - A framework for building native applications using React
-    - language: **C++** &nbsp;&nbsp; stars: **116,967** &nbsp;&nbsp; folks: **24,059**  &nbsp;&nbsp; `28 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **116,968** &nbsp;&nbsp; folks: **24,059**  &nbsp;&nbsp; `28 stars today`
 
 1. [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
     - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
-    - language: **Python** &nbsp;&nbsp; stars: **5,741** &nbsp;&nbsp; folks: **7,236**  &nbsp;&nbsp; `15 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,750** &nbsp;&nbsp; folks: **7,238**  &nbsp;&nbsp; `15 stars today`
 
 1. [restic / restic](https://github.com/restic/restic)
     - Fast, secure, efficient backup program
-    - language: **Go** &nbsp;&nbsp; stars: **24,645** &nbsp;&nbsp; folks: **1,500**  &nbsp;&nbsp; `35 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **24,654** &nbsp;&nbsp; folks: **1,500**  &nbsp;&nbsp; `35 stars today`
 
 1. [NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator)
     - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
-    - language: **Go** &nbsp;&nbsp; stars: **1,520** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `71 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,527** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `71 stars today`
 
 
 ## 近一周热门仓库
 
 1. [modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
     - Enjoy the magic of Diffusion models!
-    - language: **Python** &nbsp;&nbsp; stars: **5,448** &nbsp;&nbsp; folks: **495**  &nbsp;&nbsp; `3,243 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,460** &nbsp;&nbsp; folks: **495**  &nbsp;&nbsp; `3,243 stars this week`
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **39,521** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `5,607 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **39,548** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `5,607 stars this week`
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,715** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `2,402 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,728** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `2,402 stars this week`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **36,408** &nbsp;&nbsp; folks: **7,142**  &nbsp;&nbsp; `2,231 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **36,471** &nbsp;&nbsp; folks: **7,148**  &nbsp;&nbsp; `2,231 stars this week`
 
 1. [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
     - A framework for Claude Opus to intelligently orchestrate subagents.
-    - language: **Python** &nbsp;&nbsp; stars: **3,471** &nbsp;&nbsp; folks: **568**  &nbsp;&nbsp; `819 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,474** &nbsp;&nbsp; folks: **568**  &nbsp;&nbsp; `819 stars this week`
 
 1. [niedev / RTranslator](https://github.com/niedev/RTranslator)
     - Open source real-time translation app for Android that runs locally
-    - language: **C++** &nbsp;&nbsp; stars: **5,190** &nbsp;&nbsp; folks: **385**  &nbsp;&nbsp; `1,685 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **5,195** &nbsp;&nbsp; folks: **385**  &nbsp;&nbsp; `1,685 stars this week`
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **14,403** &nbsp;&nbsp; folks: **3,437**  &nbsp;&nbsp; `233 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,408** &nbsp;&nbsp; folks: **3,437**  &nbsp;&nbsp; `233 stars this week`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **11,582** &nbsp;&nbsp; folks: **270**  &nbsp;&nbsp; `764 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **11,585** &nbsp;&nbsp; folks: **270**  &nbsp;&nbsp; `764 stars this week`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **325,685** &nbsp;&nbsp; folks: **60,420**  &nbsp;&nbsp; `1,114 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **325,687** &nbsp;&nbsp; folks: **60,424**  &nbsp;&nbsp; `1,114 stars this week`
 
 1. [microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel)
     - Integrate cutting-edge LLM technology quickly and easily into your apps
-    - language: **C#** &nbsp;&nbsp; stars: **20,353** &nbsp;&nbsp; folks: **2,957**  &nbsp;&nbsp; `1,134 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **20,356** &nbsp;&nbsp; folks: **2,958**  &nbsp;&nbsp; `1,134 stars this week`
 
 1. [snipe / snipe-it](https://github.com/snipe/snipe-it)
     - A free open source IT asset/license management system
@@ -131,62 +131,62 @@
 
 1. [intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
     - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +48 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more
-    - language: **Python** &nbsp;&nbsp; stars: **924** &nbsp;&nbsp; folks: **93**  &nbsp;&nbsp; `371 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **926** &nbsp;&nbsp; folks: **93**  &nbsp;&nbsp; `371 stars this week`
 
 1. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
     - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **6,360** &nbsp;&nbsp; folks: **238**  &nbsp;&nbsp; `965 stars this week`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **6,362** &nbsp;&nbsp; folks: **238**  &nbsp;&nbsp; `965 stars this week`
 
 1. [projectdiscovery / katana](https://github.com/projectdiscovery/katana)
     - A next-generation crawling and spidering framework.
-    - language: **Go** &nbsp;&nbsp; stars: **10,186** &nbsp;&nbsp; folks: **528**  &nbsp;&nbsp; `390 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **10,187** &nbsp;&nbsp; folks: **528**  &nbsp;&nbsp; `390 stars this week`
 
 1. [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
     - The universal proxy platform
-    - language: **Go** &nbsp;&nbsp; stars: **15,647** &nbsp;&nbsp; folks: **1,919**  &nbsp;&nbsp; `308 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **15,651** &nbsp;&nbsp; folks: **1,919**  &nbsp;&nbsp; `308 stars this week`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,254** &nbsp;&nbsp; folks: **3,406**  &nbsp;&nbsp; `936 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,256** &nbsp;&nbsp; folks: **3,406**  &nbsp;&nbsp; `936 stars this week`
 
 1. [mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
     - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-    - language: **无** &nbsp;&nbsp; stars: **6,935** &nbsp;&nbsp; folks: **528**  &nbsp;&nbsp; `1,990 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **6,941** &nbsp;&nbsp; folks: **529**  &nbsp;&nbsp; `1,990 stars this week`
 
 1. [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
     - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-    - language: **PowerShell** &nbsp;&nbsp; stars: **15,980** &nbsp;&nbsp; folks: **1,033**  &nbsp;&nbsp; `1,746 stars this week`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **15,981** &nbsp;&nbsp; folks: **1,033**  &nbsp;&nbsp; `1,746 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **39,521** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `5,949 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **39,548** &nbsp;&nbsp; folks: **1,738**  &nbsp;&nbsp; `5,949 stars this month`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **26,098** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `9,266 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **26,100** &nbsp;&nbsp; folks: **1,320**  &nbsp;&nbsp; `9,266 stars this month`
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **18,081** &nbsp;&nbsp; folks: **1,855**  &nbsp;&nbsp; `4,155 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,085** &nbsp;&nbsp; folks: **1,855**  &nbsp;&nbsp; `4,155 stars this month`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **40,941** &nbsp;&nbsp; folks: **4,358**  &nbsp;&nbsp; `4,485 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **40,946** &nbsp;&nbsp; folks: **4,360**  &nbsp;&nbsp; `4,485 stars this month`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **63,405** &nbsp;&nbsp; folks: **8,515**  &nbsp;&nbsp; `2,820 stars this month`
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **63,415** &nbsp;&nbsp; folks: **8,516**  &nbsp;&nbsp; `2,820 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **281,400** &nbsp;&nbsp; folks: **26,420**  &nbsp;&nbsp; `12,558 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **281,415** &nbsp;&nbsp; folks: **26,422**  &nbsp;&nbsp; `12,558 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **53,582** &nbsp;&nbsp; folks: **27,793**  &nbsp;&nbsp; `7,427 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **53,683** &nbsp;&nbsp; folks: **27,814**  &nbsp;&nbsp; `7,427 stars this month`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -194,31 +194,31 @@
 
 1. [xenova / transformers.js](https://github.com/xenova/transformers.js)
     - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,902** &nbsp;&nbsp; folks: **587**  &nbsp;&nbsp; `1,965 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,908** &nbsp;&nbsp; folks: **587**  &nbsp;&nbsp; `1,965 stars this month`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter
-    - language: **C++** &nbsp;&nbsp; stars: **2,340** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,318 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **2,342** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,318 stars this month`
 
 1. [duckdb / duckdb](https://github.com/duckdb/duckdb)
     - DuckDB is an analytical in-process SQL database management system
-    - language: **C++** &nbsp;&nbsp; stars: **20,538** &nbsp;&nbsp; folks: **1,663**  &nbsp;&nbsp; `2,677 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **20,540** &nbsp;&nbsp; folks: **1,663**  &nbsp;&nbsp; `2,677 stars this month`
 
 1. [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
     - Open-Sora: Democratizing Efficient Video Production for All
-    - language: **Python** &nbsp;&nbsp; stars: **20,123** &nbsp;&nbsp; folks: **1,906**  &nbsp;&nbsp; `2,959 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,126** &nbsp;&nbsp; folks: **1,906**  &nbsp;&nbsp; `2,959 stars this month`
 
 1. [JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
     - The most customisable and low-latency cross platform/shell prompt renderer
-    - language: **Go** &nbsp;&nbsp; stars: **15,780** &nbsp;&nbsp; folks: **2,280**  &nbsp;&nbsp; `1,274 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **15,783** &nbsp;&nbsp; folks: **2,280**  &nbsp;&nbsp; `1,274 stars this month`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **15,292** &nbsp;&nbsp; folks: **1,053**  &nbsp;&nbsp; `1,530 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **15,293** &nbsp;&nbsp; folks: **1,053**  &nbsp;&nbsp; `1,530 stars this month`
 
 1. [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
     - A framework for Claude Opus to intelligently orchestrate subagents.
-    - language: **Python** &nbsp;&nbsp; stars: **3,471** &nbsp;&nbsp; folks: **568**  &nbsp;&nbsp; `1,475 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,474** &nbsp;&nbsp; folks: **568**  &nbsp;&nbsp; `1,475 stars this month`
 
 
 ## 历史归档
