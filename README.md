@@ -10,88 +10,88 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-07-08 03:09:55 +0800`
+`更新时间：2024-07-08 04:11:45 +0800`
 
 ## 今日热门仓库
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **298,926** &nbsp;&nbsp; folks: **32,368**  &nbsp;&nbsp; `741 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **298,946** &nbsp;&nbsp; folks: **32,370**  &nbsp;&nbsp; `741 stars today`
 
 1. [microsoft / graphrag](https://github.com/microsoft/graphrag)
     - A modular graph-based Retrieval-Augmented Generation (RAG) system
-    - language: **Python** &nbsp;&nbsp; stars: **7,003** &nbsp;&nbsp; folks: **546**  &nbsp;&nbsp; `1,131 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,015** &nbsp;&nbsp; folks: **548**  &nbsp;&nbsp; `1,131 stars today`
 
 1. [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
     - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **63,353** &nbsp;&nbsp; folks: **3,574**  &nbsp;&nbsp; `133 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **63,362** &nbsp;&nbsp; folks: **3,577**  &nbsp;&nbsp; `133 stars today`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **263,086** &nbsp;&nbsp; folks: **44,637**  &nbsp;&nbsp; `139 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **263,094** &nbsp;&nbsp; folks: **44,638**  &nbsp;&nbsp; `139 stars today`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **326,994** &nbsp;&nbsp; folks: **60,578**  &nbsp;&nbsp; `342 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **327,000** &nbsp;&nbsp; folks: **60,577**  &nbsp;&nbsp; `342 stars today`
 
 1. [albertobsd / keyhunt](https://github.com/albertobsd/keyhunt)
     - privkey hunt for crypto currencies that use secp256k1 elliptic curve
-    - language: **C++** &nbsp;&nbsp; stars: **494** &nbsp;&nbsp; folks: **288**  &nbsp;&nbsp; `70 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **495** &nbsp;&nbsp; folks: **288**  &nbsp;&nbsp; `70 stars today`
 
 1. [GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)
     - Install and run your own AI agent service
-    - language: **Shell** &nbsp;&nbsp; stars: **2,807** &nbsp;&nbsp; folks: **110**  &nbsp;&nbsp; `206 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **2,819** &nbsp;&nbsp; folks: **114**  &nbsp;&nbsp; `206 stars today`
 
 1. [lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
     - 一个基于 electron 的音乐软件
-    - language: **TypeScript** &nbsp;&nbsp; stars: **38,129** &nbsp;&nbsp; folks: **5,760**  &nbsp;&nbsp; `17 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **38,130** &nbsp;&nbsp; folks: **5,760**  &nbsp;&nbsp; `17 stars today`
 
 1. [disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)
     - a list of disposable and temporary email address domains
-    - language: **Python** &nbsp;&nbsp; stars: **2,606** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `149 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,608** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `149 stars today`
 
 1. [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
     - Curated list of project-based tutorials
-    - language: **无** &nbsp;&nbsp; stars: **180,806** &nbsp;&nbsp; folks: **23,750**  &nbsp;&nbsp; `197 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **180,813** &nbsp;&nbsp; folks: **23,754**  &nbsp;&nbsp; `197 stars today`
 
 1. [ente-io / ente](https://github.com/ente-io/ente)
     - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
-    - language: **Dart** &nbsp;&nbsp; stars: **11,751** &nbsp;&nbsp; folks: **641**  &nbsp;&nbsp; `131 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **11,762** &nbsp;&nbsp; folks: **641**  &nbsp;&nbsp; `131 stars today`
 
 1. [godotengine / godot](https://github.com/godotengine/godot)
     - Godot Engine – Multi-platform 2D and 3D game engine
-    - language: **C++** &nbsp;&nbsp; stars: **86,467** &nbsp;&nbsp; folks: **19,267**  &nbsp;&nbsp; `39 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **86,470** &nbsp;&nbsp; folks: **19,267**  &nbsp;&nbsp; `39 stars today`
 
 1. [Grasscutters / Grasscutter](https://github.com/Grasscutters/Grasscutter)
     - A server software reimplementation for a certain anime game.
-    - language: **Java** &nbsp;&nbsp; stars: **15,909** &nbsp;&nbsp; folks: **4,463**  &nbsp;&nbsp; `5 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **15,912** &nbsp;&nbsp; folks: **4,463**  &nbsp;&nbsp; `5 stars today`
 
 1. [alex-shpak / hugo-book](https://github.com/alex-shpak/hugo-book)
     - Hugo documentation theme as simple as plain book
-    - language: **HTML** &nbsp;&nbsp; stars: **2,887** &nbsp;&nbsp; folks: **1,118**  &nbsp;&nbsp; `24 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **2,889** &nbsp;&nbsp; folks: **1,118**  &nbsp;&nbsp; `24 stars today`
 
 
 ## 近一周热门仓库
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,149** &nbsp;&nbsp; folks: **777**  &nbsp;&nbsp; `2,880 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,151** &nbsp;&nbsp; folks: **777**  &nbsp;&nbsp; `2,880 stars this week`
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **40,378** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `5,987 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **40,385** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `5,987 stars this week`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **37,334** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `3,580 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **37,339** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `3,580 stars this week`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **55,414** &nbsp;&nbsp; folks: **28,319**  &nbsp;&nbsp; `6,230 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **55,423** &nbsp;&nbsp; folks: **28,321**  &nbsp;&nbsp; `6,230 stars this week`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **4,563** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `1,871 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,564** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `1,871 stars this week`
 
 1. [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
     - The Serenity Operating System 🐞
@@ -103,7 +103,7 @@
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **14,531** &nbsp;&nbsp; folks: **3,456**  &nbsp;&nbsp; `388 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,531** &nbsp;&nbsp; folks: **3,457**  &nbsp;&nbsp; `388 stars this week`
 
 1. [eclipse-theia / theia](https://github.com/eclipse-theia/theia)
     - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -115,15 +115,15 @@
 
 1. [mifi / lossless-cut](https://github.com/mifi/lossless-cut)
     - The swiss army knife of lossless video/audio editing
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,545** &nbsp;&nbsp; folks: **1,214**  &nbsp;&nbsp; `1,244 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,547** &nbsp;&nbsp; folks: **1,214**  &nbsp;&nbsp; `1,244 stars this week`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **326,994** &nbsp;&nbsp; folks: **60,578**  &nbsp;&nbsp; `1,441 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **327,000** &nbsp;&nbsp; folks: **60,577**  &nbsp;&nbsp; `1,441 stars this week`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **298,926** &nbsp;&nbsp; folks: **32,368**  &nbsp;&nbsp; `1,117 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **298,946** &nbsp;&nbsp; folks: **32,370**  &nbsp;&nbsp; `1,117 stars this week`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - The platform for building AI from enterprise data
@@ -135,11 +135,11 @@
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **281,779** &nbsp;&nbsp; folks: **37,566**  &nbsp;&nbsp; `1,137 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **281,784** &nbsp;&nbsp; folks: **37,566**  &nbsp;&nbsp; `1,137 stars this week`
 
 1. [ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)
     - Elden Ring Save Editor. Compatible with PC and Playstation saves.
-    - language: **Rust** &nbsp;&nbsp; stars: **238** &nbsp;&nbsp; folks: **51**  &nbsp;&nbsp; `134 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **239** &nbsp;&nbsp; folks: **51**  &nbsp;&nbsp; `134 stars this week`
 
 1. [NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator)
     - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
@@ -147,11 +147,11 @@
 
 1. [sczhou / CodeFormer](https://github.com/sczhou/CodeFormer)
     - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-    - language: **Python** &nbsp;&nbsp; stars: **14,192** &nbsp;&nbsp; folks: **3,074**  &nbsp;&nbsp; `106 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,193** &nbsp;&nbsp; folks: **3,074**  &nbsp;&nbsp; `106 stars this week`
 
 1. [posit-dev / positron](https://github.com/posit-dev/positron)
     - Positron, a next-generation data science IDE
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,476** &nbsp;&nbsp; folks: **43**  &nbsp;&nbsp; `699 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,477** &nbsp;&nbsp; folks: **43**  &nbsp;&nbsp; `699 stars this week`
 
 1. [joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo)
     - A Modern Fullstack E-Commerce Marketplace for Digital Products
@@ -162,15 +162,15 @@
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **40,378** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `6,926 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **40,385** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `6,926 stars this month`
 
 1. [idootop / mi-gpt](https://github.com/idootop/mi-gpt)
     - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,896** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `4,821 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,897** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `4,821 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **55,414** &nbsp;&nbsp; folks: **28,319**  &nbsp;&nbsp; `9,699 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **55,423** &nbsp;&nbsp; folks: **28,321**  &nbsp;&nbsp; `9,699 stars this month`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -178,15 +178,15 @@
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **41,363** &nbsp;&nbsp; folks: **4,395**  &nbsp;&nbsp; `4,449 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **41,368** &nbsp;&nbsp; folks: **4,395**  &nbsp;&nbsp; `4,449 stars this month`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **37,334** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `4,526 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **37,339** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `4,526 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **282,359** &nbsp;&nbsp; folks: **26,484**  &nbsp;&nbsp; `12,224 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **282,366** &nbsp;&nbsp; folks: **26,485**  &nbsp;&nbsp; `12,224 stars this month`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -194,15 +194,15 @@
 
 1. [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
     - Open-Sora: Democratizing Efficient Video Production for All
-    - language: **Python** &nbsp;&nbsp; stars: **20,312** &nbsp;&nbsp; folks: **1,920**  &nbsp;&nbsp; `3,073 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,313** &nbsp;&nbsp; folks: **1,920**  &nbsp;&nbsp; `3,073 stars this month`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **26,397** &nbsp;&nbsp; folks: **1,338**  &nbsp;&nbsp; `9,202 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **26,398** &nbsp;&nbsp; folks: **1,339**  &nbsp;&nbsp; `9,202 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **4,563** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `2,163 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,564** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `2,163 stars this month`
 
 1. [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
     - A framework for Claude Opus to intelligently orchestrate subagents.
@@ -210,31 +210,31 @@
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **12,858** &nbsp;&nbsp; folks: **1,235**  &nbsp;&nbsp; `2,102 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,860** &nbsp;&nbsp; folks: **1,235**  &nbsp;&nbsp; `2,102 stars this month`
 
 1. [omnivore-app / omnivore](https://github.com/omnivore-app/omnivore)
     - Omnivore is a complete, open source read-it-later solution for people who like reading.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,388** &nbsp;&nbsp; folks: **593**  &nbsp;&nbsp; `2,005 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,389** &nbsp;&nbsp; folks: **593**  &nbsp;&nbsp; `2,005 stars this month`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **11,803** &nbsp;&nbsp; folks: **274**  &nbsp;&nbsp; `2,312 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **11,807** &nbsp;&nbsp; folks: **274**  &nbsp;&nbsp; `2,312 stars this month`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter
-    - language: **C++** &nbsp;&nbsp; stars: **2,440** &nbsp;&nbsp; folks: **280**  &nbsp;&nbsp; `1,393 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **2,441** &nbsp;&nbsp; folks: **280**  &nbsp;&nbsp; `1,393 stars this month`
 
 1. [labmlai / annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
     - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-    - language: **Python** &nbsp;&nbsp; stars: **51,402** &nbsp;&nbsp; folks: **5,319**  &nbsp;&nbsp; `2,017 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **51,403** &nbsp;&nbsp; folks: **5,319**  &nbsp;&nbsp; `2,017 stars this month`
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **18,629** &nbsp;&nbsp; folks: **1,910**  &nbsp;&nbsp; `3,587 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,634** &nbsp;&nbsp; folks: **1,910**  &nbsp;&nbsp; `3,587 stars this month`
 
 1. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
     - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **6,709** &nbsp;&nbsp; folks: **251**  &nbsp;&nbsp; `2,329 stars this month`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **6,711** &nbsp;&nbsp; folks: **251**  &nbsp;&nbsp; `2,329 stars this month`
 
 1. [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT)
     - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
