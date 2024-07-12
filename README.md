@@ -10,33 +10,33 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-07-13 04:13:02 +0800`
+`更新时间：2024-07-13 05:12:42 +0800`
 
 ## 今日热门仓库
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **5,379** &nbsp;&nbsp; folks: **556**  &nbsp;&nbsp; `139 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,398** &nbsp;&nbsp; folks: **556**  &nbsp;&nbsp; `139 stars today`
 
 1. [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
     - The headless rich text editor framework for web artisans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,986** &nbsp;&nbsp; folks: **2,092**  &nbsp;&nbsp; `188 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,994** &nbsp;&nbsp; folks: **2,092**  &nbsp;&nbsp; `188 stars today`
 
 1. [TabbyML / tabby](https://github.com/TabbyML/tabby)
     - Self-hosted AI coding assistant
-    - language: **Rust** &nbsp;&nbsp; stars: **18,521** &nbsp;&nbsp; folks: **797**  &nbsp;&nbsp; `27 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,535** &nbsp;&nbsp; folks: **797**  &nbsp;&nbsp; `27 stars today`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **285,518** &nbsp;&nbsp; folks: **26,831**  &nbsp;&nbsp; `574 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **285,526** &nbsp;&nbsp; folks: **26,831**  &nbsp;&nbsp; `574 stars today`
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **Python** &nbsp;&nbsp; stars: **11,886** &nbsp;&nbsp; folks: **1,141**  &nbsp;&nbsp; `144 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **11,892** &nbsp;&nbsp; folks: **1,141**  &nbsp;&nbsp; `144 stars today`
 
 1. [grpc / grpc-go](https://github.com/grpc/grpc-go)
     - The Go language implementation of gRPC. HTTP/2 based RPC
-    - language: **Go** &nbsp;&nbsp; stars: **20,478** &nbsp;&nbsp; folks: **4,286**  &nbsp;&nbsp; `82 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **20,479** &nbsp;&nbsp; folks: **4,284**  &nbsp;&nbsp; `82 stars today`
 
 1. [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor)
     - NewPipe's core library for extracting data from streaming sites
@@ -44,7 +44,7 @@
 
 1. [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube)
     - SmartTube - an advanced player for set-top boxes and tvs running Android OS
-    - language: **Java** &nbsp;&nbsp; stars: **17,631** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `230 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **17,633** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `230 stars today`
 
 1. [ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism)
     - Optimism is Ethereum, scaled.
@@ -52,62 +52,62 @@
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-    - language: **Python** &nbsp;&nbsp; stars: **40,497** &nbsp;&nbsp; folks: **7,489**  &nbsp;&nbsp; `30 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **40,500** &nbsp;&nbsp; folks: **7,487**  &nbsp;&nbsp; `30 stars today`
 
 1. [bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb)
     - 🛡️ Make your web services secure by default !
-    - language: **Python** &nbsp;&nbsp; stars: **4,248** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `130 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,263** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `130 stars today`
 
 1. [apify / crawlee-python](https://github.com/apify/crawlee-python)
     - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
-    - language: **Python** &nbsp;&nbsp; stars: **1,082** &nbsp;&nbsp; folks: **56**  &nbsp;&nbsp; `132 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,096** &nbsp;&nbsp; folks: **56**  &nbsp;&nbsp; `132 stars today`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **13,330** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `114 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **13,339** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `114 stars today`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **77,509** &nbsp;&nbsp; folks: **7,790**  &nbsp;&nbsp; `113 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **77,510** &nbsp;&nbsp; folks: **7,790**  &nbsp;&nbsp; `113 stars today`
 
 
 ## 近一周热门仓库
 
 1. [microsoft / graphrag](https://github.com/microsoft/graphrag)
     - A modular graph-based Retrieval-Augmented Generation (RAG) system
-    - language: **Python** &nbsp;&nbsp; stars: **9,974** &nbsp;&nbsp; folks: **775**  &nbsp;&nbsp; `6,239 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,980** &nbsp;&nbsp; folks: **776**  &nbsp;&nbsp; `6,239 stars this week`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **5,251** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `1,440 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,253** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `1,440 stars this week`
 
 1. [Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
     - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-    - language: **Python** &nbsp;&nbsp; stars: **893** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `568 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **894** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `568 stars this week`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **301,709** &nbsp;&nbsp; folks: **32,565**  &nbsp;&nbsp; `4,163 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **301,716** &nbsp;&nbsp; folks: **32,565**  &nbsp;&nbsp; `4,163 stars this week`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **328,028** &nbsp;&nbsp; folks: **60,679**  &nbsp;&nbsp; `1,926 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **328,030** &nbsp;&nbsp; folks: **60,679**  &nbsp;&nbsp; `1,926 stars this week`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **5,379** &nbsp;&nbsp; folks: **556**  &nbsp;&nbsp; `358 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,398** &nbsp;&nbsp; folks: **556**  &nbsp;&nbsp; `358 stars this week`
 
 1. [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider)
     - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-    - language: **JavaScript** &nbsp;&nbsp; stars: **30,038** &nbsp;&nbsp; folks: **3,547**  &nbsp;&nbsp; `898 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **30,039** &nbsp;&nbsp; folks: **3,547**  &nbsp;&nbsp; `898 stars this week`
 
 1. [bevyengine / bevy](https://github.com/bevyengine/bevy)
     - A refreshingly simple data-driven game engine built in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **34,050** &nbsp;&nbsp; folks: **3,318**  &nbsp;&nbsp; `558 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **34,051** &nbsp;&nbsp; folks: **3,318**  &nbsp;&nbsp; `558 stars this week`
 
 1. [bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days)
     - 50+ mini web projects using HTML, CSS & JS
-    - language: **CSS** &nbsp;&nbsp; stars: **35,613** &nbsp;&nbsp; folks: **8,842**  &nbsp;&nbsp; `484 stars this week`
+    - language: **CSS** &nbsp;&nbsp; stars: **35,614** &nbsp;&nbsp; folks: **8,842**  &nbsp;&nbsp; `484 stars this week`
 
 1. [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
@@ -115,11 +115,11 @@
 
 1. [signalapp / Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
     - A private messenger for Windows, macOS, and Linux.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,243** &nbsp;&nbsp; folks: **2,588**  &nbsp;&nbsp; `47 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,244** &nbsp;&nbsp; folks: **2,588**  &nbsp;&nbsp; `47 stars this week`
 
 1. [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
     - A libre lightweight streaming front-end for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **29,866** &nbsp;&nbsp; folks: **2,963**  &nbsp;&nbsp; `306 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **29,867** &nbsp;&nbsp; folks: **2,963**  &nbsp;&nbsp; `306 stars this week`
 
 1. [ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism)
     - Optimism is Ethereum, scaled.
@@ -131,22 +131,22 @@
 
 1. [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
     - GPT4All: Chat with Local LLMs on Any Device
-    - language: **C++** &nbsp;&nbsp; stars: **67,303** &nbsp;&nbsp; folks: **7,413**  &nbsp;&nbsp; `839 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **67,305** &nbsp;&nbsp; folks: **7,413**  &nbsp;&nbsp; `839 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **40,860** &nbsp;&nbsp; folks: **1,797**  &nbsp;&nbsp; `7,486 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **40,862** &nbsp;&nbsp; folks: **1,797**  &nbsp;&nbsp; `7,486 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **56,186** &nbsp;&nbsp; folks: **28,759**  &nbsp;&nbsp; `9,324 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **56,188** &nbsp;&nbsp; folks: **28,763**  &nbsp;&nbsp; `9,324 stars this month`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **37,844** &nbsp;&nbsp; folks: **7,316**  &nbsp;&nbsp; `5,054 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **37,849** &nbsp;&nbsp; folks: **7,319**  &nbsp;&nbsp; `5,054 stars this month`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -158,23 +158,23 @@
 
 1. [hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora)
     - Open-Sora: Democratizing Efficient Video Production for All
-    - language: **Python** &nbsp;&nbsp; stars: **20,547** &nbsp;&nbsp; folks: **1,947**  &nbsp;&nbsp; `3,251 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,548** &nbsp;&nbsp; folks: **1,947**  &nbsp;&nbsp; `3,251 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **无** &nbsp;&nbsp; stars: **285,518** &nbsp;&nbsp; folks: **26,831**  &nbsp;&nbsp; `13,166 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **285,526** &nbsp;&nbsp; folks: **26,831**  &nbsp;&nbsp; `13,166 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **5,251** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `2,895 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,253** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `2,895 stars this month`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **301,709** &nbsp;&nbsp; folks: **32,565**  &nbsp;&nbsp; `6,036 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **301,716** &nbsp;&nbsp; folks: **32,565**  &nbsp;&nbsp; `6,036 stars this month`
 
 1. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
     - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-    - language: **C#** &nbsp;&nbsp; stars: **4,223** &nbsp;&nbsp; folks: **336**  &nbsp;&nbsp; `1,525 stars this month`
+    - language: **C#** &nbsp;&nbsp; stars: **4,225** &nbsp;&nbsp; folks: **336**  &nbsp;&nbsp; `1,525 stars this month`
 
 1. [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
     - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
@@ -186,11 +186,11 @@
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **41,973** &nbsp;&nbsp; folks: **4,454**  &nbsp;&nbsp; `4,622 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **41,973** &nbsp;&nbsp; folks: **4,453**  &nbsp;&nbsp; `4,622 stars this month`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **328,028** &nbsp;&nbsp; folks: **60,679**  &nbsp;&nbsp; `4,871 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **328,030** &nbsp;&nbsp; folks: **60,679**  &nbsp;&nbsp; `4,871 stars this month`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -198,23 +198,23 @@
 
 1. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
     - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **7,087** &nbsp;&nbsp; folks: **261**  &nbsp;&nbsp; `2,587 stars this month`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **7,088** &nbsp;&nbsp; folks: **261**  &nbsp;&nbsp; `2,587 stars this month`
 
 1. [omnivore-app / omnivore](https://github.com/omnivore-app/omnivore)
     - Omnivore is a complete, open source read-it-later solution for people who like reading.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,520** &nbsp;&nbsp; folks: **596**  &nbsp;&nbsp; `2,085 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,521** &nbsp;&nbsp; folks: **596**  &nbsp;&nbsp; `2,085 stars this month`
 
 1. [tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
     - The distributed financial transactions database designed for mission critical safety and performance.
-    - language: **Zig** &nbsp;&nbsp; stars: **8,881** &nbsp;&nbsp; folks: **456**  &nbsp;&nbsp; `1,411 stars this month`
+    - language: **Zig** &nbsp;&nbsp; stars: **8,883** &nbsp;&nbsp; folks: **456**  &nbsp;&nbsp; `1,411 stars this month`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **13,330** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `1,785 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,339** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `1,785 stars this month`
 
 1. [labmlai / annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
     - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-    - language: **Python** &nbsp;&nbsp; stars: **51,725** &nbsp;&nbsp; folks: **5,334**  &nbsp;&nbsp; `2,088 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **51,727** &nbsp;&nbsp; folks: **5,335**  &nbsp;&nbsp; `2,088 stars this month`
 
 
 ## 历史归档
