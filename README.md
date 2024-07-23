@@ -10,239 +10,239 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-07-23 10:04:30 +0800`
+`更新时间：2024-07-23 11:15:06 +0800`
 
 ## 今日热门仓库
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - The memory layer for Personalized AI
-    - language: **Python** &nbsp;&nbsp; stars: **14,980** &nbsp;&nbsp; folks: **1,510**  &nbsp;&nbsp; `2,091 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **15,098** &nbsp;&nbsp; folks: **1,518**  &nbsp;&nbsp; `2,091 stars today`
 
 1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
     - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **32,419** &nbsp;&nbsp; folks: **2,403**  &nbsp;&nbsp; `554 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **32,480** &nbsp;&nbsp; folks: **2,410**  &nbsp;&nbsp; `554 stars today`
 
 1. [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
     - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
-    - language: **Python** &nbsp;&nbsp; stars: **3,254** &nbsp;&nbsp; folks: **989**  &nbsp;&nbsp; `320 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,274** &nbsp;&nbsp; folks: **991**  &nbsp;&nbsp; `320 stars today`
 
 1. [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
     - Distribute and run LLMs with a single file.
-    - language: **C++** &nbsp;&nbsp; stars: **17,567** &nbsp;&nbsp; folks: **883**  &nbsp;&nbsp; `174 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **17,580** &nbsp;&nbsp; folks: **883**  &nbsp;&nbsp; `174 stars today`
 
 1. [ziglang / zig](https://github.com/ziglang/zig)
     - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-    - language: **Zig** &nbsp;&nbsp; stars: **32,634** &nbsp;&nbsp; folks: **2,377**  &nbsp;&nbsp; `63 stars today`
+    - language: **Zig** &nbsp;&nbsp; stars: **32,643** &nbsp;&nbsp; folks: **2,377**  &nbsp;&nbsp; `63 stars today`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,490** &nbsp;&nbsp; folks: **3,506**  &nbsp;&nbsp; `261 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,526** &nbsp;&nbsp; folks: **3,509**  &nbsp;&nbsp; `261 stars today`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **15,628** &nbsp;&nbsp; folks: **1,085**  &nbsp;&nbsp; `37 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **15,635** &nbsp;&nbsp; folks: **1,085**  &nbsp;&nbsp; `37 stars today`
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **40,328** &nbsp;&nbsp; folks: **1,966**  &nbsp;&nbsp; `259 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **40,339** &nbsp;&nbsp; folks: **1,967**  &nbsp;&nbsp; `259 stars today`
 
 1. [2dust / v2rayNG](https://github.com/2dust/v2rayNG)
     - A V2Ray client for Android, support Xray core and v2fly core
-    - language: **Kotlin** &nbsp;&nbsp; stars: **33,058** &nbsp;&nbsp; folks: **5,169**  &nbsp;&nbsp; `394 stars today`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **33,063** &nbsp;&nbsp; folks: **5,169**  &nbsp;&nbsp; `394 stars today`
 
 1. [openstatusHQ / openstatus](https://github.com/openstatusHQ/openstatus)
     - 🏓 The open-source synthetic monitoring platform 🏓
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,293** &nbsp;&nbsp; folks: **305**  &nbsp;&nbsp; `59 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,305** &nbsp;&nbsp; folks: **306**  &nbsp;&nbsp; `59 stars today`
 
 1. [TraceMachina / nativelink](https://github.com/TraceMachina/nativelink)
     - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
-    - language: **Rust** &nbsp;&nbsp; stars: **707** &nbsp;&nbsp; folks: **76**  &nbsp;&nbsp; `115 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **712** &nbsp;&nbsp; folks: **76**  &nbsp;&nbsp; `115 stars today`
 
 1. [PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
     - Offline build planner for Path of Exile.
-    - language: **Lua** &nbsp;&nbsp; stars: **3,775** &nbsp;&nbsp; folks: **2,026**  &nbsp;&nbsp; `70 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **3,778** &nbsp;&nbsp; folks: **2,026**  &nbsp;&nbsp; `70 stars today`
 
 1. [typst / typst](https://github.com/typst/typst)
     - A new markup-based typesetting system that is powerful and easy to learn.
-    - language: **Rust** &nbsp;&nbsp; stars: **31,172** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `224 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **31,188** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `224 stars today`
 
 1. [qmk / qmk_firmware](https://github.com/qmk/qmk_firmware)
     - Open-source keyboard firmware for Atmel AVR and Arm USB families
-    - language: **C** &nbsp;&nbsp; stars: **17,699** &nbsp;&nbsp; folks: **37,904**  &nbsp;&nbsp; `81 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **17,702** &nbsp;&nbsp; folks: **37,904**  &nbsp;&nbsp; `81 stars today`
 
 1. [RPCS3 / rpcs3](https://github.com/RPCS3/rpcs3)
     - PS3 emulator/debugger
-    - language: **C++** &nbsp;&nbsp; stars: **14,821** &nbsp;&nbsp; folks: **1,871**  &nbsp;&nbsp; `18 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **14,827** &nbsp;&nbsp; folks: **1,871**  &nbsp;&nbsp; `18 stars today`
 
 1. [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
     - Lean's LEDE source
-    - language: **C** &nbsp;&nbsp; stars: **29,237** &nbsp;&nbsp; folks: **19,461**  &nbsp;&nbsp; `16 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **29,240** &nbsp;&nbsp; folks: **19,461**  &nbsp;&nbsp; `16 stars today`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **329,350** &nbsp;&nbsp; folks: **60,777**  &nbsp;&nbsp; `269 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **329,366** &nbsp;&nbsp; folks: **60,775**  &nbsp;&nbsp; `269 stars today`
 
 1. [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
     - Experimental Nintendo Switch Emulator written in C#
-    - language: **C#** &nbsp;&nbsp; stars: **33,654** &nbsp;&nbsp; folks: **3,871**  &nbsp;&nbsp; `39 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **33,662** &nbsp;&nbsp; folks: **3,871**  &nbsp;&nbsp; `39 stars today`
 
 
 ## 近一周热门仓库
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **88,952** &nbsp;&nbsp; folks: **11,221**  &nbsp;&nbsp; `4,700 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **88,976** &nbsp;&nbsp; folks: **11,224**  &nbsp;&nbsp; `4,700 stars this week`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **7,937** &nbsp;&nbsp; folks: **756**  &nbsp;&nbsp; `1,636 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,948** &nbsp;&nbsp; folks: **756**  &nbsp;&nbsp; `1,636 stars this week`
 
 1. [free-educa / books](https://github.com/free-educa/books)
     - o armazém de livros
-    - language: **无** &nbsp;&nbsp; stars: **6,371** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,034 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **6,375** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,034 stars this week`
 
 1. [neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
     - Neo4j graph construction from unstructured data using LLMs
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,480** &nbsp;&nbsp; folks: **191**  &nbsp;&nbsp; `730 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,485** &nbsp;&nbsp; folks: **193**  &nbsp;&nbsp; `730 stars this week`
 
 1. [TabbyML / tabby](https://github.com/TabbyML/tabby)
     - Self-hosted AI coding assistant
-    - language: **Rust** &nbsp;&nbsp; stars: **19,926** &nbsp;&nbsp; folks: **908**  &nbsp;&nbsp; `710 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **19,930** &nbsp;&nbsp; folks: **908**  &nbsp;&nbsp; `710 stars this week`
 
 1. [git-ecosystem / git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
     - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-    - language: **C#** &nbsp;&nbsp; stars: **6,331** &nbsp;&nbsp; folks: **1,660**  &nbsp;&nbsp; `356 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **6,332** &nbsp;&nbsp; folks: **1,660**  &nbsp;&nbsp; `356 stars this week`
 
 1. [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
     - The headless rich text editor framework for web artisans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,687** &nbsp;&nbsp; folks: **2,174**  &nbsp;&nbsp; `394 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,688** &nbsp;&nbsp; folks: **2,174**  &nbsp;&nbsp; `394 stars this week`
 
 1. [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
     - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
-    - language: **Python** &nbsp;&nbsp; stars: **3,254** &nbsp;&nbsp; folks: **989**  &nbsp;&nbsp; `1,265 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,274** &nbsp;&nbsp; folks: **991**  &nbsp;&nbsp; `1,265 stars this week`
 
 1. [apify / crawlee-python](https://github.com/apify/crawlee-python)
     - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
-    - language: **Python** &nbsp;&nbsp; stars: **3,133** &nbsp;&nbsp; folks: **217**  &nbsp;&nbsp; `1,090 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,152** &nbsp;&nbsp; folks: **218**  &nbsp;&nbsp; `1,090 stars this week`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **988** &nbsp;&nbsp; folks: **91**  &nbsp;&nbsp; `426 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,000** &nbsp;&nbsp; folks: **91**  &nbsp;&nbsp; `426 stars this week`
 
 1. [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
     - Distribute and run LLMs with a single file.
-    - language: **C++** &nbsp;&nbsp; stars: **17,567** &nbsp;&nbsp; folks: **883**  &nbsp;&nbsp; `480 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **17,580** &nbsp;&nbsp; folks: **883**  &nbsp;&nbsp; `480 stars this week`
 
 1. [ziglang / zig](https://github.com/ziglang/zig)
     - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-    - language: **Zig** &nbsp;&nbsp; stars: **32,634** &nbsp;&nbsp; folks: **2,377**  &nbsp;&nbsp; `296 stars this week`
+    - language: **Zig** &nbsp;&nbsp; stars: **32,643** &nbsp;&nbsp; folks: **2,377**  &nbsp;&nbsp; `296 stars this week`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,490** &nbsp;&nbsp; folks: **3,506**  &nbsp;&nbsp; `857 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,526** &nbsp;&nbsp; folks: **3,509**  &nbsp;&nbsp; `857 stars this week`
 
 1. [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
     - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **22,194** &nbsp;&nbsp; folks: **3,168**  &nbsp;&nbsp; `1,256 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **22,201** &nbsp;&nbsp; folks: **3,168**  &nbsp;&nbsp; `1,256 stars this week`
 
 1. [actions / runner-images](https://github.com/actions/runner-images)
     - GitHub Actions runner images
-    - language: **PowerShell** &nbsp;&nbsp; stars: **9,603** &nbsp;&nbsp; folks: **2,958**  &nbsp;&nbsp; `196 stars this week`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **9,604** &nbsp;&nbsp; folks: **2,958**  &nbsp;&nbsp; `196 stars this week`
 
 1. [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
     - Ghidra is a software reverse engineering (SRE) framework
-    - language: **Java** &nbsp;&nbsp; stars: **49,480** &nbsp;&nbsp; folks: **5,687**  &nbsp;&nbsp; `206 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **49,486** &nbsp;&nbsp; folks: **5,686**  &nbsp;&nbsp; `206 stars this week`
 
 1. [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
     - The universal proxy platform
-    - language: **Go** &nbsp;&nbsp; stars: **16,606** &nbsp;&nbsp; folks: **2,025**  &nbsp;&nbsp; `369 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **16,607** &nbsp;&nbsp; folks: **2,026**  &nbsp;&nbsp; `369 stars this week`
 
 1. [prisma / prisma](https://github.com/prisma/prisma)
     - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-    - language: **TypeScript** &nbsp;&nbsp; stars: **38,277** &nbsp;&nbsp; folks: **1,483**  &nbsp;&nbsp; `167 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **38,278** &nbsp;&nbsp; folks: **1,483**  &nbsp;&nbsp; `167 stars this week`
 
 1. [Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt)
     - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-    - language: **Python** &nbsp;&nbsp; stars: **8,984** &nbsp;&nbsp; folks: **898**  &nbsp;&nbsp; `325 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,986** &nbsp;&nbsp; folks: **899**  &nbsp;&nbsp; `325 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [WerWolv / ImHex](https://github.com/WerWolv/ImHex)
     - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    - language: **C++** &nbsp;&nbsp; stars: **41,494** &nbsp;&nbsp; folks: **1,823**  &nbsp;&nbsp; `8,087 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **41,495** &nbsp;&nbsp; folks: **1,823**  &nbsp;&nbsp; `8,087 stars this month`
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **88,952** &nbsp;&nbsp; folks: **11,221**  &nbsp;&nbsp; `10,906 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **88,976** &nbsp;&nbsp; folks: **11,224**  &nbsp;&nbsp; `10,906 stars this month`
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,843** &nbsp;&nbsp; folks: **840**  &nbsp;&nbsp; `3,792 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,844** &nbsp;&nbsp; folks: **840**  &nbsp;&nbsp; `3,792 stars this month`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **38,566** &nbsp;&nbsp; folks: **7,431**  &nbsp;&nbsp; `5,706 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **38,569** &nbsp;&nbsp; folks: **7,431**  &nbsp;&nbsp; `5,706 stars this month`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **7,937** &nbsp;&nbsp; folks: **756**  &nbsp;&nbsp; `3,169 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,948** &nbsp;&nbsp; folks: **756**  &nbsp;&nbsp; `3,169 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **57,226** &nbsp;&nbsp; folks: **29,395**  &nbsp;&nbsp; `9,260 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **57,229** &nbsp;&nbsp; folks: **29,398**  &nbsp;&nbsp; `9,260 stars this month`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - The platform for building AI from enterprise data
-    - language: **Python** &nbsp;&nbsp; stars: **25,706** &nbsp;&nbsp; folks: **4,820**  &nbsp;&nbsp; `3,939 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,707** &nbsp;&nbsp; folks: **4,820**  &nbsp;&nbsp; `3,939 stars this month`
 
 1. [neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
     - Neo4j graph construction from unstructured data using LLMs
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,480** &nbsp;&nbsp; folks: **191**  &nbsp;&nbsp; `1,208 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,485** &nbsp;&nbsp; folks: **193**  &nbsp;&nbsp; `1,208 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **6,194** &nbsp;&nbsp; folks: **480**  &nbsp;&nbsp; `3,765 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,201** &nbsp;&nbsp; folks: **480**  &nbsp;&nbsp; `3,765 stars this month`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **329,350** &nbsp;&nbsp; folks: **60,777**  &nbsp;&nbsp; `5,753 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **329,367** &nbsp;&nbsp; folks: **60,775**  &nbsp;&nbsp; `5,753 stars this month`
 
 1. [free-educa / books](https://github.com/free-educa/books)
     - o armazém de livros
-    - language: **无** &nbsp;&nbsp; stars: **6,371** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,375 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **6,375** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,375 stars this month`
 
 1. [Doriandarko / maestro](https://github.com/Doriandarko/maestro)
     - A framework for Claude Opus to intelligently orchestrate subagents.
-    - language: **Python** &nbsp;&nbsp; stars: **3,955** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `1,710 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,958** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `1,710 stars this month`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **304,615** &nbsp;&nbsp; folks: **32,716**  &nbsp;&nbsp; `8,069 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **304,678** &nbsp;&nbsp; folks: **32,719**  &nbsp;&nbsp; `8,069 stars this month`
 
 1. [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic)
     - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
-    - language: **Java** &nbsp;&nbsp; stars: **1,732** &nbsp;&nbsp; folks: **272**  &nbsp;&nbsp; `568 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **1,734** &nbsp;&nbsp; folks: **272**  &nbsp;&nbsp; `568 stars this month`
 
 1. [AleoNet / snarkOS](https://github.com/AleoNet/snarkOS)
     - A Decentralized Operating System for ZK Applications
-    - language: **Rust** &nbsp;&nbsp; stars: **4,224** &nbsp;&nbsp; folks: **2,587**  &nbsp;&nbsp; `289 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **4,225** &nbsp;&nbsp; folks: **2,587**  &nbsp;&nbsp; `289 stars this month`
 
 1. [eclipse-theia / theia](https://github.com/eclipse-theia/theia)
     - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,630** &nbsp;&nbsp; folks: **2,463**  &nbsp;&nbsp; `711 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,631** &nbsp;&nbsp; folks: **2,463**  &nbsp;&nbsp; `711 stars this month`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **12,653** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `2,675 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **12,654** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `2,675 stars this month`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **64,858** &nbsp;&nbsp; folks: **8,602**  &nbsp;&nbsp; `2,897 stars this month`
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **64,864** &nbsp;&nbsp; folks: **8,604**  &nbsp;&nbsp; `2,897 stars this month`
 
 1. [gedoor / legado](https://github.com/gedoor/legado)
     - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-    - language: **Kotlin** &nbsp;&nbsp; stars: **26,433** &nbsp;&nbsp; folks: **3,637**  &nbsp;&nbsp; `1,324 stars this month`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **26,436** &nbsp;&nbsp; folks: **3,637**  &nbsp;&nbsp; `1,324 stars this month`
 
 
 ## 历史归档
