@@ -10,29 +10,29 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-07-27 18:12:22 +0800`
+`更新时间：2024-07-27 19:11:32 +0800`
 
 ## 今日热门仓库
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **313,568** &nbsp;&nbsp; folks: **27,244**  &nbsp;&nbsp; `482 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **313,595** &nbsp;&nbsp; folks: **27,244**  &nbsp;&nbsp; `482 stars today`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **395,524** &nbsp;&nbsp; folks: **36,375**  &nbsp;&nbsp; `342 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **395,532** &nbsp;&nbsp; folks: **36,377**  &nbsp;&nbsp; `342 stars today`
 
 1. [Netflix / maestro](https://github.com/Netflix/maestro)
     - Maestro: Netflix’s Workflow Orchestrator
-    - language: **Java** &nbsp;&nbsp; stars: **2,015** &nbsp;&nbsp; folks: **131**  &nbsp;&nbsp; `273 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **2,020** &nbsp;&nbsp; folks: **132**  &nbsp;&nbsp; `273 stars today`
 
 1. [meta-llama / llama3](https://github.com/meta-llama/llama3)
     - The official Meta Llama 3 GitHub site
-    - language: **Python** &nbsp;&nbsp; stars: **24,645** &nbsp;&nbsp; folks: **2,678**  &nbsp;&nbsp; `328 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **24,654** &nbsp;&nbsp; folks: **2,679**  &nbsp;&nbsp; `328 stars today`
 
 1. [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
     - Curated list of project-based tutorials
-    - language: **无** &nbsp;&nbsp; stars: **186,656** &nbsp;&nbsp; folks: **24,409**  &nbsp;&nbsp; `642 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **186,679** &nbsp;&nbsp; folks: **24,411**  &nbsp;&nbsp; `642 stars today`
 
 1. [gabime / spdlog](https://github.com/gabime/spdlog)
     - Fast C++ logging library.
@@ -40,70 +40,70 @@
 
 1. [fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit)
     - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
-    - language: **C#** &nbsp;&nbsp; stars: **4,714** &nbsp;&nbsp; folks: **1,400**  &nbsp;&nbsp; `136 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **4,715** &nbsp;&nbsp; folks: **1,400**  &nbsp;&nbsp; `136 stars today`
 
 1. [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
     - Flipper Zero Unleashed Firmware
-    - language: **C** &nbsp;&nbsp; stars: **16,269** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `146 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **16,272** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `146 stars today`
 
 1. [lz4 / lz4](https://github.com/lz4/lz4)
     - Extremely Fast Compression algorithm
-    - language: **C** &nbsp;&nbsp; stars: **9,868** &nbsp;&nbsp; folks: **1,368**  &nbsp;&nbsp; `115 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **9,870** &nbsp;&nbsp; folks: **1,368**  &nbsp;&nbsp; `115 stars today`
 
 1. [facebook / folly](https://github.com/facebook/folly)
     - An open-source C++ library developed and used at Facebook.
-    - language: **C++** &nbsp;&nbsp; stars: **27,693** &nbsp;&nbsp; folks: **5,488**  &nbsp;&nbsp; `24 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **27,694** &nbsp;&nbsp; folks: **5,488**  &nbsp;&nbsp; `24 stars today`
 
 1. [influxdata / telegraf](https://github.com/influxdata/telegraf)
     - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-    - language: **Go** &nbsp;&nbsp; stars: **14,292** &nbsp;&nbsp; folks: **5,528**  &nbsp;&nbsp; `11 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **14,295** &nbsp;&nbsp; folks: **5,528**  &nbsp;&nbsp; `11 stars today`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **81,064** &nbsp;&nbsp; folks: **6,197**  &nbsp;&nbsp; `380 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **81,083** &nbsp;&nbsp; folks: **6,197**  &nbsp;&nbsp; `380 stars today`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **39,222** &nbsp;&nbsp; folks: **5,368**  &nbsp;&nbsp; `197 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **39,228** &nbsp;&nbsp; folks: **5,369**  &nbsp;&nbsp; `197 stars today`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **13,386** &nbsp;&nbsp; folks: **951**  &nbsp;&nbsp; `99 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **13,395** &nbsp;&nbsp; folks: **951**  &nbsp;&nbsp; `99 stars today`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **39,038** &nbsp;&nbsp; folks: **7,504**  &nbsp;&nbsp; `102 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **39,044** &nbsp;&nbsp; folks: **7,504**  &nbsp;&nbsp; `102 stars today`
 
 1. [jgthms / bulma](https://github.com/jgthms/bulma)
     - Modern CSS framework based on Flexbox
-    - language: **CSS** &nbsp;&nbsp; stars: **48,942** &nbsp;&nbsp; folks: **3,932**  &nbsp;&nbsp; `10 stars today`
+    - language: **CSS** &nbsp;&nbsp; stars: **48,943** &nbsp;&nbsp; folks: **3,932**  &nbsp;&nbsp; `10 stars today`
 
 1. [AutoMQ / automq](https://github.com/AutoMQ/automq)
     - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
-    - language: **Java** &nbsp;&nbsp; stars: **2,436** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `46 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **2,440** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `46 stars today`
 
 
 ## 近一周热门仓库
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - The memory layer for Personalized AI
-    - language: **Python** &nbsp;&nbsp; stars: **17,761** &nbsp;&nbsp; folks: **1,695**  &nbsp;&nbsp; `7,488 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **17,761** &nbsp;&nbsp; folks: **1,696**  &nbsp;&nbsp; `7,488 stars this week`
 
 1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
     - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **34,736** &nbsp;&nbsp; folks: **2,588**  &nbsp;&nbsp; `4,376 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **34,752** &nbsp;&nbsp; folks: **2,590**  &nbsp;&nbsp; `4,376 stars this week`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **8,451** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `1,174 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,454** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `1,174 stars this week`
 
 1. [Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile)
     - Distribute and run LLMs with a single file.
-    - language: **C++** &nbsp;&nbsp; stars: **17,805** &nbsp;&nbsp; folks: **896**  &nbsp;&nbsp; `597 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **17,806** &nbsp;&nbsp; folks: **896**  &nbsp;&nbsp; `597 stars this week`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,928** &nbsp;&nbsp; folks: **3,568**  &nbsp;&nbsp; `1,071 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,930** &nbsp;&nbsp; folks: **3,568**  &nbsp;&nbsp; `1,071 stars this week`
 
 1. [NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
     - NVIDIA Linux open GPU kernel module source
@@ -111,11 +111,11 @@
 
 1. [ComposioHQ / composio](https://github.com/ComposioHQ/composio)
     - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
-    - language: **Python** &nbsp;&nbsp; stars: **3,998** &nbsp;&nbsp; folks: **1,031**  &nbsp;&nbsp; `2,036 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,002** &nbsp;&nbsp; folks: **1,031**  &nbsp;&nbsp; `2,036 stars this week`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **1,786** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `942 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,816** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `942 stars this week`
 
 1. [airbnb / javascript](https://github.com/airbnb/javascript)
     - JavaScript Style Guide
@@ -127,7 +127,7 @@
 
 1. [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
     - Flipper Zero Unleashed Firmware
-    - language: **C** &nbsp;&nbsp; stars: **16,269** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `325 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **16,272** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `325 stars this week`
 
 1. [actions / runner-images](https://github.com/actions/runner-images)
     - GitHub Actions runner images
@@ -135,15 +135,15 @@
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **40,873** &nbsp;&nbsp; folks: **2,006**  &nbsp;&nbsp; `1,169 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **40,881** &nbsp;&nbsp; folks: **2,006**  &nbsp;&nbsp; `1,169 stars this week`
 
 1. [mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
     - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
-    - language: **Python** &nbsp;&nbsp; stars: **3,443** &nbsp;&nbsp; folks: **2,580**  &nbsp;&nbsp; `233 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,444** &nbsp;&nbsp; folks: **2,580**  &nbsp;&nbsp; `233 stars this week`
 
 1. [meta-llama / llama](https://github.com/meta-llama/llama)
     - Inference code for Llama models
-    - language: **Python** &nbsp;&nbsp; stars: **54,657** &nbsp;&nbsp; folks: **9,367**  &nbsp;&nbsp; `373 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **54,658** &nbsp;&nbsp; folks: **9,367**  &nbsp;&nbsp; `373 stars this week`
 
 1. [Ryujinx / Ryujinx](https://github.com/Ryujinx/Ryujinx)
     - Experimental Nintendo Switch Emulator written in C#
@@ -158,31 +158,31 @@
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **89,870** &nbsp;&nbsp; folks: **11,324**  &nbsp;&nbsp; `11,293 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **89,872** &nbsp;&nbsp; folks: **11,325**  &nbsp;&nbsp; `11,293 stars this month`
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,965** &nbsp;&nbsp; folks: **849**  &nbsp;&nbsp; `3,845 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,966** &nbsp;&nbsp; folks: **849**  &nbsp;&nbsp; `3,845 stars this month`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **8,451** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `3,642 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,454** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `3,642 stars this month`
 
 1. [Asabeneh / 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
     - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    - language: **Python** &nbsp;&nbsp; stars: **39,038** &nbsp;&nbsp; folks: **7,504**  &nbsp;&nbsp; `5,845 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,044** &nbsp;&nbsp; folks: **7,504**  &nbsp;&nbsp; `5,845 stars this month`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - The platform for building AI from enterprise data
-    - language: **Python** &nbsp;&nbsp; stars: **25,832** &nbsp;&nbsp; folks: **4,818**  &nbsp;&nbsp; `3,555 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,833** &nbsp;&nbsp; folks: **4,818**  &nbsp;&nbsp; `3,555 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **57,523** &nbsp;&nbsp; folks: **29,605**  &nbsp;&nbsp; `9,380 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **57,525** &nbsp;&nbsp; folks: **29,608**  &nbsp;&nbsp; `9,380 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **6,483** &nbsp;&nbsp; folks: **507**  &nbsp;&nbsp; `4,030 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,486** &nbsp;&nbsp; folks: **507**  &nbsp;&nbsp; `4,030 stars this month`
 
 1. [free-educa / books](https://github.com/free-educa/books)
     - o armazém de livros
@@ -190,39 +190,39 @@
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,928** &nbsp;&nbsp; folks: **3,568**  &nbsp;&nbsp; `2,511 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,930** &nbsp;&nbsp; folks: **3,568**  &nbsp;&nbsp; `2,511 stars this month`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **306,779** &nbsp;&nbsp; folks: **32,853**  &nbsp;&nbsp; `10,530 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **306,782** &nbsp;&nbsp; folks: **32,854**  &nbsp;&nbsp; `10,530 stars this month`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **329,886** &nbsp;&nbsp; folks: **60,810**  &nbsp;&nbsp; `5,533 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **329,890** &nbsp;&nbsp; folks: **60,811**  &nbsp;&nbsp; `5,533 stars this month`
 
 1. [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
     - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **22,548** &nbsp;&nbsp; folks: **3,206**  &nbsp;&nbsp; `3,014 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **22,551** &nbsp;&nbsp; folks: **3,206**  &nbsp;&nbsp; `3,014 stars this month`
 
 1. [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
     - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-    - language: **PowerShell** &nbsp;&nbsp; stars: **17,658** &nbsp;&nbsp; folks: **1,128**  &nbsp;&nbsp; `3,454 stars this month`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **17,661** &nbsp;&nbsp; folks: **1,128**  &nbsp;&nbsp; `3,454 stars this month`
 
 1. [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
     - The universal proxy platform
-    - language: **Go** &nbsp;&nbsp; stars: **16,745** &nbsp;&nbsp; folks: **2,041**  &nbsp;&nbsp; `1,433 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **16,747** &nbsp;&nbsp; folks: **2,041**  &nbsp;&nbsp; `1,433 stars this month`
 
 1. [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
     - A libre lightweight streaming front-end for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **30,429** &nbsp;&nbsp; folks: **2,982**  &nbsp;&nbsp; `1,177 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **30,430** &nbsp;&nbsp; folks: **2,982**  &nbsp;&nbsp; `1,177 stars this month`
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **14,732** &nbsp;&nbsp; folks: **3,496**  &nbsp;&nbsp; `644 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,733** &nbsp;&nbsp; folks: **3,496**  &nbsp;&nbsp; `644 stars this month`
 
 1. [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
     - GPT4All: Chat with Local LLMs on Any Device
-    - language: **C++** &nbsp;&nbsp; stars: **67,860** &nbsp;&nbsp; folks: **7,456**  &nbsp;&nbsp; `1,990 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **67,863** &nbsp;&nbsp; folks: **7,456**  &nbsp;&nbsp; `1,990 stars this month`
 
 1. [eclipse-theia / theia](https://github.com/eclipse-theia/theia)
     - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
