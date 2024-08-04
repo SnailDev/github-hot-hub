@@ -10,108 +10,108 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-08-04 11:13:53 +0800`
+`更新时间：2024-08-04 12:15:58 +0800`
 
 ## 今日热门仓库
 
 1. [pytorch / torchchat](https://github.com/pytorch/torchchat)
     - Run PyTorch LLMs locally on servers, desktop and mobile
-    - language: **Python** &nbsp;&nbsp; stars: **1,915** &nbsp;&nbsp; folks: **105**  &nbsp;&nbsp; `337 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,947** &nbsp;&nbsp; folks: **110**  &nbsp;&nbsp; `337 stars today`
 
 1. [asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec)
     - Work-in-progress vector search SQLite extension that runs anywhere.
-    - language: **C** &nbsp;&nbsp; stars: **2,025** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `471 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **2,047** &nbsp;&nbsp; folks: **47**  &nbsp;&nbsp; `471 stars today`
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **16,892** &nbsp;&nbsp; folks: **1,287**  &nbsp;&nbsp; `1,330 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **16,905** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `1,330 stars today`
 
 1. [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
     - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
-    - language: **Vue** &nbsp;&nbsp; stars: **23,262** &nbsp;&nbsp; folks: **6,346**  &nbsp;&nbsp; `14 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **23,264** &nbsp;&nbsp; folks: **6,348**  &nbsp;&nbsp; `14 stars today`
 
 1. [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
     - A collection of (mostly) technical things every software developer should know about
-    - language: **无** &nbsp;&nbsp; stars: **78,904** &nbsp;&nbsp; folks: **7,515**  &nbsp;&nbsp; `153 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **78,927** &nbsp;&nbsp; folks: **7,518**  &nbsp;&nbsp; `153 stars today`
 
 1. [xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI)
     - A simple and fast anti-censorship tool written in Go
-    - language: **Go** &nbsp;&nbsp; stars: **972** &nbsp;&nbsp; folks: **44**  &nbsp;&nbsp; `118 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **975** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `118 stars today`
 
 1. [bol-van / zapret](https://github.com/bol-van/zapret)
     - DPI bypass multi platform
-    - language: **C** &nbsp;&nbsp; stars: **3,846** &nbsp;&nbsp; folks: **371**  &nbsp;&nbsp; `457 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **3,847** &nbsp;&nbsp; folks: **373**  &nbsp;&nbsp; `457 stars today`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **33,945** &nbsp;&nbsp; folks: **10,020**  &nbsp;&nbsp; `58 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **33,946** &nbsp;&nbsp; folks: **10,020**  &nbsp;&nbsp; `58 stars today`
 
 1. [mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm)
     - Universal LLM Deployment Engine with ML Compilation
-    - language: **Python** &nbsp;&nbsp; stars: **18,196** &nbsp;&nbsp; folks: **1,440**  &nbsp;&nbsp; `70 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **18,200** &nbsp;&nbsp; folks: **1,440**  &nbsp;&nbsp; `70 stars today`
 
 1. [RSSNext / follow](https://github.com/RSSNext/follow)
     - 🧡 Next generation information browser
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,462** &nbsp;&nbsp; folks: **70**  &nbsp;&nbsp; `251 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,468** &nbsp;&nbsp; folks: **71**  &nbsp;&nbsp; `251 stars today`
 
 1. [zulip / zulip](https://github.com/zulip/zulip)
     - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-    - language: **Python** &nbsp;&nbsp; stars: **20,686** &nbsp;&nbsp; folks: **7,576**  &nbsp;&nbsp; `31 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **20,687** &nbsp;&nbsp; folks: **7,576**  &nbsp;&nbsp; `31 stars today`
 
 1. [google / benchmark](https://github.com/google/benchmark)
     - A microbenchmark support library
-    - language: **C++** &nbsp;&nbsp; stars: **8,773** &nbsp;&nbsp; folks: **1,599**  &nbsp;&nbsp; `10 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **8,777** &nbsp;&nbsp; folks: **1,598**  &nbsp;&nbsp; `10 stars today`
 
 1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
     - Real time interactive streaming digital human
-    - language: **Python** &nbsp;&nbsp; stars: **2,391** &nbsp;&nbsp; folks: **357**  &nbsp;&nbsp; `106 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,397** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `106 stars today`
 
 1. [apache / apisix](https://github.com/apache/apisix)
     - The Cloud-Native API Gateway
-    - language: **Lua** &nbsp;&nbsp; stars: **14,128** &nbsp;&nbsp; folks: **2,468**  &nbsp;&nbsp; `9 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **14,129** &nbsp;&nbsp; folks: **2,469**  &nbsp;&nbsp; `9 stars today`
 
 1. [rancher / rancher](https://github.com/rancher/rancher)
     - Complete container management platform
-    - language: **Go** &nbsp;&nbsp; stars: **23,012** &nbsp;&nbsp; folks: **2,927**  &nbsp;&nbsp; `71 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **23,017** &nbsp;&nbsp; folks: **2,929**  &nbsp;&nbsp; `71 stars today`
 
 1. [hiddify / hiddify-next](https://github.com/hiddify/hiddify-next)
     - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-    - language: **Dart** &nbsp;&nbsp; stars: **13,910** &nbsp;&nbsp; folks: **1,301**  &nbsp;&nbsp; `51 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **13,921** &nbsp;&nbsp; folks: **1,301**  &nbsp;&nbsp; `51 stars today`
 
 1. [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
     - An Open Source Machine Learning Framework for Everyone
-    - language: **C++** &nbsp;&nbsp; stars: **184,504** &nbsp;&nbsp; folks: **74,109**  &nbsp;&nbsp; `26 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **184,511** &nbsp;&nbsp; folks: **74,112**  &nbsp;&nbsp; `26 stars today`
 
 
 ## 近一周热门仓库
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,855** &nbsp;&nbsp; folks: **1,229**  &nbsp;&nbsp; `4,439 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,856** &nbsp;&nbsp; folks: **1,229**  &nbsp;&nbsp; `4,439 stars this week`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **6,242** &nbsp;&nbsp; folks: **484**  &nbsp;&nbsp; `4,226 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,255** &nbsp;&nbsp; folks: **486**  &nbsp;&nbsp; `4,226 stars this week`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **38,958** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `2,656 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **38,960** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `2,656 stars this week`
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - A drop-in replacement of Redis with SQL-based realtime reactivity.
-    - language: **Go** &nbsp;&nbsp; stars: **2,419** &nbsp;&nbsp; folks: **320**  &nbsp;&nbsp; `1,403 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **2,421** &nbsp;&nbsp; folks: **320**  &nbsp;&nbsp; `1,403 stars this week`
 
 1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
     - Real time interactive streaming digital human
-    - language: **Python** &nbsp;&nbsp; stars: **2,391** &nbsp;&nbsp; folks: **357**  &nbsp;&nbsp; `1,310 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,397** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `1,310 stars this week`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **397,121** &nbsp;&nbsp; folks: **36,553**  &nbsp;&nbsp; `1,559 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **397,128** &nbsp;&nbsp; folks: **36,553**  &nbsp;&nbsp; `1,559 stars this week`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **33,945** &nbsp;&nbsp; folks: **10,020**  &nbsp;&nbsp; `126 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **33,946** &nbsp;&nbsp; folks: **10,020**  &nbsp;&nbsp; `126 stars this week`
 
 1. [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     - Design patterns implemented in Java
@@ -119,31 +119,31 @@
 
 1. [trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog)
     - Find and verify secrets
-    - language: **Go** &nbsp;&nbsp; stars: **14,931** &nbsp;&nbsp; folks: **1,591**  &nbsp;&nbsp; `313 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **14,935** &nbsp;&nbsp; folks: **1,591**  &nbsp;&nbsp; `313 stars this week`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **301,292** &nbsp;&nbsp; folks: **75,657**  &nbsp;&nbsp; `1,412 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **301,300** &nbsp;&nbsp; folks: **75,658**  &nbsp;&nbsp; `1,412 stars this week`
 
 1. [GrapesJS / grapesjs](https://github.com/GrapesJS/grapesjs)
     - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,440** &nbsp;&nbsp; folks: **3,962**  &nbsp;&nbsp; `448 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,444** &nbsp;&nbsp; folks: **3,962**  &nbsp;&nbsp; `448 stars this week`
 
 1. [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
     - Open Source realtime backend in 1 file
-    - language: **Go** &nbsp;&nbsp; stars: **37,479** &nbsp;&nbsp; folks: **1,682**  &nbsp;&nbsp; `802 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **37,481** &nbsp;&nbsp; folks: **1,682**  &nbsp;&nbsp; `802 stars this week`
 
 1. [jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop)
     - Official electron build of draw.io
-    - language: **JavaScript** &nbsp;&nbsp; stars: **48,917** &nbsp;&nbsp; folks: **4,884**  &nbsp;&nbsp; `633 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **48,918** &nbsp;&nbsp; folks: **4,884**  &nbsp;&nbsp; `633 stars this week`
 
 1. [ClickHouse / ClickHouse](https://github.com/ClickHouse/ClickHouse)
     - ClickHouse® is a real-time analytics DBMS
-    - language: **C++** &nbsp;&nbsp; stars: **36,004** &nbsp;&nbsp; folks: **6,697**  &nbsp;&nbsp; `314 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **36,005** &nbsp;&nbsp; folks: **6,697**  &nbsp;&nbsp; `314 stars this week`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **317,128** &nbsp;&nbsp; folks: **27,467**  &nbsp;&nbsp; `3,369 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **317,148** &nbsp;&nbsp; folks: **27,467**  &nbsp;&nbsp; `3,369 stars this week`
 
 1. [chen08209 / FlClash](https://github.com/chen08209/FlClash)
     - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
@@ -151,46 +151,46 @@
 
 1. [johannesjo / super-productivity](https://github.com/johannesjo/super-productivity)
     - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,994** &nbsp;&nbsp; folks: **770**  &nbsp;&nbsp; `206 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,001** &nbsp;&nbsp; folks: **770**  &nbsp;&nbsp; `206 stars this week`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **44,153** &nbsp;&nbsp; folks: **4,683**  &nbsp;&nbsp; `756 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **44,163** &nbsp;&nbsp; folks: **4,683**  &nbsp;&nbsp; `756 stars this week`
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **16,892** &nbsp;&nbsp; folks: **1,287**  &nbsp;&nbsp; `5,667 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **16,905** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `5,667 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **8,912** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `4,113 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,917** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `4,113 stars this month`
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **91,022** &nbsp;&nbsp; folks: **11,476**  &nbsp;&nbsp; `11,843 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **91,029** &nbsp;&nbsp; folks: **11,476**  &nbsp;&nbsp; `11,843 stars this month`
 
 1. [microsoft / graphrag](https://github.com/microsoft/graphrag)
     - A modular graph-based Retrieval-Augmented Generation (RAG) system
-    - language: **Python** &nbsp;&nbsp; stars: **13,809** &nbsp;&nbsp; folks: **1,194**  &nbsp;&nbsp; `11,531 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,812** &nbsp;&nbsp; folks: **1,194**  &nbsp;&nbsp; `11,531 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,855** &nbsp;&nbsp; folks: **1,229**  &nbsp;&nbsp; `5,806 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,856** &nbsp;&nbsp; folks: **1,229**  &nbsp;&nbsp; `5,806 stars this month`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **38,958** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `2,961 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **38,960** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `2,961 stars this month`
 
 1. [free-educa / books](https://github.com/free-educa/books)
     - o armazém de livros
-    - language: **无** &nbsp;&nbsp; stars: **6,675** &nbsp;&nbsp; folks: **1,329**  &nbsp;&nbsp; `1,588 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **6,677** &nbsp;&nbsp; folks: **1,329**  &nbsp;&nbsp; `1,588 stars this month`
 
 1. [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
     - The headless rich text editor framework for web artisans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,899** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `1,354 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,900** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `1,354 stars this month`
 
 1. [Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
     - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
@@ -202,23 +202,23 @@
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **397,121** &nbsp;&nbsp; folks: **36,553**  &nbsp;&nbsp; `5,061 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **397,128** &nbsp;&nbsp; folks: **36,553**  &nbsp;&nbsp; `5,061 stars this month`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **317,128** &nbsp;&nbsp; folks: **27,467**  &nbsp;&nbsp; `8,155 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **317,148** &nbsp;&nbsp; folks: **27,467**  &nbsp;&nbsp; `8,155 stars this month`
 
 1. [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
     - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
-    - language: **Java** &nbsp;&nbsp; stars: **38,969** &nbsp;&nbsp; folks: **14,537**  &nbsp;&nbsp; `607 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **38,970** &nbsp;&nbsp; folks: **14,537**  &nbsp;&nbsp; `607 stars this month`
 
 1. [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
     - The universal proxy platform
-    - language: **Go** &nbsp;&nbsp; stars: **17,091** &nbsp;&nbsp; folks: **2,073**  &nbsp;&nbsp; `1,519 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **17,095** &nbsp;&nbsp; folks: **2,073**  &nbsp;&nbsp; `1,519 stars this month`
 
 1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
     - Real time interactive streaming digital human
-    - language: **Python** &nbsp;&nbsp; stars: **2,391** &nbsp;&nbsp; folks: **357**  &nbsp;&nbsp; `1,440 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,397** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `1,440 stars this month`
 
 1. [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
     - A libre lightweight streaming front-end for Android.
@@ -226,15 +226,15 @@
 
 1. [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
     - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **23,303** &nbsp;&nbsp; folks: **3,249**  &nbsp;&nbsp; `3,337 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **23,307** &nbsp;&nbsp; folks: **3,249**  &nbsp;&nbsp; `3,337 stars this month`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **15,374** &nbsp;&nbsp; folks: **1,443**  &nbsp;&nbsp; `2,727 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,377** &nbsp;&nbsp; folks: **1,443**  &nbsp;&nbsp; `2,727 stars this month`
 
 1. [localsend / localsend](https://github.com/localsend/localsend)
     - An open-source cross-platform alternative to AirDrop
-    - language: **Dart** &nbsp;&nbsp; stars: **39,895** &nbsp;&nbsp; folks: **2,057**  &nbsp;&nbsp; `2,074 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **39,903** &nbsp;&nbsp; folks: **2,057**  &nbsp;&nbsp; `2,074 stars this month`
 
 1. [NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
     - NVIDIA Linux open GPU kernel module source
