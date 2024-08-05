@@ -10,167 +10,167 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-08-05 11:14:15 +0800`
+`更新时间：2024-08-05 12:15:43 +0800`
 
 ## 今日热门仓库
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **17,780** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `585 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **17,814** &nbsp;&nbsp; folks: **1,382**  &nbsp;&nbsp; `585 stars today`
 
 1. [bol-van / zapret](https://github.com/bol-van/zapret)
     - DPI bypass multi platform
-    - language: **C** &nbsp;&nbsp; stars: **4,048** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `167 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **4,054** &nbsp;&nbsp; folks: **418**  &nbsp;&nbsp; `167 stars today`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **44,410** &nbsp;&nbsp; folks: **4,717**  &nbsp;&nbsp; `150 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **44,426** &nbsp;&nbsp; folks: **4,719**  &nbsp;&nbsp; `150 stars today`
 
 1. [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
     - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-    - language: **PowerShell** &nbsp;&nbsp; stars: **18,543** &nbsp;&nbsp; folks: **1,182**  &nbsp;&nbsp; `145 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **18,551** &nbsp;&nbsp; folks: **1,182**  &nbsp;&nbsp; `145 stars today`
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A feature-rich command-line audio/video downloader
-    - language: **Python** &nbsp;&nbsp; stars: **78,740** &nbsp;&nbsp; folks: **6,183**  &nbsp;&nbsp; `93 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **78,752** &nbsp;&nbsp; folks: **6,185**  &nbsp;&nbsp; `93 stars today`
 
 1. [xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI)
     - A simple and fast anti-censorship tool written in Go
-    - language: **Go** &nbsp;&nbsp; stars: **1,192** &nbsp;&nbsp; folks: **73**  &nbsp;&nbsp; `194 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,196** &nbsp;&nbsp; folks: **76**  &nbsp;&nbsp; `194 stars today`
 
 1. [goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant)
     - Python toolkit for quantitative finance
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,221** &nbsp;&nbsp; folks: **890**  &nbsp;&nbsp; `31 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,224** &nbsp;&nbsp; folks: **895**  &nbsp;&nbsp; `31 stars today`
 
 1. [asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec)
     - A vector search SQLite extension that runs anywhere!
-    - language: **C** &nbsp;&nbsp; stars: **2,364** &nbsp;&nbsp; folks: **78**  &nbsp;&nbsp; `385 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **2,381** &nbsp;&nbsp; folks: **80**  &nbsp;&nbsp; `385 stars today`
 
 1. [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
     - A collection of (mostly) technical things every software developer should know about
-    - language: **无** &nbsp;&nbsp; stars: **79,420** &nbsp;&nbsp; folks: **7,542**  &nbsp;&nbsp; `480 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **79,447** &nbsp;&nbsp; folks: **7,542**  &nbsp;&nbsp; `480 stars today`
 
 1. [zulip / zulip](https://github.com/zulip/zulip)
     - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-    - language: **Python** &nbsp;&nbsp; stars: **20,777** &nbsp;&nbsp; folks: **7,600**  &nbsp;&nbsp; `100 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **20,785** &nbsp;&nbsp; folks: **7,602**  &nbsp;&nbsp; `100 stars today`
 
 1. [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
     - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
-    - language: **Vue** &nbsp;&nbsp; stars: **23,373** &nbsp;&nbsp; folks: **6,382**  &nbsp;&nbsp; `107 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **23,383** &nbsp;&nbsp; folks: **6,385**  &nbsp;&nbsp; `107 stars today`
 
 1. [hufrea / byedpi](https://github.com/hufrea/byedpi)
     - Bypass DPI
-    - language: **C** &nbsp;&nbsp; stars: **533** &nbsp;&nbsp; folks: **47**  &nbsp;&nbsp; `59 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **537** &nbsp;&nbsp; folks: **50**  &nbsp;&nbsp; `59 stars today`
 
 1. [pytorch / torchchat](https://github.com/pytorch/torchchat)
     - Run PyTorch LLMs locally on servers, desktop and mobile
-    - language: **Python** &nbsp;&nbsp; stars: **2,305** &nbsp;&nbsp; folks: **160**  &nbsp;&nbsp; `640 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,321** &nbsp;&nbsp; folks: **160**  &nbsp;&nbsp; `640 stars today`
 
 
 ## 近一周热门仓库
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **17,780** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `6,166 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **17,813** &nbsp;&nbsp; folks: **1,382**  &nbsp;&nbsp; `6,166 stars this week`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **39,046** &nbsp;&nbsp; folks: **1,894**  &nbsp;&nbsp; `2,729 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **39,053** &nbsp;&nbsp; folks: **1,895**  &nbsp;&nbsp; `2,729 stars this week`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,943** &nbsp;&nbsp; folks: **1,235**  &nbsp;&nbsp; `4,172 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,948** &nbsp;&nbsp; folks: **1,237**  &nbsp;&nbsp; `4,172 stars this week`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **6,463** &nbsp;&nbsp; folks: **500**  &nbsp;&nbsp; `3,944 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,477** &nbsp;&nbsp; folks: **502**  &nbsp;&nbsp; `3,944 stars this week`
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - A drop-in replacement of Redis with SQL-based realtime reactivity.
-    - language: **Go** &nbsp;&nbsp; stars: **2,458** &nbsp;&nbsp; folks: **323**  &nbsp;&nbsp; `1,417 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **2,460** &nbsp;&nbsp; folks: **323**  &nbsp;&nbsp; `1,417 stars this week`
 
 1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
     - Real time interactive streaming digital human
-    - language: **Python** &nbsp;&nbsp; stars: **2,470** &nbsp;&nbsp; folks: **364**  &nbsp;&nbsp; `1,372 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,472** &nbsp;&nbsp; folks: **365**  &nbsp;&nbsp; `1,372 stars this week`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **44,410** &nbsp;&nbsp; folks: **4,717**  &nbsp;&nbsp; `862 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **44,426** &nbsp;&nbsp; folks: **4,719**  &nbsp;&nbsp; `862 stars this week`
 
 1. [trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog)
     - Find and verify secrets
-    - language: **Go** &nbsp;&nbsp; stars: **14,958** &nbsp;&nbsp; folks: **1,597**  &nbsp;&nbsp; `281 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **14,959** &nbsp;&nbsp; folks: **1,597**  &nbsp;&nbsp; `281 stars this week`
 
 1. [alpkeskin / mosint](https://github.com/alpkeskin/mosint)
     - An automated e-mail OSINT tool
-    - language: **Go** &nbsp;&nbsp; stars: **4,650** &nbsp;&nbsp; folks: **545**  &nbsp;&nbsp; `276 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,652** &nbsp;&nbsp; folks: **545**  &nbsp;&nbsp; `276 stars this week`
 
 1. [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     - Design patterns implemented in Java
-    - language: **Java** &nbsp;&nbsp; stars: **88,887** &nbsp;&nbsp; folks: **26,321**  &nbsp;&nbsp; `336 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **88,888** &nbsp;&nbsp; folks: **26,321**  &nbsp;&nbsp; `336 stars this week`
 
 1. [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
     - Open Source realtime backend in 1 file
-    - language: **Go** &nbsp;&nbsp; stars: **37,545** &nbsp;&nbsp; folks: **1,683**  &nbsp;&nbsp; `837 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **37,548** &nbsp;&nbsp; folks: **1,682**  &nbsp;&nbsp; `837 stars this week`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **397,300** &nbsp;&nbsp; folks: **36,574**  &nbsp;&nbsp; `1,438 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **397,311** &nbsp;&nbsp; folks: **36,576**  &nbsp;&nbsp; `1,438 stars this week`
 
 1. [jagrosh / MusicBot](https://github.com/jagrosh/MusicBot)
     - 🎶 A Discord music bot that's easy to set up and run yourself!
-    - language: **Java** &nbsp;&nbsp; stars: **4,975** &nbsp;&nbsp; folks: **2,468**  &nbsp;&nbsp; `34 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **4,977** &nbsp;&nbsp; folks: **2,468**  &nbsp;&nbsp; `34 stars this week`
 
 1. [johannesjo / super-productivity](https://github.com/johannesjo/super-productivity)
     - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,046** &nbsp;&nbsp; folks: **771**  &nbsp;&nbsp; `244 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,047** &nbsp;&nbsp; folks: **771**  &nbsp;&nbsp; `244 stars this week`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **301,412** &nbsp;&nbsp; folks: **75,686**  &nbsp;&nbsp; `1,324 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **301,417** &nbsp;&nbsp; folks: **75,690**  &nbsp;&nbsp; `1,324 stars this week`
 
 1. [bol-van / zapret](https://github.com/bol-van/zapret)
     - DPI bypass multi platform
-    - language: **C** &nbsp;&nbsp; stars: **4,048** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `1,165 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **4,054** &nbsp;&nbsp; folks: **418**  &nbsp;&nbsp; `1,165 stars this week`
 
 1. [miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy)
     - 公务员从入门到上岸，最佳程序员公考实践教程
-    - language: **无** &nbsp;&nbsp; stars: **6,098** &nbsp;&nbsp; folks: **521**  &nbsp;&nbsp; `2,359 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **6,109** &nbsp;&nbsp; folks: **525**  &nbsp;&nbsp; `2,359 stars this week`
 
 1. [ClickHouse / ClickHouse](https://github.com/ClickHouse/ClickHouse)
     - ClickHouse® is a real-time analytics DBMS
-    - language: **C++** &nbsp;&nbsp; stars: **36,029** &nbsp;&nbsp; folks: **6,696**  &nbsp;&nbsp; `322 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **36,030** &nbsp;&nbsp; folks: **6,696**  &nbsp;&nbsp; `322 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **8,987** &nbsp;&nbsp; folks: **838**  &nbsp;&nbsp; `4,160 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,989** &nbsp;&nbsp; folks: **839**  &nbsp;&nbsp; `4,160 stars this month`
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **91,138** &nbsp;&nbsp; folks: **11,490**  &nbsp;&nbsp; `11,837 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **91,149** &nbsp;&nbsp; folks: **11,495**  &nbsp;&nbsp; `11,837 stars this month`
 
 1. [microsoft / graphrag](https://github.com/microsoft/graphrag)
     - A modular graph-based Retrieval-Augmented Generation (RAG) system
-    - language: **Python** &nbsp;&nbsp; stars: **13,919** &nbsp;&nbsp; folks: **1,201**  &nbsp;&nbsp; `10,551 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,924** &nbsp;&nbsp; folks: **1,203**  &nbsp;&nbsp; `10,551 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,943** &nbsp;&nbsp; folks: **1,235**  &nbsp;&nbsp; `5,857 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,948** &nbsp;&nbsp; folks: **1,237**  &nbsp;&nbsp; `5,857 stars this month`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **39,046** &nbsp;&nbsp; folks: **1,894**  &nbsp;&nbsp; `3,030 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **39,053** &nbsp;&nbsp; folks: **1,895**  &nbsp;&nbsp; `3,030 stars this month`
 
 1. [free-educa / books](https://github.com/free-educa/books)
     - o armazém de livros
-    - language: **无** &nbsp;&nbsp; stars: **6,696** &nbsp;&nbsp; folks: **1,333**  &nbsp;&nbsp; `1,592 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **6,698** &nbsp;&nbsp; folks: **1,333**  &nbsp;&nbsp; `1,592 stars this month`
 
 1. [ueberdosis / tiptap](https://github.com/ueberdosis/tiptap)
     - The headless rich text editor framework for web artisans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,932** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `1,370 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,936** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `1,370 stars this month`
 
 1. [Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
     - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
@@ -178,47 +178,47 @@
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **397,300** &nbsp;&nbsp; folks: **36,574**  &nbsp;&nbsp; `5,122 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **397,311** &nbsp;&nbsp; folks: **36,576**  &nbsp;&nbsp; `5,122 stars this month`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,271** &nbsp;&nbsp; folks: **3,597**  &nbsp;&nbsp; `2,017 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,272** &nbsp;&nbsp; folks: **3,597**  &nbsp;&nbsp; `2,017 stars this month`
 
 1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
     - Real time interactive streaming digital human
-    - language: **Python** &nbsp;&nbsp; stars: **2,470** &nbsp;&nbsp; folks: **364**  &nbsp;&nbsp; `1,517 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,472** &nbsp;&nbsp; folks: **365**  &nbsp;&nbsp; `1,517 stars this month`
 
 1. [SagerNet / sing-box](https://github.com/SagerNet/sing-box)
     - The universal proxy platform
-    - language: **Go** &nbsp;&nbsp; stars: **17,131** &nbsp;&nbsp; folks: **2,076**  &nbsp;&nbsp; `1,513 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **17,135** &nbsp;&nbsp; folks: **2,076**  &nbsp;&nbsp; `1,513 stars this month`
 
 1. [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe)
     - A libre lightweight streaming front-end for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **30,617** &nbsp;&nbsp; folks: **2,991**  &nbsp;&nbsp; `1,250 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **30,618** &nbsp;&nbsp; folks: **2,991**  &nbsp;&nbsp; `1,250 stars this month`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **317,476** &nbsp;&nbsp; folks: **27,478**  &nbsp;&nbsp; `8,347 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **317,482** &nbsp;&nbsp; folks: **27,479**  &nbsp;&nbsp; `8,347 stars this month`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **15,445** &nbsp;&nbsp; folks: **1,448**  &nbsp;&nbsp; `2,754 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,447** &nbsp;&nbsp; folks: **1,448**  &nbsp;&nbsp; `2,754 stars this month`
 
 1. [localsend / localsend](https://github.com/localsend/localsend)
     - An open-source cross-platform alternative to AirDrop
-    - language: **Dart** &nbsp;&nbsp; stars: **39,987** &nbsp;&nbsp; folks: **2,062**  &nbsp;&nbsp; `2,109 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **39,992** &nbsp;&nbsp; folks: **2,063**  &nbsp;&nbsp; `2,109 stars this month`
 
 1. [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
     - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **23,425** &nbsp;&nbsp; folks: **3,260**  &nbsp;&nbsp; `3,309 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **23,431** &nbsp;&nbsp; folks: **3,260**  &nbsp;&nbsp; `3,309 stars this month`
 
 1. [NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
     - NVIDIA Linux open GPU kernel module source
-    - language: **C** &nbsp;&nbsp; stars: **14,867** &nbsp;&nbsp; folks: **1,218**  &nbsp;&nbsp; `737 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **14,868** &nbsp;&nbsp; folks: **1,219**  &nbsp;&nbsp; `737 stars this month`
 
 1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
     - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **35,569** &nbsp;&nbsp; folks: **2,644**  &nbsp;&nbsp; `6,038 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **35,574** &nbsp;&nbsp; folks: **2,645**  &nbsp;&nbsp; `6,038 stars this month`
 
 
 ## 历史归档
