@@ -10,68 +10,56 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-08-21 18:13:37 +0800`
+`更新时间：2024-08-21 19:10:21 +0800`
 
 ## 今日热门仓库
 
 1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
     - The authentication glue you need.
-    - language: **Python** &nbsp;&nbsp; stars: **11,538** &nbsp;&nbsp; folks: **805**  &nbsp;&nbsp; `946 stars today`
-
-1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-    - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **60,675** &nbsp;&nbsp; folks: **30,754**  &nbsp;&nbsp; `1,592 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **11,558** &nbsp;&nbsp; folks: **805**  &nbsp;&nbsp; `946 stars today`
 
 1. [toss / es-toolkit](https://github.com/toss/es-toolkit)
     - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,094** &nbsp;&nbsp; folks: **200**  &nbsp;&nbsp; `190 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,104** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `190 stars today`
 
-1. [microsoft / graphrag](https://github.com/microsoft/graphrag)
-    - A modular graph-based Retrieval-Augmented Generation (RAG) system
-    - language: **Python** &nbsp;&nbsp; stars: **15,765** &nbsp;&nbsp; folks: **1,446**  &nbsp;&nbsp; `99 stars today`
-
-1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
-    - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,295** &nbsp;&nbsp; folks: **8,802**  &nbsp;&nbsp; `260 stars today`
+1. [zed-industries / zed](https://github.com/zed-industries/zed)
+    - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    - language: **Rust** &nbsp;&nbsp; stars: **44,351** &nbsp;&nbsp; folks: **2,391**  &nbsp;&nbsp; `101 stars today`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **28,821** &nbsp;&nbsp; folks: **2,716**  &nbsp;&nbsp; `422 stars today`
-
-1. [tinygrad / tinygrad](https://github.com/tinygrad/tinygrad)
-    - You like pytorch? You like micrograd? You love tinygrad! ❤️
-    - language: **Python** &nbsp;&nbsp; stars: **25,861** &nbsp;&nbsp; folks: **2,827**  &nbsp;&nbsp; `73 stars today`
-
-1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
-    - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **9,060** &nbsp;&nbsp; folks: **657**  &nbsp;&nbsp; `142 stars today`
-
-1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
-    - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **93,450** &nbsp;&nbsp; folks: **11,814**  &nbsp;&nbsp; `99 stars today`
-
-1. [LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
-    - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-    - language: **Python** &nbsp;&nbsp; stars: **7,784** &nbsp;&nbsp; folks: **734**  &nbsp;&nbsp; `38 stars today`
-
-1. [thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library)
-    - A Library for Advanced Deep Time Series Models.
-    - language: **Python** &nbsp;&nbsp; stars: **5,816** &nbsp;&nbsp; folks: **955**  &nbsp;&nbsp; `27 stars today`
-
-1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
-    - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **5,024** &nbsp;&nbsp; folks: **428**  &nbsp;&nbsp; `158 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **28,836** &nbsp;&nbsp; folks: **2,716**  &nbsp;&nbsp; `422 stars today`
 
 1. [SorellaLabs / brontes](https://github.com/SorellaLabs/brontes)
     - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
-    - language: **Rust** &nbsp;&nbsp; stars: **347** &nbsp;&nbsp; folks: **20**  &nbsp;&nbsp; `92 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **347** &nbsp;&nbsp; folks: **21**  &nbsp;&nbsp; `92 stars today`
 
-1. [mealie-recipes / mealie](https://github.com/mealie-recipes/mealie)
-    - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
-    - language: **Python** &nbsp;&nbsp; stars: **6,455** &nbsp;&nbsp; folks: **663**  &nbsp;&nbsp; `187 stars today`
+1. [wasi-master / 13ft](https://github.com/wasi-master/13ft)
+    - My own custom 12ft.io replacement
+    - language: **Python** &nbsp;&nbsp; stars: **2,093** &nbsp;&nbsp; folks: **122**  &nbsp;&nbsp; `538 stars today`
+
+1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+    - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **60,692** &nbsp;&nbsp; folks: **30,756**  &nbsp;&nbsp; `1,592 stars today`
+
+1. [midday-ai / midday](https://github.com/midday-ai/midday)
+    - Run your business smarter 🪄
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,566** &nbsp;&nbsp; folks: **323**  &nbsp;&nbsp; `124 stars today`
+
+1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
+    - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+    - language: **Go** &nbsp;&nbsp; stars: **21,030** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `254 stars today`
+
+1. [princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+    - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+    - language: **Python** &nbsp;&nbsp; stars: **12,869** &nbsp;&nbsp; folks: **1,264**  &nbsp;&nbsp; `166 stars today`
 
 
 ## 近一周热门仓库
+
+1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
+    - The authentication glue you need.
+    - language: **Python** &nbsp;&nbsp; stars: **11,558** &nbsp;&nbsp; folks: **805**  &nbsp;&nbsp; `2,632 stars this week`
 
 1. [ostris / ai-toolkit](https://github.com/ostris/ai-toolkit)
     - Various AI scripts. Mostly Stable Diffusion stuff.
@@ -79,56 +67,127 @@
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **26,472** &nbsp;&nbsp; folks: **3,601**  &nbsp;&nbsp; `6,574 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,510** &nbsp;&nbsp; folks: **3,605**  &nbsp;&nbsp; `6,574 stars this week`
 
 1. [versotile-org / verso](https://github.com/versotile-org/verso)
     - A web browser that plays old world blues to build new world hope
-    - language: **Rust** &nbsp;&nbsp; stars: **3,922** &nbsp;&nbsp; folks: **149**  &nbsp;&nbsp; `2,057 stars this week`
-
-1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
-    - The authentication glue you need.
-    - language: **Python** &nbsp;&nbsp; stars: **11,538** &nbsp;&nbsp; folks: **805**  &nbsp;&nbsp; `2,632 stars this week`
-
-1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **6,491** &nbsp;&nbsp; folks: **633**  &nbsp;&nbsp; `518 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,924** &nbsp;&nbsp; folks: **149**  &nbsp;&nbsp; `2,057 stars this week`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **47,642** &nbsp;&nbsp; folks: **5,021**  &nbsp;&nbsp; `1,510 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **47,646** &nbsp;&nbsp; folks: **5,022**  &nbsp;&nbsp; `1,510 stars this week`
+
+1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **6,491** &nbsp;&nbsp; folks: **634**  &nbsp;&nbsp; `518 stars this week`
+
+1. [poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer)
+    - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+    - language: **JavaScript** &nbsp;&nbsp; stars: **1,739** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `680 stars this week`
+
+1. [electric-sql / pglite](https://github.com/electric-sql/pglite)
+    - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,232** &nbsp;&nbsp; folks: **128**  &nbsp;&nbsp; `1,201 stars this week`
 
 1. [chen08209 / FlClash](https://github.com/chen08209/FlClash)
     - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-    - language: **Dart** &nbsp;&nbsp; stars: **6,051** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `2,459 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **6,053** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `2,459 stars this week`
 
-1. [huggingface / parler-tts](https://github.com/huggingface/parler-tts)
-    - Inference and training library for high-quality TTS models.
-    - language: **Python** &nbsp;&nbsp; stars: **3,849** &nbsp;&nbsp; folks: **379**  &nbsp;&nbsp; `281 stars this week`
+1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
+    - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    - language: **Python** &nbsp;&nbsp; stars: **43,107** &nbsp;&nbsp; folks: **5,127**  &nbsp;&nbsp; `477 stars this week`
 
-1. [twbs / bootstrap](https://github.com/twbs/bootstrap)
-    - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **169,819** &nbsp;&nbsp; folks: **78,717**  &nbsp;&nbsp; `1,374 stars this week`
+1. [erincatto / box2d](https://github.com/erincatto/box2d)
+    - Box2D is a 2D physics engine for games
+    - language: **C** &nbsp;&nbsp; stars: **7,957** &nbsp;&nbsp; folks: **1,495**  &nbsp;&nbsp; `314 stars this week`
+
+1. [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **2,021** &nbsp;&nbsp; folks: **129**  &nbsp;&nbsp; `245 stars this week`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **43,861** &nbsp;&nbsp; folks: **5,842**  &nbsp;&nbsp; `300 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **43,864** &nbsp;&nbsp; folks: **5,843**  &nbsp;&nbsp; `300 stars this week`
 
-1. [HeyPuter / puter](https://github.com/HeyPuter/puter)
-    - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **23,856** &nbsp;&nbsp; folks: **1,525**  &nbsp;&nbsp; `1,061 stars this week`
-
-1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
-    - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **10,912** &nbsp;&nbsp; folks: **770**  &nbsp;&nbsp; `646 stars this week`
-
-1. [jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans)
-    - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
-    - language: **Python** &nbsp;&nbsp; stars: **9,447** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `720 stars this week`
+1. [toss / es-toolkit](https://github.com/toss/es-toolkit)
+    - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,104** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `621 stars this week`
 
 
 ## 近一月热门仓库
 
-暂无数据
+1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+    - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+    - language: **Python** &nbsp;&nbsp; stars: **9,072** &nbsp;&nbsp; folks: **658**  &nbsp;&nbsp; `7,973 stars this month`
+
+1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
+    - Free, simple, and intuitive online database design tool and SQL generator.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **19,169** &nbsp;&nbsp; folks: **1,324**  &nbsp;&nbsp; `6,960 stars this month`
+
+1. [Netflix / maestro](https://github.com/Netflix/maestro)
+    - Maestro: Netflix’s Workflow Orchestrator
+    - language: **Java** &nbsp;&nbsp; stars: **3,067** &nbsp;&nbsp; folks: **190**  &nbsp;&nbsp; `3,073 stars this month`
+
+1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+    - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+    - language: **Shell** &nbsp;&nbsp; stars: **40,139** &nbsp;&nbsp; folks: **1,924**  &nbsp;&nbsp; `3,993 stars this month`
+
+1. [lipku / metahuman-stream](https://github.com/lipku/metahuman-stream)
+    - Real time interactive streaming digital human
+    - language: **Python** &nbsp;&nbsp; stars: **3,064** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `2,040 stars this month`
+
+1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+    - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    - language: **Python** &nbsp;&nbsp; stars: **47,646** &nbsp;&nbsp; folks: **5,022**  &nbsp;&nbsp; `4,965 stars this month`
+
+1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **6,491** &nbsp;&nbsp; folks: **634**  &nbsp;&nbsp; `1,079 stars this month`
+
+1. [chen08209 / FlClash](https://github.com/chen08209/FlClash)
+    - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+    - language: **Dart** &nbsp;&nbsp; stars: **6,053** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `3,794 stars this month`
+
+1. [teableio / teable](https://github.com/teableio/teable)
+    - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,346** &nbsp;&nbsp; folks: **455**  &nbsp;&nbsp; `2,639 stars this month`
+
+1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+    - #1 Locally hosted web application that allows you to perform various operations on PDF files
+    - language: **Java** &nbsp;&nbsp; stars: **38,524** &nbsp;&nbsp; folks: **2,895**  &nbsp;&nbsp; `8,041 stars this month`
+
+1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+    - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **288,143** &nbsp;&nbsp; folks: **38,235**  &nbsp;&nbsp; `5,188 stars this month`
+
+1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
+    - The authentication glue you need.
+    - language: **Python** &nbsp;&nbsp; stars: **11,558** &nbsp;&nbsp; folks: **805**  &nbsp;&nbsp; `3,045 stars this month`
+
+1. [Infisical / infisical](https://github.com/Infisical/infisical)
+    - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,567** &nbsp;&nbsp; folks: **806**  &nbsp;&nbsp; `1,454 stars this month`
+
+1. [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **2,021** &nbsp;&nbsp; folks: **129**  &nbsp;&nbsp; `716 stars this month`
+
+1. [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
+    - 🎨 Diagram as Code for prototyping cloud system architectures
+    - language: **Python** &nbsp;&nbsp; stars: **36,594** &nbsp;&nbsp; folks: **2,374**  &nbsp;&nbsp; `928 stars this month`
+
+1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
+    - Free, open source crypto trading bot
+    - language: **Python** &nbsp;&nbsp; stars: **27,678** &nbsp;&nbsp; folks: **5,928**  &nbsp;&nbsp; `1,132 stars this month`
+
+1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
+    - A feature-rich command-line audio/video downloader
+    - language: **Python** &nbsp;&nbsp; stars: **80,442** &nbsp;&nbsp; folks: **6,296**  &nbsp;&nbsp; `3,322 stars this month`
+
+1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
+    - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+    - language: **Python** &nbsp;&nbsp; stars: **14,845** &nbsp;&nbsp; folks: **1,507**  &nbsp;&nbsp; `2,431 stars this month`
+
 
 ## 历史归档
 
