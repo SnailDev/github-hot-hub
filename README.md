@@ -10,80 +10,80 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-08-25 12:15:05 +0800`
+`更新时间：2024-08-25 13:13:37 +0800`
 
 ## 今日热门仓库
 
 1. [nashtech-garage / yas](https://github.com/nashtech-garage/yas)
     - YAS: Yet Another Shop, a sample microservices project in Java
-    - language: **Java** &nbsp;&nbsp; stars: **1,173** &nbsp;&nbsp; folks: **329**  &nbsp;&nbsp; `57 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **1,198** &nbsp;&nbsp; folks: **330**  &nbsp;&nbsp; `57 stars today`
 
 1. [QuivrHQ / quivr](https://github.com/QuivrHQ/quivr)
     - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework
-    - language: **Python** &nbsp;&nbsp; stars: **35,479** &nbsp;&nbsp; folks: **3,447**  &nbsp;&nbsp; `333 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **35,492** &nbsp;&nbsp; folks: **3,448**  &nbsp;&nbsp; `333 stars today`
 
 1. [NVlabs / VILA](https://github.com/NVlabs/VILA)
     - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
-    - language: **Python** &nbsp;&nbsp; stars: **1,577** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `87 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,578** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `87 stars today`
 
 1. [microsoft / mimalloc](https://github.com/microsoft/mimalloc)
     - mimalloc is a compact general purpose allocator with excellent performance.
-    - language: **C** &nbsp;&nbsp; stars: **10,163** &nbsp;&nbsp; folks: **829**  &nbsp;&nbsp; `75 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **10,167** &nbsp;&nbsp; folks: **829**  &nbsp;&nbsp; `75 stars today`
 
 1. [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
     - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    - language: **无** &nbsp;&nbsp; stars: **62,276** &nbsp;&nbsp; folks: **6,460**  &nbsp;&nbsp; `48 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **62,283** &nbsp;&nbsp; folks: **6,462**  &nbsp;&nbsp; `48 stars today`
 
 1. [PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog)
     - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
-    - language: **C++** &nbsp;&nbsp; stars: **2,822** &nbsp;&nbsp; folks: **334**  &nbsp;&nbsp; `186 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **2,828** &nbsp;&nbsp; folks: **334**  &nbsp;&nbsp; `186 stars today`
 
 1. [fmtlib / fmt](https://github.com/fmtlib/fmt)
     - A modern formatting library
-    - language: **C++** &nbsp;&nbsp; stars: **20,261** &nbsp;&nbsp; folks: **2,448**  &nbsp;&nbsp; `50 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **20,263** &nbsp;&nbsp; folks: **2,448**  &nbsp;&nbsp; `50 stars today`
 
 1. [google / flatbuffers](https://github.com/google/flatbuffers)
     - FlatBuffers: Memory Efficient Serialization Library
-    - language: **C++** &nbsp;&nbsp; stars: **22,978** &nbsp;&nbsp; folks: **3,220**  &nbsp;&nbsp; `10 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **22,980** &nbsp;&nbsp; folks: **3,220**  &nbsp;&nbsp; `10 stars today`
 
 1. [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti)
     - Open Cyber Threat Intelligence Platform
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,917** &nbsp;&nbsp; folks: **873**  &nbsp;&nbsp; `130 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,921** &nbsp;&nbsp; folks: **874**  &nbsp;&nbsp; `130 stars today`
 
 1. [flxzt / rnote](https://github.com/flxzt/rnote)
     - Sketch and take handwritten notes.
-    - language: **Rust** &nbsp;&nbsp; stars: **6,859** &nbsp;&nbsp; folks: **243**  &nbsp;&nbsp; `27 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **6,870** &nbsp;&nbsp; folks: **243**  &nbsp;&nbsp; `27 stars today`
 
 1. [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
     - A collection of (mostly) technical things every software developer should know about
-    - language: **无** &nbsp;&nbsp; stars: **81,641** &nbsp;&nbsp; folks: **7,671**  &nbsp;&nbsp; `41 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **81,646** &nbsp;&nbsp; folks: **7,671**  &nbsp;&nbsp; `41 stars today`
 
 1. [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
     - ALL IN ONE Hacking Tool For Hackers
-    - language: **Python** &nbsp;&nbsp; stars: **44,292** &nbsp;&nbsp; folks: **4,871**  &nbsp;&nbsp; `46 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **44,308** &nbsp;&nbsp; folks: **4,872**  &nbsp;&nbsp; `46 stars today`
 
 1. [deepset-ai / haystack](https://github.com/deepset-ai/haystack)
     - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-    - language: **Python** &nbsp;&nbsp; stars: **15,569** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `206 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **15,576** &nbsp;&nbsp; folks: **1,774**  &nbsp;&nbsp; `206 stars today`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **36,273** &nbsp;&nbsp; folks: **3,797**  &nbsp;&nbsp; `52 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **36,276** &nbsp;&nbsp; folks: **3,797**  &nbsp;&nbsp; `52 stars today`
 
 1. [s0md3v / roop](https://github.com/s0md3v/roop)
     - one-click face swap
-    - language: **Python** &nbsp;&nbsp; stars: **26,685** &nbsp;&nbsp; folks: **6,524**  &nbsp;&nbsp; `141 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **26,689** &nbsp;&nbsp; folks: **6,524**  &nbsp;&nbsp; `141 stars today`
 
 1. [grafana / k6](https://github.com/grafana/k6)
     - A modern load testing tool, using Go and JavaScript - https://k6.io
-    - language: **Go** &nbsp;&nbsp; stars: **24,662** &nbsp;&nbsp; folks: **1,221**  &nbsp;&nbsp; `38 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **24,669** &nbsp;&nbsp; folks: **1,221**  &nbsp;&nbsp; `38 stars today`
 
 
 ## 近一周热门仓库
 
 1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
     - The authentication glue you need.
-    - language: **Python** &nbsp;&nbsp; stars: **11,944** &nbsp;&nbsp; folks: **822**  &nbsp;&nbsp; `3,262 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,947** &nbsp;&nbsp; folks: **822**  &nbsp;&nbsp; `3,262 stars this week`
 
 1. [toss / es-toolkit](https://github.com/toss/es-toolkit)
     - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -91,7 +91,7 @@
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **61,169** &nbsp;&nbsp; folks: **30,914**  &nbsp;&nbsp; `2,907 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **61,170** &nbsp;&nbsp; folks: **30,914**  &nbsp;&nbsp; `2,907 stars this week`
 
 1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
     - 无
@@ -99,7 +99,7 @@
 
 1. [ostris / ai-toolkit](https://github.com/ostris/ai-toolkit)
     - Various AI scripts. Mostly Stable Diffusion stuff.
-    - language: **Python** &nbsp;&nbsp; stars: **1,737** &nbsp;&nbsp; folks: **170**  &nbsp;&nbsp; `499 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,738** &nbsp;&nbsp; folks: **170**  &nbsp;&nbsp; `499 stars this week`
 
 1. [aria2 / aria2](https://github.com/aria2/aria2)
     - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -107,42 +107,42 @@
 
 1. [astral-sh / uv](https://github.com/astral-sh/uv)
     - An extremely fast Python package and project manager, written in Rust.
-    - language: **Rust** &nbsp;&nbsp; stars: **17,707** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `1,649 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,712** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `1,649 stars this week`
 
 1. [huggingface / parler-tts](https://github.com/huggingface/parler-tts)
     - Inference and training library for high-quality TTS models.
-    - language: **Python** &nbsp;&nbsp; stars: **3,939** &nbsp;&nbsp; folks: **392**  &nbsp;&nbsp; `278 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,940** &nbsp;&nbsp; folks: **392**  &nbsp;&nbsp; `278 stars this week`
 
 1. [nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace)
     - AeroSpace is an i3-like tiling window manager for macOS
-    - language: **Swift** &nbsp;&nbsp; stars: **4,851** &nbsp;&nbsp; folks: **72**  &nbsp;&nbsp; `317 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **4,853** &nbsp;&nbsp; folks: **72**  &nbsp;&nbsp; `317 stars this week`
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **43,243** &nbsp;&nbsp; folks: **5,143**  &nbsp;&nbsp; `370 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **43,244** &nbsp;&nbsp; folks: **5,143**  &nbsp;&nbsp; `370 stars this week`
 
 1. [poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer)
     - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,031** &nbsp;&nbsp; folks: **172**  &nbsp;&nbsp; `569 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,039** &nbsp;&nbsp; folks: **172**  &nbsp;&nbsp; `569 stars this week`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    - language: **Rust** &nbsp;&nbsp; stars: **71,089** &nbsp;&nbsp; folks: **8,118**  &nbsp;&nbsp; `574 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **71,092** &nbsp;&nbsp; folks: **8,119**  &nbsp;&nbsp; `574 stars this week`
 
 1. [thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library)
     - A Library for Advanced Deep Time Series Models.
-    - language: **Python** &nbsp;&nbsp; stars: **6,001** &nbsp;&nbsp; folks: **966**  &nbsp;&nbsp; `374 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,002** &nbsp;&nbsp; folks: **966**  &nbsp;&nbsp; `374 stars this week`
 
 1. [openai / whisper](https://github.com/openai/whisper)
     - Robust Speech Recognition via Large-Scale Weak Supervision
-    - language: **Python** &nbsp;&nbsp; stars: **66,483** &nbsp;&nbsp; folks: **7,833**  &nbsp;&nbsp; `375 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **66,484** &nbsp;&nbsp; folks: **7,833**  &nbsp;&nbsp; `375 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **9,785** &nbsp;&nbsp; folks: **707**  &nbsp;&nbsp; `8,578 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,791** &nbsp;&nbsp; folks: **708**  &nbsp;&nbsp; `8,578 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database design tool and SQL generator.
@@ -170,23 +170,23 @@
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **48,112** &nbsp;&nbsp; folks: **5,051**  &nbsp;&nbsp; `5,133 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **48,115** &nbsp;&nbsp; folks: **5,051**  &nbsp;&nbsp; `5,133 stars this month`
 
 1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
     - The authentication glue you need.
-    - language: **Python** &nbsp;&nbsp; stars: **11,944** &nbsp;&nbsp; folks: **822**  &nbsp;&nbsp; `3,997 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,947** &nbsp;&nbsp; folks: **822**  &nbsp;&nbsp; `3,997 stars this month`
 
 1. [midday-ai / midday](https://github.com/midday-ai/midday)
     - Run your business smarter 🪄
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,955** &nbsp;&nbsp; folks: **347**  &nbsp;&nbsp; `852 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,956** &nbsp;&nbsp; folks: **347**  &nbsp;&nbsp; `852 stars this month`
 
 1. [chen08209 / FlClash](https://github.com/chen08209/FlClash)
     - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-    - language: **Dart** &nbsp;&nbsp; stars: **6,294** &nbsp;&nbsp; folks: **362**  &nbsp;&nbsp; `3,732 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **6,308** &nbsp;&nbsp; folks: **364**  &nbsp;&nbsp; `3,732 stars this month`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **288,666** &nbsp;&nbsp; folks: **38,273**  &nbsp;&nbsp; `5,388 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **288,674** &nbsp;&nbsp; folks: **38,273**  &nbsp;&nbsp; `5,388 stars this month`
 
 1. [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
     - 无
@@ -194,7 +194,7 @@
 
 1. [jagrosh / MusicBot](https://github.com/jagrosh/MusicBot)
     - 🎶 A Discord music bot that's easy to set up and run yourself!
-    - language: **Java** &nbsp;&nbsp; stars: **5,119** &nbsp;&nbsp; folks: **2,491**  &nbsp;&nbsp; `212 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **5,121** &nbsp;&nbsp; folks: **2,491**  &nbsp;&nbsp; `212 stars this month`
 
 1. [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
     - 🎨 Diagram as Code for prototyping cloud system architectures
@@ -202,11 +202,11 @@
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **Python** &nbsp;&nbsp; stars: **15,243** &nbsp;&nbsp; folks: **1,551**  &nbsp;&nbsp; `2,722 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,245** &nbsp;&nbsp; folks: **1,552**  &nbsp;&nbsp; `2,722 stars this month`
 
 1. [s0md3v / roop](https://github.com/s0md3v/roop)
     - one-click face swap
-    - language: **Python** &nbsp;&nbsp; stars: **26,685** &nbsp;&nbsp; folks: **6,524**  &nbsp;&nbsp; `919 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **26,689** &nbsp;&nbsp; folks: **6,524**  &nbsp;&nbsp; `919 stars this month`
 
 1. [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
     - NVR with realtime local object detection for IP cameras
@@ -214,7 +214,7 @@
 
 1. [Infisical / infisical](https://github.com/Infisical/infisical)
     - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,707** &nbsp;&nbsp; folks: **817**  &nbsp;&nbsp; `1,546 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,709** &nbsp;&nbsp; folks: **817**  &nbsp;&nbsp; `1,546 stars this month`
 
 1. [miurla / morphic](https://github.com/miurla/morphic)
     - An AI-powered search engine with a generative UI
