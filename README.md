@@ -10,33 +10,33 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-09-01 05:11:14 +0800`
+`更新时间：2024-09-01 06:12:57 +0800`
 
 ## 今日热门仓库
 
 1. [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
     - An open-source RAG-based tool for chatting with your documents.
-    - language: **Python** &nbsp;&nbsp; stars: **5,644** &nbsp;&nbsp; folks: **392**  &nbsp;&nbsp; `1,344 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,692** &nbsp;&nbsp; folks: **397**  &nbsp;&nbsp; `1,344 stars today`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **42,285** &nbsp;&nbsp; folks: **2,104**  &nbsp;&nbsp; `876 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **42,320** &nbsp;&nbsp; folks: **2,105**  &nbsp;&nbsp; `876 stars today`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,872** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `272 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,886** &nbsp;&nbsp; folks: **247**  &nbsp;&nbsp; `272 stars today`
 
 1. [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
     - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,709** &nbsp;&nbsp; folks: **832**  &nbsp;&nbsp; `570 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,721** &nbsp;&nbsp; folks: **834**  &nbsp;&nbsp; `570 stars today`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **30,231** &nbsp;&nbsp; folks: **1,536**  &nbsp;&nbsp; `380 stars today`
+    - language: **PHP** &nbsp;&nbsp; stars: **30,244** &nbsp;&nbsp; folks: **1,536**  &nbsp;&nbsp; `380 stars today`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **45,994** &nbsp;&nbsp; folks: **3,148**  &nbsp;&nbsp; `307 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **46,009** &nbsp;&nbsp; folks: **3,148**  &nbsp;&nbsp; `307 stars today`
 
 1. [ruanyf / weekly](https://github.com/ruanyf/weekly)
     - 科技爱好者周刊，每周五发布
@@ -44,82 +44,82 @@
 
 1. [frappe / erpnext](https://github.com/frappe/erpnext)
     - Free and Open Source Enterprise Resource Planning (ERP)
-    - language: **Python** &nbsp;&nbsp; stars: **19,202** &nbsp;&nbsp; folks: **6,956**  &nbsp;&nbsp; `225 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **19,213** &nbsp;&nbsp; folks: **6,957**  &nbsp;&nbsp; `225 stars today`
 
 1. [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
     - Free and Open, Distributed, RESTful Search Engine
-    - language: **Java** &nbsp;&nbsp; stars: **69,238** &nbsp;&nbsp; folks: **24,540**  &nbsp;&nbsp; `83 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **69,245** &nbsp;&nbsp; folks: **24,540**  &nbsp;&nbsp; `83 stars today`
 
 1. [1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB)
     - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
-    - language: **Python** &nbsp;&nbsp; stars: **9,365** &nbsp;&nbsp; folks: **1,232**  &nbsp;&nbsp; `50 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,367** &nbsp;&nbsp; folks: **1,232**  &nbsp;&nbsp; `50 stars today`
 
 1. [dokku / dokku](https://github.com/dokku/dokku)
     - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-    - language: **Shell** &nbsp;&nbsp; stars: **28,021** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `179 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **28,031** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `179 stars today`
 
 1. [friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
     - List of free GPTs that doesn't require plus subscription
-    - language: **无** &nbsp;&nbsp; stars: **5,116** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `118 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **5,128** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `118 stars today`
 
 1. [microsoft / playwright](https://github.com/microsoft/playwright)
     - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **65,193** &nbsp;&nbsp; folks: **3,546**  &nbsp;&nbsp; `41 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **65,202** &nbsp;&nbsp; folks: **3,546**  &nbsp;&nbsp; `109 stars today`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-    - language: **Dart** &nbsp;&nbsp; stars: **53,632** &nbsp;&nbsp; folks: **3,525**  &nbsp;&nbsp; `371 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **53,647** &nbsp;&nbsp; folks: **3,527**  &nbsp;&nbsp; `371 stars today`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT better.
-    - language: **HTML** &nbsp;&nbsp; stars: **108,751** &nbsp;&nbsp; folks: **14,891**  &nbsp;&nbsp; `77 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **108,758** &nbsp;&nbsp; folks: **14,891**  &nbsp;&nbsp; `77 stars today`
 
 1. [Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
     - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-    - language: **Python** &nbsp;&nbsp; stars: **4,486** &nbsp;&nbsp; folks: **2,750**  &nbsp;&nbsp; `1 star today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,490** &nbsp;&nbsp; folks: **2,750**  &nbsp;&nbsp; `1 star today`
 
 
 ## 近一周热门仓库
 
 1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
     - Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **56,638** &nbsp;&nbsp; folks: **6,620**  &nbsp;&nbsp; `2,977 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **56,645** &nbsp;&nbsp; folks: **6,620**  &nbsp;&nbsp; `2,977 stars this week`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-    - language: **Dart** &nbsp;&nbsp; stars: **53,632** &nbsp;&nbsp; folks: **3,525**  &nbsp;&nbsp; `1,855 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **53,647** &nbsp;&nbsp; folks: **3,527**  &nbsp;&nbsp; `1,855 stars this week`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **45,994** &nbsp;&nbsp; folks: **3,148**  &nbsp;&nbsp; `1,207 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **46,009** &nbsp;&nbsp; folks: **3,148**  &nbsp;&nbsp; `1,207 stars this week`
 
 1. [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
     - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,709** &nbsp;&nbsp; folks: **832**  &nbsp;&nbsp; `1,997 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,721** &nbsp;&nbsp; folks: **834**  &nbsp;&nbsp; `1,997 stars this week`
 
 1. [s0md3v / roop](https://github.com/s0md3v/roop)
     - one-click face swap
-    - language: **Python** &nbsp;&nbsp; stars: **27,281** &nbsp;&nbsp; folks: **6,609**  &nbsp;&nbsp; `770 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **27,283** &nbsp;&nbsp; folks: **6,609**  &nbsp;&nbsp; `770 stars this week`
 
 1. [frappe / erpnext](https://github.com/frappe/erpnext)
     - Free and Open Source Enterprise Resource Planning (ERP)
-    - language: **Python** &nbsp;&nbsp; stars: **19,202** &nbsp;&nbsp; folks: **6,956**  &nbsp;&nbsp; `809 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **19,213** &nbsp;&nbsp; folks: **6,957**  &nbsp;&nbsp; `809 stars this week`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,872** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `1,020 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,886** &nbsp;&nbsp; folks: **247**  &nbsp;&nbsp; `1,020 stars this week`
 
 1. [coollabsio / coolify](https://github.com/coollabsio/coolify)
     - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-    - language: **PHP** &nbsp;&nbsp; stars: **30,231** &nbsp;&nbsp; folks: **1,536**  &nbsp;&nbsp; `1,815 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **30,244** &nbsp;&nbsp; folks: **1,536**  &nbsp;&nbsp; `1,815 stars this week`
 
 1. [spotDL / spotify-downloader](https://github.com/spotDL/spotify-downloader)
     - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-    - language: **Python** &nbsp;&nbsp; stars: **16,754** &nbsp;&nbsp; folks: **1,548**  &nbsp;&nbsp; `737 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,757** &nbsp;&nbsp; folks: **1,548**  &nbsp;&nbsp; `737 stars this week`
 
 1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
     - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **39,471** &nbsp;&nbsp; folks: **2,548**  &nbsp;&nbsp; `1,331 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **39,473** &nbsp;&nbsp; folks: **2,548**  &nbsp;&nbsp; `1,331 stars this week`
 
 1. [openobserve / openobserve](https://github.com/openobserve/openobserve)
     - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -142,19 +142,19 @@
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **22,181** &nbsp;&nbsp; folks: **1,613**  &nbsp;&nbsp; `10,706 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **22,190** &nbsp;&nbsp; folks: **1,613**  &nbsp;&nbsp; `10,706 stars this month`
 
 1. [bol-van / zapret](https://github.com/bol-van/zapret)
     - DPI bypass multi platform
-    - language: **C** &nbsp;&nbsp; stars: **5,516** &nbsp;&nbsp; folks: **482**  &nbsp;&nbsp; `2,710 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **5,521** &nbsp;&nbsp; folks: **483**  &nbsp;&nbsp; `2,710 stars this month`
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **11,327** &nbsp;&nbsp; folks: **795**  &nbsp;&nbsp; `3,235 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,328** &nbsp;&nbsp; folks: **795**  &nbsp;&nbsp; `3,235 stars this month`
 
 1. [teableio / teable](https://github.com/teableio/teable)
     - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,761** &nbsp;&nbsp; folks: **480**  &nbsp;&nbsp; `2,915 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,763** &nbsp;&nbsp; folks: **480**  &nbsp;&nbsp; `2,915 stars this month`
 
 1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
     - 无
@@ -162,23 +162,23 @@
 
 1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
     - The authentication glue you need.
-    - language: **Python** &nbsp;&nbsp; stars: **12,281** &nbsp;&nbsp; folks: **836**  &nbsp;&nbsp; `4,298 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,282** &nbsp;&nbsp; folks: **836**  &nbsp;&nbsp; `4,298 stars this month`
 
 1. [s0md3v / roop](https://github.com/s0md3v/roop)
     - one-click face swap
-    - language: **Python** &nbsp;&nbsp; stars: **27,281** &nbsp;&nbsp; folks: **6,609**  &nbsp;&nbsp; `1,476 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **27,283** &nbsp;&nbsp; folks: **6,609**  &nbsp;&nbsp; `1,476 stars this month`
 
 1. [AnswerDotAI / fasthtml](https://github.com/AnswerDotAI/fasthtml)
     - The fastest way to create an HTML app
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,625** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `3,553 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,627** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `3,553 stars this month`
 
 1. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    - language: **Python** &nbsp;&nbsp; stars: **48,875** &nbsp;&nbsp; folks: **5,147**  &nbsp;&nbsp; `5,268 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **48,879** &nbsp;&nbsp; folks: **5,148**  &nbsp;&nbsp; `5,268 stars this month`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-    - language: **Python** &nbsp;&nbsp; stars: **10,428** &nbsp;&nbsp; folks: **771**  &nbsp;&nbsp; `6,200 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,430** &nbsp;&nbsp; folks: **771**  &nbsp;&nbsp; `6,200 stars this month`
 
 1. [chen08209 / FlClash](https://github.com/chen08209/FlClash)
     - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
@@ -186,31 +186,31 @@
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **289,752** &nbsp;&nbsp; folks: **38,369**  &nbsp;&nbsp; `5,751 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **289,757** &nbsp;&nbsp; folks: **38,368**  &nbsp;&nbsp; `5,751 stars this month`
 
 1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
     - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **39,471** &nbsp;&nbsp; folks: **2,548**  &nbsp;&nbsp; `3,434 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **39,473** &nbsp;&nbsp; folks: **2,548**  &nbsp;&nbsp; `3,434 stars this month`
 
 1. [LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,207** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `813 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,208** &nbsp;&nbsp; folks: **150**  &nbsp;&nbsp; `813 stars this month`
 
 1. [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
     - NVR with realtime local object detection for IP cameras
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,771** &nbsp;&nbsp; folks: **1,624**  &nbsp;&nbsp; `1,441 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,775** &nbsp;&nbsp; folks: **1,624**  &nbsp;&nbsp; `1,441 stars this month`
 
 1. [frappe / erpnext](https://github.com/frappe/erpnext)
     - Free and Open Source Enterprise Resource Planning (ERP)
-    - language: **Python** &nbsp;&nbsp; stars: **19,202** &nbsp;&nbsp; folks: **6,956**  &nbsp;&nbsp; `1,094 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,213** &nbsp;&nbsp; folks: **6,957**  &nbsp;&nbsp; `1,094 stars this month`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-    - language: **Dart** &nbsp;&nbsp; stars: **53,632** &nbsp;&nbsp; folks: **3,525**  &nbsp;&nbsp; `2,591 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **53,647** &nbsp;&nbsp; folks: **3,527**  &nbsp;&nbsp; `2,591 stars this month`
 
 1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
     - Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **56,638** &nbsp;&nbsp; folks: **6,620**  &nbsp;&nbsp; `3,597 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **56,645** &nbsp;&nbsp; folks: **6,620**  &nbsp;&nbsp; `3,597 stars this month`
 
 
 ## 历史归档
