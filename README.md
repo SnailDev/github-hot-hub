@@ -10,136 +10,136 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-09-17 02:17:43 +0800`
+`更新时间：2024-09-17 03:10:45 +0800`
 
 ## 今日热门仓库
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **11,183** &nbsp;&nbsp; folks: **858**  &nbsp;&nbsp; `594 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **11,203** &nbsp;&nbsp; folks: **859**  &nbsp;&nbsp; `594 stars today`
 
 1. [gojue / ecapture](https://github.com/gojue/ecapture)
     - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-    - language: **C** &nbsp;&nbsp; stars: **11,970** &nbsp;&nbsp; folks: **1,244**  &nbsp;&nbsp; `590 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **11,988** &nbsp;&nbsp; folks: **1,245**  &nbsp;&nbsp; `590 stars today`
 
 1. [ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID)
     - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
-    - language: **Python** &nbsp;&nbsp; stars: **1,505** &nbsp;&nbsp; folks: **90**  &nbsp;&nbsp; `79 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,510** &nbsp;&nbsp; folks: **91**  &nbsp;&nbsp; `79 stars today`
 
 1. [ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
     - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-    - language: **C** &nbsp;&nbsp; stars: **23,072** &nbsp;&nbsp; folks: **1,673**  &nbsp;&nbsp; `79 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **23,073** &nbsp;&nbsp; folks: **1,674**  &nbsp;&nbsp; `79 stars today`
 
 1. [krayin / laravel-crm](https://github.com/krayin/laravel-crm)
     - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
-    - language: **Blade** &nbsp;&nbsp; stars: **9,209** &nbsp;&nbsp; folks: **566**  &nbsp;&nbsp; `35 stars today`
+    - language: **Blade** &nbsp;&nbsp; stars: **9,214** &nbsp;&nbsp; folks: **567**  &nbsp;&nbsp; `35 stars today`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **269,644** &nbsp;&nbsp; folks: **45,555**  &nbsp;&nbsp; `156 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **269,651** &nbsp;&nbsp; folks: **45,556**  &nbsp;&nbsp; `156 stars today`
 
 1. [4ian / GDevelop](https://github.com/4ian/GDevelop)
     - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,375** &nbsp;&nbsp; folks: **801**  &nbsp;&nbsp; `57 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,379** &nbsp;&nbsp; folks: **802**  &nbsp;&nbsp; `57 stars today`
 
 1. [phil-opp / blog_os](https://github.com/phil-opp/blog_os)
     - Writing an OS in Rust
-    - language: **HTML** &nbsp;&nbsp; stars: **15,322** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `280 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **15,331** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `280 stars today`
 
 1. [frdel / agent-zero](https://github.com/frdel/agent-zero)
     - Agent Zero AI framework
-    - language: **Python** &nbsp;&nbsp; stars: **3,648** &nbsp;&nbsp; folks: **844**  &nbsp;&nbsp; `195 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,654** &nbsp;&nbsp; folks: **846**  &nbsp;&nbsp; `195 stars today`
 
 1. [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
     - Curated list of project-based tutorials
-    - language: **无** &nbsp;&nbsp; stars: **197,236** &nbsp;&nbsp; folks: **25,709**  &nbsp;&nbsp; `229 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **197,239** &nbsp;&nbsp; folks: **25,712**  &nbsp;&nbsp; `229 stars today`
 
 1. [home-assistant / core](https://github.com/home-assistant/core)
     - 🏡 Open source home automation that puts local control and privacy first.
-    - language: **Python** &nbsp;&nbsp; stars: **71,234** &nbsp;&nbsp; folks: **29,855**  &nbsp;&nbsp; `13 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **71,235** &nbsp;&nbsp; folks: **29,856**  &nbsp;&nbsp; `13 stars today`
 
 1. [ossu / computer-science](https://github.com/ossu/computer-science)
     - 🎓 Path to a free self-taught education in Computer Science!
-    - language: **无** &nbsp;&nbsp; stars: **169,001** &nbsp;&nbsp; folks: **21,381**  &nbsp;&nbsp; `350 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **169,010** &nbsp;&nbsp; folks: **21,381**  &nbsp;&nbsp; `350 stars today`
 
 1. [Avaiga / taipy](https://github.com/Avaiga/taipy)
     - Turns Data and AI algorithms into production-ready web applications in no time.
-    - language: **Python** &nbsp;&nbsp; stars: **11,595** &nbsp;&nbsp; folks: **819**  &nbsp;&nbsp; `185 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **11,598** &nbsp;&nbsp; folks: **819**  &nbsp;&nbsp; `185 stars today`
 
 1. [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
     - Python - 100天从新手到大师
-    - language: **Python** &nbsp;&nbsp; stars: **154,916** &nbsp;&nbsp; folks: **52,007**  &nbsp;&nbsp; `103 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **154,918** &nbsp;&nbsp; folks: **52,007**  &nbsp;&nbsp; `103 stars today`
 
 1. [paul-gauthier / aider](https://github.com/paul-gauthier/aider)
     - aider is AI pair programming in your terminal
-    - language: **Python** &nbsp;&nbsp; stars: **18,370** &nbsp;&nbsp; folks: **1,707**  &nbsp;&nbsp; `189 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **18,374** &nbsp;&nbsp; folks: **1,707**  &nbsp;&nbsp; `189 stars today`
 
 
 ## 近一周热门仓库
 
 1. [RSSNext / Follow](https://github.com/RSSNext/Follow)
     - 🧡 Next generation information browser.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,369** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `4,490 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,380** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `4,490 stars this week`
 
 1. [afadil / wealthfolio](https://github.com/afadil/wealthfolio)
     - A Beautiful Private and Secure Desktop Investment Tracking Application
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,613** &nbsp;&nbsp; folks: **164**  &nbsp;&nbsp; `2,249 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,615** &nbsp;&nbsp; folks: **164**  &nbsp;&nbsp; `2,249 stars this week`
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-    - language: **Go** &nbsp;&nbsp; stars: **4,138** &nbsp;&nbsp; folks: **512**  &nbsp;&nbsp; `776 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,147** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `776 stars this week`
 
 1. [johannesjo / super-productivity](https://github.com/johannesjo/super-productivity)
     - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,664** &nbsp;&nbsp; folks: **859**  &nbsp;&nbsp; `1,234 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,667** &nbsp;&nbsp; folks: **859**  &nbsp;&nbsp; `1,234 stars this week`
 
 1. [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
     - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
-    - language: **Python** &nbsp;&nbsp; stars: **6,801** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `1,360 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,802** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `1,360 stars this week`
 
 1. [CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)
     - Collection of handy online tools for developers, with great UX.
-    - language: **Vue** &nbsp;&nbsp; stars: **21,010** &nbsp;&nbsp; folks: **2,514**  &nbsp;&nbsp; `818 stars this week`
+    - language: **Vue** &nbsp;&nbsp; stars: **21,013** &nbsp;&nbsp; folks: **2,514**  &nbsp;&nbsp; `818 stars this week`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **78,984** &nbsp;&nbsp; folks: **7,907**  &nbsp;&nbsp; `332 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **78,985** &nbsp;&nbsp; folks: **7,907**  &nbsp;&nbsp; `332 stars this week`
 
 1. [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
     - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **22,534** &nbsp;&nbsp; folks: **2,280**  &nbsp;&nbsp; `1,337 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **22,537** &nbsp;&nbsp; folks: **2,280**  &nbsp;&nbsp; `1,337 stars this week`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **34,379** &nbsp;&nbsp; folks: **10,060**  &nbsp;&nbsp; `197 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **34,381** &nbsp;&nbsp; folks: **10,060**  &nbsp;&nbsp; `197 stars this week`
 
 1. [Avaiga / taipy](https://github.com/Avaiga/taipy)
     - Turns Data and AI algorithms into production-ready web applications in no time.
-    - language: **Python** &nbsp;&nbsp; stars: **11,595** &nbsp;&nbsp; folks: **819**  &nbsp;&nbsp; `448 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,598** &nbsp;&nbsp; folks: **819**  &nbsp;&nbsp; `448 stars this week`
 
 1. [documenso / documenso](https://github.com/documenso/documenso)
     - The Open Source DocuSign Alternative.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,705** &nbsp;&nbsp; folks: **1,071**  &nbsp;&nbsp; `490 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,709** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `490 stars this week`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **11,183** &nbsp;&nbsp; folks: **858**  &nbsp;&nbsp; `3,035 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,203** &nbsp;&nbsp; folks: **859**  &nbsp;&nbsp; `3,035 stars this week`
 
 1. [gojue / ecapture](https://github.com/gojue/ecapture)
     - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-    - language: **C** &nbsp;&nbsp; stars: **11,970** &nbsp;&nbsp; folks: **1,244**  &nbsp;&nbsp; `2,031 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **11,988** &nbsp;&nbsp; folks: **1,245**  &nbsp;&nbsp; `2,031 stars this week`
 
 1. [danny-avila / LibreChat](https://github.com/danny-avila/LibreChat)
     - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,461** &nbsp;&nbsp; folks: **2,903**  &nbsp;&nbsp; `210 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,464** &nbsp;&nbsp; folks: **2,903**  &nbsp;&nbsp; `210 stars this week`
 
 1. [nginx / nginx](https://github.com/nginx/nginx)
     - The official NGINX Open Source repository.
-    - language: **C** &nbsp;&nbsp; stars: **23,923** &nbsp;&nbsp; folks: **6,856**  &nbsp;&nbsp; `1,835 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **23,924** &nbsp;&nbsp; folks: **6,856**  &nbsp;&nbsp; `1,835 stars this week`
 
 1. [stenzek / duckstation](https://github.com/stenzek/duckstation)
     - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-    - language: **C++** &nbsp;&nbsp; stars: **6,763** &nbsp;&nbsp; folks: **636**  &nbsp;&nbsp; `47 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **6,765** &nbsp;&nbsp; folks: **636**  &nbsp;&nbsp; `47 stars this week`
 
 1. [DataDog / datadog-agent](https://github.com/DataDog/datadog-agent)
     - Main repository for Datadog Agent
@@ -150,47 +150,47 @@
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,556** &nbsp;&nbsp; folks: **343**  &nbsp;&nbsp; `3,462 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,570** &nbsp;&nbsp; folks: **343**  &nbsp;&nbsp; `3,462 stars this month`
 
 1. [midday-ai / midday](https://github.com/midday-ai/midday)
     - Run your business smarter 🪄
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,837** &nbsp;&nbsp; folks: **428**  &nbsp;&nbsp; `1,451 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,839** &nbsp;&nbsp; folks: **428**  &nbsp;&nbsp; `1,451 stars this month`
 
 1. [RSSNext / Follow](https://github.com/RSSNext/Follow)
     - 🧡 Next generation information browser.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,369** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `5,173 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,380** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `5,173 stars this month`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **45,448** &nbsp;&nbsp; folks: **2,405**  &nbsp;&nbsp; `5,746 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **45,450** &nbsp;&nbsp; folks: **2,405**  &nbsp;&nbsp; `5,746 stars this month`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-    - language: **Dart** &nbsp;&nbsp; stars: **55,475** &nbsp;&nbsp; folks: **3,617**  &nbsp;&nbsp; `4,419 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **55,476** &nbsp;&nbsp; folks: **3,617**  &nbsp;&nbsp; `4,419 stars this month`
 
 1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
     - Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **58,312** &nbsp;&nbsp; folks: **6,718**  &nbsp;&nbsp; `5,071 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **58,314** &nbsp;&nbsp; folks: **6,718**  &nbsp;&nbsp; `5,071 stars this month`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **6,347** &nbsp;&nbsp; folks: **555**  &nbsp;&nbsp; `1,718 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,348** &nbsp;&nbsp; folks: **555**  &nbsp;&nbsp; `1,718 stars this month`
 
 1. [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
     - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,878** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `4,917 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,880** &nbsp;&nbsp; folks: **1,005**  &nbsp;&nbsp; `4,917 stars this month`
 
 1. [frappe / erpnext](https://github.com/frappe/erpnext)
     - Free and Open Source Enterprise Resource Planning (ERP)
-    - language: **Python** &nbsp;&nbsp; stars: **20,256** &nbsp;&nbsp; folks: **7,070**  &nbsp;&nbsp; `2,240 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,258** &nbsp;&nbsp; folks: **7,070**  &nbsp;&nbsp; `2,240 stars this month`
 
 1. [ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil)
     - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-    - language: **Shell** &nbsp;&nbsp; stars: **1,949** &nbsp;&nbsp; folks: **168**  &nbsp;&nbsp; `1,449 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **1,950** &nbsp;&nbsp; folks: **168**  &nbsp;&nbsp; `1,449 stars this month`
 
 1. [s0md3v / roop](https://github.com/s0md3v/roop)
     - one-click face swap
-    - language: **Python** &nbsp;&nbsp; stars: **27,889** &nbsp;&nbsp; folks: **6,713**  &nbsp;&nbsp; `1,896 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **27,890** &nbsp;&nbsp; folks: **6,714**  &nbsp;&nbsp; `1,896 stars this month`
 
 1. [goauthentik / authentik](https://github.com/goauthentik/authentik)
     - The authentication glue you need.
@@ -198,27 +198,27 @@
 
 1. [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
     - Amnezia VPN Client (Desktop+Mobile)
-    - language: **C++** &nbsp;&nbsp; stars: **4,261** &nbsp;&nbsp; folks: **279**  &nbsp;&nbsp; `1,829 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **4,263** &nbsp;&nbsp; folks: **279**  &nbsp;&nbsp; `1,829 stars this month`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **47,505** &nbsp;&nbsp; folks: **3,222**  &nbsp;&nbsp; `3,219 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **47,507** &nbsp;&nbsp; folks: **3,222**  &nbsp;&nbsp; `3,219 stars this month`
 
 1. [nginx / nginx](https://github.com/nginx/nginx)
     - The official NGINX Open Source repository.
-    - language: **C** &nbsp;&nbsp; stars: **23,923** &nbsp;&nbsp; folks: **6,856**  &nbsp;&nbsp; `2,965 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **23,924** &nbsp;&nbsp; folks: **6,856**  &nbsp;&nbsp; `2,965 stars this month`
 
 1. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **7,394** &nbsp;&nbsp; folks: **716**  &nbsp;&nbsp; `1,269 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,395** &nbsp;&nbsp; folks: **717**  &nbsp;&nbsp; `1,269 stars this month`
 
 1. [THUDM / CogVideo](https://github.com/THUDM/CogVideo)
     - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
-    - language: **Python** &nbsp;&nbsp; stars: **7,240** &nbsp;&nbsp; folks: **667**  &nbsp;&nbsp; `1,668 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,241** &nbsp;&nbsp; folks: **667**  &nbsp;&nbsp; `1,668 stars this month`
 
 1. [ostris / ai-toolkit](https://github.com/ostris/ai-toolkit)
     - Various AI scripts. Mostly Stable Diffusion stuff.
-    - language: **Python** &nbsp;&nbsp; stars: **2,662** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `1,728 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,664** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `1,728 stars this month`
 
 
 ## 历史归档
