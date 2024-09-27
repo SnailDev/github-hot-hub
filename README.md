@@ -10,96 +10,96 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-09-28 03:11:47 +0800`
+`更新时间：2024-09-28 04:14:58 +0800`
 
 ## 今日热门仓库
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **45,868** &nbsp;&nbsp; folks: **2,268**  &nbsp;&nbsp; `132 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **45,880** &nbsp;&nbsp; folks: **2,269**  &nbsp;&nbsp; `132 stars today`
 
 1. [srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
     - Solve puzzles. Learn CUDA.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,778** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `363 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,786** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `363 stars today`
 
 1. [meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes)
     - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,760** &nbsp;&nbsp; folks: **1,710**  &nbsp;&nbsp; `23 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,765** &nbsp;&nbsp; folks: **1,711**  &nbsp;&nbsp; `23 stars today`
 
 1. [localsend / localsend](https://github.com/localsend/localsend)
     - An open-source cross-platform alternative to AirDrop
-    - language: **Dart** &nbsp;&nbsp; stars: **46,542** &nbsp;&nbsp; folks: **2,400**  &nbsp;&nbsp; `1,443 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **46,553** &nbsp;&nbsp; folks: **2,400**  &nbsp;&nbsp; `1,443 stars today`
 
 1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
     - Model components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **1,654** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `501 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,668** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `501 stars today`
 
 1. [meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps)
     - Agentic components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **3,482** &nbsp;&nbsp; folks: **382**  &nbsp;&nbsp; `134 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,484** &nbsp;&nbsp; folks: **382**  &nbsp;&nbsp; `134 stars today`
 
 1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,478** &nbsp;&nbsp; folks: **603**  &nbsp;&nbsp; `203 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,483** &nbsp;&nbsp; folks: **604**  &nbsp;&nbsp; `203 stars today`
 
 1. [Yonom / assistant-ui](https://github.com/Yonom/assistant-ui)
     - React Components for AI Chat 💬 🚀
-    - language: **TypeScript** &nbsp;&nbsp; stars: **904** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `57 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **910** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `57 stars today`
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-    - language: **Go** &nbsp;&nbsp; stars: **4,844** &nbsp;&nbsp; folks: **635**  &nbsp;&nbsp; `130 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **4,854** &nbsp;&nbsp; folks: **636**  &nbsp;&nbsp; `130 stars today`
 
 1. [src-d / hercules](https://github.com/src-d/hercules)
     - Gaining advanced insights from Git repository history.
-    - language: **Go** &nbsp;&nbsp; stars: **2,499** &nbsp;&nbsp; folks: **189**  &nbsp;&nbsp; `41 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **2,503** &nbsp;&nbsp; folks: **189**  &nbsp;&nbsp; `41 stars today`
 
 1. [kestra-io / kestra](https://github.com/kestra-io/kestra)
     - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
-    - language: **Java** &nbsp;&nbsp; stars: **8,338** &nbsp;&nbsp; folks: **543**  &nbsp;&nbsp; `263 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **8,341** &nbsp;&nbsp; folks: **544**  &nbsp;&nbsp; `263 stars today`
 
 1. [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
     - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,276** &nbsp;&nbsp; folks: **1,870**  &nbsp;&nbsp; `42 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,280** &nbsp;&nbsp; folks: **1,870**  &nbsp;&nbsp; `42 stars today`
 
 1. [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
     - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-    - language: **C#** &nbsp;&nbsp; stars: **5,288** &nbsp;&nbsp; folks: **4,655**  &nbsp;&nbsp; `21 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **5,289** &nbsp;&nbsp; folks: **4,655**  &nbsp;&nbsp; `21 stars today`
 
 1. [systeminit / si](https://github.com/systeminit/si)
     - The System Initiative software
-    - language: **Rust** &nbsp;&nbsp; stars: **1,145** &nbsp;&nbsp; folks: **110**  &nbsp;&nbsp; `54 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **1,149** &nbsp;&nbsp; folks: **110**  &nbsp;&nbsp; `54 stars today`
 
 1. [angular / angular](https://github.com/angular/angular)
     - Deliver web apps with confidence 🚀
-    - language: **TypeScript** &nbsp;&nbsp; stars: **95,831** &nbsp;&nbsp; folks: **25,310**  &nbsp;&nbsp; `26 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **95,832** &nbsp;&nbsp; folks: **25,310**  &nbsp;&nbsp; `26 stars today`
 
 1. [statamic / cms](https://github.com/statamic/cms)
     - The core Laravel CMS Composer package
-    - language: **PHP** &nbsp;&nbsp; stars: **3,773** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `40 stars today`
+    - language: **PHP** &nbsp;&nbsp; stars: **3,777** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `40 stars today`
 
 1. [tw93 / Pake](https://github.com/tw93/Pake)
     - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-    - language: **Rust** &nbsp;&nbsp; stars: **26,917** &nbsp;&nbsp; folks: **4,864**  &nbsp;&nbsp; `552 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **26,923** &nbsp;&nbsp; folks: **4,864**  &nbsp;&nbsp; `552 stars today`
 
 
 ## 近一周热门仓库
 
 1. [localsend / localsend](https://github.com/localsend/localsend)
     - An open-source cross-platform alternative to AirDrop
-    - language: **Dart** &nbsp;&nbsp; stars: **46,542** &nbsp;&nbsp; folks: **2,400**  &nbsp;&nbsp; `3,072 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **46,553** &nbsp;&nbsp; folks: **2,400**  &nbsp;&nbsp; `3,072 stars this week`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **22,423** &nbsp;&nbsp; folks: **1,675**  &nbsp;&nbsp; `3,563 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **22,426** &nbsp;&nbsp; folks: **1,675**  &nbsp;&nbsp; `3,563 stars this week`
 
 1. [basecamp / kamal](https://github.com/basecamp/kamal)
     - Deploy web apps anywhere.
-    - language: **Ruby** &nbsp;&nbsp; stars: **10,239** &nbsp;&nbsp; folks: **388**  &nbsp;&nbsp; `436 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **10,240** &nbsp;&nbsp; folks: **388**  &nbsp;&nbsp; `436 stars this week`
 
 1. [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
     - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-    - language: **Python** &nbsp;&nbsp; stars: **166,985** &nbsp;&nbsp; folks: **44,171**  &nbsp;&nbsp; `381 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **166,989** &nbsp;&nbsp; folks: **44,171**  &nbsp;&nbsp; `381 stars this week`
 
 1. [SigmaHQ / sigma](https://github.com/SigmaHQ/sigma)
     - Main Sigma Rule Repository
@@ -107,23 +107,23 @@
 
 1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,478** &nbsp;&nbsp; folks: **603**  &nbsp;&nbsp; `657 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,483** &nbsp;&nbsp; folks: **604**  &nbsp;&nbsp; `657 stars this week`
 
 1. [achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog)
     - 🐸 a database management tui for postgres
-    - language: **Rust** &nbsp;&nbsp; stars: **2,063** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `994 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **2,065** &nbsp;&nbsp; folks: **46**  &nbsp;&nbsp; `994 stars this week`
 
 1. [ruanyf / weekly](https://github.com/ruanyf/weekly)
     - 科技爱好者周刊，每周五发布
-    - language: **无** &nbsp;&nbsp; stars: **46,581** &nbsp;&nbsp; folks: **2,832**  &nbsp;&nbsp; `1,098 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **46,582** &nbsp;&nbsp; folks: **2,832**  &nbsp;&nbsp; `1,098 stars this week`
 
 1. [AtsushiSakai / PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
     - Python sample codes for robotics algorithms.
-    - language: **Python** &nbsp;&nbsp; stars: **22,878** &nbsp;&nbsp; folks: **6,482**  &nbsp;&nbsp; `142 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **22,880** &nbsp;&nbsp; folks: **6,482**  &nbsp;&nbsp; `142 stars this week`
 
 1. [Zipstack / unstract](https://github.com/Zipstack/unstract)
     - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-    - language: **Python** &nbsp;&nbsp; stars: **2,052** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `443 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,053** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `443 stars this week`
 
 1. [comet-ml / opik](https://github.com/comet-ml/opik)
     - Open-source end-to-end LLM Development Platform
@@ -131,7 +131,7 @@
 
 1. [krayin / laravel-crm](https://github.com/krayin/laravel-crm)
     - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
-    - language: **Blade** &nbsp;&nbsp; stars: **10,601** &nbsp;&nbsp; folks: **691**  &nbsp;&nbsp; `693 stars this week`
+    - language: **Blade** &nbsp;&nbsp; stars: **10,602** &nbsp;&nbsp; folks: **691**  &nbsp;&nbsp; `693 stars this week`
 
 1. [actions / runner-images](https://github.com/actions/runner-images)
     - GitHub Actions runner images
@@ -139,30 +139,30 @@
 
 1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
     - Model components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **1,654** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `1,194 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,668** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `1,194 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
     - An open-source RAG-based tool for chatting with your documents.
-    - language: **Python** &nbsp;&nbsp; stars: **12,478** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `12,453 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,481** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `12,453 stars this month`
 
 1. [RSSNext / Follow](https://github.com/RSSNext/Follow)
     - 🧡 Next generation information browser.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,195** &nbsp;&nbsp; folks: **442**  &nbsp;&nbsp; `6,883 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,196** &nbsp;&nbsp; folks: **442**  &nbsp;&nbsp; `6,883 stars this month`
 
 1. [gojue / ecapture](https://github.com/gojue/ecapture)
     - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-    - language: **C** &nbsp;&nbsp; stars: **12,941** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `3,735 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **12,942** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `3,735 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
-    - language: **Python** &nbsp;&nbsp; stars: **12,593** &nbsp;&nbsp; folks: **948**  &nbsp;&nbsp; `5,411 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,594** &nbsp;&nbsp; folks: **948**  &nbsp;&nbsp; `5,411 stars this month`
 
 1. [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
     - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,002** &nbsp;&nbsp; folks: **1,087**  &nbsp;&nbsp; `5,690 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,004** &nbsp;&nbsp; folks: **1,087**  &nbsp;&nbsp; `5,690 stars this month`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
@@ -170,59 +170,59 @@
 
 1. [johannesjo / super-productivity](https://github.com/johannesjo/super-productivity)
     - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,286** &nbsp;&nbsp; folks: **885**  &nbsp;&nbsp; `2,103 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,292** &nbsp;&nbsp; folks: **885**  &nbsp;&nbsp; `2,103 stars this month`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **22,423** &nbsp;&nbsp; folks: **1,675**  &nbsp;&nbsp; `4,000 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,426** &nbsp;&nbsp; folks: **1,675**  &nbsp;&nbsp; `4,000 stars this month`
 
 1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
     - Model components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **1,654** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `949 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **1,668** &nbsp;&nbsp; folks: **188**  &nbsp;&nbsp; `949 stars this month`
 
 1. [ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil)
     - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-    - language: **Shell** &nbsp;&nbsp; stars: **2,299** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `1,759 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **2,300** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `1,759 stars this month`
 
 1. [sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX)
     - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-    - language: **Shell** &nbsp;&nbsp; stars: **46,167** &nbsp;&nbsp; folks: **2,470**  &nbsp;&nbsp; `5,978 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **46,168** &nbsp;&nbsp; folks: **2,470**  &nbsp;&nbsp; `5,978 stars this month`
 
 1. [nginx / nginx](https://github.com/nginx/nginx)
     - The official NGINX Open Source repository.
-    - language: **C** &nbsp;&nbsp; stars: **24,407** &nbsp;&nbsp; folks: **6,895**  &nbsp;&nbsp; `3,395 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **24,408** &nbsp;&nbsp; folks: **6,895**  &nbsp;&nbsp; `3,395 stars this month`
 
 1. [alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react)
     - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **27,568** &nbsp;&nbsp; folks: **2,507**  &nbsp;&nbsp; `1,280 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **27,570** &nbsp;&nbsp; folks: **2,507**  &nbsp;&nbsp; `1,280 stars this month`
 
 1. [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
     - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **23,427** &nbsp;&nbsp; folks: **2,365**  &nbsp;&nbsp; `4,252 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **23,432** &nbsp;&nbsp; folks: **2,365**  &nbsp;&nbsp; `4,252 stars this month`
 
 1. [deepfakes / faceswap](https://github.com/deepfakes/faceswap)
     - Deepfakes Software For All
-    - language: **Python** &nbsp;&nbsp; stars: **51,916** &nbsp;&nbsp; folks: **13,168**  &nbsp;&nbsp; `1,751 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **51,918** &nbsp;&nbsp; folks: **13,168**  &nbsp;&nbsp; `1,751 stars this month`
 
 1. [dokku / dokku](https://github.com/dokku/dokku)
     - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-    - language: **Shell** &nbsp;&nbsp; stars: **28,899** &nbsp;&nbsp; folks: **1,906**  &nbsp;&nbsp; `2,353 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **28,898** &nbsp;&nbsp; folks: **1,906**  &nbsp;&nbsp; `2,353 stars this month`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **48,057** &nbsp;&nbsp; folks: **3,249**  &nbsp;&nbsp; `3,643 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **48,059** &nbsp;&nbsp; folks: **3,249**  &nbsp;&nbsp; `3,643 stars this month`
 
 1. [basecamp / kamal](https://github.com/basecamp/kamal)
     - Deploy web apps anywhere.
-    - language: **Ruby** &nbsp;&nbsp; stars: **10,239** &nbsp;&nbsp; folks: **388**  &nbsp;&nbsp; `684 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **10,240** &nbsp;&nbsp; folks: **388**  &nbsp;&nbsp; `684 stars this month`
 
 1. [continuedev / continue](https://github.com/continuedev/continue)
     - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,399** &nbsp;&nbsp; folks: **1,278**  &nbsp;&nbsp; `1,580 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,402** &nbsp;&nbsp; folks: **1,279**  &nbsp;&nbsp; `1,580 stars this month`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-    - language: **Dart** &nbsp;&nbsp; stars: **56,156** &nbsp;&nbsp; folks: **3,654**  &nbsp;&nbsp; `4,878 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **56,157** &nbsp;&nbsp; folks: **3,654**  &nbsp;&nbsp; `4,878 stars this month`
 
 
 ## 历史归档
