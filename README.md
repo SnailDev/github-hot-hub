@@ -10,33 +10,33 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-10-07 10:50:26 +0800`
+`更新时间：2024-10-07 11:21:33 +0800`
 
 ## 今日热门仓库
 
 1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
     - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **189,270** &nbsp;&nbsp; folks: **44,916**  &nbsp;&nbsp; `1,380 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **189,307** &nbsp;&nbsp; folks: **44,917**  &nbsp;&nbsp; `1,380 stars today`
 
 1. [livekit / agents](https://github.com/livekit/agents)
     - Build real-time multimodal AI applications 🤖🎙️📹
-    - language: **Python** &nbsp;&nbsp; stars: **1,967** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `199 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,977** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `199 stars today`
 
 1. [obsproject / obs-studio](https://github.com/obsproject/obs-studio)
     - OBS Studio - Free and open source software for live streaming and screen recording
-    - language: **C** &nbsp;&nbsp; stars: **59,410** &nbsp;&nbsp; folks: **7,878**  &nbsp;&nbsp; `41 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **59,412** &nbsp;&nbsp; folks: **7,878**  &nbsp;&nbsp; `41 stars today`
 
 1. [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)
     - All Algorithms implemented in Java
-    - language: **Java** &nbsp;&nbsp; stars: **59,337** &nbsp;&nbsp; folks: **19,129**  &nbsp;&nbsp; `110 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **59,339** &nbsp;&nbsp; folks: **19,129**  &nbsp;&nbsp; `110 stars today`
 
 1. [Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
     - The first real AI developer
-    - language: **Python** &nbsp;&nbsp; stars: **30,954** &nbsp;&nbsp; folks: **3,097**  &nbsp;&nbsp; `204 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **30,955** &nbsp;&nbsp; folks: **3,097**  &nbsp;&nbsp; `204 stars today`
 
 1. [lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
     - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-    - language: **无** &nbsp;&nbsp; stars: **29,775** &nbsp;&nbsp; folks: **3,503**  &nbsp;&nbsp; `156 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **29,788** &nbsp;&nbsp; folks: **3,504**  &nbsp;&nbsp; `156 stars today`
 
 1. [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
     - Telegram-iOS
@@ -44,70 +44,70 @@
 
 1. [ocornut / imgui](https://github.com/ocornut/imgui)
     - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    - language: **C++** &nbsp;&nbsp; stars: **60,063** &nbsp;&nbsp; folks: **10,190**  &nbsp;&nbsp; `106 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **60,066** &nbsp;&nbsp; folks: **10,190**  &nbsp;&nbsp; `106 stars today`
 
 1. [joonspk-research / generative_agents](https://github.com/joonspk-research/generative_agents)
     - Generative Agents: Interactive Simulacra of Human Behavior
-    - language: **无** &nbsp;&nbsp; stars: **16,605** &nbsp;&nbsp; folks: **2,132**  &nbsp;&nbsp; `78 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **16,610** &nbsp;&nbsp; folks: **2,132**  &nbsp;&nbsp; `78 stars today`
 
 1. [onejs / one](https://github.com/onejs/one)
     - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,498** &nbsp;&nbsp; folks: **29**  &nbsp;&nbsp; `167 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,506** &nbsp;&nbsp; folks: **29**  &nbsp;&nbsp; `167 stars today`
 
 1. [zauberzeug / nicegui](https://github.com/zauberzeug/nicegui)
     - Create web-based user interfaces with Python. The nice way.
-    - language: **Python** &nbsp;&nbsp; stars: **9,352** &nbsp;&nbsp; folks: **548**  &nbsp;&nbsp; `115 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,359** &nbsp;&nbsp; folks: **548**  &nbsp;&nbsp; `115 stars today`
 
 1. [mendableai / firecrawl](https://github.com/mendableai/firecrawl)
     - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,957** &nbsp;&nbsp; folks: **1,149**  &nbsp;&nbsp; `312 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,969** &nbsp;&nbsp; folks: **1,149**  &nbsp;&nbsp; `312 stars today`
 
 1. [ErikBjare / gptme](https://github.com/ErikBjare/gptme)
     - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
-    - language: **Python** &nbsp;&nbsp; stars: **1,148** &nbsp;&nbsp; folks: **69**  &nbsp;&nbsp; `250 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,157** &nbsp;&nbsp; folks: **69**  &nbsp;&nbsp; `250 stars today`
 
 
 ## 近一周热门仓库
 
 1. [mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe)
     - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
-    - language: **Rust** &nbsp;&nbsp; stars: **6,874** &nbsp;&nbsp; folks: **361**  &nbsp;&nbsp; `4,578 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **6,878** &nbsp;&nbsp; folks: **361**  &nbsp;&nbsp; `4,578 stars this week`
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
-    - language: **Python** &nbsp;&nbsp; stars: **11,607** &nbsp;&nbsp; folks: **813**  &nbsp;&nbsp; `6,647 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,610** &nbsp;&nbsp; folks: **814**  &nbsp;&nbsp; `6,647 stars this week`
 
 1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
     - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **189,270** &nbsp;&nbsp; folks: **44,916**  &nbsp;&nbsp; `4,053 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **189,307** &nbsp;&nbsp; folks: **44,917**  &nbsp;&nbsp; `4,053 stars this week`
 
 1. [mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
     - A self-paced course to learn Rust, one exercise at a time.
-    - language: **Rust** &nbsp;&nbsp; stars: **5,022** &nbsp;&nbsp; folks: **867**  &nbsp;&nbsp; `1,074 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **5,025** &nbsp;&nbsp; folks: **867**  &nbsp;&nbsp; `1,074 stars this week`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **9,712** &nbsp;&nbsp; folks: **516**  &nbsp;&nbsp; `2,172 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,714** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `2,172 stars this week`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **30,538** &nbsp;&nbsp; folks: **2,277**  &nbsp;&nbsp; `773 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **30,538** &nbsp;&nbsp; folks: **2,278**  &nbsp;&nbsp; `773 stars this week`
 
 1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
     - Model components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **3,300** &nbsp;&nbsp; folks: **469**  &nbsp;&nbsp; `884 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,300** &nbsp;&nbsp; folks: **473**  &nbsp;&nbsp; `884 stars this week`
 
 1. [kestra-io / kestra](https://github.com/kestra-io/kestra)
     - ⚡ Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
-    - language: **Java** &nbsp;&nbsp; stars: **9,645** &nbsp;&nbsp; folks: **794**  &nbsp;&nbsp; `598 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **9,646** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `598 stars this week`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **31,778** &nbsp;&nbsp; folks: **2,900**  &nbsp;&nbsp; `1,372 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **31,781** &nbsp;&nbsp; folks: **2,900**  &nbsp;&nbsp; `1,372 stars this week`
 
 1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
     - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-    - language: **JavaScript** &nbsp;&nbsp; stars: **29,353** &nbsp;&nbsp; folks: **3,647**  &nbsp;&nbsp; `458 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **29,354** &nbsp;&nbsp; folks: **3,647**  &nbsp;&nbsp; `458 stars this week`
 
 1. [ManimCommunity / manim](https://github.com/ManimCommunity/manim)
     - A community-maintained Python framework for creating mathematical animations.
@@ -115,19 +115,19 @@
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **47,445** &nbsp;&nbsp; folks: **2,466**  &nbsp;&nbsp; `1,101 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **47,447** &nbsp;&nbsp; folks: **2,467**  &nbsp;&nbsp; `1,101 stars this week`
 
 1. [godotengine / godot](https://github.com/godotengine/godot)
     - Godot Engine – Multi-platform 2D and 3D game engine
-    - language: **C++** &nbsp;&nbsp; stars: **89,887** &nbsp;&nbsp; folks: **21,038**  &nbsp;&nbsp; `683 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **89,889** &nbsp;&nbsp; folks: **21,038**  &nbsp;&nbsp; `683 stars this week`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **20,550** &nbsp;&nbsp; folks: **847**  &nbsp;&nbsp; `574 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **20,551** &nbsp;&nbsp; folks: **847**  &nbsp;&nbsp; `574 stars this week`
 
 1. [livekit / agents](https://github.com/livekit/agents)
     - Build real-time multimodal AI applications 🤖🎙️📹
-    - language: **Python** &nbsp;&nbsp; stars: **1,967** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `615 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,977** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `615 stars this week`
 
 1. [basecamp / kamal](https://github.com/basecamp/kamal)
     - Deploy web apps anywhere.
@@ -135,7 +135,7 @@
 
 1. [tw93 / Pake](https://github.com/tw93/Pake)
     - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-    - language: **Rust** &nbsp;&nbsp; stars: **29,897** &nbsp;&nbsp; folks: **5,171**  &nbsp;&nbsp; `936 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,898** &nbsp;&nbsp; folks: **5,173**  &nbsp;&nbsp; `936 stars this week`
 
 1. [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
     - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
@@ -143,7 +143,7 @@
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **335,676** &nbsp;&nbsp; folks: **61,356**  &nbsp;&nbsp; `1,159 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **335,678** &nbsp;&nbsp; folks: **61,356**  &nbsp;&nbsp; `1,159 stars this week`
 
 1. [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
     - Telegram-iOS
@@ -158,11 +158,11 @@
 
 1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
     - Model components of the Llama Stack APIs
-    - language: **Python** &nbsp;&nbsp; stars: **3,300** &nbsp;&nbsp; folks: **469**  &nbsp;&nbsp; `3,022 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,300** &nbsp;&nbsp; folks: **473**  &nbsp;&nbsp; `3,022 stars this month`
 
 1. [RSSNext / Follow](https://github.com/RSSNext/Follow)
     - 🧡 Next generation information browser.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,022** &nbsp;&nbsp; folks: **472**  &nbsp;&nbsp; `7,589 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,025** &nbsp;&nbsp; folks: **472**  &nbsp;&nbsp; `7,589 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - Brand new TTS solution
@@ -174,35 +174,35 @@
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
-    - language: **Go** &nbsp;&nbsp; stars: **5,698** &nbsp;&nbsp; folks: **901**  &nbsp;&nbsp; `2,451 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **5,698** &nbsp;&nbsp; folks: **902**  &nbsp;&nbsp; `2,451 stars this month`
 
 1. [tw93 / Pake](https://github.com/tw93/Pake)
     - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-    - language: **Rust** &nbsp;&nbsp; stars: **29,897** &nbsp;&nbsp; folks: **5,171**  &nbsp;&nbsp; `4,598 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,898** &nbsp;&nbsp; folks: **5,173**  &nbsp;&nbsp; `4,598 stars this month`
 
 1. [kestra-io / kestra](https://github.com/kestra-io/kestra)
     - ⚡ Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
-    - language: **Java** &nbsp;&nbsp; stars: **9,645** &nbsp;&nbsp; folks: **794**  &nbsp;&nbsp; `2,270 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **9,646** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `2,270 stars this month`
 
 1. [mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
     - A self-paced course to learn Rust, one exercise at a time.
-    - language: **Rust** &nbsp;&nbsp; stars: **5,022** &nbsp;&nbsp; folks: **867**  &nbsp;&nbsp; `1,497 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **5,025** &nbsp;&nbsp; folks: **867**  &nbsp;&nbsp; `1,497 stars this month`
 
 1. [nginx / nginx](https://github.com/nginx/nginx)
     - The official NGINX Open Source repository.
-    - language: **C** &nbsp;&nbsp; stars: **24,693** &nbsp;&nbsp; folks: **6,914**  &nbsp;&nbsp; `3,453 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **24,694** &nbsp;&nbsp; folks: **6,914**  &nbsp;&nbsp; `3,453 stars this month`
 
 1. [home-assistant / core](https://github.com/home-assistant/core)
     - 🏡 Open source home automation that puts local control and privacy first.
-    - language: **Python** &nbsp;&nbsp; stars: **72,196** &nbsp;&nbsp; folks: **30,223**  &nbsp;&nbsp; `1,305 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **72,197** &nbsp;&nbsp; folks: **30,223**  &nbsp;&nbsp; `1,305 stars this month`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **22,943** &nbsp;&nbsp; folks: **1,710**  &nbsp;&nbsp; `4,501 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,944** &nbsp;&nbsp; folks: **1,710**  &nbsp;&nbsp; `4,501 stars this month`
 
 1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,933** &nbsp;&nbsp; folks: **784**  &nbsp;&nbsp; `1,519 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,933** &nbsp;&nbsp; folks: **786**  &nbsp;&nbsp; `1,519 stars this month`
 
 1. [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
     - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -210,15 +210,15 @@
 
 1. [continuedev / continue](https://github.com/continuedev/continue)
     - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,717** &nbsp;&nbsp; folks: **1,371**  &nbsp;&nbsp; `2,408 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,718** &nbsp;&nbsp; folks: **1,371**  &nbsp;&nbsp; `2,408 stars this month`
 
 1. [OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM)
     - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,976** &nbsp;&nbsp; folks: **439**  &nbsp;&nbsp; `1,823 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,977** &nbsp;&nbsp; folks: **439**  &nbsp;&nbsp; `1,823 stars this month`
 
 1. [stenzek / duckstation](https://github.com/stenzek/duckstation)
     - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-    - language: **C++** &nbsp;&nbsp; stars: **7,088** &nbsp;&nbsp; folks: **694**  &nbsp;&nbsp; `411 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **7,089** &nbsp;&nbsp; folks: **694**  &nbsp;&nbsp; `411 stars this month`
 
 1. [pytorch / ao](https://github.com/pytorch/ao)
     - PyTorch native quantization and sparsity for training and inference
@@ -226,19 +226,19 @@
 
 1. [saoudrizwan / claude-dev](https://github.com/saoudrizwan/claude-dev)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,057** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `2,752 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,059** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `2,752 stars this month`
 
 1. [shadcn-ui / ui](https://github.com/shadcn-ui/ui)
     - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **71,010** &nbsp;&nbsp; folks: **4,273**  &nbsp;&nbsp; `2,855 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **71,012** &nbsp;&nbsp; folks: **4,273**  &nbsp;&nbsp; `2,855 stars this month`
 
 1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
     - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **189,270** &nbsp;&nbsp; folks: **44,916**  &nbsp;&nbsp; `5,028 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **189,307** &nbsp;&nbsp; folks: **44,917**  &nbsp;&nbsp; `5,028 stars this month`
 
 1. [deskflow / deskflow](https://github.com/deskflow/deskflow)
     - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
-    - language: **C++** &nbsp;&nbsp; stars: **10,634** &nbsp;&nbsp; folks: **3,664**  &nbsp;&nbsp; `357 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **10,635** &nbsp;&nbsp; folks: **3,664**  &nbsp;&nbsp; `357 stars this month`
 
 
 ## 历史归档
