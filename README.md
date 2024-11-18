@@ -10,223 +10,223 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-11-18 17:16:59 +0800`
+`更新时间：2024-11-18 18:16:26 +0800`
 
 ## 今日热门仓库
 
 1. [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
     - This is a repo with links to everything you'd ever want to learn about data engineering
-    - language: **Makefile** &nbsp;&nbsp; stars: **15,810** &nbsp;&nbsp; folks: **2,399**  &nbsp;&nbsp; `1,255 stars today`
+    - language: **Makefile** &nbsp;&nbsp; stars: **15,889** &nbsp;&nbsp; folks: **2,407**  &nbsp;&nbsp; `1,255 stars today`
 
 1. [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
     - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,926** &nbsp;&nbsp; folks: **2,235**  &nbsp;&nbsp; `122 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,935** &nbsp;&nbsp; folks: **2,236**  &nbsp;&nbsp; `122 stars today`
 
 1. [ai16z / eliza](https://github.com/ai16z/eliza)
     - Conversational Agent for Twitter and Discord
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,313** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `80 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,324** &nbsp;&nbsp; folks: **351**  &nbsp;&nbsp; `80 stars today`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **276,319** &nbsp;&nbsp; folks: **46,365**  &nbsp;&nbsp; `214 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **276,334** &nbsp;&nbsp; folks: **46,367**  &nbsp;&nbsp; `214 stars today`
 
 1. [leaningtech / webvm](https://github.com/leaningtech/webvm)
     - Virtual Machine for the Web
-    - language: **Svelte** &nbsp;&nbsp; stars: **6,571** &nbsp;&nbsp; folks: **1,280**  &nbsp;&nbsp; `443 stars today`
+    - language: **Svelte** &nbsp;&nbsp; stars: **6,594** &nbsp;&nbsp; folks: **1,282**  &nbsp;&nbsp; `443 stars today`
 
 1. [tursodatabase / libsql](https://github.com/tursodatabase/libsql)
     - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-    - language: **C** &nbsp;&nbsp; stars: **11,513** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `205 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **11,524** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `205 stars today`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **311,671** &nbsp;&nbsp; folks: **28,982**  &nbsp;&nbsp; `1,652 stars today`
+    - language: **Markdown** &nbsp;&nbsp; stars: **311,689** &nbsp;&nbsp; folks: **28,983**  &nbsp;&nbsp; `1,652 stars today`
 
 1. [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - Stable Diffusion web UI
-    - language: **Python** &nbsp;&nbsp; stars: **143,055** &nbsp;&nbsp; folks: **26,960**  &nbsp;&nbsp; `60 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **143,057** &nbsp;&nbsp; folks: **26,960**  &nbsp;&nbsp; `60 stars today`
 
 1. [epasveer / seer](https://github.com/epasveer/seer)
     - Seer - a gui frontend to gdb
-    - language: **C++** &nbsp;&nbsp; stars: **2,820** &nbsp;&nbsp; folks: **79**  &nbsp;&nbsp; `71 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **2,828** &nbsp;&nbsp; folks: **80**  &nbsp;&nbsp; `71 stars today`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,255** &nbsp;&nbsp; folks: **1,457**  &nbsp;&nbsp; `118 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,274** &nbsp;&nbsp; folks: **1,457**  &nbsp;&nbsp; `118 stars today`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **29,468** &nbsp;&nbsp; folks: **6,228**  &nbsp;&nbsp; `26 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **29,503** &nbsp;&nbsp; folks: **6,231**  &nbsp;&nbsp; `26 stars today`
 
 1. [2dust / v2rayN](https://github.com/2dust/v2rayN)
     - A GUI client for Windows and Linux, support Xray core and v2fly core and others
-    - language: **C#** &nbsp;&nbsp; stars: **69,760** &nbsp;&nbsp; folks: **11,531**  &nbsp;&nbsp; `63 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **69,767** &nbsp;&nbsp; folks: **11,532**  &nbsp;&nbsp; `63 stars today`
 
 1. [blacklanternsecurity / bbot](https://github.com/blacklanternsecurity/bbot)
     - A recursive internet scanner for hackers.
-    - language: **Python** &nbsp;&nbsp; stars: **5,826** &nbsp;&nbsp; folks: **470**  &nbsp;&nbsp; `207 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,842** &nbsp;&nbsp; folks: **470**  &nbsp;&nbsp; `207 stars today`
 
 1. [lvgl / lvgl](https://github.com/lvgl/lvgl)
     - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
-    - language: **C** &nbsp;&nbsp; stars: **17,016** &nbsp;&nbsp; folks: **3,273**  &nbsp;&nbsp; `134 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **17,025** &nbsp;&nbsp; folks: **3,273**  &nbsp;&nbsp; `134 stars today`
 
 1. [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
     - The official gpt4free repository | various collection of powerful language models
-    - language: **Python** &nbsp;&nbsp; stars: **61,394** &nbsp;&nbsp; folks: **13,332**  &nbsp;&nbsp; `23 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **61,407** &nbsp;&nbsp; folks: **13,332**  &nbsp;&nbsp; `23 stars today`
 
 1. [docusealco / docuseal](https://github.com/docusealco/docuseal)
     - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    - language: **Ruby** &nbsp;&nbsp; stars: **7,547** &nbsp;&nbsp; folks: **509**  &nbsp;&nbsp; `399 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **7,567** &nbsp;&nbsp; folks: **510**  &nbsp;&nbsp; `399 stars today`
 
 
 ## 近一周热门仓库
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **29,038** &nbsp;&nbsp; folks: **1,984**  &nbsp;&nbsp; `8,751 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **29,048** &nbsp;&nbsp; folks: **1,984**  &nbsp;&nbsp; `8,751 stars this week`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **14,897** &nbsp;&nbsp; folks: **802**  &nbsp;&nbsp; `3,288 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,904** &nbsp;&nbsp; folks: **803**  &nbsp;&nbsp; `3,288 stars this week`
 
 1. [vercel / ai-chatbot](https://github.com/vercel/ai-chatbot)
     - A full-featured, hackable Next.js AI chatbot built by Vercel
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,461** &nbsp;&nbsp; folks: **2,401**  &nbsp;&nbsp; `2,490 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,466** &nbsp;&nbsp; folks: **2,403**  &nbsp;&nbsp; `2,490 stars this week`
 
 1. [haydenbleasel / next-forge](https://github.com/haydenbleasel/next-forge)
     - Production-grade Turborepo template for Next.js apps.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,736** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,766 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,739** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,766 stars this week`
 
 1. [ai16z / eliza](https://github.com/ai16z/eliza)
     - Conversational Agent for Twitter and Discord
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,313** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `615 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,324** &nbsp;&nbsp; folks: **351**  &nbsp;&nbsp; `615 stars this week`
 
 1. [microsoft / autogen](https://github.com/microsoft/autogen)
     - A programming framework for agentic AI 🤖
-    - language: **Python** &nbsp;&nbsp; stars: **34,315** &nbsp;&nbsp; folks: **4,957**  &nbsp;&nbsp; `1,152 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **34,322** &nbsp;&nbsp; folks: **4,957**  &nbsp;&nbsp; `1,152 stars this week`
 
 1. [LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
     - 获取QQ空间发布的历史说说
-    - language: **Python** &nbsp;&nbsp; stars: **5,720** &nbsp;&nbsp; folks: **416**  &nbsp;&nbsp; `2,941 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,731** &nbsp;&nbsp; folks: **417**  &nbsp;&nbsp; `2,941 stars this week`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **18,154** &nbsp;&nbsp; folks: **2,791**  &nbsp;&nbsp; `998 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **18,158** &nbsp;&nbsp; folks: **2,791**  &nbsp;&nbsp; `998 stars this week`
 
 1. [blacklanternsecurity / bbot](https://github.com/blacklanternsecurity/bbot)
     - A recursive internet scanner for hackers.
-    - language: **Python** &nbsp;&nbsp; stars: **5,826** &nbsp;&nbsp; folks: **470**  &nbsp;&nbsp; `909 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,842** &nbsp;&nbsp; folks: **470**  &nbsp;&nbsp; `909 stars this week`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).
-    - language: **Python** &nbsp;&nbsp; stars: **15,297** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `1,237 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **15,306** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `1,237 stars this week`
 
 1. [mudler / LocalAI](https://github.com/mudler/LocalAI)
     - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-    - language: **Go** &nbsp;&nbsp; stars: **25,864** &nbsp;&nbsp; folks: **1,940**  &nbsp;&nbsp; `1,248 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **25,868** &nbsp;&nbsp; folks: **1,941**  &nbsp;&nbsp; `1,248 stars this week`
 
 1. [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
     - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,926** &nbsp;&nbsp; folks: **2,235**  &nbsp;&nbsp; `418 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,935** &nbsp;&nbsp; folks: **2,236**  &nbsp;&nbsp; `418 stars this week`
 
 1. [AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc)
     - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-    - language: **Go** &nbsp;&nbsp; stars: **6,772** &nbsp;&nbsp; folks: **486**  &nbsp;&nbsp; `1,086 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **6,774** &nbsp;&nbsp; folks: **486**  &nbsp;&nbsp; `1,086 stars this week`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **36,833** &nbsp;&nbsp; folks: **4,188**  &nbsp;&nbsp; `1,441 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **36,839** &nbsp;&nbsp; folks: **4,189**  &nbsp;&nbsp; `1,441 stars this week`
 
 1. [PrefectHQ / prefect](https://github.com/PrefectHQ/prefect)
     - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-    - language: **Python** &nbsp;&nbsp; stars: **17,472** &nbsp;&nbsp; folks: **1,643**  &nbsp;&nbsp; `491 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **17,473** &nbsp;&nbsp; folks: **1,643**  &nbsp;&nbsp; `491 stars this week`
 
 1. [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
     - Python - 100天从新手到大师
-    - language: **Python** &nbsp;&nbsp; stars: **157,588** &nbsp;&nbsp; folks: **52,444**  &nbsp;&nbsp; `644 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **157,593** &nbsp;&nbsp; folks: **52,444**  &nbsp;&nbsp; `644 stars this week`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **29,468** &nbsp;&nbsp; folks: **6,228**  &nbsp;&nbsp; `181 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **29,503** &nbsp;&nbsp; folks: **6,231**  &nbsp;&nbsp; `181 stars this week`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **40,797** &nbsp;&nbsp; folks: **5,931**  &nbsp;&nbsp; `933 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **40,802** &nbsp;&nbsp; folks: **5,932**  &nbsp;&nbsp; `933 stars this week`
 
 1. [DS4SD / docling](https://github.com/DS4SD/docling)
     - Get your documents ready for gen AI
-    - language: **Python** &nbsp;&nbsp; stars: **9,728** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `1,807 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,742** &nbsp;&nbsp; folks: **464**  &nbsp;&nbsp; `1,807 stars this week`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    - language: **Java** &nbsp;&nbsp; stars: **16,850** &nbsp;&nbsp; folks: **1,889**  &nbsp;&nbsp; `552 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **16,857** &nbsp;&nbsp; folks: **1,889**  &nbsp;&nbsp; `552 stars this week`
 
 1. [angular / angular](https://github.com/angular/angular)
     - Deliver web apps with confidence 🚀
-    - language: **TypeScript** &nbsp;&nbsp; stars: **96,244** &nbsp;&nbsp; folks: **25,507**  &nbsp;&nbsp; `98 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **96,246** &nbsp;&nbsp; folks: **25,507**  &nbsp;&nbsp; `98 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [DS4SD / docling](https://github.com/DS4SD/docling)
     - Get your documents ready for gen AI
-    - language: **Python** &nbsp;&nbsp; stars: **9,728** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `8,894 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,742** &nbsp;&nbsp; folks: **464**  &nbsp;&nbsp; `8,894 stars this month`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **C++** &nbsp;&nbsp; stars: **11,192** &nbsp;&nbsp; folks: **760**  &nbsp;&nbsp; `11,223 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **11,194** &nbsp;&nbsp; folks: **760**  &nbsp;&nbsp; `11,223 stars this month`
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **29,038** &nbsp;&nbsp; folks: **1,984**  &nbsp;&nbsp; `11,253 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **29,048** &nbsp;&nbsp; folks: **1,984**  &nbsp;&nbsp; `11,253 stars this month`
 
 1. [phidatahq / phidata](https://github.com/phidatahq/phidata)
     - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
-    - language: **Python** &nbsp;&nbsp; stars: **15,363** &nbsp;&nbsp; folks: **2,122**  &nbsp;&nbsp; `3,997 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,366** &nbsp;&nbsp; folks: **2,121**  &nbsp;&nbsp; `3,997 stars this month`
 
 1. [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
     - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    - language: **Python** &nbsp;&nbsp; stars: **59,970** &nbsp;&nbsp; folks: **7,372**  &nbsp;&nbsp; `3,435 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **59,977** &nbsp;&nbsp; folks: **7,374**  &nbsp;&nbsp; `3,435 stars this month`
 
 1. [vercel / ai-chatbot](https://github.com/vercel/ai-chatbot)
     - A full-featured, hackable Next.js AI chatbot built by Vercel
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,461** &nbsp;&nbsp; folks: **2,401**  &nbsp;&nbsp; `2,969 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,466** &nbsp;&nbsp; folks: **2,403**  &nbsp;&nbsp; `2,969 stars this month`
 
 1. [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
     - The Bluesky Social application for Web, iOS, and Android
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,304** &nbsp;&nbsp; folks: **1,438**  &nbsp;&nbsp; `2,817 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,308** &nbsp;&nbsp; folks: **1,440**  &nbsp;&nbsp; `2,817 stars this month`
 
 1. [getomni-ai / zerox](https://github.com/getomni-ai/zerox)
     - PDF to Markdown with vision models
-    - language: **Python** &nbsp;&nbsp; stars: **6,316** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `4,598 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,317** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `4,598 stars this month`
 
 1. [OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
     - A natural language interface for computers
-    - language: **Python** &nbsp;&nbsp; stars: **55,472** &nbsp;&nbsp; folks: **4,825**  &nbsp;&nbsp; `3,000 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **55,476** &nbsp;&nbsp; folks: **4,825**  &nbsp;&nbsp; `3,000 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **22,574** &nbsp;&nbsp; folks: **1,574**  &nbsp;&nbsp; `2,423 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **22,578** &nbsp;&nbsp; folks: **1,574**  &nbsp;&nbsp; `2,423 stars this month`
 
 1. [kolbytn / mindcraft](https://github.com/kolbytn/mindcraft)
     - 无
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,095** &nbsp;&nbsp; folks: **253**  &nbsp;&nbsp; `1,218 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,097** &nbsp;&nbsp; folks: **253**  &nbsp;&nbsp; `1,218 stars this month`
 
 1. [hiteshchoudhary / apihub](https://github.com/hiteshchoudhary/apihub)
     - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **6,774** &nbsp;&nbsp; folks: **1,084**  &nbsp;&nbsp; `3,160 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **6,775** &nbsp;&nbsp; folks: **1,084**  &nbsp;&nbsp; `3,160 stars this month`
 
 1. [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
     - 🎨 Diagram as Code for prototyping cloud system architectures
-    - language: **Python** &nbsp;&nbsp; stars: **39,436** &nbsp;&nbsp; folks: **2,535**  &nbsp;&nbsp; `2,041 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,437** &nbsp;&nbsp; folks: **2,535**  &nbsp;&nbsp; `2,041 stars this month`
 
 1. [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
     - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,926** &nbsp;&nbsp; folks: **2,235**  &nbsp;&nbsp; `701 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,935** &nbsp;&nbsp; folks: **2,236**  &nbsp;&nbsp; `701 stars this month`
 
 1. [yamadashy / repomix](https://github.com/yamadashy/repomix)
     - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,053** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `2,405 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,058** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `2,405 stars this month`
 
 1. [dgtlmoon / changedetection.io](https://github.com/dgtlmoon/changedetection.io)
     - The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
@@ -234,7 +234,7 @@
 
 1. [microsoft / autogen](https://github.com/microsoft/autogen)
     - A programming framework for agentic AI 🤖
-    - language: **Python** &nbsp;&nbsp; stars: **34,315** &nbsp;&nbsp; folks: **4,957**  &nbsp;&nbsp; `2,288 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **34,322** &nbsp;&nbsp; folks: **4,957**  &nbsp;&nbsp; `2,288 stars this month`
 
 1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
     - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
@@ -242,11 +242,11 @@
 
 1. [sveltejs / svelte](https://github.com/sveltejs/svelte)
     - web development for the rest of us
-    - language: **JavaScript** &nbsp;&nbsp; stars: **80,005** &nbsp;&nbsp; folks: **4,252**  &nbsp;&nbsp; `1,442 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **80,006** &nbsp;&nbsp; folks: **4,252**  &nbsp;&nbsp; `1,442 stars this month`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **36,833** &nbsp;&nbsp; folks: **4,188**  &nbsp;&nbsp; `3,939 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **36,839** &nbsp;&nbsp; folks: **4,189**  &nbsp;&nbsp; `3,939 stars this month`
 
 
 ## 历史归档
