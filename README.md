@@ -10,203 +10,207 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-12-27 18:14:11 +0800`
+`更新时间：2024-12-27 19:11:24 +0800`
 
 ## 今日热门仓库
 
 1. [anti-work / shortest](https://github.com/anti-work/shortest)
     - QA via natural language AI tests
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,365** &nbsp;&nbsp; folks: **134**  &nbsp;&nbsp; `479 stars today`
-
-1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
-    - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **50,017** &nbsp;&nbsp; folks: **10,817**  &nbsp;&nbsp; `251 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,391** &nbsp;&nbsp; folks: **135**  &nbsp;&nbsp; `960 stars today`
 
 1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
     - best way to save what you love
-    - language: **Svelte** &nbsp;&nbsp; stars: **21,427** &nbsp;&nbsp; folks: **1,762**  &nbsp;&nbsp; `398 stars today`
+    - language: **Svelte** &nbsp;&nbsp; stars: **21,461** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `566 stars today`
 
-1. [openai / openai-openapi](https://github.com/openai/openai-openapi)
-    - OpenAPI specification for the OpenAI API
-    - language: **无** &nbsp;&nbsp; stars: **1,749** &nbsp;&nbsp; folks: **408**  &nbsp;&nbsp; `146 stars today`
-
-1. [apache / echarts](https://github.com/apache/echarts)
-    - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-    - language: **TypeScript** &nbsp;&nbsp; stars: **61,195** &nbsp;&nbsp; folks: **19,642**  &nbsp;&nbsp; `19 stars today`
-
-1. [gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app)
-    - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,125** &nbsp;&nbsp; folks: **2,560**  &nbsp;&nbsp; `35 stars today`
-
-1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-    - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **302,937** &nbsp;&nbsp; folks: **39,680**  &nbsp;&nbsp; `125 stars today`
-
-1. [3b1b / manim](https://github.com/3b1b/manim)
-    - Animation engine for explanatory math videos
-    - language: **Python** &nbsp;&nbsp; stars: **72,507** &nbsp;&nbsp; folks: **6,349**  &nbsp;&nbsp; `43 stars today`
-
-1. [Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-    - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-    - language: **Python** &nbsp;&nbsp; stars: **169,819** &nbsp;&nbsp; folks: **44,672**  &nbsp;&nbsp; `61 stars today`
-
-1. [ziglang / zig](https://github.com/ziglang/zig)
-    - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-    - language: **Zig** &nbsp;&nbsp; stars: **35,701** &nbsp;&nbsp; folks: **2,597**  &nbsp;&nbsp; `25 stars today`
+1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+    - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **50,024** &nbsp;&nbsp; folks: **10,817**  &nbsp;&nbsp; `255 stars today`
 
 1. [OpenSPG / KAG](https://github.com/OpenSPG/KAG)
     - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
-    - language: **Python** &nbsp;&nbsp; stars: **1,524** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `311 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,537** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `227 stars today`
 
-1. [ruanyf / weekly](https://github.com/ruanyf/weekly)
-    - 科技爱好者周刊，每周五发布
-    - language: **无** &nbsp;&nbsp; stars: **50,425** &nbsp;&nbsp; folks: **3,020**  &nbsp;&nbsp; `85 stars today`
+1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
+    - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **52,825** &nbsp;&nbsp; folks: **9,090**  &nbsp;&nbsp; `233 stars today`
 
-1. [2dust / v2rayN](https://github.com/2dust/v2rayN)
-    - A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
-    - language: **C#** &nbsp;&nbsp; stars: **72,403** &nbsp;&nbsp; folks: **11,843**  &nbsp;&nbsp; `85 stars today`
+1. [siyuan-note / siyuan](https://github.com/siyuan-note/siyuan)
+    - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,394** &nbsp;&nbsp; folks: **1,684**  &nbsp;&nbsp; `300 stars today`
 
-1. [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-    - Curated list of project-based tutorials
-    - language: **无** &nbsp;&nbsp; stars: **209,220** &nbsp;&nbsp; folks: **27,294**  &nbsp;&nbsp; `399 stars today`
+1. [langchain-ai / langchain](https://github.com/langchain-ai/langchain)
+    - 🦜🔗 Build context-aware reasoning applications
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **96,937** &nbsp;&nbsp; folks: **15,762**  &nbsp;&nbsp; `159 stars today`
+
+1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+    - Master programming by recreating your favorite technologies from scratch.
+    - language: **Markdown** &nbsp;&nbsp; stars: **318,857** &nbsp;&nbsp; folks: **29,587**  &nbsp;&nbsp; `180 stars today`
+
+1. [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4)
+    - PS4 emulator for Windows,Linux,MacOS
+    - language: **C++** &nbsp;&nbsp; stars: **11,721** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `59 stars today`
+
+1. [apache / echarts](https://github.com/apache/echarts)
+    - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+    - language: **TypeScript** &nbsp;&nbsp; stars: **61,200** &nbsp;&nbsp; folks: **19,642**  &nbsp;&nbsp; `184 stars today`
+
+1. [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+    - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+    - language: **MDX** &nbsp;&nbsp; stars: **51,336** &nbsp;&nbsp; folks: **4,990**  &nbsp;&nbsp; `44 stars today`
+
+1. [phidatahq / phidata](https://github.com/phidatahq/phidata)
+    - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+    - language: **Python** &nbsp;&nbsp; stars: **16,832** &nbsp;&nbsp; folks: **2,274**  &nbsp;&nbsp; `26 stars today`
+
+1. [teableio / teable](https://github.com/teableio/teable)
+    - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,887** &nbsp;&nbsp; folks: **640**  &nbsp;&nbsp; `32 stars today`
+
+1. [microg / GmsCore](https://github.com/microg/GmsCore)
+    - Free implementation of Play Services
+    - language: **Java** &nbsp;&nbsp; stars: **9,036** &nbsp;&nbsp; folks: **1,773**  &nbsp;&nbsp; `118 stars today`
 
 
 ## 近一周热门仓库
 
-1. [XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
-    - Xiaomi Home Integration for Home Assistant
-    - language: **Python** &nbsp;&nbsp; stars: **15,412** &nbsp;&nbsp; folks: **685**  &nbsp;&nbsp; `4,563 stars this week`
+1. [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+    - A generative world for general-purpose robotics & embodied AI learning.
+    - language: **Python** &nbsp;&nbsp; stars: **19,746** &nbsp;&nbsp; folks: **1,484**  &nbsp;&nbsp; `6,622 stars this week`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **282,954** &nbsp;&nbsp; folks: **47,304**  &nbsp;&nbsp; `3,297 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **282,959** &nbsp;&nbsp; folks: **47,305**  &nbsp;&nbsp; `3,297 stars this week`
+
+1. [XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+    - Xiaomi Home Integration for Home Assistant
+    - language: **Python** &nbsp;&nbsp; stars: **15,419** &nbsp;&nbsp; folks: **684**  &nbsp;&nbsp; `4,563 stars this week`
 
 1. [tldraw / tldraw](https://github.com/tldraw/tldraw)
     - whiteboard / infinite canvas SDK
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,721** &nbsp;&nbsp; folks: **2,309**  &nbsp;&nbsp; `1,281 stars this week`
-
-1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
-    - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **48,621** &nbsp;&nbsp; folks: **3,224**  &nbsp;&nbsp; `603 stars this week`
-
-1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
-    - Python APIs for web automation, testing, and bypassing bot-detection.
-    - language: **Python** &nbsp;&nbsp; stars: **7,969** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `1,329 stars this week`
-
-1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-    - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,474** &nbsp;&nbsp; folks: **1,045**  &nbsp;&nbsp; `1,092 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,726** &nbsp;&nbsp; folks: **2,309**  &nbsp;&nbsp; `1,281 stars this week`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **19,237** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `1,340 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **19,242** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `1,340 stars this week`
 
-1. [comet-ml / opik](https://github.com/comet-ml/opik)
-    - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
-    - language: **Python** &nbsp;&nbsp; stars: **3,765** &nbsp;&nbsp; folks: **213**  &nbsp;&nbsp; `1,062 stars this week`
+1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+    - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,476** &nbsp;&nbsp; folks: **1,045**  &nbsp;&nbsp; `1,092 stars this week`
 
-1. [cline / cline](https://github.com/cline/cline)
-    - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,415** &nbsp;&nbsp; folks: **1,374**  &nbsp;&nbsp; `1,045 stars this week`
+1. [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+    - Curated list of project-based tutorials
+    - language: **无** &nbsp;&nbsp; stars: **209,231** &nbsp;&nbsp; folks: **27,294**  &nbsp;&nbsp; `1,850 stars this week`
 
-1. [meta-llama / llama-stack](https://github.com/meta-llama/llama-stack)
-    - Composable building blocks to build Llama Apps
-    - language: **Python** &nbsp;&nbsp; stars: **5,755** &nbsp;&nbsp; folks: **757**  &nbsp;&nbsp; `372 stars this week`
+1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
+    - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **48,623** &nbsp;&nbsp; folks: **3,225**  &nbsp;&nbsp; `603 stars this week`
+
+1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
+    - Python APIs for web automation, testing, and bypassing bot-detection.
+    - language: **Python** &nbsp;&nbsp; stars: **7,970** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `1,329 stars this week`
+
+1. [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
+    - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+    - language: **Go** &nbsp;&nbsp; stars: **24,275** &nbsp;&nbsp; folks: **2,191**  &nbsp;&nbsp; `720 stars this week`
 
 1. [raysan5 / raylib](https://github.com/raysan5/raylib)
     - A simple and easy-to-use library to enjoy videogames programming
-    - language: **C** &nbsp;&nbsp; stars: **23,871** &nbsp;&nbsp; folks: **2,344**  &nbsp;&nbsp; `517 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **23,874** &nbsp;&nbsp; folks: **2,344**  &nbsp;&nbsp; `517 stars this week`
 
-1. [openai / openai-openapi](https://github.com/openai/openai-openapi)
-    - OpenAPI specification for the OpenAI API
-    - language: **无** &nbsp;&nbsp; stars: **1,749** &nbsp;&nbsp; folks: **408**  &nbsp;&nbsp; `309 stars this week`
+1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
+    - best way to save what you love
+    - language: **Svelte** &nbsp;&nbsp; stars: **21,461** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `1,133 stars this week`
 
 1. [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
     - Examples and guides for using the Gemini API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,714** &nbsp;&nbsp; folks: **1,124**  &nbsp;&nbsp; `888 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,721** &nbsp;&nbsp; folks: **1,124**  &nbsp;&nbsp; `888 stars this week`
+
+1. [cline / cline](https://github.com/cline/cline)
+    - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,423** &nbsp;&nbsp; folks: **1,375**  &nbsp;&nbsp; `1,045 stars this week`
 
 1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
     - An AI web browsing framework focused on simplicity and extensibility.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,578** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `793 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,580** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `793 stars this week`
 
-1. [bol-van / zapret](https://github.com/bol-van/zapret)
-    - DPI bypass multi platform
-    - language: **C** &nbsp;&nbsp; stars: **9,318** &nbsp;&nbsp; folks: **695**  &nbsp;&nbsp; `405 stars this week`
+1. [comet-ml / opik](https://github.com/comet-ml/opik)
+    - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
+    - language: **Python** &nbsp;&nbsp; stars: **3,768** &nbsp;&nbsp; folks: **213**  &nbsp;&nbsp; `1,062 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [myhhub / stock](https://github.com/myhhub/stock)
     - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
-    - language: **Python** &nbsp;&nbsp; stars: **6,630** &nbsp;&nbsp; folks: **1,209**  &nbsp;&nbsp; `4,821 stars this month`
-
-1. [andrewyng / aisuite](https://github.com/andrewyng/aisuite)
-    - Simple, unified interface to multiple Generative AI providers
-    - language: **Python** &nbsp;&nbsp; stars: **9,351** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `7,523 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,634** &nbsp;&nbsp; folks: **1,210**  &nbsp;&nbsp; `4,821 stars this month`
 
 1. [elizaOS / eliza](https://github.com/elizaOS/eliza)
     - Autonomous agents for everyone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,159** &nbsp;&nbsp; folks: **1,834**  &nbsp;&nbsp; `3,947 stars this month`
-
-1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
-    - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
-    - language: **Python** &nbsp;&nbsp; stars: **11,573** &nbsp;&nbsp; folks: **841**  &nbsp;&nbsp; `8,448 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,161** &nbsp;&nbsp; folks: **1,835**  &nbsp;&nbsp; `3,947 stars this month`
 
 1. [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
     - Examples and guides for using the Gemini API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,714** &nbsp;&nbsp; folks: **1,124**  &nbsp;&nbsp; `4,162 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,721** &nbsp;&nbsp; folks: **1,124**  &nbsp;&nbsp; `4,162 stars this month`
+
+1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+    - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+    - language: **Python** &nbsp;&nbsp; stars: **11,577** &nbsp;&nbsp; folks: **842**  &nbsp;&nbsp; `8,448 stars this month`
+
+1. [andrewyng / aisuite](https://github.com/andrewyng/aisuite)
+    - Simple, unified interface to multiple Generative AI providers
+    - language: **Python** &nbsp;&nbsp; stars: **9,352** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `7,523 stars this month`
 
 1. [fishaudio / fish-speech](https://github.com/fishaudio/fish-speech)
     - SOTA Open Source TTS
     - language: **Python** &nbsp;&nbsp; stars: **17,757** &nbsp;&nbsp; folks: **1,328**  &nbsp;&nbsp; `3,090 stars this month`
 
+1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+    - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **50,024** &nbsp;&nbsp; folks: **10,817**  &nbsp;&nbsp; `5,117 stars this month`
+
 1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
     - Python APIs for web automation, testing, and bypassing bot-detection.
-    - language: **Python** &nbsp;&nbsp; stars: **7,969** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `2,486 stars this month`
-
-1. [aidenybai / react-scan](https://github.com/aidenybai/react-scan)
-    - Scan for React performance issues and eliminate slow renders in your app
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,213** &nbsp;&nbsp; folks: **142**  &nbsp;&nbsp; `6,357 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,970** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `2,486 stars this month`
 
 1. [langflow-ai / langflow](https://github.com/langflow-ai/langflow)
     - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-    - language: **Python** &nbsp;&nbsp; stars: **40,831** &nbsp;&nbsp; folks: **4,591**  &nbsp;&nbsp; `5,278 stars this month`
-
-1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
-    - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **50,017** &nbsp;&nbsp; folks: **10,817**  &nbsp;&nbsp; `5,117 stars this month`
-
-1. [modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk)
-    - The official Python SDK for Model Context Protocol servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **1,043** &nbsp;&nbsp; folks: **103**  &nbsp;&nbsp; `776 stars this month`
-
-1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
-    - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **104,284** &nbsp;&nbsp; folks: **13,094**  &nbsp;&nbsp; `4,194 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **40,838** &nbsp;&nbsp; folks: **4,592**  &nbsp;&nbsp; `5,278 stars this month`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **282,954** &nbsp;&nbsp; folks: **47,304**  &nbsp;&nbsp; `5,748 stars this month`
-
-1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
-    - An AI web browsing framework focused on simplicity and extensibility.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,578** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `1,344 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **282,959** &nbsp;&nbsp; folks: **47,305**  &nbsp;&nbsp; `5,748 stars this month`
 
 1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
     - best way to save what you love
-    - language: **Svelte** &nbsp;&nbsp; stars: **21,427** &nbsp;&nbsp; folks: **1,762**  &nbsp;&nbsp; `3,634 stars this month`
+    - language: **Svelte** &nbsp;&nbsp; stars: **21,461** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `3,634 stars this month`
+
+1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
+    - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+    - language: **Java** &nbsp;&nbsp; stars: **104,286** &nbsp;&nbsp; folks: **13,094**  &nbsp;&nbsp; `4,194 stars this month`
+
+1. [modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+    - The official Python SDK for Model Context Protocol servers and clients
+    - language: **Python** &nbsp;&nbsp; stars: **1,044** &nbsp;&nbsp; folks: **103**  &nbsp;&nbsp; `776 stars this month`
+
+1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
+    - An AI web browsing framework focused on simplicity and extensibility.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,580** &nbsp;&nbsp; folks: **125**  &nbsp;&nbsp; `1,344 stars this month`
+
+1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
+    - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+    - language: **Rust** &nbsp;&nbsp; stars: **19,242** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `2,338 stars this month`
+
+1. [aidenybai / react-scan](https://github.com/aidenybai/react-scan)
+    - Scan for React performance issues and eliminate slow renders in your app
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,215** &nbsp;&nbsp; folks: **142**  &nbsp;&nbsp; `6,357 stars this month`
 
 1. [jdx / mise](https://github.com/jdx/mise)
     - dev tools, env vars, task runner
     - language: **Rust** &nbsp;&nbsp; stars: **12,234** &nbsp;&nbsp; folks: **340**  &nbsp;&nbsp; `2,005 stars this month`
 
-1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
-    - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **19,237** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `2,338 stars this month`
-
-1. [TEN-framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
-    - TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
-    - language: **Python** &nbsp;&nbsp; stars: **3,763** &nbsp;&nbsp; folks: **370**  &nbsp;&nbsp; `2,081 stars this month`
+1. [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
+    - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+    - language: **Dart** &nbsp;&nbsp; stars: **32,997** &nbsp;&nbsp; folks: **1,377**  &nbsp;&nbsp; `2,217 stars this month`
 
 
 ## 历史归档
