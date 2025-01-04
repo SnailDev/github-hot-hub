@@ -10,155 +10,155 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-01-05 02:17:47 +0800`
+`更新时间：2025-01-05 03:10:31 +0800`
 
 ## 今日热门仓库
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **16,226** &nbsp;&nbsp; folks: **1,493**  &nbsp;&nbsp; `1,367 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **16,264** &nbsp;&nbsp; folks: **1,495**  &nbsp;&nbsp; `1,367 stars today`
 
 1. [BerriAI / litellm](https://github.com/BerriAI/litellm)
     - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-    - language: **Python** &nbsp;&nbsp; stars: **15,740** &nbsp;&nbsp; folks: **1,844**  &nbsp;&nbsp; `37 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **15,744** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `37 stars today`
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **167,638** &nbsp;&nbsp; folks: **27,814**  &nbsp;&nbsp; `77 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **167,644** &nbsp;&nbsp; folks: **27,815**  &nbsp;&nbsp; `77 stars today`
 
 1. [Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon)
     - An open-source RAG-based tool for chatting with your documents.
-    - language: **Python** &nbsp;&nbsp; stars: **19,232** &nbsp;&nbsp; folks: **1,478**  &nbsp;&nbsp; `317 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **19,237** &nbsp;&nbsp; folks: **1,479**  &nbsp;&nbsp; `317 stars today`
 
 1. [loco-rs / loco](https://github.com/loco-rs/loco)
     - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-    - language: **Rust** &nbsp;&nbsp; stars: **6,054** &nbsp;&nbsp; folks: **267**  &nbsp;&nbsp; `199 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **6,060** &nbsp;&nbsp; folks: **267**  &nbsp;&nbsp; `199 stars today`
 
 1. [alufers / mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger)
     - Automagically reverse-engineer REST APIs via capturing traffic
-    - language: **HTML** &nbsp;&nbsp; stars: **7,773** &nbsp;&nbsp; folks: **282**  &nbsp;&nbsp; `479 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **7,792** &nbsp;&nbsp; folks: **282**  &nbsp;&nbsp; `479 stars today`
 
 1. [gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app)
     - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,433** &nbsp;&nbsp; folks: **2,660**  &nbsp;&nbsp; `322 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,438** &nbsp;&nbsp; folks: **2,660**  &nbsp;&nbsp; `322 stars today`
 
 1. [OpenXiangShan / XiangShan](https://github.com/OpenXiangShan/XiangShan)
     - Open-source high-performance RISC-V processor
-    - language: **Scala** &nbsp;&nbsp; stars: **5,461** &nbsp;&nbsp; folks: **694**  &nbsp;&nbsp; `228 stars today`
+    - language: **Scala** &nbsp;&nbsp; stars: **5,462** &nbsp;&nbsp; folks: **694**  &nbsp;&nbsp; `228 stars today`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **81,415** &nbsp;&nbsp; folks: **8,104**  &nbsp;&nbsp; `81 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **81,418** &nbsp;&nbsp; folks: **8,104**  &nbsp;&nbsp; `81 stars today`
 
 1. [kyegomez / swarms](https://github.com/kyegomez/swarms)
     - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
-    - language: **Python** &nbsp;&nbsp; stars: **2,348** &nbsp;&nbsp; folks: **320**  &nbsp;&nbsp; `59 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,354** &nbsp;&nbsp; folks: **321**  &nbsp;&nbsp; `59 stars today`
 
 1. [louis-e / arnis](https://github.com/louis-e/arnis)
     - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
-    - language: **Rust** &nbsp;&nbsp; stars: **3,420** &nbsp;&nbsp; folks: **94**  &nbsp;&nbsp; `507 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,431** &nbsp;&nbsp; folks: **96**  &nbsp;&nbsp; `507 stars today`
 
 1. [microsoft / terminal](https://github.com/microsoft/terminal)
     - The new Windows Terminal and the original Windows console host, all in the same place!
-    - language: **C++** &nbsp;&nbsp; stars: **96,300** &nbsp;&nbsp; folks: **8,395**  &nbsp;&nbsp; `35 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **96,306** &nbsp;&nbsp; folks: **8,396**  &nbsp;&nbsp; `35 stars today`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT better.
-    - language: **HTML** &nbsp;&nbsp; stars: **115,583** &nbsp;&nbsp; folks: **15,738**  &nbsp;&nbsp; `312 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **115,592** &nbsp;&nbsp; folks: **15,738**  &nbsp;&nbsp; `312 stars today`
 
 1. [caddyserver / caddy](https://github.com/caddyserver/caddy)
     - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-    - language: **Go** &nbsp;&nbsp; stars: **60,047** &nbsp;&nbsp; folks: **4,107**  &nbsp;&nbsp; `124 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **60,058** &nbsp;&nbsp; folks: **4,107**  &nbsp;&nbsp; `124 stars today`
 
 1. [spaceandtimelabs / sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)
     - Space and Time | Proof of SQL
-    - language: **Rust** &nbsp;&nbsp; stars: **4,395** &nbsp;&nbsp; folks: **164**  &nbsp;&nbsp; `180 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **4,400** &nbsp;&nbsp; folks: **164**  &nbsp;&nbsp; `180 stars today`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **322,426** &nbsp;&nbsp; folks: **29,891**  &nbsp;&nbsp; `664 stars today`
+    - language: **Markdown** &nbsp;&nbsp; stars: **322,432** &nbsp;&nbsp; folks: **29,893**  &nbsp;&nbsp; `664 stars today`
 
 1. [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
     - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    - language: **无** &nbsp;&nbsp; stars: **33,254** &nbsp;&nbsp; folks: **3,628**  &nbsp;&nbsp; `111 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **33,261** &nbsp;&nbsp; folks: **3,628**  &nbsp;&nbsp; `111 stars today`
 
 
 ## 近一周热门仓库
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **4,837** &nbsp;&nbsp; folks: **309**  &nbsp;&nbsp; `2,867 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,844** &nbsp;&nbsp; folks: **310**  &nbsp;&nbsp; `2,867 stars this week`
 
 1. [OpenSPG / KAG](https://github.com/OpenSPG/KAG)
     - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
-    - language: **Python** &nbsp;&nbsp; stars: **3,040** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `1,376 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,042** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `1,376 stars this week`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **16,226** &nbsp;&nbsp; folks: **1,493**  &nbsp;&nbsp; `1,149 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,264** &nbsp;&nbsp; folks: **1,495**  &nbsp;&nbsp; `1,149 stars this week`
 
 1. [elizaOS / eliza](https://github.com/elizaOS/eliza)
     - Autonomous agents for everyone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,301** &nbsp;&nbsp; folks: **2,419**  &nbsp;&nbsp; `2,677 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,307** &nbsp;&nbsp; folks: **2,424**  &nbsp;&nbsp; `2,677 stars this week`
 
 1. [bytedance / monolith](https://github.com/bytedance/monolith)
     - A Lightweight Recommendation System
-    - language: **Python** &nbsp;&nbsp; stars: **6,384** &nbsp;&nbsp; folks: **478**  &nbsp;&nbsp; `2,541 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,385** &nbsp;&nbsp; folks: **478**  &nbsp;&nbsp; `2,541 stars this week`
 
 1. [janhq / jan](https://github.com/janhq/jan)
     - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,519** &nbsp;&nbsp; folks: **1,467**  &nbsp;&nbsp; `837 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,524** &nbsp;&nbsp; folks: **1,467**  &nbsp;&nbsp; `837 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [elizaOS / eliza](https://github.com/elizaOS/eliza)
     - Autonomous agents for everyone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,301** &nbsp;&nbsp; folks: **2,419**  &nbsp;&nbsp; `6,232 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,307** &nbsp;&nbsp; folks: **2,424**  &nbsp;&nbsp; `6,232 stars this month`
 
 1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
     - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
-    - language: **Python** &nbsp;&nbsp; stars: **13,594** &nbsp;&nbsp; folks: **988**  &nbsp;&nbsp; `9,857 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,598** &nbsp;&nbsp; folks: **988**  &nbsp;&nbsp; `9,857 stars this month`
 
 1. [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
     - Examples and guides for using the Gemini API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,082** &nbsp;&nbsp; folks: **1,165**  &nbsp;&nbsp; `4,676 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,081** &nbsp;&nbsp; folks: **1,165**  &nbsp;&nbsp; `4,676 stars this month`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **4,837** &nbsp;&nbsp; folks: **309**  &nbsp;&nbsp; `3,594 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,844** &nbsp;&nbsp; folks: **310**  &nbsp;&nbsp; `3,594 stars this month`
 
 1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
     - best way to save what you love
-    - language: **Svelte** &nbsp;&nbsp; stars: **24,856** &nbsp;&nbsp; folks: **2,002**  &nbsp;&nbsp; `7,123 stars this month`
+    - language: **Svelte** &nbsp;&nbsp; stars: **24,859** &nbsp;&nbsp; folks: **2,003**  &nbsp;&nbsp; `7,123 stars this month`
 
 1. [pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai)
     - Agent Framework / shim to use Pydantic with LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **4,809** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `3,830 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,811** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `3,830 stars this month`
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,969** &nbsp;&nbsp; folks: **1,582**  &nbsp;&nbsp; `5,468 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,979** &nbsp;&nbsp; folks: **1,584**  &nbsp;&nbsp; `5,468 stars this month`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **284,378** &nbsp;&nbsp; folks: **47,489**  &nbsp;&nbsp; `6,523 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **284,382** &nbsp;&nbsp; folks: **47,491**  &nbsp;&nbsp; `6,523 stars this month`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **HTML** &nbsp;&nbsp; stars: **345,958** &nbsp;&nbsp; folks: **62,366**  &nbsp;&nbsp; `5,588 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **345,962** &nbsp;&nbsp; folks: **62,368**  &nbsp;&nbsp; `5,588 stars this month`
 
 1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
     - Python APIs for web automation, testing, and bypassing bot-detection.
-    - language: **Python** &nbsp;&nbsp; stars: **8,582** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `3,075 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,584** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `3,075 stars this month`
 
 1. [OpenSPG / KAG](https://github.com/OpenSPG/KAG)
     - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
-    - language: **Python** &nbsp;&nbsp; stars: **3,040** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `2,179 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,042** &nbsp;&nbsp; folks: **185**  &nbsp;&nbsp; `2,179 stars this month`
 
 1. [ruanyf / weekly](https://github.com/ruanyf/weekly)
     - 科技爱好者周刊，每周五发布
-    - language: **无** &nbsp;&nbsp; stars: **50,884** &nbsp;&nbsp; folks: **3,048**  &nbsp;&nbsp; `2,125 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **50,885** &nbsp;&nbsp; folks: **3,048**  &nbsp;&nbsp; `2,125 stars this month`
 
 1. [DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus)
     - Fullstack app framework for web, desktop, mobile, and more.
@@ -166,11 +166,11 @@
 
 1. [jdx / mise](https://github.com/jdx/mise)
     - dev tools, env vars, task runner
-    - language: **Rust** &nbsp;&nbsp; stars: **12,485** &nbsp;&nbsp; folks: **349**  &nbsp;&nbsp; `2,072 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **12,487** &nbsp;&nbsp; folks: **349**  &nbsp;&nbsp; `2,072 stars this month`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-    - language: **Rust** &nbsp;&nbsp; stars: **19,920** &nbsp;&nbsp; folks: **445**  &nbsp;&nbsp; `2,870 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **19,923** &nbsp;&nbsp; folks: **445**  &nbsp;&nbsp; `2,870 stars this month`
 
 
 ## 历史归档
