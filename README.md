@@ -10,92 +10,92 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-01-14 20:27:06 +0800`
+`更新时间：2025-01-14 21:18:43 +0800`
 
 ## 今日热门仓库
 
 1. [TabbyML / tabby](https://github.com/TabbyML/tabby)
     - Self-hosted AI coding assistant
-    - language: **Rust** &nbsp;&nbsp; stars: **24,724** &nbsp;&nbsp; folks: **1,128**  &nbsp;&nbsp; `1,210 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **24,782** &nbsp;&nbsp; folks: **1,128**  &nbsp;&nbsp; `1,043 stars today`
 
 1. [RealKai42 / qwerty-learner](https://github.com/RealKai42/qwerty-learner)
     - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,455** &nbsp;&nbsp; folks: **1,595**  &nbsp;&nbsp; `291 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,461** &nbsp;&nbsp; folks: **1,597**  &nbsp;&nbsp; `291 stars today`
 
 1. [ubicloud / ubicloud](https://github.com/ubicloud/ubicloud)
     - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
-    - language: **Ruby** &nbsp;&nbsp; stars: **4,285** &nbsp;&nbsp; folks: **143**  &nbsp;&nbsp; `157 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **4,293** &nbsp;&nbsp; folks: **143**  &nbsp;&nbsp; `273 stars today`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **6,740** &nbsp;&nbsp; folks: **459**  &nbsp;&nbsp; `449 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,748** &nbsp;&nbsp; folks: **462**  &nbsp;&nbsp; `449 stars today`
 
 1. [dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS)
     - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.
-    - language: **Python** &nbsp;&nbsp; stars: **3,780** &nbsp;&nbsp; folks: **316**  &nbsp;&nbsp; `210 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,790** &nbsp;&nbsp; folks: **317**  &nbsp;&nbsp; `210 stars today`
 
 1. [automatisch / automatisch](https://github.com/automatisch/automatisch)
     - The open source Zapier alternative. Build workflow automation without spending time and money.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **7,183** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `61 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **7,195** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `313 stars today`
 
 1. [JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
     - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
-    - language: **Python** &nbsp;&nbsp; stars: **1,192** &nbsp;&nbsp; folks: **183**  &nbsp;&nbsp; `90 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,199** &nbsp;&nbsp; folks: **184**  &nbsp;&nbsp; `263 stars today`
 
 1. [ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil)
     - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-    - language: **PowerShell** &nbsp;&nbsp; stars: **26,980** &nbsp;&nbsp; folks: **1,602**  &nbsp;&nbsp; `167 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **26,985** &nbsp;&nbsp; folks: **1,602**  &nbsp;&nbsp; `167 stars today`
 
 1. [AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
     - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-    - language: **Dart** &nbsp;&nbsp; stars: **59,566** &nbsp;&nbsp; folks: **3,958**  &nbsp;&nbsp; `175 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **59,576** &nbsp;&nbsp; folks: **3,959**  &nbsp;&nbsp; `175 stars today`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,451** &nbsp;&nbsp; folks: **1,771**  &nbsp;&nbsp; `232 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,452** &nbsp;&nbsp; folks: **1,771**  &nbsp;&nbsp; `232 stars today`
 
 1. [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
     - Automate the process of making money online.
-    - language: **Python** &nbsp;&nbsp; stars: **4,751** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `173 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,778** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `972 stars today`
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A feature-rich command-line audio/video downloader
-    - language: **Python** &nbsp;&nbsp; stars: **96,453** &nbsp;&nbsp; folks: **7,557**  &nbsp;&nbsp; `152 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **96,467** &nbsp;&nbsp; folks: **7,557**  &nbsp;&nbsp; `305 stars today`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Python** &nbsp;&nbsp; stars: **2,597** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `50 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,608** &nbsp;&nbsp; folks: **551**  &nbsp;&nbsp; `50 stars today`
 
 1. [BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
     - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,018** &nbsp;&nbsp; folks: **2,124**  &nbsp;&nbsp; `250 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,027** &nbsp;&nbsp; folks: **2,125**  &nbsp;&nbsp; `250 stars today`
 
 1. [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
     - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **27,062** &nbsp;&nbsp; folks: **2,778**  &nbsp;&nbsp; `22 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **27,070** &nbsp;&nbsp; folks: **2,778**  &nbsp;&nbsp; `22 stars today`
 
 
 ## 近一周热门仓库
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    - language: **Python** &nbsp;&nbsp; stars: **24,452** &nbsp;&nbsp; folks: **1,306**  &nbsp;&nbsp; `5,951 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **24,454** &nbsp;&nbsp; folks: **1,306**  &nbsp;&nbsp; `5,951 stars this week`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!
-    - language: **Python** &nbsp;&nbsp; stars: **4,803** &nbsp;&nbsp; folks: **553**  &nbsp;&nbsp; `1,437 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,807** &nbsp;&nbsp; folks: **553**  &nbsp;&nbsp; `1,437 stars this week`
 
 1. [78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
     - Build your own AI friend
-    - language: **C** &nbsp;&nbsp; stars: **2,899** &nbsp;&nbsp; folks: **449**  &nbsp;&nbsp; `1,646 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **2,908** &nbsp;&nbsp; folks: **449**  &nbsp;&nbsp; `1,646 stars this week`
 
 1. [srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
     - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
-    - language: **Python** &nbsp;&nbsp; stars: **7,606** &nbsp;&nbsp; folks: **2,675**  &nbsp;&nbsp; `1,943 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,610** &nbsp;&nbsp; folks: **2,675**  &nbsp;&nbsp; `1,943 stars this week`
 
 1. [Canner / WrenAI](https://github.com/Canner/WrenAI)
     - 🤖 Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,151** &nbsp;&nbsp; folks: **350**  &nbsp;&nbsp; `1,214 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,153** &nbsp;&nbsp; folks: **351**  &nbsp;&nbsp; `1,214 stars this week`
 
 1. [kyegomez / swarms](https://github.com/kyegomez/swarms)
     - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.gg/jM3Z6M9uMq
@@ -103,11 +103,11 @@
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-    - language: **Python** &nbsp;&nbsp; stars: **24,654** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `3,011 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **24,660** &nbsp;&nbsp; folks: **1,839**  &nbsp;&nbsp; `3,011 stars this week`
 
 1. [Nutlope / llamacoder](https://github.com/Nutlope/llamacoder)
     - Open source Claude Artifacts – built with Llama 3.1 405B
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,998** &nbsp;&nbsp; folks: **1,076**  &nbsp;&nbsp; `630 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,000** &nbsp;&nbsp; folks: **1,076**  &nbsp;&nbsp; `630 stars this week`
 
 1. [mudler / LocalAI](https://github.com/mudler/LocalAI)
     - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
@@ -115,19 +115,19 @@
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,112** &nbsp;&nbsp; folks: **1,904**  &nbsp;&nbsp; `2,409 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,115** &nbsp;&nbsp; folks: **1,909**  &nbsp;&nbsp; `2,409 stars this week`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **43,279** &nbsp;&nbsp; folks: **4,788**  &nbsp;&nbsp; `2,496 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **43,286** &nbsp;&nbsp; folks: **4,790**  &nbsp;&nbsp; `2,496 stars this week`
 
 1. [zaidmukaddam / scira](https://github.com/zaidmukaddam/scira)
     - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,635** &nbsp;&nbsp; folks: **415**  &nbsp;&nbsp; `1,689 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,637** &nbsp;&nbsp; folks: **415**  &nbsp;&nbsp; `1,689 stars this week`
 
 1. [feder-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)
     - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
-    - language: **Python** &nbsp;&nbsp; stars: **26,295** &nbsp;&nbsp; folks: **3,852**  &nbsp;&nbsp; `2,023 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,300** &nbsp;&nbsp; folks: **3,854**  &nbsp;&nbsp; `2,023 stars this week`
 
 1. [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
     - Firebase SDK for Apple App Development
@@ -135,7 +135,7 @@
 
 1. [NVIDIA / nv-ingest](https://github.com/NVIDIA/nv-ingest)
     - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
-    - language: **Python** &nbsp;&nbsp; stars: **1,866** &nbsp;&nbsp; folks: **162**  &nbsp;&nbsp; `1,152 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,869** &nbsp;&nbsp; folks: **162**  &nbsp;&nbsp; `1,152 stars this week`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
@@ -146,51 +146,51 @@
 
 1. [elizaOS / eliza](https://github.com/elizaOS/eliza)
     - Autonomous agents for everyone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,456** &nbsp;&nbsp; folks: **3,170**  &nbsp;&nbsp; `7,255 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,468** &nbsp;&nbsp; folks: **3,173**  &nbsp;&nbsp; `7,255 stars this month`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **12,339** &nbsp;&nbsp; folks: **1,322**  &nbsp;&nbsp; `6,841 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,343** &nbsp;&nbsp; folks: **1,323**  &nbsp;&nbsp; `6,841 stars this month`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    - language: **Python** &nbsp;&nbsp; stars: **24,452** &nbsp;&nbsp; folks: **1,306**  &nbsp;&nbsp; `7,312 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **24,454** &nbsp;&nbsp; folks: **1,306**  &nbsp;&nbsp; `7,312 stars this month`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **19,983** &nbsp;&nbsp; folks: **1,757**  &nbsp;&nbsp; `6,350 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,986** &nbsp;&nbsp; folks: **1,757**  &nbsp;&nbsp; `6,350 stars this month`
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,112** &nbsp;&nbsp; folks: **1,904**  &nbsp;&nbsp; `7,483 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,115** &nbsp;&nbsp; folks: **1,909**  &nbsp;&nbsp; `7,483 stars this month`
 
 1. [intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
     - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more
-    - language: **Python** &nbsp;&nbsp; stars: **2,403** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,194 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,405** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,194 stars this month`
 
 1. [OpenSPG / KAG](https://github.com/OpenSPG/KAG)
     - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
-    - language: **Python** &nbsp;&nbsp; stars: **4,137** &nbsp;&nbsp; folks: **258**  &nbsp;&nbsp; `3,226 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,138** &nbsp;&nbsp; folks: **258**  &nbsp;&nbsp; `3,226 stars this month`
 
 1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
     - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
-    - language: **Python** &nbsp;&nbsp; stars: **15,108** &nbsp;&nbsp; folks: **1,132**  &nbsp;&nbsp; `9,799 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,118** &nbsp;&nbsp; folks: **1,132**  &nbsp;&nbsp; `9,799 stars this month`
 
 1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
     - best way to save what you love
-    - language: **Svelte** &nbsp;&nbsp; stars: **26,115** &nbsp;&nbsp; folks: **2,093**  &nbsp;&nbsp; `6,741 stars this month`
+    - language: **Svelte** &nbsp;&nbsp; stars: **26,121** &nbsp;&nbsp; folks: **2,093**  &nbsp;&nbsp; `6,741 stars this month`
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-    - language: **Python** &nbsp;&nbsp; stars: **24,654** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `5,963 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **24,660** &nbsp;&nbsp; folks: **1,839**  &nbsp;&nbsp; `5,963 stars this month`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **285,847** &nbsp;&nbsp; folks: **47,688**  &nbsp;&nbsp; `7,128 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **285,850** &nbsp;&nbsp; folks: **47,688**  &nbsp;&nbsp; `7,128 stars this month`
 
 1. [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
     - Examples and guides for using the Gemini API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,317** &nbsp;&nbsp; folks: **1,193**  &nbsp;&nbsp; `4,743 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,318** &nbsp;&nbsp; folks: **1,193**  &nbsp;&nbsp; `4,743 stars this month`
 
 1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
     - Python APIs for web automation, testing, and bypassing bot-detection.
@@ -198,7 +198,7 @@
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **43,279** &nbsp;&nbsp; folks: **4,788**  &nbsp;&nbsp; `4,934 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **43,286** &nbsp;&nbsp; folks: **4,790**  &nbsp;&nbsp; `4,934 stars this month`
 
 1. [sxyazi / yazi](https://github.com/sxyazi/yazi)
     - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -206,7 +206,7 @@
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **HTML** &nbsp;&nbsp; stars: **347,510** &nbsp;&nbsp; folks: **62,551**  &nbsp;&nbsp; `6,699 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **347,515** &nbsp;&nbsp; folks: **62,552**  &nbsp;&nbsp; `6,699 stars this month`
 
 
 ## 历史归档
