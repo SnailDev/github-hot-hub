@@ -10,104 +10,104 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-01-29 19:11:12 +0800`
+`更新时间：2025-01-29 20:27:18 +0800`
 
 ## 今日热门仓库
 
 1. [deepseek-ai / Janus](https://github.com/deepseek-ai/Janus)
     - Janus-Series: Unified Multimodal Understanding and Generation Models
-    - language: **Python** &nbsp;&nbsp; stars: **9,201** &nbsp;&nbsp; folks: **1,106**  &nbsp;&nbsp; `5,969 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,401** &nbsp;&nbsp; folks: **1,127**  &nbsp;&nbsp; `5,969 stars today`
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **14,924** &nbsp;&nbsp; folks: **1,408**  &nbsp;&nbsp; `1,603 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **14,970** &nbsp;&nbsp; folks: **1,415**  &nbsp;&nbsp; `1,603 stars today`
 
 1. [deepseek-ai / DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)
     - DeepSeek LLM: Let there be answers
-    - language: **Makefile** &nbsp;&nbsp; stars: **4,257** &nbsp;&nbsp; folks: **529**  &nbsp;&nbsp; `1,037 stars today`
+    - language: **Makefile** &nbsp;&nbsp; stars: **4,286** &nbsp;&nbsp; folks: **534**  &nbsp;&nbsp; `1,037 stars today`
 
 1. [deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
     - 无
-    - language: **无** &nbsp;&nbsp; stars: **5,324** &nbsp;&nbsp; folks: **625**  &nbsp;&nbsp; `1,047 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **5,358** &nbsp;&nbsp; folks: **630**  &nbsp;&nbsp; `1,047 stars today`
 
 1. [deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
     - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
-    - language: **无** &nbsp;&nbsp; stars: **3,945** &nbsp;&nbsp; folks: **472**  &nbsp;&nbsp; `214 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **3,966** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `214 stars today`
 
 1. [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
     - LLM inference in C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **71,880** &nbsp;&nbsp; folks: **10,392**  &nbsp;&nbsp; `211 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **71,902** &nbsp;&nbsp; folks: **10,395**  &nbsp;&nbsp; `211 stars today`
 
 1. [QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
     - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,647** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `215 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,663** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `215 stars today`
 
 1. [deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)
     - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
-    - language: **无** &nbsp;&nbsp; stars: **4,434** &nbsp;&nbsp; folks: **330**  &nbsp;&nbsp; `95 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **4,448** &nbsp;&nbsp; folks: **331**  &nbsp;&nbsp; `95 stars today`
 
 1. [deepseek-ai / DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)
     - [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
-    - language: **Python** &nbsp;&nbsp; stars: **2,410** &nbsp;&nbsp; folks: **200**  &nbsp;&nbsp; `62 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,423** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `62 stars today`
 
 1. [deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math)
     - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
-    - language: **Python** &nbsp;&nbsp; stars: **1,592** &nbsp;&nbsp; folks: **247**  &nbsp;&nbsp; `135 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,606** &nbsp;&nbsp; folks: **247**  &nbsp;&nbsp; `135 stars today`
 
 1. [AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
     - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **35,673** &nbsp;&nbsp; folks: **2,310**  &nbsp;&nbsp; `649 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **35,694** &nbsp;&nbsp; folks: **2,312**  &nbsp;&nbsp; `649 stars today`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **113,793** &nbsp;&nbsp; folks: **9,056**  &nbsp;&nbsp; `1,404 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **113,861** &nbsp;&nbsp; folks: **9,062**  &nbsp;&nbsp; `1,404 stars today`
 
 1. [deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
     - DeepSeek-VL: Towards Real-World Vision-Language Understanding
-    - language: **Python** &nbsp;&nbsp; stars: **2,800** &nbsp;&nbsp; folks: **360**  &nbsp;&nbsp; `121 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,812** &nbsp;&nbsp; folks: **361**  &nbsp;&nbsp; `121 stars today`
 
 1. [deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT)
     - Expert Specialized Fine-Tuning
-    - language: **Python** &nbsp;&nbsp; stars: **216** &nbsp;&nbsp; folks: **97**  &nbsp;&nbsp; `13 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **226** &nbsp;&nbsp; folks: **99**  &nbsp;&nbsp; `13 stars today`
 
 1. [inkonchain / docs](https://github.com/inkonchain/docs)
     - Ink Documentation
-    - language: **MDX** &nbsp;&nbsp; stars: **28,479** &nbsp;&nbsp; folks: **271**  &nbsp;&nbsp; `1,184 stars today`
+    - language: **MDX** &nbsp;&nbsp; stars: **28,521** &nbsp;&nbsp; folks: **271**  &nbsp;&nbsp; `1,184 stars today`
 
 
 ## 近一周热门仓库
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **14,924** &nbsp;&nbsp; folks: **1,408**  &nbsp;&nbsp; `3,541 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,970** &nbsp;&nbsp; folks: **1,415**  &nbsp;&nbsp; `3,541 stars this week`
 
 1. [nextjs / saas-starter](https://github.com/nextjs/saas-starter)
     - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,005** &nbsp;&nbsp; folks: **1,017**  &nbsp;&nbsp; `1,727 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,013** &nbsp;&nbsp; folks: **1,017**  &nbsp;&nbsp; `1,727 stars this week`
 
 1. [deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
     - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
-    - language: **无** &nbsp;&nbsp; stars: **3,945** &nbsp;&nbsp; folks: **472**  &nbsp;&nbsp; `953 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **3,966** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `953 stars this week`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **113,793** &nbsp;&nbsp; folks: **9,056**  &nbsp;&nbsp; `4,021 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **113,861** &nbsp;&nbsp; folks: **9,062**  &nbsp;&nbsp; `4,021 stars this week`
 
 1. [lightpanda-io / browser](https://github.com/lightpanda-io/browser)
     - Lightpanda: the headless browser designed for AI and automation
-    - language: **Zig** &nbsp;&nbsp; stars: **4,849** &nbsp;&nbsp; folks: **101**  &nbsp;&nbsp; `3,342 stars this week`
+    - language: **Zig** &nbsp;&nbsp; stars: **4,850** &nbsp;&nbsp; folks: **101**  &nbsp;&nbsp; `3,342 stars this week`
 
 1. [AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
     - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **29,014** &nbsp;&nbsp; folks: **2,920**  &nbsp;&nbsp; `1,375 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **29,016** &nbsp;&nbsp; folks: **2,921**  &nbsp;&nbsp; `1,375 stars this week`
 
 1. [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4)
     - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    - language: **C++** &nbsp;&nbsp; stars: **16,922** &nbsp;&nbsp; folks: **1,029**  &nbsp;&nbsp; `3,550 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **16,927** &nbsp;&nbsp; folks: **1,031**  &nbsp;&nbsp; `3,550 stars this week`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **20,637** &nbsp;&nbsp; folks: **1,169**  &nbsp;&nbsp; `1,541 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **20,650** &nbsp;&nbsp; folks: **1,170**  &nbsp;&nbsp; `1,541 stars this week`
 
 1. [piotrostr / listen](https://github.com/piotrostr/listen)
     - Solana Swiss Army Knife
@@ -115,94 +115,94 @@
 
 1. [Bin-Huang / chatbox](https://github.com/Bin-Huang/chatbox)
     - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,196** &nbsp;&nbsp; folks: **2,570**  &nbsp;&nbsp; `1,130 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,211** &nbsp;&nbsp; folks: **2,571**  &nbsp;&nbsp; `1,130 stars this week`
 
 1. [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
     - LLM inference in C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **71,880** &nbsp;&nbsp; folks: **10,392**  &nbsp;&nbsp; `783 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **71,902** &nbsp;&nbsp; folks: **10,395**  &nbsp;&nbsp; `783 stars this week`
 
 1. [oven-sh / bun](https://github.com/oven-sh/bun)
     - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    - language: **Zig** &nbsp;&nbsp; stars: **75,793** &nbsp;&nbsp; folks: **2,886**  &nbsp;&nbsp; `389 stars this week`
+    - language: **Zig** &nbsp;&nbsp; stars: **75,795** &nbsp;&nbsp; folks: **2,886**  &nbsp;&nbsp; `389 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **14,924** &nbsp;&nbsp; folks: **1,408**  &nbsp;&nbsp; `7,757 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,970** &nbsp;&nbsp; folks: **1,415**  &nbsp;&nbsp; `7,757 stars this month`
 
 1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
     - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **21,191** &nbsp;&nbsp; folks: **1,861**  &nbsp;&nbsp; `7,514 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,193** &nbsp;&nbsp; folks: **1,861**  &nbsp;&nbsp; `7,514 stars this month`
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-    - language: **Python** &nbsp;&nbsp; stars: **27,768** &nbsp;&nbsp; folks: **2,192**  &nbsp;&nbsp; `8,907 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **27,775** &nbsp;&nbsp; folks: **2,192**  &nbsp;&nbsp; `8,907 stars this month`
 
 1. [OpenBMB / MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
     - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **17,901** &nbsp;&nbsp; folks: **1,285**  &nbsp;&nbsp; `5,326 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,902** &nbsp;&nbsp; folks: **1,285**  &nbsp;&nbsp; `5,326 stars this month`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    - language: **Python** &nbsp;&nbsp; stars: **25,483** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `8,283 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,484** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `8,283 stars this month`
 
 1. [Canner / WrenAI](https://github.com/Canner/WrenAI)
     - 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,366** &nbsp;&nbsp; folks: **450**  &nbsp;&nbsp; `2,739 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,368** &nbsp;&nbsp; folks: **450**  &nbsp;&nbsp; `2,739 stars this month`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **44,642** &nbsp;&nbsp; folks: **4,766**  &nbsp;&nbsp; `4,379 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **44,648** &nbsp;&nbsp; folks: **4,766**  &nbsp;&nbsp; `4,379 stars this month`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!
-    - language: **Python** &nbsp;&nbsp; stars: **7,157** &nbsp;&nbsp; folks: **749**  &nbsp;&nbsp; `4,055 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,161** &nbsp;&nbsp; folks: **749**  &nbsp;&nbsp; `4,055 stars this month`
 
 1. [web-infra-dev / midscene](https://github.com/web-infra-dev/midscene)
     - Let AI be your browser operator.
-    - language: **HTML** &nbsp;&nbsp; stars: **5,299** &nbsp;&nbsp; folks: **274**  &nbsp;&nbsp; `3,795 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **5,300** &nbsp;&nbsp; folks: **274**  &nbsp;&nbsp; `3,795 stars this month`
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,682** &nbsp;&nbsp; folks: **2,322**  &nbsp;&nbsp; `8,940 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,697** &nbsp;&nbsp; folks: **2,323**  &nbsp;&nbsp; `8,940 stars this month`
 
 1. [elizaOS / eliza](https://github.com/elizaOS/eliza)
     - Autonomous agents for everyone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,529** &nbsp;&nbsp; folks: **3,940**  &nbsp;&nbsp; `7,307 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,530** &nbsp;&nbsp; folks: **3,942**  &nbsp;&nbsp; `7,307 stars this month`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **7,857** &nbsp;&nbsp; folks: **543**  &nbsp;&nbsp; `5,903 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,860** &nbsp;&nbsp; folks: **543**  &nbsp;&nbsp; `5,903 stars this month`
 
 1. [TabbyML / tabby](https://github.com/TabbyML/tabby)
     - Self-hosted AI coding assistant
-    - language: **Rust** &nbsp;&nbsp; stars: **29,174** &nbsp;&nbsp; folks: **1,326**  &nbsp;&nbsp; `6,897 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,177** &nbsp;&nbsp; folks: **1,326**  &nbsp;&nbsp; `6,897 stars this month`
 
 1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
     - 无
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,380** &nbsp;&nbsp; folks: **493**  &nbsp;&nbsp; `1,483 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,387** &nbsp;&nbsp; folks: **495**  &nbsp;&nbsp; `1,483 stars this month`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **38,015** &nbsp;&nbsp; folks: **2,713**  &nbsp;&nbsp; `3,345 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **38,023** &nbsp;&nbsp; folks: **2,711**  &nbsp;&nbsp; `3,345 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **8,618** &nbsp;&nbsp; folks: **575**  &nbsp;&nbsp; `4,116 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **8,623** &nbsp;&nbsp; folks: **575**  &nbsp;&nbsp; `4,116 stars this month`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    - language: **HTML** &nbsp;&nbsp; stars: **119,201** &nbsp;&nbsp; folks: **16,082**  &nbsp;&nbsp; `4,979 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **119,206** &nbsp;&nbsp; folks: **16,082**  &nbsp;&nbsp; `4,979 stars this month`
 
 1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
     - An AI web browsing framework focused on simplicity and extensibility.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,024** &nbsp;&nbsp; folks: **318**  &nbsp;&nbsp; `4,370 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,028** &nbsp;&nbsp; folks: **318**  &nbsp;&nbsp; `4,370 stars this month`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **44,820** &nbsp;&nbsp; folks: **4,953**  &nbsp;&nbsp; `5,692 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **44,825** &nbsp;&nbsp; folks: **4,953**  &nbsp;&nbsp; `5,692 stars this month`
 
 
 ## 历史归档
