@@ -10,219 +10,219 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-02-03 19:11:38 +0800`
+`更新时间：2025-02-03 20:27:24 +0800`
 
 ## 今日热门仓库
 
 1. [oumi-ai / oumi](https://github.com/oumi-ai/oumi)
     - Everything you need to build state-of-the-art foundation models, end-to-end.
-    - language: **Python** &nbsp;&nbsp; stars: **3,013** &nbsp;&nbsp; folks: **200**  &nbsp;&nbsp; `1,350 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,086** &nbsp;&nbsp; folks: **201**  &nbsp;&nbsp; `1,350 stars today`
 
 1. [penpot / penpot](https://github.com/penpot/penpot)
     - Penpot: The open-source design tool for design and code collaboration
-    - language: **Clojure** &nbsp;&nbsp; stars: **35,538** &nbsp;&nbsp; folks: **1,808**  &nbsp;&nbsp; `281 stars today`
+    - language: **Clojure** &nbsp;&nbsp; stars: **35,563** &nbsp;&nbsp; folks: **1,809**  &nbsp;&nbsp; `281 stars today`
 
 1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
     - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **52,665** &nbsp;&nbsp; folks: **11,407**  &nbsp;&nbsp; `69 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **52,682** &nbsp;&nbsp; folks: **11,410**  &nbsp;&nbsp; `68 stars today`
 
 1. [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate)
     - NVR with realtime local object detection for IP cameras
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,598** &nbsp;&nbsp; folks: **1,883**  &nbsp;&nbsp; `56 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,606** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `56 stars today`
 
 1. [is-a-dev / register](https://github.com/is-a-dev/register)
     - Grab your own sweet-looking '.is-a.dev' subdomain.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **4,784** &nbsp;&nbsp; folks: **9,475**  &nbsp;&nbsp; `192 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **4,797** &nbsp;&nbsp; folks: **9,490**  &nbsp;&nbsp; `192 stars today`
 
 1. [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
     - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **31,878** &nbsp;&nbsp; folks: **3,177**  &nbsp;&nbsp; `157 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **31,898** &nbsp;&nbsp; folks: **3,180**  &nbsp;&nbsp; `157 stars today`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **61,127** &nbsp;&nbsp; folks: **9,118**  &nbsp;&nbsp; `181 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **61,145** &nbsp;&nbsp; folks: **9,120**  &nbsp;&nbsp; `180 stars today`
 
 1. [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
     - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    - language: **Python** &nbsp;&nbsp; stars: **67,752** &nbsp;&nbsp; folks: **8,272**  &nbsp;&nbsp; `279 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **67,773** &nbsp;&nbsp; folks: **8,275**  &nbsp;&nbsp; `279 stars today`
 
 1. [TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs)
     - Tencent Cloud API 3.0 SDK for NodeJS
-    - language: **TypeScript** &nbsp;&nbsp; stars: **439** &nbsp;&nbsp; folks: **106**  &nbsp;&nbsp; `13 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **440** &nbsp;&nbsp; folks: **106**  &nbsp;&nbsp; `13 stars today`
 
 1. [documenso / documenso](https://github.com/documenso/documenso)
     - The Open Source DocuSign Alternative.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,739** &nbsp;&nbsp; folks: **1,373**  &nbsp;&nbsp; `231 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,756** &nbsp;&nbsp; folks: **1,374**  &nbsp;&nbsp; `231 stars today`
 
 1. [ossu / math](https://github.com/ossu/math)
     - 🧮 Path to a free self-taught education in Mathematics!
-    - language: **无** &nbsp;&nbsp; stars: **6,149** &nbsp;&nbsp; folks: **602**  &nbsp;&nbsp; `482 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **6,178** &nbsp;&nbsp; folks: **602**  &nbsp;&nbsp; `482 stars today`
 
 1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
     - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-    - language: **JavaScript** &nbsp;&nbsp; stars: **34,064** &nbsp;&nbsp; folks: **4,396**  &nbsp;&nbsp; `147 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **34,077** &nbsp;&nbsp; folks: **4,397**  &nbsp;&nbsp; `147 stars today`
 
 1. [Lissy93 / dashy](https://github.com/Lissy93/dashy)
     - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-    - language: **Vue** &nbsp;&nbsp; stars: **19,244** &nbsp;&nbsp; folks: **1,433**  &nbsp;&nbsp; `80 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **19,265** &nbsp;&nbsp; folks: **1,433**  &nbsp;&nbsp; `80 stars today`
 
 1. [GyulyVGC / sniffnet](https://github.com/GyulyVGC/sniffnet)
     - Comfortably monitor your Internet traffic 🕵️‍♂️
-    - language: **Rust** &nbsp;&nbsp; stars: **20,339** &nbsp;&nbsp; folks: **608**  &nbsp;&nbsp; `48 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **20,365** &nbsp;&nbsp; folks: **608**  &nbsp;&nbsp; `48 stars today`
 
 1. [Ajaxy / telegram-tt](https://github.com/Ajaxy/telegram-tt)
     - Telegram Web A, GPL v3
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,601** &nbsp;&nbsp; folks: **649**  &nbsp;&nbsp; `88 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,604** &nbsp;&nbsp; folks: **649**  &nbsp;&nbsp; `88 stars today`
 
 1. [arendst / Tasmota](https://github.com/arendst/Tasmota)
     - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-    - language: **C** &nbsp;&nbsp; stars: **22,650** &nbsp;&nbsp; folks: **4,849**  &nbsp;&nbsp; `21 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **22,658** &nbsp;&nbsp; folks: **4,849**  &nbsp;&nbsp; `21 stars today`
 
 
 ## 近一周热门仓库
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **16,832** &nbsp;&nbsp; folks: **1,808**  &nbsp;&nbsp; `5,265 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,855** &nbsp;&nbsp; folks: **1,809**  &nbsp;&nbsp; `5,265 stars this week`
 
 1. [deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
     - 无
-    - language: **无** &nbsp;&nbsp; stars: **6,550** &nbsp;&nbsp; folks: **813**  &nbsp;&nbsp; `3,413 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **6,563** &nbsp;&nbsp; folks: **814**  &nbsp;&nbsp; `3,413 stars this week`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **118,052** &nbsp;&nbsp; folks: **9,422**  &nbsp;&nbsp; `7,193 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **118,095** &nbsp;&nbsp; folks: **9,428**  &nbsp;&nbsp; `7,193 stars this week`
 
 1. [deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
     - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
-    - language: **无** &nbsp;&nbsp; stars: **4,653** &nbsp;&nbsp; folks: **650**  &nbsp;&nbsp; `1,514 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **4,657** &nbsp;&nbsp; folks: **650**  &nbsp;&nbsp; `1,514 stars this week`
 
 1. [open-webui / open-webui](https://github.com/open-webui/open-webui)
     - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    - language: **JavaScript** &nbsp;&nbsp; stars: **66,170** &nbsp;&nbsp; folks: **7,831**  &nbsp;&nbsp; `5,767 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **66,206** &nbsp;&nbsp; folks: **7,836**  &nbsp;&nbsp; `5,767 stars this week`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **38,488** &nbsp;&nbsp; folks: **2,736**  &nbsp;&nbsp; `2,379 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **38,492** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `2,379 stars this week`
 
 1. [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
     - LLM inference in C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **72,797** &nbsp;&nbsp; folks: **10,487**  &nbsp;&nbsp; `1,366 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **72,806** &nbsp;&nbsp; folks: **10,488**  &nbsp;&nbsp; `1,366 stars this week`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **21,474** &nbsp;&nbsp; folks: **1,227**  &nbsp;&nbsp; `1,395 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **21,481** &nbsp;&nbsp; folks: **1,227**  &nbsp;&nbsp; `1,395 stars this week`
 
 1. [QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5)
     - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Shell** &nbsp;&nbsp; stars: **14,603** &nbsp;&nbsp; folks: **976**  &nbsp;&nbsp; `2,433 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **14,606** &nbsp;&nbsp; folks: **978**  &nbsp;&nbsp; `2,433 stars this week`
 
 1. [n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
     - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-    - language: **无** &nbsp;&nbsp; stars: **5,425** &nbsp;&nbsp; folks: **1,107**  &nbsp;&nbsp; `319 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **5,430** &nbsp;&nbsp; folks: **1,108**  &nbsp;&nbsp; `319 stars this week`
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **23,370** &nbsp;&nbsp; folks: **2,301**  &nbsp;&nbsp; `3,717 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **23,398** &nbsp;&nbsp; folks: **2,302**  &nbsp;&nbsp; `3,717 stars this week`
 
 1. [onlook-dev / onlook](https://github.com/onlook-dev/onlook)
     - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,515** &nbsp;&nbsp; folks: **355**  &nbsp;&nbsp; `1,538 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,521** &nbsp;&nbsp; folks: **355**  &nbsp;&nbsp; `1,538 stars this week`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **69,771** &nbsp;&nbsp; folks: **36,028**  &nbsp;&nbsp; `1,393 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **69,780** &nbsp;&nbsp; folks: **36,030**  &nbsp;&nbsp; `1,393 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **16,832** &nbsp;&nbsp; folks: **1,808**  &nbsp;&nbsp; `7,846 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **16,855** &nbsp;&nbsp; folks: **1,809**  &nbsp;&nbsp; `7,846 stars this month`
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **23,370** &nbsp;&nbsp; folks: **2,301**  &nbsp;&nbsp; `14,621 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,398** &nbsp;&nbsp; folks: **2,302**  &nbsp;&nbsp; `14,621 stars this month`
 
 1. [OpenBMB / MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
     - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **18,038** &nbsp;&nbsp; folks: **1,291**  &nbsp;&nbsp; `5,454 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,040** &nbsp;&nbsp; folks: **1,292**  &nbsp;&nbsp; `5,454 stars this month`
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-    - language: **Python** &nbsp;&nbsp; stars: **28,425** &nbsp;&nbsp; folks: **2,255**  &nbsp;&nbsp; `9,460 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **28,433** &nbsp;&nbsp; folks: **2,255**  &nbsp;&nbsp; `9,460 stars this month`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **38,488** &nbsp;&nbsp; folks: **2,736**  &nbsp;&nbsp; `3,839 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **38,492** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `3,839 stars this month`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **118,052** &nbsp;&nbsp; folks: **9,422**  &nbsp;&nbsp; `12,504 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **118,095** &nbsp;&nbsp; folks: **9,428**  &nbsp;&nbsp; `12,504 stars this month`
 
 1. [Canner / WrenAI](https://github.com/Canner/WrenAI)
     - 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,548** &nbsp;&nbsp; folks: **462**  &nbsp;&nbsp; `2,839 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,552** &nbsp;&nbsp; folks: **462**  &nbsp;&nbsp; `2,839 stars this month`
 
 1. [78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
     - Build your own AI friend
-    - language: **C++** &nbsp;&nbsp; stars: **4,135** &nbsp;&nbsp; folks: **646**  &nbsp;&nbsp; `3,221 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **4,140** &nbsp;&nbsp; folks: **646**  &nbsp;&nbsp; `3,221 stars this month`
 
 1. [open-webui / open-webui](https://github.com/open-webui/open-webui)
     - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    - language: **JavaScript** &nbsp;&nbsp; stars: **66,170** &nbsp;&nbsp; folks: **7,831**  &nbsp;&nbsp; `11,579 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **66,206** &nbsp;&nbsp; folks: **7,836**  &nbsp;&nbsp; `11,579 stars this month`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **45,079** &nbsp;&nbsp; folks: **4,810**  &nbsp;&nbsp; `4,620 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **45,084** &nbsp;&nbsp; folks: **4,812**  &nbsp;&nbsp; `4,620 stars this month`
 
 1. [DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
     - Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **28,441** &nbsp;&nbsp; folks: **6,013**  &nbsp;&nbsp; `2,433 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **28,443** &nbsp;&nbsp; folks: **6,014**  &nbsp;&nbsp; `2,433 stars this month`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    - language: **Python** &nbsp;&nbsp; stars: **25,769** &nbsp;&nbsp; folks: **1,386**  &nbsp;&nbsp; `8,518 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,772** &nbsp;&nbsp; folks: **1,386**  &nbsp;&nbsp; `8,518 stars this month`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!
-    - language: **Python** &nbsp;&nbsp; stars: **7,357** &nbsp;&nbsp; folks: **762**  &nbsp;&nbsp; `4,174 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,359** &nbsp;&nbsp; folks: **764**  &nbsp;&nbsp; `4,174 stars this month`
 
 1. [TabbyML / tabby](https://github.com/TabbyML/tabby)
     - Self-hosted AI coding assistant
-    - language: **Rust** &nbsp;&nbsp; stars: **29,362** &nbsp;&nbsp; folks: **1,338**  &nbsp;&nbsp; `7,073 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,365** &nbsp;&nbsp; folks: **1,338**  &nbsp;&nbsp; `7,073 stars this month`
 
 1. [zaidmukaddam / scira](https://github.com/zaidmukaddam/scira)
     - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,488** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `3,252 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,489** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `3,252 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **8,985** &nbsp;&nbsp; folks: **591**  &nbsp;&nbsp; `4,154 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **8,989** &nbsp;&nbsp; folks: **591**  &nbsp;&nbsp; `4,154 stars this month`
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,737** &nbsp;&nbsp; folks: **2,452**  &nbsp;&nbsp; `8,358 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,755** &nbsp;&nbsp; folks: **2,453**  &nbsp;&nbsp; `8,358 stars this month`
 
 1. [ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp)
     - LLM inference in C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **72,797** &nbsp;&nbsp; folks: **10,487**  &nbsp;&nbsp; `2,921 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **72,806** &nbsp;&nbsp; folks: **10,488**  &nbsp;&nbsp; `2,921 stars this month`
 
 1. [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4)
     - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    - language: **C++** &nbsp;&nbsp; stars: **17,341** &nbsp;&nbsp; folks: **1,063**  &nbsp;&nbsp; `4,776 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **17,346** &nbsp;&nbsp; folks: **1,064**  &nbsp;&nbsp; `4,776 stars this month`
 
 1. [onlook-dev / onlook](https://github.com/onlook-dev/onlook)
     - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,515** &nbsp;&nbsp; folks: **355**  &nbsp;&nbsp; `2,219 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,521** &nbsp;&nbsp; folks: **355**  &nbsp;&nbsp; `2,219 stars this month`
 
 1. [web-infra-dev / midscene](https://github.com/web-infra-dev/midscene)
     - Let AI be your browser operator.
-    - language: **HTML** &nbsp;&nbsp; stars: **5,483** &nbsp;&nbsp; folks: **285**  &nbsp;&nbsp; `3,285 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **5,484** &nbsp;&nbsp; folks: **285**  &nbsp;&nbsp; `3,285 stars this month`
 
 1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
     - An AI web browsing framework focused on simplicity and extensibility.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,225** &nbsp;&nbsp; folks: **337**  &nbsp;&nbsp; `4,409 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,228** &nbsp;&nbsp; folks: **337**  &nbsp;&nbsp; `4,409 stars this month`
 
 
 ## 历史归档
