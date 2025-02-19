@@ -10,120 +10,120 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-02-20 01:13:03 +0800`
+`更新时间：2025-02-20 02:18:10 +0800`
 
 ## 今日热门仓库
 
 1. [microsoft / OmniParser](https://github.com/microsoft/OmniParser)
     - A simple screen parsing tool towards pure vision based GUI agent
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,518** &nbsp;&nbsp; folks: **1,024**  &nbsp;&nbsp; `1,845 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,580** &nbsp;&nbsp; folks: **1,028**  &nbsp;&nbsp; `1,845 stars today`
 
 1. [danielmiessler / fabric](https://github.com/danielmiessler/fabric)
     - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    - language: **Go** &nbsp;&nbsp; stars: **29,160** &nbsp;&nbsp; folks: **3,012**  &nbsp;&nbsp; `281 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **29,172** &nbsp;&nbsp; folks: **3,014**  &nbsp;&nbsp; `281 stars today`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **22,819** &nbsp;&nbsp; folks: **3,376**  &nbsp;&nbsp; `533 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **22,826** &nbsp;&nbsp; folks: **3,377**  &nbsp;&nbsp; `533 stars today`
 
 1. [unionlabs / union](https://github.com/unionlabs/union)
     - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    - language: **Rust** &nbsp;&nbsp; stars: **29,166** &nbsp;&nbsp; folks: **1,772**  &nbsp;&nbsp; `1,266 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,053** &nbsp;&nbsp; folks: **1,773**  &nbsp;&nbsp; `1,266 stars today`
 
 1. [docmost / docmost](https://github.com/docmost/docmost)
     - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,098** &nbsp;&nbsp; folks: **426**  &nbsp;&nbsp; `228 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,130** &nbsp;&nbsp; folks: **426**  &nbsp;&nbsp; `228 stars today`
 
 1. [cordx56 / rustowl](https://github.com/cordx56/rustowl)
     - Visualize Ownership and Lifetimes in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **3,364** &nbsp;&nbsp; folks: **61**  &nbsp;&nbsp; `465 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,378** &nbsp;&nbsp; folks: **62**  &nbsp;&nbsp; `465 stars today`
 
 1. [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
     - Automate the process of making money online.
-    - language: **Python** &nbsp;&nbsp; stars: **9,929** &nbsp;&nbsp; folks: **974**  &nbsp;&nbsp; `373 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,940** &nbsp;&nbsp; folks: **975**  &nbsp;&nbsp; `373 stars today`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **23,987** &nbsp;&nbsp; folks: **1,427**  &nbsp;&nbsp; `494 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **24,009** &nbsp;&nbsp; folks: **1,428**  &nbsp;&nbsp; `494 stars today`
 
 1. [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
     - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    - language: **无** &nbsp;&nbsp; stars: **35,832** &nbsp;&nbsp; folks: **3,783**  &nbsp;&nbsp; `396 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **35,837** &nbsp;&nbsp; folks: **3,783**  &nbsp;&nbsp; `396 stars today`
 
 1. [hummingbot / hummingbot](https://github.com/hummingbot/hummingbot)
     - Open source software that helps you create and deploy high-frequency crypto trading bots
-    - language: **Python** &nbsp;&nbsp; stars: **10,808** &nbsp;&nbsp; folks: **3,177**  &nbsp;&nbsp; `143 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,820** &nbsp;&nbsp; folks: **3,179**  &nbsp;&nbsp; `143 stars today`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **10,549** &nbsp;&nbsp; folks: **1,115**  &nbsp;&nbsp; `691 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,558** &nbsp;&nbsp; folks: **1,115**  &nbsp;&nbsp; `691 stars today`
 
 1. [outline / outline](https://github.com/outline/outline)
     - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,374** &nbsp;&nbsp; folks: **2,413**  &nbsp;&nbsp; `58 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,379** &nbsp;&nbsp; folks: **2,413**  &nbsp;&nbsp; `58 stars today`
 
 1. [datawhalechina / llm-universe](https://github.com/datawhalechina/llm-universe)
     - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,927** &nbsp;&nbsp; folks: **715**  &nbsp;&nbsp; `199 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **5,930** &nbsp;&nbsp; folks: **715**  &nbsp;&nbsp; `146 stars today`
 
 1. [golang-standards / project-layout](https://github.com/golang-standards/project-layout)
     - Standard Go Project Layout
-    - language: **Makefile** &nbsp;&nbsp; stars: **50,965** &nbsp;&nbsp; folks: **5,247**  &nbsp;&nbsp; `48 stars today`
+    - language: **Makefile** &nbsp;&nbsp; stars: **50,971** &nbsp;&nbsp; folks: **5,247**  &nbsp;&nbsp; `48 stars today`
 
 1. [spf13 / cobra](https://github.com/spf13/cobra)
     - A Commander for modern Go CLI interactions
-    - language: **Go** &nbsp;&nbsp; stars: **39,335** &nbsp;&nbsp; folks: **2,888**  &nbsp;&nbsp; `111 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **39,338** &nbsp;&nbsp; folks: **2,888**  &nbsp;&nbsp; `111 stars today`
 
 1. [aidenybai / react-scan](https://github.com/aidenybai/react-scan)
     - Scan for React performance issues and eliminate slow renders in your app
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,219** &nbsp;&nbsp; folks: **211**  &nbsp;&nbsp; `111 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,231** &nbsp;&nbsp; folks: **211**  &nbsp;&nbsp; `111 stars today`
 
 
 ## 近一周热门仓库
 
 1. [microsoft / OmniParser](https://github.com/microsoft/OmniParser)
     - A simple screen parsing tool towards pure vision based GUI agent
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,518** &nbsp;&nbsp; folks: **1,024**  &nbsp;&nbsp; `5,862 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,580** &nbsp;&nbsp; folks: **1,028**  &nbsp;&nbsp; `5,862 stars this week`
 
 1. [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
     - Automate the process of making money online.
-    - language: **Python** &nbsp;&nbsp; stars: **9,929** &nbsp;&nbsp; folks: **974**  &nbsp;&nbsp; `3,419 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,940** &nbsp;&nbsp; folks: **975**  &nbsp;&nbsp; `3,419 stars this week`
 
 1. [microsoft / data-formulator](https://github.com/microsoft/data-formulator)
     - 🪄 Create rich visualizations with AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,621** &nbsp;&nbsp; folks: **572**  &nbsp;&nbsp; `4,188 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,625** &nbsp;&nbsp; folks: **572**  &nbsp;&nbsp; `4,188 stars this week`
 
 1. [zaidmukaddam / scira](https://github.com/zaidmukaddam/scira)
     - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,269** &nbsp;&nbsp; folks: **740**  &nbsp;&nbsp; `1,488 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,274** &nbsp;&nbsp; folks: **740**  &nbsp;&nbsp; `1,488 stars this week`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **69,462** &nbsp;&nbsp; folks: **10,120**  &nbsp;&nbsp; `3,352 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **69,470** &nbsp;&nbsp; folks: **10,121**  &nbsp;&nbsp; `3,352 stars this week`
 
 1. [hummingbot / hummingbot](https://github.com/hummingbot/hummingbot)
     - Open source software that helps you create and deploy high-frequency crypto trading bots
-    - language: **Python** &nbsp;&nbsp; stars: **10,808** &nbsp;&nbsp; folks: **3,177**  &nbsp;&nbsp; `984 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,820** &nbsp;&nbsp; folks: **3,179**  &nbsp;&nbsp; `984 stars this week`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **HTML** &nbsp;&nbsp; stars: **38,057** &nbsp;&nbsp; folks: **1,749**  &nbsp;&nbsp; `1,373 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **38,058** &nbsp;&nbsp; folks: **1,749**  &nbsp;&nbsp; `1,373 stars this week`
 
 1. [labring / FastGPT](https://github.com/labring/FastGPT)
     - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,382** &nbsp;&nbsp; folks: **5,500**  &nbsp;&nbsp; `934 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,381** &nbsp;&nbsp; folks: **5,500**  &nbsp;&nbsp; `934 stars this week`
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **Python** &nbsp;&nbsp; stars: **37,708** &nbsp;&nbsp; folks: **3,351**  &nbsp;&nbsp; `2,747 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **37,712** &nbsp;&nbsp; folks: **3,351**  &nbsp;&nbsp; `2,747 stars this week`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **10,549** &nbsp;&nbsp; folks: **1,115**  &nbsp;&nbsp; `1,352 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,558** &nbsp;&nbsp; folks: **1,115**  &nbsp;&nbsp; `1,352 stars this week`
 
 1. [vercel / ai-chatbot](https://github.com/vercel/ai-chatbot)
     - A full-featured, hackable Next.js AI chatbot built by Vercel
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,082** &nbsp;&nbsp; folks: **3,330**  &nbsp;&nbsp; `1,145 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,084** &nbsp;&nbsp; folks: **3,331**  &nbsp;&nbsp; `1,145 stars this week`
 
 1. [datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
     - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -131,50 +131,50 @@
 
 1. [landing-ai / vision-agent](https://github.com/landing-ai/vision-agent)
     - Vision agent
-    - language: **Python** &nbsp;&nbsp; stars: **2,892** &nbsp;&nbsp; folks: **332**  &nbsp;&nbsp; `676 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,893** &nbsp;&nbsp; folks: **332**  &nbsp;&nbsp; `676 stars this week`
 
 1. [unslothai / unsloth](https://github.com/unslothai/unsloth)
     - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
-    - language: **Python** &nbsp;&nbsp; stars: **30,649** &nbsp;&nbsp; folks: **2,027**  &nbsp;&nbsp; `2,801 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **30,655** &nbsp;&nbsp; folks: **2,028**  &nbsp;&nbsp; `2,801 stars this week`
 
 1. [andrewyng / aisuite](https://github.com/andrewyng/aisuite)
     - Simple, unified interface to multiple Generative AI providers
-    - language: **Python** &nbsp;&nbsp; stars: **11,231** &nbsp;&nbsp; folks: **1,077**  &nbsp;&nbsp; `599 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,235** &nbsp;&nbsp; folks: **1,078**  &nbsp;&nbsp; `599 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
     - DeepSeek Coder: Let the Code Write Itself
-    - language: **Python** &nbsp;&nbsp; stars: **19,961** &nbsp;&nbsp; folks: **2,222**  &nbsp;&nbsp; `9,712 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,962** &nbsp;&nbsp; folks: **2,222**  &nbsp;&nbsp; `9,712 stars this month`
 
 1. [microsoft / OmniParser](https://github.com/microsoft/OmniParser)
     - A simple screen parsing tool towards pure vision based GUI agent
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,518** &nbsp;&nbsp; folks: **1,024**  &nbsp;&nbsp; `6,199 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,580** &nbsp;&nbsp; folks: **1,028**  &nbsp;&nbsp; `6,199 stars this month`
 
 1. [open-webui / open-webui](https://github.com/open-webui/open-webui)
     - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    - language: **JavaScript** &nbsp;&nbsp; stars: **76,440** &nbsp;&nbsp; folks: **9,037**  &nbsp;&nbsp; `19,247 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **76,451** &nbsp;&nbsp; folks: **9,039**  &nbsp;&nbsp; `19,247 stars this month`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-    - language: **Go** &nbsp;&nbsp; stars: **127,693** &nbsp;&nbsp; folks: **10,397**  &nbsp;&nbsp; `19,528 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **127,700** &nbsp;&nbsp; folks: **10,398**  &nbsp;&nbsp; `19,528 stars this month`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **40,013** &nbsp;&nbsp; folks: **2,846**  &nbsp;&nbsp; `5,212 stars this month`
+    - language: **Ruby** &nbsp;&nbsp; stars: **40,016** &nbsp;&nbsp; folks: **2,846**  &nbsp;&nbsp; `5,212 stars this month`
 
 1. [unslothai / unsloth](https://github.com/unslothai/unsloth)
     - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
-    - language: **Python** &nbsp;&nbsp; stars: **30,649** &nbsp;&nbsp; folks: **2,027**  &nbsp;&nbsp; `9,659 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **30,655** &nbsp;&nbsp; folks: **2,028**  &nbsp;&nbsp; `9,659 stars this month`
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **29,823** &nbsp;&nbsp; folks: **3,057**  &nbsp;&nbsp; `14,685 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,840** &nbsp;&nbsp; folks: **3,059**  &nbsp;&nbsp; `14,685 stars this month`
 
 1. [Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm)
     - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **37,945** &nbsp;&nbsp; folks: **3,652**  &nbsp;&nbsp; `7,409 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **37,949** &nbsp;&nbsp; folks: **3,654**  &nbsp;&nbsp; `7,409 stars this month`
 
 1. [ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp)
     - LLM inference in C/C++
@@ -182,19 +182,19 @@
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **23,987** &nbsp;&nbsp; folks: **1,427**  &nbsp;&nbsp; `4,883 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **24,009** &nbsp;&nbsp; folks: **1,428**  &nbsp;&nbsp; `4,883 stars this month`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **70,968** &nbsp;&nbsp; folks: **36,843**  &nbsp;&nbsp; `4,583 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **70,971** &nbsp;&nbsp; folks: **36,847**  &nbsp;&nbsp; `4,583 stars this month`
 
 1. [Bin-Huang / chatbox](https://github.com/Bin-Huang/chatbox)
     - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **31,328** &nbsp;&nbsp; folks: **2,967**  &nbsp;&nbsp; `6,459 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **31,332** &nbsp;&nbsp; folks: **2,967**  &nbsp;&nbsp; `6,459 stars this month`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **69,462** &nbsp;&nbsp; folks: **10,120**  &nbsp;&nbsp; `10,023 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **69,470** &nbsp;&nbsp; folks: **10,121**  &nbsp;&nbsp; `10,023 stars this month`
 
 1. [sgl-project / sglang](https://github.com/sgl-project/sglang)
     - SGLang is a fast serving framework for large language models and vision language models.
@@ -202,15 +202,15 @@
 
 1. [lightpanda-io / browser](https://github.com/lightpanda-io/browser)
     - Lightpanda: the headless browser designed for AI and automation
-    - language: **Zig** &nbsp;&nbsp; stars: **6,515** &nbsp;&nbsp; folks: **130**  &nbsp;&nbsp; `5,349 stars this month`
+    - language: **Zig** &nbsp;&nbsp; stars: **6,518** &nbsp;&nbsp; folks: **130**  &nbsp;&nbsp; `5,349 stars this month`
 
 1. [assafelovic / gpt-researcher](https://github.com/assafelovic/gpt-researcher)
     - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **18,816** &nbsp;&nbsp; folks: **2,431**  &nbsp;&nbsp; `3,048 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,818** &nbsp;&nbsp; folks: **2,432**  &nbsp;&nbsp; `3,048 stars this month`
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **Python** &nbsp;&nbsp; stars: **37,708** &nbsp;&nbsp; folks: **3,351**  &nbsp;&nbsp; `8,794 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **37,712** &nbsp;&nbsp; folks: **3,351**  &nbsp;&nbsp; `8,794 stars this month`
 
 
 ## 历史归档
