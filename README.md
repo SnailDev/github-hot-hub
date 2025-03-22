@@ -10,123 +10,123 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-03-23 04:14:57 +0800`
+`更新时间：2025-03-23 05:12:44 +0800`
 
 ## 今日热门仓库
 
 1. [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
     - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-    - language: **Python** &nbsp;&nbsp; stars: **22,772** &nbsp;&nbsp; folks: **1,482**  &nbsp;&nbsp; `1,376 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **22,788** &nbsp;&nbsp; folks: **1,482**  &nbsp;&nbsp; `1,376 stars today`
 
 1. [mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
     - GenAI Cookbook
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,419** &nbsp;&nbsp; folks: **447**  &nbsp;&nbsp; `237 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,431** &nbsp;&nbsp; folks: **449**  &nbsp;&nbsp; `237 stars today`
 
 1. [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
     - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    - language: **无** &nbsp;&nbsp; stars: **69,879** &nbsp;&nbsp; folks: **7,447**  &nbsp;&nbsp; `213 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **69,889** &nbsp;&nbsp; folks: **7,448**  &nbsp;&nbsp; `213 stars today`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **45,316** &nbsp;&nbsp; folks: **6,794**  &nbsp;&nbsp; `410 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **45,327** &nbsp;&nbsp; folks: **6,794**  &nbsp;&nbsp; `410 stars today`
 
 1. [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
     - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-    - language: **JavaScript** &nbsp;&nbsp; stars: **86,088** &nbsp;&nbsp; folks: **12,830**  &nbsp;&nbsp; `163 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **86,097** &nbsp;&nbsp; folks: **12,832**  &nbsp;&nbsp; `163 stars today`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **38,389** &nbsp;&nbsp; folks: **3,461**  &nbsp;&nbsp; `441 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **38,395** &nbsp;&nbsp; folks: **3,462**  &nbsp;&nbsp; `441 stars today`
 
 1. [hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
     - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-    - language: **HTML** &nbsp;&nbsp; stars: **2,297** &nbsp;&nbsp; folks: **88**  &nbsp;&nbsp; `420 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **2,304** &nbsp;&nbsp; folks: **88**  &nbsp;&nbsp; `420 stars today`
 
 1. [RSSNext / Folo](https://github.com/RSSNext/Folo)
     - 🧡 Follow everything in one place
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,576** &nbsp;&nbsp; folks: **992**  &nbsp;&nbsp; `45 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,583** &nbsp;&nbsp; folks: **993**  &nbsp;&nbsp; `45 stars today`
 
 1. [satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin)
     - Admin Dashboard UI built with Shadcn and Vite.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,787** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `144 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,793** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `144 stars today`
 
 
 ## 近一周热门仓库
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **19,689** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `7,342 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **19,694** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `7,342 stars this week`
 
 1. [langchain-ai / local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
     - Fully local web research and report writing assistant
-    - language: **Python** &nbsp;&nbsp; stars: **6,115** &nbsp;&nbsp; folks: **595**  &nbsp;&nbsp; `3,221 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,121** &nbsp;&nbsp; folks: **595**  &nbsp;&nbsp; `3,221 stars this week`
 
 1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
     - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,473** &nbsp;&nbsp; folks: **1,137**  &nbsp;&nbsp; `1,739 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,475** &nbsp;&nbsp; folks: **1,138**  &nbsp;&nbsp; `1,739 stars this week`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **38,389** &nbsp;&nbsp; folks: **3,461**  &nbsp;&nbsp; `1,145 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **38,395** &nbsp;&nbsp; folks: **3,462**  &nbsp;&nbsp; `1,145 stars this week`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **13,993** &nbsp;&nbsp; folks: **905**  &nbsp;&nbsp; `4,689 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **13,998** &nbsp;&nbsp; folks: **906**  &nbsp;&nbsp; `4,689 stars this week`
 
 1. [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
     - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
-    - language: **Python** &nbsp;&nbsp; stars: **3,573** &nbsp;&nbsp; folks: **294**  &nbsp;&nbsp; `1,378 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,577** &nbsp;&nbsp; folks: **294**  &nbsp;&nbsp; `1,378 stars this week`
 
 1. [satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin)
     - Admin Dashboard UI built with Shadcn and Vite.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,787** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `1,467 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,793** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `1,467 stars this week`
 
 1. [ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid)
     - Develop software autonomously.
-    - language: **Python** &nbsp;&nbsp; stars: **1,465** &nbsp;&nbsp; folks: **126**  &nbsp;&nbsp; `672 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,469** &nbsp;&nbsp; folks: **127**  &nbsp;&nbsp; `672 stars this week`
 
 1. [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe)
     - Access your entire server infrastructure from your local desktop
-    - language: **Java** &nbsp;&nbsp; stars: **9,865** &nbsp;&nbsp; folks: **350**  &nbsp;&nbsp; `2,628 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **9,868** &nbsp;&nbsp; folks: **350**  &nbsp;&nbsp; `2,628 stars this week`
 
 1. [SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
     - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,190** &nbsp;&nbsp; folks: **1,484**  &nbsp;&nbsp; `877 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,195** &nbsp;&nbsp; folks: **1,484**  &nbsp;&nbsp; `877 stars this week`
 
 1. [makeplane / plane](https://github.com/makeplane/plane)
     - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **34,473** &nbsp;&nbsp; folks: **2,104**  &nbsp;&nbsp; `946 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **34,477** &nbsp;&nbsp; folks: **2,104**  &nbsp;&nbsp; `946 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **36,222** &nbsp;&nbsp; folks: **1,513**  &nbsp;&nbsp; `8,198 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **36,224** &nbsp;&nbsp; folks: **1,514**  &nbsp;&nbsp; `8,198 stars this month`
 
 1. [mastra-ai / mastra](https://github.com/mastra-ai/mastra)
     - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,058** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `7,942 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,059** &nbsp;&nbsp; folks: **513**  &nbsp;&nbsp; `7,942 stars this month`
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **53,235** &nbsp;&nbsp; folks: **6,306**  &nbsp;&nbsp; `6,363 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **53,238** &nbsp;&nbsp; folks: **6,307**  &nbsp;&nbsp; `6,363 stars this month`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **18,775** &nbsp;&nbsp; folks: **3,381**  &nbsp;&nbsp; `10,017 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,779** &nbsp;&nbsp; folks: **3,381**  &nbsp;&nbsp; `10,017 stars this month`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **84,757** &nbsp;&nbsp; folks: **12,527**  &nbsp;&nbsp; `14,235 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **84,759** &nbsp;&nbsp; folks: **12,527**  &nbsp;&nbsp; `14,235 stars this month`
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **19,689** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `8,785 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **19,694** &nbsp;&nbsp; folks: **703**  &nbsp;&nbsp; `8,785 stars this month`
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **51,902** &nbsp;&nbsp; folks: **3,399**  &nbsp;&nbsp; `2,134 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **51,905** &nbsp;&nbsp; folks: **3,399**  &nbsp;&nbsp; `2,134 stars this month`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -134,31 +134,31 @@
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **361,566** &nbsp;&nbsp; folks: **33,569**  &nbsp;&nbsp; `24,215 stars this month`
+    - language: **Markdown** &nbsp;&nbsp; stars: **361,585** &nbsp;&nbsp; folks: **33,570**  &nbsp;&nbsp; `24,215 stars this month`
 
 1. [sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
     - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **18,452** &nbsp;&nbsp; folks: **1,721**  &nbsp;&nbsp; `3,613 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,453** &nbsp;&nbsp; folks: **1,721**  &nbsp;&nbsp; `3,613 stars this month`
 
 1. [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
     - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    - language: **无** &nbsp;&nbsp; stars: **4,514** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `1,477 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **4,515** &nbsp;&nbsp; folks: **476**  &nbsp;&nbsp; `1,477 stars this month`
 
 1. [FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube)
     - An Open Source YouTube app for privacy
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,176** &nbsp;&nbsp; folks: **1,102**  &nbsp;&nbsp; `2,881 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,175** &nbsp;&nbsp; folks: **1,102**  &nbsp;&nbsp; `2,881 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **69,608** &nbsp;&nbsp; folks: **18,025**  &nbsp;&nbsp; `7,521 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **69,619** &nbsp;&nbsp; folks: **18,030**  &nbsp;&nbsp; `7,521 stars this month`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **10,732** &nbsp;&nbsp; folks: **1,178**  &nbsp;&nbsp; `1,491 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,733** &nbsp;&nbsp; folks: **1,178**  &nbsp;&nbsp; `1,491 stars this month`
 
 1. [KRTirtho / spotube](https://github.com/KRTirtho/spotube)
     - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-    - language: **Dart** &nbsp;&nbsp; stars: **38,633** &nbsp;&nbsp; folks: **1,582**  &nbsp;&nbsp; `3,361 stars this month`
+    - language: **Dart** &nbsp;&nbsp; stars: **38,637** &nbsp;&nbsp; folks: **1,582**  &nbsp;&nbsp; `3,361 stars this month`
 
 
 ## 历史归档
