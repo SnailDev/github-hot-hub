@@ -10,100 +10,100 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-03-26 03:12:25 +0800`
+`更新时间：2025-03-26 04:16:57 +0800`
 
 ## 今日热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **47,891** &nbsp;&nbsp; folks: **7,059**  &nbsp;&nbsp; `590 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **47,909** &nbsp;&nbsp; folks: **7,060**  &nbsp;&nbsp; `590 stars today`
 
 1. [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
     - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-    - language: **C++** &nbsp;&nbsp; stars: **9,849** &nbsp;&nbsp; folks: **1,241**  &nbsp;&nbsp; `17 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **9,854** &nbsp;&nbsp; folks: **1,242**  &nbsp;&nbsp; `17 stars today`
 
 1. [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
     - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    - language: **Java** &nbsp;&nbsp; stars: **1,727** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `249 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **1,729** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `249 stars today`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
-    - language: **Java** &nbsp;&nbsp; stars: **1,360** &nbsp;&nbsp; folks: **311**  &nbsp;&nbsp; `39 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **1,364** &nbsp;&nbsp; folks: **311**  &nbsp;&nbsp; `39 stars today`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **21,195** &nbsp;&nbsp; folks: **2,480**  &nbsp;&nbsp; `352 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,200** &nbsp;&nbsp; folks: **2,480**  &nbsp;&nbsp; `352 stars today`
 
 1. [joanrod / star-vector](https://github.com/joanrod/star-vector)
     - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
-    - language: **Python** &nbsp;&nbsp; stars: **2,211** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `633 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,224** &nbsp;&nbsp; folks: **120**  &nbsp;&nbsp; `633 stars today`
 
 1. [NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
     - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,846** &nbsp;&nbsp; folks: **1,261**  &nbsp;&nbsp; `261 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,854** &nbsp;&nbsp; folks: **1,261**  &nbsp;&nbsp; `261 stars today`
 
 1. [nf-core / modules](https://github.com/nf-core/modules)
     - Repository to host tool-specific module files for the Nextflow DSL2 community!
-    - language: **Nextflow** &nbsp;&nbsp; stars: **318** &nbsp;&nbsp; folks: **817**  &nbsp;&nbsp; `0 stars today`
+    - language: **Nextflow** &nbsp;&nbsp; stars: **319** &nbsp;&nbsp; folks: **817**  &nbsp;&nbsp; `0 stars today`
 
 1. [Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection)
     - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
-    - language: **C++** &nbsp;&nbsp; stars: **1,651** &nbsp;&nbsp; folks: **312**  &nbsp;&nbsp; `450 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **1,665** &nbsp;&nbsp; folks: **312**  &nbsp;&nbsp; `450 stars today`
 
 1. [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
     - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-    - language: **Python** &nbsp;&nbsp; stars: **24,767** &nbsp;&nbsp; folks: **1,629**  &nbsp;&nbsp; `387 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **24,782** &nbsp;&nbsp; folks: **1,629**  &nbsp;&nbsp; `387 stars today`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,210** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `151 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,215** &nbsp;&nbsp; folks: **1,275**  &nbsp;&nbsp; `151 stars today`
 
 1. [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
     - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    - language: **无** &nbsp;&nbsp; stars: **70,997** &nbsp;&nbsp; folks: **7,511**  &nbsp;&nbsp; `391 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **71,012** &nbsp;&nbsp; folks: **7,512**  &nbsp;&nbsp; `391 stars today`
 
 1. [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
     - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    - language: **Python** &nbsp;&nbsp; stars: **71,350** &nbsp;&nbsp; folks: **15,996**  &nbsp;&nbsp; `283 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **71,360** &nbsp;&nbsp; folks: **15,995**  &nbsp;&nbsp; `283 stars today`
 
 1. [home-assistant / core](https://github.com/home-assistant/core)
     - 🏡 Open source home automation that puts local control and privacy first.
-    - language: **Python** &nbsp;&nbsp; stars: **77,466** &nbsp;&nbsp; folks: **33,021**  &nbsp;&nbsp; `67 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **77,479** &nbsp;&nbsp; folks: **33,023**  &nbsp;&nbsp; `67 stars today`
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **48,386** &nbsp;&nbsp; folks: **5,051**  &nbsp;&nbsp; `531 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **48,398** &nbsp;&nbsp; folks: **5,052**  &nbsp;&nbsp; `531 stars today`
 
 1. [agno-agi / agno](https://github.com/agno-agi/agno)
     - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
-    - language: **Python** &nbsp;&nbsp; stars: **22,010** &nbsp;&nbsp; folks: **2,881**  &nbsp;&nbsp; `211 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **22,032** &nbsp;&nbsp; folks: **2,884**  &nbsp;&nbsp; `211 stars today`
 
 
 ## 近一周热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **47,891** &nbsp;&nbsp; folks: **7,059**  &nbsp;&nbsp; `2,613 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **47,909** &nbsp;&nbsp; folks: **7,060**  &nbsp;&nbsp; `2,613 stars this week`
 
 1. [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
     - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    - language: **Java** &nbsp;&nbsp; stars: **1,727** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `831 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **1,729** &nbsp;&nbsp; folks: **411**  &nbsp;&nbsp; `831 stars this week`
 
 1. [DiceDB / dice](https://github.com/DiceDB/dice)
     - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-    - language: **Go** &nbsp;&nbsp; stars: **9,614** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,152 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **9,617** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,152 stars this week`
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **20,143** &nbsp;&nbsp; folks: **725**  &nbsp;&nbsp; `3,979 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **20,149** &nbsp;&nbsp; folks: **725**  &nbsp;&nbsp; `3,979 stars this week`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **39,400** &nbsp;&nbsp; folks: **3,518**  &nbsp;&nbsp; `1,999 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **39,406** &nbsp;&nbsp; folks: **3,519**  &nbsp;&nbsp; `1,999 stars this week`
 
 1. [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
     - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-    - language: **Python** &nbsp;&nbsp; stars: **24,767** &nbsp;&nbsp; folks: **1,629**  &nbsp;&nbsp; `3,622 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **24,782** &nbsp;&nbsp; folks: **1,629**  &nbsp;&nbsp; `3,622 stars this week`
 
 1. [microsoft / qlib](https://github.com/microsoft/qlib)
     - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
@@ -111,66 +111,66 @@
 
 1. [SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
     - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,396** &nbsp;&nbsp; folks: **1,502**  &nbsp;&nbsp; `979 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,398** &nbsp;&nbsp; folks: **1,502**  &nbsp;&nbsp; `979 stars this week`
 
 1. [GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai)
     - 无
-    - language: **C** &nbsp;&nbsp; stars: **4,632** &nbsp;&nbsp; folks: **830**  &nbsp;&nbsp; `1,366 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **4,633** &nbsp;&nbsp; folks: **830**  &nbsp;&nbsp; `1,366 stars this week`
 
 1. [executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright)
     - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,570** &nbsp;&nbsp; folks: **133**  &nbsp;&nbsp; `548 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,572** &nbsp;&nbsp; folks: **133**  &nbsp;&nbsp; `548 stars this week`
 
 1. [mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
     - GenAI Cookbook
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,971** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `1,047 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,973** &nbsp;&nbsp; folks: **521**  &nbsp;&nbsp; `1,047 stars this week`
 
 1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
     - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **48,919** &nbsp;&nbsp; folks: **3,210**  &nbsp;&nbsp; `2,096 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **48,923** &nbsp;&nbsp; folks: **3,210**  &nbsp;&nbsp; `2,096 stars this week`
 
 1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
     - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **1,188** &nbsp;&nbsp; folks: **102**  &nbsp;&nbsp; `285 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **1,190** &nbsp;&nbsp; folks: **102**  &nbsp;&nbsp; `285 stars this week`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **15,282** &nbsp;&nbsp; folks: **1,000**  &nbsp;&nbsp; `4,122 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **15,289** &nbsp;&nbsp; folks: **1,000**  &nbsp;&nbsp; `4,122 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **36,368** &nbsp;&nbsp; folks: **1,522**  &nbsp;&nbsp; `8,290 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **36,370** &nbsp;&nbsp; folks: **1,522**  &nbsp;&nbsp; `8,290 stars this month`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **19,275** &nbsp;&nbsp; folks: **3,495**  &nbsp;&nbsp; `10,419 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,283** &nbsp;&nbsp; folks: **3,496**  &nbsp;&nbsp; `10,419 stars this month`
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **20,143** &nbsp;&nbsp; folks: **725**  &nbsp;&nbsp; `9,093 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **20,149** &nbsp;&nbsp; folks: **725**  &nbsp;&nbsp; `9,093 stars this month`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **85,745** &nbsp;&nbsp; folks: **12,704**  &nbsp;&nbsp; `13,956 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **85,750** &nbsp;&nbsp; folks: **12,703**  &nbsp;&nbsp; `13,956 stars this month`
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **53,490** &nbsp;&nbsp; folks: **6,340**  &nbsp;&nbsp; `5,997 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **53,491** &nbsp;&nbsp; folks: **6,341**  &nbsp;&nbsp; `5,997 stars this month`
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **52,041** &nbsp;&nbsp; folks: **3,410**  &nbsp;&nbsp; `2,213 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **52,042** &nbsp;&nbsp; folks: **3,410**  &nbsp;&nbsp; `2,213 stars this month`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    - language: **Java** &nbsp;&nbsp; stars: **21,643** &nbsp;&nbsp; folks: **2,375**  &nbsp;&nbsp; `2,394 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **21,644** &nbsp;&nbsp; folks: **2,375**  &nbsp;&nbsp; `2,394 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **363,221** &nbsp;&nbsp; folks: **33,724**  &nbsp;&nbsp; `23,296 stars this month`
+    - language: **Markdown** &nbsp;&nbsp; stars: **363,250** &nbsp;&nbsp; folks: **33,726**  &nbsp;&nbsp; `23,296 stars this month`
 
 1. [vllm-project / aibrix](https://github.com/vllm-project/aibrix)
     - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -178,23 +178,23 @@
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **10,931** &nbsp;&nbsp; folks: **1,203**  &nbsp;&nbsp; `1,615 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,933** &nbsp;&nbsp; folks: **1,203**  &nbsp;&nbsp; `1,615 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **70,614** &nbsp;&nbsp; folks: **18,413**  &nbsp;&nbsp; `7,765 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **70,622** &nbsp;&nbsp; folks: **18,417**  &nbsp;&nbsp; `7,765 stars this month`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **39,400** &nbsp;&nbsp; folks: **3,518**  &nbsp;&nbsp; `2,915 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,406** &nbsp;&nbsp; folks: **3,519**  &nbsp;&nbsp; `2,915 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **17,733** &nbsp;&nbsp; folks: **1,251**  &nbsp;&nbsp; `6,625 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **17,735** &nbsp;&nbsp; folks: **1,251**  &nbsp;&nbsp; `6,625 stars this month`
 
 1. [eosphoros-ai / DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
     - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-    - language: **Python** &nbsp;&nbsp; stars: **15,762** &nbsp;&nbsp; folks: **2,135**  &nbsp;&nbsp; `980 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,763** &nbsp;&nbsp; folks: **2,135**  &nbsp;&nbsp; `980 stars this month`
 
 1. [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
     - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
@@ -202,7 +202,7 @@
 
 1. [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
     - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    - language: **TypeScript** &nbsp;&nbsp; stars: **52,397** &nbsp;&nbsp; folks: **4,081**  &nbsp;&nbsp; `4,171 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **52,399** &nbsp;&nbsp; folks: **4,081**  &nbsp;&nbsp; `4,171 stars this month`
 
 
 ## 历史归档
