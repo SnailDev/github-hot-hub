@@ -10,96 +10,96 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-03-29 10:54:02 +0800`
+`更新时间：2025-03-29 11:26:40 +0800`
 
 ## 今日热门仓库
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **23,955** &nbsp;&nbsp; folks: **2,771**  &nbsp;&nbsp; `1,340 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **23,969** &nbsp;&nbsp; folks: **2,771**  &nbsp;&nbsp; `1,340 stars today`
 
 1. [NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
     - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,747** &nbsp;&nbsp; folks: **1,364**  &nbsp;&nbsp; `366 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **10,750** &nbsp;&nbsp; folks: **1,364**  &nbsp;&nbsp; `366 stars today`
 
 1. [EFForg / rayhunter](https://github.com/EFForg/rayhunter)
     - Rust tool to detect cell site simulators on an orbic mobile hotspot
-    - language: **Rust** &nbsp;&nbsp; stars: **1,596** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `56 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **1,597** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `56 stars today`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    - language: **Python** &nbsp;&nbsp; stars: **28,179** &nbsp;&nbsp; folks: **1,559**  &nbsp;&nbsp; `392 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **28,189** &nbsp;&nbsp; folks: **1,559**  &nbsp;&nbsp; `392 stars today`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,791** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `881 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,794** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `881 stars today`
 
 1. [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
     - An open source payments switch written in Rust to make payments fast, reliable and affordable
-    - language: **Rust** &nbsp;&nbsp; stars: **15,243** &nbsp;&nbsp; folks: **1,545**  &nbsp;&nbsp; `639 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **15,246** &nbsp;&nbsp; folks: **1,547**  &nbsp;&nbsp; `639 stars today`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **18,270** &nbsp;&nbsp; folks: **1,197**  &nbsp;&nbsp; `1,345 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **18,296** &nbsp;&nbsp; folks: **1,198**  &nbsp;&nbsp; `1,345 stars today`
 
 1. [kern / filepizza](https://github.com/kern/filepizza)
     - 🍕 Peer-to-peer file transfers in your browser
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,895** &nbsp;&nbsp; folks: **488**  &nbsp;&nbsp; `186 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,901** &nbsp;&nbsp; folks: **488**  &nbsp;&nbsp; `186 stars today`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
-    - language: **Java** &nbsp;&nbsp; stars: **1,844** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `132 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **1,845** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `132 stars today`
 
 1. [cline / cline](https://github.com/cline/cline)
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,381** &nbsp;&nbsp; folks: **3,877**  &nbsp;&nbsp; `244 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,387** &nbsp;&nbsp; folks: **3,878**  &nbsp;&nbsp; `244 stars today`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **72,204** &nbsp;&nbsp; folks: **18,921**  &nbsp;&nbsp; `538 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **72,214** &nbsp;&nbsp; folks: **18,923**  &nbsp;&nbsp; `538 stars today`
 
 1. [neovim / neovim](https://github.com/neovim/neovim)
     - Vim-fork focused on extensibility and usability
-    - language: **Vim Script** &nbsp;&nbsp; stars: **87,845** &nbsp;&nbsp; folks: **5,960**  &nbsp;&nbsp; `68 stars today`
+    - language: **Vim Script** &nbsp;&nbsp; stars: **87,851** &nbsp;&nbsp; folks: **5,960**  &nbsp;&nbsp; `68 stars today`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **87,424** &nbsp;&nbsp; folks: **12,941**  &nbsp;&nbsp; `683 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **87,436** &nbsp;&nbsp; folks: **12,941**  &nbsp;&nbsp; `683 stars today`
 
 1. [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4)
     - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    - language: **C++** &nbsp;&nbsp; stars: **20,503** &nbsp;&nbsp; folks: **1,241**  &nbsp;&nbsp; `354 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **20,518** &nbsp;&nbsp; folks: **1,242**  &nbsp;&nbsp; `354 stars today`
 
 
 ## 近一周热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **48,642** &nbsp;&nbsp; folks: **7,144**  &nbsp;&nbsp; `3,847 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **48,645** &nbsp;&nbsp; folks: **7,145**  &nbsp;&nbsp; `3,847 stars this week`
 
 1. [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
     - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-    - language: **Python** &nbsp;&nbsp; stars: **25,713** &nbsp;&nbsp; folks: **1,694**  &nbsp;&nbsp; `4,168 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **25,719** &nbsp;&nbsp; folks: **1,695**  &nbsp;&nbsp; `4,168 stars this week`
 
 1. [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
     - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    - language: **Java** &nbsp;&nbsp; stars: **2,107** &nbsp;&nbsp; folks: **481**  &nbsp;&nbsp; `1,356 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **2,111** &nbsp;&nbsp; folks: **482**  &nbsp;&nbsp; `1,356 stars this week`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,791** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `1,907 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,794** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `1,907 stars this week`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **39,736** &nbsp;&nbsp; folks: **3,536**  &nbsp;&nbsp; `1,861 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **39,737** &nbsp;&nbsp; folks: **3,537**  &nbsp;&nbsp; `1,861 stars this week`
 
 1. [RSSNext / Folo](https://github.com/RSSNext/Folo)
     - 🧡 Follow everything in one place
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,537** &nbsp;&nbsp; folks: **1,038**  &nbsp;&nbsp; `1,158 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,542** &nbsp;&nbsp; folks: **1,038**  &nbsp;&nbsp; `1,158 stars this week`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **23,955** &nbsp;&nbsp; folks: **2,771**  &nbsp;&nbsp; `3,399 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **23,969** &nbsp;&nbsp; folks: **2,771**  &nbsp;&nbsp; `3,399 stars this week`
 
 1. [yetone / avante.nvim](https://github.com/yetone/avante.nvim)
     - Use your Neovim like using Cursor AI IDE!
@@ -111,30 +111,30 @@
 
 1. [lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent)
     - Build effective agents using Model Context Protocol and simple workflow patterns
-    - language: **Python** &nbsp;&nbsp; stars: **2,192** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `567 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,194** &nbsp;&nbsp; folks: **182**  &nbsp;&nbsp; `567 stars this week`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **294,784** &nbsp;&nbsp; folks: **49,017**  &nbsp;&nbsp; `1,236 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **294,789** &nbsp;&nbsp; folks: **49,018**  &nbsp;&nbsp; `1,236 stars this week`
 
 1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
     - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **1,502** &nbsp;&nbsp; folks: **137**  &nbsp;&nbsp; `509 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **1,503** &nbsp;&nbsp; folks: **137**  &nbsp;&nbsp; `509 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **19,588** &nbsp;&nbsp; folks: **3,566**  &nbsp;&nbsp; `10,786 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,590** &nbsp;&nbsp; folks: **3,566**  &nbsp;&nbsp; `10,786 stars this month`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **36,540** &nbsp;&nbsp; folks: **1,535**  &nbsp;&nbsp; `8,441 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **36,542** &nbsp;&nbsp; folks: **1,535**  &nbsp;&nbsp; `8,441 stars this month`
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **20,646** &nbsp;&nbsp; folks: **749**  &nbsp;&nbsp; `9,623 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **20,649** &nbsp;&nbsp; folks: **750**  &nbsp;&nbsp; `9,623 stars this month`
 
 1. [allenai / olmocr](https://github.com/allenai/olmocr)
     - Toolkit for linearizing PDFs for LLM datasets/training
@@ -142,31 +142,31 @@
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **52,156** &nbsp;&nbsp; folks: **3,414**  &nbsp;&nbsp; `2,304 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **52,158** &nbsp;&nbsp; folks: **3,414**  &nbsp;&nbsp; `2,304 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **364,777** &nbsp;&nbsp; folks: **33,844**  &nbsp;&nbsp; `23,039 stars this month`
+    - language: **Markdown** &nbsp;&nbsp; stars: **364,785** &nbsp;&nbsp; folks: **33,846**  &nbsp;&nbsp; `23,039 stars this month`
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **53,761** &nbsp;&nbsp; folks: **6,371**  &nbsp;&nbsp; `5,750 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **53,764** &nbsp;&nbsp; folks: **6,374**  &nbsp;&nbsp; `5,750 stars this month`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **87,424** &nbsp;&nbsp; folks: **12,941**  &nbsp;&nbsp; `13,105 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **87,436** &nbsp;&nbsp; folks: **12,941**  &nbsp;&nbsp; `13,105 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **72,204** &nbsp;&nbsp; folks: **18,921**  &nbsp;&nbsp; `8,908 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **72,214** &nbsp;&nbsp; folks: **18,923**  &nbsp;&nbsp; `8,908 stars this month`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    - language: **Java** &nbsp;&nbsp; stars: **21,812** &nbsp;&nbsp; folks: **2,386**  &nbsp;&nbsp; `2,502 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **21,813** &nbsp;&nbsp; folks: **2,386**  &nbsp;&nbsp; `2,502 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **48,642** &nbsp;&nbsp; folks: **7,144**  &nbsp;&nbsp; `4,499 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **48,645** &nbsp;&nbsp; folks: **7,145**  &nbsp;&nbsp; `4,499 stars this month`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
@@ -174,7 +174,7 @@
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **18,241** &nbsp;&nbsp; folks: **1,295**  &nbsp;&nbsp; `6,964 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **18,245** &nbsp;&nbsp; folks: **1,295**  &nbsp;&nbsp; `6,964 stars this month`
 
 
 ## 历史归档
