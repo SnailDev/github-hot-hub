@@ -10,88 +10,88 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-04-04 10:56:59 +0800`
+`更新时间：2025-04-04 11:31:34 +0800`
 
 ## 今日热门仓库
 
 1. [nuejs / nue](https://github.com/nuejs/nue)
     - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-    - language: **JavaScript** &nbsp;&nbsp; stars: **7,678** &nbsp;&nbsp; folks: **222**  &nbsp;&nbsp; `124 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **7,684** &nbsp;&nbsp; folks: **223**  &nbsp;&nbsp; `124 stars today`
 
 1. [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai)
     - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-    - language: **Python** &nbsp;&nbsp; stars: **36,623** &nbsp;&nbsp; folks: **3,220**  &nbsp;&nbsp; `368 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **36,633** &nbsp;&nbsp; folks: **3,222**  &nbsp;&nbsp; `368 stars today`
 
 1. [elie222 / inbox-zero](https://github.com/elie222/inbox-zero)
     - Open source email app to reach inbox zero fast.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,700** &nbsp;&nbsp; folks: **519**  &nbsp;&nbsp; `413 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,707** &nbsp;&nbsp; folks: **521**  &nbsp;&nbsp; `413 stars today`
 
 1. [SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)
     - Release repo for our SLAM Handbook
-    - language: **无** &nbsp;&nbsp; stars: **2,593** &nbsp;&nbsp; folks: **124**  &nbsp;&nbsp; `177 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **2,595** &nbsp;&nbsp; folks: **124**  &nbsp;&nbsp; `177 stars today`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **83,635** &nbsp;&nbsp; folks: **8,484**  &nbsp;&nbsp; `405 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **83,637** &nbsp;&nbsp; folks: **8,484**  &nbsp;&nbsp; `405 stars today`
 
 1. [arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
     - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
-    - language: **C** &nbsp;&nbsp; stars: **5,136** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `17 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **5,139** &nbsp;&nbsp; folks: **1,376**  &nbsp;&nbsp; `17 stars today`
 
 1. [unionlabs / union](https://github.com/unionlabs/union)
     - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    - language: **Rust** &nbsp;&nbsp; stars: **51,397** &nbsp;&nbsp; folks: **2,581**  &nbsp;&nbsp; `485 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **51,405** &nbsp;&nbsp; folks: **2,581**  &nbsp;&nbsp; `485 stars today`
 
 1. [gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app)
     - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,316** &nbsp;&nbsp; folks: **3,072**  &nbsp;&nbsp; `266 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,323** &nbsp;&nbsp; folks: **3,072**  &nbsp;&nbsp; `266 stars today`
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **52,561** &nbsp;&nbsp; folks: **5,565**  &nbsp;&nbsp; `803 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **52,575** &nbsp;&nbsp; folks: **5,565**  &nbsp;&nbsp; `803 stars today`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    - language: **Rust** &nbsp;&nbsp; stars: **86,026** &nbsp;&nbsp; folks: **12,097**  &nbsp;&nbsp; `232 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **86,033** &nbsp;&nbsp; folks: **12,099**  &nbsp;&nbsp; `232 stars today`
 
 1. [th-ch / youtube-music](https://github.com/th-ch/youtube-music)
     - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,031** &nbsp;&nbsp; folks: **881**  &nbsp;&nbsp; `435 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,038** &nbsp;&nbsp; folks: **881**  &nbsp;&nbsp; `435 stars today`
 
 1. [fleetdm / fleet](https://github.com/fleetdm/fleet)
     - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    - language: **Go** &nbsp;&nbsp; stars: **3,921** &nbsp;&nbsp; folks: **511**  &nbsp;&nbsp; `12 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **3,930** &nbsp;&nbsp; folks: **511**  &nbsp;&nbsp; `12 stars today`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **52,288** &nbsp;&nbsp; folks: **5,799**  &nbsp;&nbsp; `301 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **52,291** &nbsp;&nbsp; folks: **5,800**  &nbsp;&nbsp; `301 stars today`
 
 1. [symfony / symfony](https://github.com/symfony/symfony)
     - The Symfony PHP framework
-    - language: **PHP** &nbsp;&nbsp; stars: **30,194** &nbsp;&nbsp; folks: **9,592**  &nbsp;&nbsp; `5 stars today`
+    - language: **PHP** &nbsp;&nbsp; stars: **30,197** &nbsp;&nbsp; folks: **9,593**  &nbsp;&nbsp; `5 stars today`
 
 1. [typst / typst](https://github.com/typst/typst)
     - A new markup-based typesetting system that is powerful and easy to learn.
-    - language: **Rust** &nbsp;&nbsp; stars: **38,904** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `43 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **38,905** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `43 stars today`
 
 1. [infiniflow / ragflow](https://github.com/infiniflow/ragflow)
     - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **47,810** &nbsp;&nbsp; folks: **4,451**  &nbsp;&nbsp; `151 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **47,811** &nbsp;&nbsp; folks: **4,451**  &nbsp;&nbsp; `151 stars today`
 
 
 ## 近一周热门仓库
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **30,219** &nbsp;&nbsp; folks: **2,023**  &nbsp;&nbsp; `13,373 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **30,247** &nbsp;&nbsp; folks: **2,028**  &nbsp;&nbsp; `13,373 stars this week`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **26,923** &nbsp;&nbsp; folks: **3,030**  &nbsp;&nbsp; `4,858 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,926** &nbsp;&nbsp; folks: **3,031**  &nbsp;&nbsp; `4,858 stars this week`
 
 1. [tulir / whatsmeow](https://github.com/tulir/whatsmeow)
     - Go library for the WhatsApp web multidevice API
-    - language: **Go** &nbsp;&nbsp; stars: **3,248** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `620 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **3,249** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `620 stars this week`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
@@ -103,23 +103,23 @@
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,866** &nbsp;&nbsp; folks: **2,379**  &nbsp;&nbsp; `1,382 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,881** &nbsp;&nbsp; folks: **2,381**  &nbsp;&nbsp; `1,382 stars this week`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - The fast, Pythonic way to build Model Context Protocol servers 🚀
-    - language: **Python** &nbsp;&nbsp; stars: **3,607** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `1,677 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,610** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `1,677 stars this week`
 
 1. [microsoft / KBLaM](https://github.com/microsoft/KBLaM)
     - Official Implementation of "KBLaM: Knowledge Base augmented Language Model"
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,105** &nbsp;&nbsp; folks: **89**  &nbsp;&nbsp; `365 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,106** &nbsp;&nbsp; folks: **89**  &nbsp;&nbsp; `365 stars this week`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    - language: **Shell** &nbsp;&nbsp; stars: **83,635** &nbsp;&nbsp; folks: **8,484**  &nbsp;&nbsp; `637 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **83,637** &nbsp;&nbsp; folks: **8,484**  &nbsp;&nbsp; `637 stars this week`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,757** &nbsp;&nbsp; folks: **2,040**  &nbsp;&nbsp; `1,803 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,761** &nbsp;&nbsp; folks: **2,040**  &nbsp;&nbsp; `1,803 stars this week`
 
 1. [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4)
     - PlayStation 4 emulator for Windows, Linux and macOS written in C++
@@ -135,7 +135,7 @@
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    - language: **Rust** &nbsp;&nbsp; stars: **86,026** &nbsp;&nbsp; folks: **12,097**  &nbsp;&nbsp; `1,082 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **86,033** &nbsp;&nbsp; folks: **12,099**  &nbsp;&nbsp; `1,082 stars this week`
 
 1. [koreader / koreader](https://github.com/koreader/koreader)
     - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -146,7 +146,7 @@
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **21,549** &nbsp;&nbsp; folks: **789**  &nbsp;&nbsp; `10,518 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **21,552** &nbsp;&nbsp; folks: **789**  &nbsp;&nbsp; `10,518 stars this month`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
@@ -154,43 +154,43 @@
 
 1. [lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent)
     - Build effective agents using Model Context Protocol and simple workflow patterns
-    - language: **Python** &nbsp;&nbsp; stars: **2,938** &nbsp;&nbsp; folks: **270**  &nbsp;&nbsp; `2,231 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,938** &nbsp;&nbsp; folks: **271**  &nbsp;&nbsp; `2,231 stars this month`
 
 1. [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
     - Free, simple, fast interactive diagrams for any GitHub repository
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,591** &nbsp;&nbsp; folks: **509**  &nbsp;&nbsp; `4,705 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,608** &nbsp;&nbsp; folks: **509**  &nbsp;&nbsp; `4,705 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **19,860** &nbsp;&nbsp; folks: **1,446**  &nbsp;&nbsp; `8,197 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **19,865** &nbsp;&nbsp; folks: **1,447**  &nbsp;&nbsp; `8,197 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **74,538** &nbsp;&nbsp; folks: **19,744**  &nbsp;&nbsp; `10,573 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **74,546** &nbsp;&nbsp; folks: **19,751**  &nbsp;&nbsp; `10,573 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **49,484** &nbsp;&nbsp; folks: **7,263**  &nbsp;&nbsp; `5,254 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **49,483** &nbsp;&nbsp; folks: **7,263**  &nbsp;&nbsp; `5,254 stars this month`
 
 1. [th-ch / youtube-music](https://github.com/th-ch/youtube-music)
     - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,031** &nbsp;&nbsp; folks: **881**  &nbsp;&nbsp; `5,998 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,038** &nbsp;&nbsp; folks: **881**  &nbsp;&nbsp; `5,998 stars this month`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **26,923** &nbsp;&nbsp; folks: **3,030**  &nbsp;&nbsp; `8,415 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **26,926** &nbsp;&nbsp; folks: **3,031**  &nbsp;&nbsp; `8,415 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **367,776** &nbsp;&nbsp; folks: **34,173**  &nbsp;&nbsp; `22,431 stars this month`
+    - language: **Markdown** &nbsp;&nbsp; stars: **367,788** &nbsp;&nbsp; folks: **34,174**  &nbsp;&nbsp; `22,431 stars this month`
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **54,148** &nbsp;&nbsp; folks: **6,408**  &nbsp;&nbsp; `5,612 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **54,149** &nbsp;&nbsp; folks: **6,408**  &nbsp;&nbsp; `5,612 stars this month`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **11,642** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `2,153 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,644** &nbsp;&nbsp; folks: **1,275**  &nbsp;&nbsp; `2,153 stars this month`
 
 1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
     - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -198,15 +198,15 @@
 
 1. [browser-use / browser-use](https://github.com/browser-use/browser-use)
     - Make websites accessible for AI agents
-    - language: **Python** &nbsp;&nbsp; stars: **52,561** &nbsp;&nbsp; folks: **5,565**  &nbsp;&nbsp; `17,612 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **52,575** &nbsp;&nbsp; folks: **5,565**  &nbsp;&nbsp; `17,612 stars this month`
 
 1. [agno-agi / agno](https://github.com/agno-agi/agno)
     - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
-    - language: **Python** &nbsp;&nbsp; stars: **23,787** &nbsp;&nbsp; folks: **3,028**  &nbsp;&nbsp; `4,187 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,785** &nbsp;&nbsp; folks: **3,028**  &nbsp;&nbsp; `4,187 stars this month`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **40,011** &nbsp;&nbsp; folks: **3,573**  &nbsp;&nbsp; `3,530 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **40,013** &nbsp;&nbsp; folks: **3,573**  &nbsp;&nbsp; `3,530 stars this month`
 
 1. [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
     - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
