@@ -10,163 +10,163 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-04-20 04:15:13 +0800`
+`更新时间：2025-04-20 05:12:48 +0800`
 
 ## 今日热门仓库
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **77,585** &nbsp;&nbsp; folks: **9,389**  &nbsp;&nbsp; `1,903 stars today`
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **77,591** &nbsp;&nbsp; folks: **9,391**  &nbsp;&nbsp; `1,903 stars today`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **C++** &nbsp;&nbsp; stars: **14,074** &nbsp;&nbsp; folks: **985**  &nbsp;&nbsp; `322 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **14,098** &nbsp;&nbsp; folks: **988**  &nbsp;&nbsp; `322 stars today`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **6,051** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `432 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,060** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `432 stars today`
 
 1. [docmost / docmost](https://github.com/docmost/docmost)
     - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,249** &nbsp;&nbsp; folks: **684**  &nbsp;&nbsp; `276 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,257** &nbsp;&nbsp; folks: **685**  &nbsp;&nbsp; `276 stars today`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **314,122** &nbsp;&nbsp; folks: **40,849**  &nbsp;&nbsp; `162 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **314,136** &nbsp;&nbsp; folks: **40,850**  &nbsp;&nbsp; `162 stars today`
 
 1. [1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)
     - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
-    - language: **Go** &nbsp;&nbsp; stars: **27,428** &nbsp;&nbsp; folks: **2,397**  &nbsp;&nbsp; `357 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **27,435** &nbsp;&nbsp; folks: **2,397**  &nbsp;&nbsp; `357 stars today`
 
 1. [elie222 / inbox-zero](https://github.com/elie222/inbox-zero)
     - AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,102** &nbsp;&nbsp; folks: **643**  &nbsp;&nbsp; `256 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,109** &nbsp;&nbsp; folks: **644**  &nbsp;&nbsp; `256 stars today`
 
 1. [linera-io / linera-protocol](https://github.com/linera-io/linera-protocol)
     - Main repository for the Linera protocol
-    - language: **Rust** &nbsp;&nbsp; stars: **23,695** &nbsp;&nbsp; folks: **1,444**  &nbsp;&nbsp; `829 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **23,712** &nbsp;&nbsp; folks: **1,445**  &nbsp;&nbsp; `829 stars today`
 
 1. [SigmaHQ / sigma](https://github.com/SigmaHQ/sigma)
     - Main Sigma Rule Repository
-    - language: **Python** &nbsp;&nbsp; stars: **9,059** &nbsp;&nbsp; folks: **2,315**  &nbsp;&nbsp; `13 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,062** &nbsp;&nbsp; folks: **2,316**  &nbsp;&nbsp; `13 stars today`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **336,162** &nbsp;&nbsp; folks: **35,556**  &nbsp;&nbsp; `170 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **336,172** &nbsp;&nbsp; folks: **35,557**  &nbsp;&nbsp; `170 stars today`
 
 1. [browserbase / stagehand](https://github.com/browserbase/stagehand)
     - An AI web browsing framework focused on simplicity and extensibility.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,627** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `246 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,635** &nbsp;&nbsp; folks: **584**  &nbsp;&nbsp; `246 stars today`
 
 1. [nocobase / nocobase](https://github.com/nocobase/nocobase)
     - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,540** &nbsp;&nbsp; folks: **1,619**  &nbsp;&nbsp; `266 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,551** &nbsp;&nbsp; folks: **1,620**  &nbsp;&nbsp; `266 stars today`
 
 1. [NirDiamant / RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
     - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,328** &nbsp;&nbsp; folks: **1,527**  &nbsp;&nbsp; `225 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,332** &nbsp;&nbsp; folks: **1,527**  &nbsp;&nbsp; `225 stars today`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **314,643** &nbsp;&nbsp; folks: **78,424**  &nbsp;&nbsp; `114 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **314,653** &nbsp;&nbsp; folks: **78,426**  &nbsp;&nbsp; `114 stars today`
 
 1. [wanglin2 / mind-map](https://github.com/wanglin2/mind-map)
     - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,593** &nbsp;&nbsp; folks: **1,210**  &nbsp;&nbsp; `58 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,597** &nbsp;&nbsp; folks: **1,210**  &nbsp;&nbsp; `58 stars today`
 
 
 ## 近一周热门仓库
 
 1. [CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5)
     - CVE cache of the official CVE List in CVE JSON 5 format
-    - language: **无** &nbsp;&nbsp; stars: **1,816** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `764 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **1,817** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `764 stars this week`
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **19,473** &nbsp;&nbsp; folks: **2,379**  &nbsp;&nbsp; `9,428 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **19,477** &nbsp;&nbsp; folks: **2,380**  &nbsp;&nbsp; `9,428 stars this week`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **25,904** &nbsp;&nbsp; folks: **4,432**  &nbsp;&nbsp; `4,832 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **25,908** &nbsp;&nbsp; folks: **4,432**  &nbsp;&nbsp; `4,832 stars this week`
 
 1. [krillinai / KrillinAI](https://github.com/krillinai/KrillinAI)
     - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-    - language: **Go** &nbsp;&nbsp; stars: **5,155** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `2,879 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **5,161** &nbsp;&nbsp; folks: **378**  &nbsp;&nbsp; `2,879 stars this week`
 
 1. [Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
     - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    - language: **C++** &nbsp;&nbsp; stars: **3,742** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `2,016 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **3,744** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `2,016 stars this week`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **6,051** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `1,205 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,060** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `1,205 stars this week`
 
 1. [NirDiamant / RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
     - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,328** &nbsp;&nbsp; folks: **1,527**  &nbsp;&nbsp; `1,069 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,332** &nbsp;&nbsp; folks: **1,527**  &nbsp;&nbsp; `1,069 stars this week`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
-    - language: **Ruby** &nbsp;&nbsp; stars: **43,476** &nbsp;&nbsp; folks: **3,135**  &nbsp;&nbsp; `756 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **43,478** &nbsp;&nbsp; folks: **3,135**  &nbsp;&nbsp; `756 stars this week`
 
 1. [docmost / docmost](https://github.com/docmost/docmost)
     - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,249** &nbsp;&nbsp; folks: **684**  &nbsp;&nbsp; `662 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,257** &nbsp;&nbsp; folks: **685**  &nbsp;&nbsp; `662 stars this week`
 
 1. [getmaxun / maxun](https://github.com/getmaxun/maxun)
     - 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,859** &nbsp;&nbsp; folks: **917**  &nbsp;&nbsp; `747 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,863** &nbsp;&nbsp; folks: **917**  &nbsp;&nbsp; `747 stars this week`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **83,217** &nbsp;&nbsp; folks: **22,333**  &nbsp;&nbsp; `4,113 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **83,226** &nbsp;&nbsp; folks: **22,339**  &nbsp;&nbsp; `4,113 stars this week`
 
 1. [kestra-io / kestra](https://github.com/kestra-io/kestra)
     - ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
-    - language: **Java** &nbsp;&nbsp; stars: **17,369** &nbsp;&nbsp; folks: **1,452**  &nbsp;&nbsp; `535 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **17,374** &nbsp;&nbsp; folks: **1,452**  &nbsp;&nbsp; `535 stars this week`
 
 1. [CapSoftware / Cap](https://github.com/CapSoftware/Cap)
     - Open source Loom alternative. Beautiful, shareable screen recordings.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,772** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `297 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,776** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `297 stars this week`
 
 1. [termux / termux-app](https://github.com/termux/termux-app)
     - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    - language: **Java** &nbsp;&nbsp; stars: **40,691** &nbsp;&nbsp; folks: **4,384**  &nbsp;&nbsp; `230 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **40,693** &nbsp;&nbsp; folks: **4,385**  &nbsp;&nbsp; `230 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **19,473** &nbsp;&nbsp; folks: **2,379**  &nbsp;&nbsp; `15,872 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,477** &nbsp;&nbsp; folks: **2,380**  &nbsp;&nbsp; `15,872 stars this month`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **40,123** &nbsp;&nbsp; folks: **2,866**  &nbsp;&nbsp; `28,346 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **40,134** &nbsp;&nbsp; folks: **2,866**  &nbsp;&nbsp; `28,346 stars this month`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,878** &nbsp;&nbsp; folks: **942**  &nbsp;&nbsp; `8,749 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,882** &nbsp;&nbsp; folks: **942**  &nbsp;&nbsp; `8,749 stars this month`
 
 1. [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
     - Free, simple, fast interactive diagrams for any GitHub repository
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,879** &nbsp;&nbsp; folks: **653**  &nbsp;&nbsp; `7,074 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,883** &nbsp;&nbsp; folks: **653**  &nbsp;&nbsp; `7,074 stars this month`
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,830** &nbsp;&nbsp; folks: **3,857**  &nbsp;&nbsp; `10,976 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,839** &nbsp;&nbsp; folks: **3,858**  &nbsp;&nbsp; `10,976 stars this month`
 
 1. [th-ch / youtube-music](https://github.com/th-ch/youtube-music)
     - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,500** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `7,225 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,503** &nbsp;&nbsp; folks: **959**  &nbsp;&nbsp; `7,225 stars this month`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,964** &nbsp;&nbsp; folks: **2,488**  &nbsp;&nbsp; `4,226 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,967** &nbsp;&nbsp; folks: **2,488**  &nbsp;&nbsp; `4,226 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **50,451** &nbsp;&nbsp; folks: **7,478**  &nbsp;&nbsp; `5,928 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **50,452** &nbsp;&nbsp; folks: **7,479**  &nbsp;&nbsp; `5,928 stars this month`
 
 1. [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
     - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
@@ -174,27 +174,27 @@
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **83,217** &nbsp;&nbsp; folks: **22,333**  &nbsp;&nbsp; `14,840 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **83,226** &nbsp;&nbsp; folks: **22,339**  &nbsp;&nbsp; `14,840 stars this month`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **28,638** &nbsp;&nbsp; folks: **3,221**  &nbsp;&nbsp; `8,742 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **28,644** &nbsp;&nbsp; folks: **3,222**  &nbsp;&nbsp; `8,742 stars this month`
 
 1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
     - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **3,542** &nbsp;&nbsp; folks: **295**  &nbsp;&nbsp; `2,668 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **3,546** &nbsp;&nbsp; folks: **296**  &nbsp;&nbsp; `2,668 stars this month`
 
 1. [CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5)
     - CVE cache of the official CVE List in CVE JSON 5 format
-    - language: **无** &nbsp;&nbsp; stars: **1,816** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `826 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **1,817** &nbsp;&nbsp; folks: **435**  &nbsp;&nbsp; `826 stars this month`
 
 1. [executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright)
     - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,041** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `2,030 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,046** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `2,030 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **22,478** &nbsp;&nbsp; folks: **1,707**  &nbsp;&nbsp; `5,969 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **22,485** &nbsp;&nbsp; folks: **1,708**  &nbsp;&nbsp; `5,969 stars this month`
 
 
 ## 历史归档
