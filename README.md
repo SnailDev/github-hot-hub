@@ -10,61 +10,61 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-04-22 16:20:33 +0800`
+`更新时间：2025-04-22 17:17:00 +0800`
 
 ## 今日热门仓库
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **51,770** &nbsp;&nbsp; folks: **2,533**  &nbsp;&nbsp; `1,033 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **51,821** &nbsp;&nbsp; folks: **2,537**  &nbsp;&nbsp; `1,033 stars today`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **C++** &nbsp;&nbsp; stars: **15,855** &nbsp;&nbsp; folks: **1,125**  &nbsp;&nbsp; `697 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **15,894** &nbsp;&nbsp; folks: **1,126**  &nbsp;&nbsp; `697 stars today`
 
 1. [elie222 / inbox-zero](https://github.com/elie222/inbox-zero)
     - AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,708** &nbsp;&nbsp; folks: **688**  &nbsp;&nbsp; `258 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,712** &nbsp;&nbsp; folks: **688**  &nbsp;&nbsp; `258 stars today`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **29,383** &nbsp;&nbsp; folks: **3,286**  &nbsp;&nbsp; `322 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **29,406** &nbsp;&nbsp; folks: **3,286**  &nbsp;&nbsp; `322 stars today`
 
 1. [allenai / olmocr](https://github.com/allenai/olmocr)
     - Toolkit for linearizing PDFs for LLM datasets/training
-    - language: **Python** &nbsp;&nbsp; stars: **11,754** &nbsp;&nbsp; folks: **797**  &nbsp;&nbsp; `148 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **11,764** &nbsp;&nbsp; folks: **797**  &nbsp;&nbsp; `148 stars today`
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A feature-rich command-line audio/video downloader
-    - language: **Python** &nbsp;&nbsp; stars: **108,763** &nbsp;&nbsp; folks: **8,542**  &nbsp;&nbsp; `329 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **108,775** &nbsp;&nbsp; folks: **8,543**  &nbsp;&nbsp; `329 stars today`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **27,405** &nbsp;&nbsp; folks: **1,943**  &nbsp;&nbsp; `104 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **27,413** &nbsp;&nbsp; folks: **1,943**  &nbsp;&nbsp; `104 stars today`
 
 1. [nocobase / nocobase](https://github.com/nocobase/nocobase)
     - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,100** &nbsp;&nbsp; folks: **1,654**  &nbsp;&nbsp; `243 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,114** &nbsp;&nbsp; folks: **1,656**  &nbsp;&nbsp; `243 stars today`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **337,393** &nbsp;&nbsp; folks: **35,636**  &nbsp;&nbsp; `610 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **337,410** &nbsp;&nbsp; folks: **35,636**  &nbsp;&nbsp; `610 stars today`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **315,311** &nbsp;&nbsp; folks: **78,518**  &nbsp;&nbsp; `288 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **315,323** &nbsp;&nbsp; folks: **78,519**  &nbsp;&nbsp; `288 stars today`
 
 1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
     - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
-    - language: **Python** &nbsp;&nbsp; stars: **21,259** &nbsp;&nbsp; folks: **1,802**  &nbsp;&nbsp; `471 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,266** &nbsp;&nbsp; folks: **1,803**  &nbsp;&nbsp; `471 stars today`
 
 1. [007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
     - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
-    - language: **Shell** &nbsp;&nbsp; stars: **3,605** &nbsp;&nbsp; folks: **227**  &nbsp;&nbsp; `56 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **3,610** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `56 stars today`
 
 1. [jumpserver / jumpserver](https://github.com/jumpserver/jumpserver)
     - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
-    - language: **Python** &nbsp;&nbsp; stars: **27,137** &nbsp;&nbsp; folks: **5,455**  &nbsp;&nbsp; `166 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **27,151** &nbsp;&nbsp; folks: **5,455**  &nbsp;&nbsp; `166 stars today`
 
 
 ## 近一周热门仓库
@@ -75,35 +75,35 @@
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **26,200** &nbsp;&nbsp; folks: **4,495**  &nbsp;&nbsp; `4,759 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,207** &nbsp;&nbsp; folks: **4,497**  &nbsp;&nbsp; `4,759 stars this week`
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **20,552** &nbsp;&nbsp; folks: **2,537**  &nbsp;&nbsp; `5,816 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **20,577** &nbsp;&nbsp; folks: **2,537**  &nbsp;&nbsp; `5,816 stars this week`
 
 1. [Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
     - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    - language: **C++** &nbsp;&nbsp; stars: **4,364** &nbsp;&nbsp; folks: **293**  &nbsp;&nbsp; `1,865 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **4,369** &nbsp;&nbsp; folks: **293**  &nbsp;&nbsp; `1,865 stars this week`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **6,884** &nbsp;&nbsp; folks: **356**  &nbsp;&nbsp; `2,026 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,898** &nbsp;&nbsp; folks: **357**  &nbsp;&nbsp; `2,026 stars this week`
 
 1. [krillinai / KrillinAI](https://github.com/krillinai/KrillinAI)
     - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-    - language: **Go** &nbsp;&nbsp; stars: **5,847** &nbsp;&nbsp; folks: **424**  &nbsp;&nbsp; `1,941 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **5,856** &nbsp;&nbsp; folks: **425**  &nbsp;&nbsp; `1,941 stars this week`
 
 1. [nocobase / nocobase](https://github.com/nocobase/nocobase)
     - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,100** &nbsp;&nbsp; folks: **1,654**  &nbsp;&nbsp; `866 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,114** &nbsp;&nbsp; folks: **1,656**  &nbsp;&nbsp; `866 stars this week`
 
 1. [docmost / docmost](https://github.com/docmost/docmost)
     - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,590** &nbsp;&nbsp; folks: **702**  &nbsp;&nbsp; `1,221 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,592** &nbsp;&nbsp; folks: **702**  &nbsp;&nbsp; `1,221 stars this week`
 
 1. [elie222 / inbox-zero](https://github.com/elie222/inbox-zero)
     - AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,708** &nbsp;&nbsp; folks: **688**  &nbsp;&nbsp; `973 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,712** &nbsp;&nbsp; folks: **688**  &nbsp;&nbsp; `973 stars this week`
 
 1. [maybe-finance / maybe](https://github.com/maybe-finance/maybe)
     - The OS for your personal finances
@@ -111,34 +111,34 @@
 
 1. [getmaxun / maxun](https://github.com/getmaxun/maxun)
     - 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,107** &nbsp;&nbsp; folks: **935**  &nbsp;&nbsp; `695 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,110** &nbsp;&nbsp; folks: **935**  &nbsp;&nbsp; `695 stars this week`
 
 1. [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai)
     - An Application Framework for AI Engineering
-    - language: **Java** &nbsp;&nbsp; stars: **4,789** &nbsp;&nbsp; folks: **1,307**  &nbsp;&nbsp; `135 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **4,790** &nbsp;&nbsp; folks: **1,308**  &nbsp;&nbsp; `135 stars this week`
 
 1. [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
     - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    - language: **无** &nbsp;&nbsp; stars: **6,437** &nbsp;&nbsp; folks: **621**  &nbsp;&nbsp; `975 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **6,444** &nbsp;&nbsp; folks: **621**  &nbsp;&nbsp; `975 stars this week`
 
 1. [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
     - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-    - language: **Python** &nbsp;&nbsp; stars: **26,570** &nbsp;&nbsp; folks: **1,550**  &nbsp;&nbsp; `178 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,577** &nbsp;&nbsp; folks: **1,550**  &nbsp;&nbsp; `178 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **20,552** &nbsp;&nbsp; folks: **2,537**  &nbsp;&nbsp; `16,598 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,577** &nbsp;&nbsp; folks: **2,537**  &nbsp;&nbsp; `16,598 stars this month`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **41,358** &nbsp;&nbsp; folks: **2,984**  &nbsp;&nbsp; `27,670 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **41,382** &nbsp;&nbsp; folks: **2,987**  &nbsp;&nbsp; `27,670 stars this month`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,204** &nbsp;&nbsp; folks: **965**  &nbsp;&nbsp; `8,351 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,214** &nbsp;&nbsp; folks: **966**  &nbsp;&nbsp; `8,351 stars this month`
 
 1. [th-ch / youtube-music](https://github.com/th-ch/youtube-music)
     - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -146,15 +146,15 @@
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **16,393** &nbsp;&nbsp; folks: **4,053**  &nbsp;&nbsp; `11,378 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **16,398** &nbsp;&nbsp; folks: **4,054**  &nbsp;&nbsp; `11,378 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **84,381** &nbsp;&nbsp; folks: **22,725**  &nbsp;&nbsp; `15,039 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **84,413** &nbsp;&nbsp; folks: **22,736**  &nbsp;&nbsp; `15,039 stars this month`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
-    - language: **Java** &nbsp;&nbsp; stars: **2,413** &nbsp;&nbsp; folks: **461**  &nbsp;&nbsp; `1,225 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **2,416** &nbsp;&nbsp; folks: **461**  &nbsp;&nbsp; `1,225 stars this month`
 
 1. [CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5)
     - CVE cache of the official CVE List in CVE JSON 5 format
@@ -162,31 +162,31 @@
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **29,383** &nbsp;&nbsp; folks: **3,286**  &nbsp;&nbsp; `9,102 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,406** &nbsp;&nbsp; folks: **3,286**  &nbsp;&nbsp; `9,102 stars this month`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,096** &nbsp;&nbsp; folks: **2,528**  &nbsp;&nbsp; `4,269 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,101** &nbsp;&nbsp; folks: **2,530**  &nbsp;&nbsp; `4,269 stars this month`
 
 1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
     - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **3,693** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `2,699 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **3,700** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `2,699 stars this month`
 
 1. [wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
     - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,871** &nbsp;&nbsp; folks: **193**  &nbsp;&nbsp; `1,618 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,875** &nbsp;&nbsp; folks: **194**  &nbsp;&nbsp; `1,618 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **50,582** &nbsp;&nbsp; folks: **7,502**  &nbsp;&nbsp; `6,001 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **50,583** &nbsp;&nbsp; folks: **7,502**  &nbsp;&nbsp; `6,001 stars this month`
 
 1. [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
     - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    - language: **Java** &nbsp;&nbsp; stars: **2,859** &nbsp;&nbsp; folks: **644**  &nbsp;&nbsp; `2,129 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **2,864** &nbsp;&nbsp; folks: **645**  &nbsp;&nbsp; `2,129 stars this month`
 
 1. [PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
     - 📄 A curated list of awesome .cursorrules files
-    - language: **无** &nbsp;&nbsp; stars: **22,847** &nbsp;&nbsp; folks: **1,739**  &nbsp;&nbsp; `5,745 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **22,855** &nbsp;&nbsp; folks: **1,739**  &nbsp;&nbsp; `5,745 stars this month`
 
 
 ## 历史归档
