@@ -10,179 +10,179 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-05-01 11:13:49 +0800`
+`更新时间：2025-05-01 12:20:59 +0800`
 
 ## 今日热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **55,058** &nbsp;&nbsp; folks: **7,914**  &nbsp;&nbsp; `1,686 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **55,109** &nbsp;&nbsp; folks: **7,919**  &nbsp;&nbsp; `1,686 stars today`
 
 1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
     - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,683** &nbsp;&nbsp; folks: **1,465**  &nbsp;&nbsp; `54 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,698** &nbsp;&nbsp; folks: **1,466**  &nbsp;&nbsp; `54 stars today`
 
 1. [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
     - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-    - language: **Python** &nbsp;&nbsp; stars: **7,393** &nbsp;&nbsp; folks: **638**  &nbsp;&nbsp; `188 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,400** &nbsp;&nbsp; folks: **638**  &nbsp;&nbsp; `188 stars today`
 
 1. [QwenLM / Qwen3](https://github.com/QwenLM/Qwen3)
     - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Shell** &nbsp;&nbsp; stars: **19,614** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `673 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **19,625** &nbsp;&nbsp; folks: **1,288**  &nbsp;&nbsp; `673 stars today`
 
 1. [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
     - An open source payments switch written in Rust to make payments fast, reliable and affordable
-    - language: **Rust** &nbsp;&nbsp; stars: **16,939** &nbsp;&nbsp; folks: **1,963**  &nbsp;&nbsp; `274 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **16,954** &nbsp;&nbsp; folks: **1,966**  &nbsp;&nbsp; `274 stars today`
 
 1. [daytonaio / daytona](https://github.com/daytonaio/daytona)
     - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,203** &nbsp;&nbsp; folks: **1,764**  &nbsp;&nbsp; `418 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,215** &nbsp;&nbsp; folks: **1,769**  &nbsp;&nbsp; `418 stars today`
 
 1. [vllm-project / vllm](https://github.com/vllm-project/vllm)
     - A high-throughput and memory-efficient inference and serving engine for LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **46,308** &nbsp;&nbsp; folks: **7,183**  &nbsp;&nbsp; `126 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **46,313** &nbsp;&nbsp; folks: **7,184**  &nbsp;&nbsp; `126 stars today`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **3,551** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `317 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,560** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `317 stars today`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,745** &nbsp;&nbsp; folks: **41,965**  &nbsp;&nbsp; `474 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,762** &nbsp;&nbsp; folks: **41,968**  &nbsp;&nbsp; `474 stars today`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **38,006** &nbsp;&nbsp; folks: **1,578**  &nbsp;&nbsp; `231 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **38,012** &nbsp;&nbsp; folks: **1,578**  &nbsp;&nbsp; `231 stars today`
 
 1. [ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
     - Examples using MLX Swift
-    - language: **Swift** &nbsp;&nbsp; stars: **1,728** &nbsp;&nbsp; folks: **214**  &nbsp;&nbsp; `10 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **1,729** &nbsp;&nbsp; folks: **214**  &nbsp;&nbsp; `10 stars today`
 
 1. [hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
     - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-    - language: **Python** &nbsp;&nbsp; stars: **48,060** &nbsp;&nbsp; folks: **5,866**  &nbsp;&nbsp; `84 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **48,064** &nbsp;&nbsp; folks: **5,867**  &nbsp;&nbsp; `84 stars today`
 
 1. [AutoMQ / automq](https://github.com/AutoMQ/automq)
     - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
-    - language: **Java** &nbsp;&nbsp; stars: **6,009** &nbsp;&nbsp; folks: **402**  &nbsp;&nbsp; `52 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **6,013** &nbsp;&nbsp; folks: **402**  &nbsp;&nbsp; `52 stars today`
 
 1. [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
     - Bitcoin Core integration/staging tree
-    - language: **C++** &nbsp;&nbsp; stars: **83,200** &nbsp;&nbsp; folks: **37,140**  &nbsp;&nbsp; `49 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **83,203** &nbsp;&nbsp; folks: **37,142**  &nbsp;&nbsp; `49 stars today`
 
 
 ## 近一周热门仓库
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **5,512** &nbsp;&nbsp; folks: **607**  &nbsp;&nbsp; `2,923 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **5,523** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `2,923 stars this week`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **55,058** &nbsp;&nbsp; folks: **7,914**  &nbsp;&nbsp; `3,895 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **55,109** &nbsp;&nbsp; folks: **7,919**  &nbsp;&nbsp; `3,895 stars this week`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **C++** &nbsp;&nbsp; stars: **17,903** &nbsp;&nbsp; folks: **1,289**  &nbsp;&nbsp; `1,328 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **17,906** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `1,328 stars this week`
 
 1. [bytedance / UI-TARS](https://github.com/bytedance/UI-TARS)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **5,530** &nbsp;&nbsp; folks: **370**  &nbsp;&nbsp; `1,074 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,532** &nbsp;&nbsp; folks: **370**  &nbsp;&nbsp; `1,074 stars this week`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **316,801** &nbsp;&nbsp; folks: **41,103**  &nbsp;&nbsp; `1,544 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **316,807** &nbsp;&nbsp; folks: **41,104**  &nbsp;&nbsp; `1,544 stars this week`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **29,365** &nbsp;&nbsp; folks: **2,050**  &nbsp;&nbsp; `1,618 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **29,369** &nbsp;&nbsp; folks: **2,050**  &nbsp;&nbsp; `1,618 stars this week`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,745** &nbsp;&nbsp; folks: **41,965**  &nbsp;&nbsp; `2,530 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,762** &nbsp;&nbsp; folks: **41,968**  &nbsp;&nbsp; `2,530 stars this week`
 
 1. [lapce / lapce](https://github.com/lapce/lapce)
     - Lightning-fast and Powerful Code Editor written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **35,923** &nbsp;&nbsp; folks: **1,114**  &nbsp;&nbsp; `787 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **35,928** &nbsp;&nbsp; folks: **1,114**  &nbsp;&nbsp; `787 stars this week`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,332** &nbsp;&nbsp; folks: **1,018**  &nbsp;&nbsp; `785 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,334** &nbsp;&nbsp; folks: **1,018**  &nbsp;&nbsp; `785 stars this week`
 
 1. [aquasecurity / trivy](https://github.com/aquasecurity/trivy)
     - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    - language: **Go** &nbsp;&nbsp; stars: **26,035** &nbsp;&nbsp; folks: **2,521**  &nbsp;&nbsp; `453 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **26,038** &nbsp;&nbsp; folks: **2,522**  &nbsp;&nbsp; `453 stars this week`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **55,436** &nbsp;&nbsp; folks: **2,798**  &nbsp;&nbsp; `2,579 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **55,443** &nbsp;&nbsp; folks: **2,800**  &nbsp;&nbsp; `2,579 stars this week`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **7,606** &nbsp;&nbsp; folks: **506**  &nbsp;&nbsp; `3,543 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,611** &nbsp;&nbsp; folks: **506**  &nbsp;&nbsp; `3,543 stars this week`
 
 1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
     - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **57,280** &nbsp;&nbsp; folks: **4,810**  &nbsp;&nbsp; `992 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **57,284** &nbsp;&nbsp; folks: **4,810**  &nbsp;&nbsp; `992 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **22,829** &nbsp;&nbsp; folks: **2,840**  &nbsp;&nbsp; `18,063 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,841** &nbsp;&nbsp; folks: **2,840**  &nbsp;&nbsp; `18,063 stars this month`
 
 1. [CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5)
     - CVE cache of the official CVE List in CVE JSON 5 format
-    - language: **无** &nbsp;&nbsp; stars: **1,945** &nbsp;&nbsp; folks: **444**  &nbsp;&nbsp; `976 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **1,945** &nbsp;&nbsp; folks: **445**  &nbsp;&nbsp; `976 stars this month`
 
 1. [GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
     - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **1,548** &nbsp;&nbsp; folks: **514**  &nbsp;&nbsp; `1,265 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **1,552** &nbsp;&nbsp; folks: **515**  &nbsp;&nbsp; `1,265 stars this month`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **5,512** &nbsp;&nbsp; folks: **607**  &nbsp;&nbsp; `3,348 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **5,523** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `3,348 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **87,742** &nbsp;&nbsp; folks: **23,833**  &nbsp;&nbsp; `14,755 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **87,758** &nbsp;&nbsp; folks: **23,837**  &nbsp;&nbsp; `14,755 stars this month`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **8,166** &nbsp;&nbsp; folks: **426**  &nbsp;&nbsp; `5,372 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,171** &nbsp;&nbsp; folks: **426**  &nbsp;&nbsp; `5,372 stars this month`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **45,218** &nbsp;&nbsp; folks: **3,308**  &nbsp;&nbsp; `22,311 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **45,225** &nbsp;&nbsp; folks: **3,309**  &nbsp;&nbsp; `22,311 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **55,436** &nbsp;&nbsp; folks: **2,798**  &nbsp;&nbsp; `13,849 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **55,443** &nbsp;&nbsp; folks: **2,800**  &nbsp;&nbsp; `13,849 stars this month`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **7,606** &nbsp;&nbsp; folks: **506**  &nbsp;&nbsp; `4,624 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,611** &nbsp;&nbsp; folks: **506**  &nbsp;&nbsp; `4,624 stars this month`
 
 1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
     - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **4,303** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `2,647 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **4,306** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `2,647 stars this month`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **3,551** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `2,063 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,560** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `2,063 stars this month`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - c/ua is the Docker Container for Computer-Use AI Agents.
-    - language: **Python** &nbsp;&nbsp; stars: **5,283** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `2,207 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,286** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `2,207 stars this month`
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,845** &nbsp;&nbsp; folks: **4,527**  &nbsp;&nbsp; `8,895 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,851** &nbsp;&nbsp; folks: **4,528**  &nbsp;&nbsp; `8,895 stars this month`
 
 1. [Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
     - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    - language: **C++** &nbsp;&nbsp; stars: **4,972** &nbsp;&nbsp; folks: **339**  &nbsp;&nbsp; `3,556 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **4,978** &nbsp;&nbsp; folks: **339**  &nbsp;&nbsp; `3,556 stars this month`
 
 
 ## 历史归档
