@@ -10,199 +10,219 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-05-02 18:16:28 +0800`
+`更新时间：2025-05-02 19:12:56 +0800`
 
 ## 今日热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **56,812** &nbsp;&nbsp; folks: **8,098**  &nbsp;&nbsp; `1,311 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **56,870** &nbsp;&nbsp; folks: **8,106**  &nbsp;&nbsp; `1,311 stars today`
 
-1. [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
-    - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-    - language: **Python** &nbsp;&nbsp; stars: **7,640** &nbsp;&nbsp; folks: **656**  &nbsp;&nbsp; `216 stars today`
+1. [aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci)
+    - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    - language: **Python** &nbsp;&nbsp; stars: **873** &nbsp;&nbsp; folks: **66**  &nbsp;&nbsp; `140 stars today`
 
-1. [teableio / teable](https://github.com/teableio/teable)
-    - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,086** &nbsp;&nbsp; folks: **886**  &nbsp;&nbsp; `67 stars today`
+1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
+    - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,805** &nbsp;&nbsp; folks: **148**  &nbsp;&nbsp; `42 stars today`
+
+1. [cloudflare / mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
+    - 无
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,475** &nbsp;&nbsp; folks: **113**  &nbsp;&nbsp; `41 stars today`
+
+1. [wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+    - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,212** &nbsp;&nbsp; folks: **239**  &nbsp;&nbsp; `69 stars today`
 
 1. [juspay / hyperswitch](https://github.com/juspay/hyperswitch)
     - An open source payments switch written in Rust to make payments fast, reliable and affordable
-    - language: **Rust** &nbsp;&nbsp; stars: **17,362** &nbsp;&nbsp; folks: **2,079**  &nbsp;&nbsp; `520 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,370** &nbsp;&nbsp; folks: **2,078**  &nbsp;&nbsp; `520 stars today`
 
-1. [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-    - Python - 100天从新手到大师
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **165,467** &nbsp;&nbsp; folks: **53,677**  &nbsp;&nbsp; `70 stars today`
+1. [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+    - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+    - language: **C++** &nbsp;&nbsp; stars: **15,784** &nbsp;&nbsp; folks: **1,267**  &nbsp;&nbsp; `32 stars today`
 
-1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
-    - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **3,865** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `244 stars today`
+1. [unionlabs / union](https://github.com/unionlabs/union)
+    - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+    - language: **Rust** &nbsp;&nbsp; stars: **56,068** &nbsp;&nbsp; folks: **2,816**  &nbsp;&nbsp; `376 stars today`
 
-1. [QwenLM / Qwen3](https://github.com/QwenLM/Qwen3)
-    - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Shell** &nbsp;&nbsp; stars: **19,925** &nbsp;&nbsp; folks: **1,301**  &nbsp;&nbsp; `312 stars today`
+1. [cloudflare / agents](https://github.com/cloudflare/agents)
+    - Build and deploy AI Agents on Cloudflare
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,649** &nbsp;&nbsp; folks: **113**  &nbsp;&nbsp; `76 stars today`
 
-1. [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
-    - A fancy self-hosted monitoring tool
-    - language: **JavaScript** &nbsp;&nbsp; stars: **68,544** &nbsp;&nbsp; folks: **6,016**  &nbsp;&nbsp; `232 stars today`
+1. [DiceDB / dice](https://github.com/DiceDB/dice)
+    - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    - language: **Go** &nbsp;&nbsp; stars: **10,249** &nbsp;&nbsp; folks: **1,355**  &nbsp;&nbsp; `18 stars today`
 
-1. [zed-industries / zed](https://github.com/zed-industries/zed)
-    - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    - language: **Rust** &nbsp;&nbsp; stars: **57,885** &nbsp;&nbsp; folks: **3,996**  &nbsp;&nbsp; `124 stars today`
+1. [Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+    - 无
+    - language: **Batchfile** &nbsp;&nbsp; stars: **12,559** &nbsp;&nbsp; folks: **838**  &nbsp;&nbsp; `47 stars today`
 
-1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-    - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,930** &nbsp;&nbsp; folks: **1,491**  &nbsp;&nbsp; `243 stars today`
+1. [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+    - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+    - language: **Python** &nbsp;&nbsp; stars: **7,645** &nbsp;&nbsp; folks: **656**  &nbsp;&nbsp; `216 stars today`
 
-1. [daytonaio / daytona](https://github.com/daytonaio/daytona)
-    - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,795** &nbsp;&nbsp; folks: **1,887**  &nbsp;&nbsp; `640 stars today`
+1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    - language: **Python** &nbsp;&nbsp; stars: **297,713** &nbsp;&nbsp; folks: **49,485**  &nbsp;&nbsp; `116 stars today`
 
 1. [open-webui / open-webui](https://github.com/open-webui/open-webui)
     - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    - language: **JavaScript** &nbsp;&nbsp; stars: **92,603** &nbsp;&nbsp; folks: **11,735**  &nbsp;&nbsp; `164 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **92,624** &nbsp;&nbsp; folks: **11,737**  &nbsp;&nbsp; `164 stars today`
 
-1. [transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app)
-    - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,848** &nbsp;&nbsp; folks: **211**  &nbsp;&nbsp; `87 stars today`
+1. [langwatch / langwatch](https://github.com/langwatch/langwatch)
+    - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,574** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `128 stars today`
 
-1. [hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note)
-    - 从0开始学习英语语法
-    - language: **无** &nbsp;&nbsp; stars: **3,554** &nbsp;&nbsp; folks: **330**  &nbsp;&nbsp; `39 stars today`
+1. [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
+    - Bitcoin Core integration/staging tree
+    - language: **C++** &nbsp;&nbsp; stars: **83,251** &nbsp;&nbsp; folks: **37,154**  &nbsp;&nbsp; `91 stars today`
 
-1. [alibaba / MNN](https://github.com/alibaba/MNN)
-    - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
-    - language: **C++** &nbsp;&nbsp; stars: **10,525** &nbsp;&nbsp; folks: **1,830**  &nbsp;&nbsp; `45 stars today`
+1. [aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
+    - The official AWS SDK for Java - Version 2
+    - language: **Java** &nbsp;&nbsp; stars: **2,304** &nbsp;&nbsp; folks: **901**  &nbsp;&nbsp; `3 stars today`
 
 1. [TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
     - Standard Open Arm 100
-    - language: **CMake** &nbsp;&nbsp; stars: **1,781** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `51 stars today`
-
-1. [quarkusio / quarkus](https://github.com/quarkusio/quarkus)
-    - Quarkus: Supersonic Subatomic Java.
-    - language: **Java** &nbsp;&nbsp; stars: **14,457** &nbsp;&nbsp; folks: **2,830**  &nbsp;&nbsp; `14 stars today`
-
-1. [littlefs-project / littlefs](https://github.com/littlefs-project/littlefs)
-    - A little fail-safe filesystem designed for microcontrollers
-    - language: **C** &nbsp;&nbsp; stars: **5,684** &nbsp;&nbsp; folks: **853**  &nbsp;&nbsp; `16 stars today`
-
-1. [dotnet / eShop](https://github.com/dotnet/eShop)
-    - A reference .NET application implementing an eCommerce site
-    - language: **C#** &nbsp;&nbsp; stars: **7,919** &nbsp;&nbsp; folks: **2,591**  &nbsp;&nbsp; `42 stars today`
+    - language: **CMake** &nbsp;&nbsp; stars: **1,785** &nbsp;&nbsp; folks: **116**  &nbsp;&nbsp; `51 stars today`
 
 
 ## 近一周热门仓库
 
+1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+    - real time face swap and one-click video deepfake with only a single image
+    - language: **Python** &nbsp;&nbsp; stars: **56,870** &nbsp;&nbsp; folks: **8,106**  &nbsp;&nbsp; `5,176 stars this week`
+
 1. [kortix-ai / suna](https://github.com/kortix-ai/suna)
     - Suna - Open Source Generalist AI Agent
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,333** &nbsp;&nbsp; folks: **1,138**  &nbsp;&nbsp; `6,461 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,341** &nbsp;&nbsp; folks: **1,139**  &nbsp;&nbsp; `6,461 stars this week`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **5,689** &nbsp;&nbsp; folks: **625**  &nbsp;&nbsp; `2,985 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **5,694** &nbsp;&nbsp; folks: **626**  &nbsp;&nbsp; `2,985 stars this week`
 
 1. [rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat)
     - AI-powered multi-agent builder
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,412** &nbsp;&nbsp; folks: **181**  &nbsp;&nbsp; `1,751 stars this week`
-
-1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-    - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **56,812** &nbsp;&nbsp; folks: **8,098**  &nbsp;&nbsp; `5,176 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,416** &nbsp;&nbsp; folks: **181**  &nbsp;&nbsp; `1,751 stars this week`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **3,865** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `1,279 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,873** &nbsp;&nbsp; folks: **378**  &nbsp;&nbsp; `1,279 stars this week`
+
+1. [fastrepl / hyprnote](https://github.com/fastrepl/hyprnote)
+    - AI Notepad for back-to-back meetings. Local-first & Extensible.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,679** &nbsp;&nbsp; folks: **78**  &nbsp;&nbsp; `979 stars this week`
+
+1. [lapce / lapce](https://github.com/lapce/lapce)
+    - Lightning-fast and Powerful Code Editor written in Rust
+    - language: **Rust** &nbsp;&nbsp; stars: **35,982** &nbsp;&nbsp; folks: **1,117**  &nbsp;&nbsp; `813 stars this week`
+
+1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+    - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,956** &nbsp;&nbsp; folks: **42,074**  &nbsp;&nbsp; `2,608 stars this week`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
     - language: **JavaScript** &nbsp;&nbsp; stars: **29,460** &nbsp;&nbsp; folks: **2,056**  &nbsp;&nbsp; `1,356 stars this week`
 
-1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-    - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **81,954** &nbsp;&nbsp; folks: **42,068**  &nbsp;&nbsp; `2,608 stars this week`
+1. [bregman-arie / devops-exercises](https://github.com/bregman-arie/devops-exercises)
+    - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    - language: **Python** &nbsp;&nbsp; stars: **75,525** &nbsp;&nbsp; folks: **16,814**  &nbsp;&nbsp; `1,301 stars this week`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **7,767** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `3,581 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,768** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `3,581 stars this week`
+
+1. [aquasecurity / trivy](https://github.com/aquasecurity/trivy)
+    - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    - language: **Go** &nbsp;&nbsp; stars: **26,070** &nbsp;&nbsp; folks: **2,525**  &nbsp;&nbsp; `483 stars this week`
+
+1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
+    - Truly independent web browser
+    - language: **C++** &nbsp;&nbsp; stars: **38,106** &nbsp;&nbsp; folks: **1,582**  &nbsp;&nbsp; `611 stars this week`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **316,986** &nbsp;&nbsp; folks: **41,128**  &nbsp;&nbsp; `1,316 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **316,992** &nbsp;&nbsp; folks: **41,129**  &nbsp;&nbsp; `1,316 stars this week`
 
-1. [bytedance / UI-TARS](https://github.com/bytedance/UI-TARS)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **5,581** &nbsp;&nbsp; folks: **371**  &nbsp;&nbsp; `698 stars this week`
+1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
+    - PowerShell for every system!
+    - language: **C#** &nbsp;&nbsp; stars: **47,217** &nbsp;&nbsp; folks: **7,618**  &nbsp;&nbsp; `151 stars this week`
 
-1. [lapce / lapce](https://github.com/lapce/lapce)
-    - Lightning-fast and Powerful Code Editor written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **35,981** &nbsp;&nbsp; folks: **1,117**  &nbsp;&nbsp; `813 stars this week`
-
-1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-    - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **57,381** &nbsp;&nbsp; folks: **4,819**  &nbsp;&nbsp; `932 stars this week`
+1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
+    - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+    - language: **Python** &nbsp;&nbsp; stars: **28,375** &nbsp;&nbsp; folks: **2,709**  &nbsp;&nbsp; `485 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
     - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **23,007** &nbsp;&nbsp; folks: **2,864**  &nbsp;&nbsp; `18,110 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,015** &nbsp;&nbsp; folks: **2,865**  &nbsp;&nbsp; `18,110 stars this month`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **5,689** &nbsp;&nbsp; folks: **625**  &nbsp;&nbsp; `3,474 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **5,694** &nbsp;&nbsp; folks: **626**  &nbsp;&nbsp; `3,474 stars this month`
 
 1. [CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5)
     - CVE cache of the official CVE List in CVE JSON 5 format
     - language: **无** &nbsp;&nbsp; stars: **1,956** &nbsp;&nbsp; folks: **446**  &nbsp;&nbsp; `982 stars this month`
 
-1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
-    - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **88,096** &nbsp;&nbsp; folks: **23,998**  &nbsp;&nbsp; `14,603 stars this month`
+1. [getzep / graphiti](https://github.com/getzep/graphiti)
+    - Build Real-Time Knowledge Graphs for AI Agents
+    - language: **Python** &nbsp;&nbsp; stars: **7,768** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `4,714 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **55,612** &nbsp;&nbsp; folks: **2,815**  &nbsp;&nbsp; `13,947 stars this month`
-
-1. [getzep / graphiti](https://github.com/getzep/graphiti)
-    - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **7,767** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `4,714 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **55,613** &nbsp;&nbsp; folks: **2,815**  &nbsp;&nbsp; `13,947 stars this month`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **8,257** &nbsp;&nbsp; folks: **430**  &nbsp;&nbsp; `5,122 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,261** &nbsp;&nbsp; folks: **430**  &nbsp;&nbsp; `5,122 stars this month`
 
-1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-    - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **45,468** &nbsp;&nbsp; folks: **3,335**  &nbsp;&nbsp; `19,257 stars this month`
-
-1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
-    - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **3,865** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `2,300 stars this month`
-
-1. [trycua / cua](https://github.com/trycua/cua)
-    - c/ua is the Docker Container for Computer-Use AI Agents.
-    - language: **Python** &nbsp;&nbsp; stars: **5,350** &nbsp;&nbsp; folks: **209**  &nbsp;&nbsp; `2,092 stars this month`
-
-1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-    - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,974** &nbsp;&nbsp; folks: **4,583**  &nbsp;&nbsp; `8,816 stars this month`
+1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
+    - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **88,105** &nbsp;&nbsp; folks: **24,004**  &nbsp;&nbsp; `14,603 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **56,812** &nbsp;&nbsp; folks: **8,098**  &nbsp;&nbsp; `6,789 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **56,870** &nbsp;&nbsp; folks: **8,106**  &nbsp;&nbsp; `6,789 stars this month`
 
-1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
-    - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    - language: **Go** &nbsp;&nbsp; stars: **4,347** &nbsp;&nbsp; folks: **350**  &nbsp;&nbsp; `2,585 stars this month`
+1. [elie222 / inbox-zero](https://github.com/elie222/inbox-zero)
+    - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,206** &nbsp;&nbsp; folks: **736**  &nbsp;&nbsp; `3,306 stars this month`
+
+1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
+    - Agent S: an open agentic framework that uses computers like a human
+    - language: **Python** &nbsp;&nbsp; stars: **3,873** &nbsp;&nbsp; folks: **378**  &nbsp;&nbsp; `2,300 stars this month`
+
+1. [trycua / cua](https://github.com/trycua/cua)
+    - c/ua is the Docker Container for Computer-Use AI Agents.
+    - language: **Python** &nbsp;&nbsp; stars: **5,352** &nbsp;&nbsp; folks: **209**  &nbsp;&nbsp; `2,092 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
     - language: **JavaScript** &nbsp;&nbsp; stars: **29,460** &nbsp;&nbsp; folks: **2,056**  &nbsp;&nbsp; `3,152 stars this month`
 
+1. [mark3labs / mcp-go](https://github.com/mark3labs/mcp-go)
+    - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    - language: **Go** &nbsp;&nbsp; stars: **4,349** &nbsp;&nbsp; folks: **350**  &nbsp;&nbsp; `2,585 stars this month`
+
 1. [activepieces / activepieces](https://github.com/activepieces/activepieces)
     - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,309** &nbsp;&nbsp; folks: **1,866**  &nbsp;&nbsp; `1,892 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,310** &nbsp;&nbsp; folks: **1,866**  &nbsp;&nbsp; `1,892 stars this month`
+
+1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+    - 10 Lessons to Get Started Building AI Agents
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,979** &nbsp;&nbsp; folks: **4,586**  &nbsp;&nbsp; `8,816 stars this month`
+
+1. [QwenLM / Qwen3](https://github.com/QwenLM/Qwen3)
+    - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    - language: **Shell** &nbsp;&nbsp; stars: **19,931** &nbsp;&nbsp; folks: **1,301**  &nbsp;&nbsp; `3,453 stars this month`
+
+1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+    - A collection of MCP servers.
+    - language: **无** &nbsp;&nbsp; stars: **45,476** &nbsp;&nbsp; folks: **3,335**  &nbsp;&nbsp; `19,257 stars this month`
 
 
 ## 历史归档
