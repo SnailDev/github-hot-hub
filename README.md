@@ -10,132 +10,132 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-05-16 13:16:32 +0800`
+`更新时间：2025-05-16 14:23:31 +0800`
 
 ## 今日热门仓库
 
 1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
     - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **17,048** &nbsp;&nbsp; folks: **3,531**  &nbsp;&nbsp; `6,685 stars today`
+    - language: **Roff** &nbsp;&nbsp; stars: **17,375** &nbsp;&nbsp; folks: **3,607**  &nbsp;&nbsp; `6,685 stars today`
 
 1. [xming521 / WeClone](https://github.com/xming521/WeClone)
     - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
-    - language: **Python** &nbsp;&nbsp; stars: **8,833** &nbsp;&nbsp; folks: **690**  &nbsp;&nbsp; `1,006 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **8,929** &nbsp;&nbsp; folks: **696**  &nbsp;&nbsp; `1,006 stars today`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **30,600** &nbsp;&nbsp; folks: **2,947**  &nbsp;&nbsp; `679 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **30,635** &nbsp;&nbsp; folks: **2,948**  &nbsp;&nbsp; `679 stars today`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **C++** &nbsp;&nbsp; stars: **19,499** &nbsp;&nbsp; folks: **1,450**  &nbsp;&nbsp; `225 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **19,506** &nbsp;&nbsp; folks: **1,450**  &nbsp;&nbsp; `225 stars today`
 
 1. [mikumifa / biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
     - b站 会员购 抢票 漫展 脚本 bilibili 图形化 纯接口 验证码预演练习
-    - language: **Python** &nbsp;&nbsp; stars: **1,540** &nbsp;&nbsp; folks: **226**  &nbsp;&nbsp; `89 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,547** &nbsp;&nbsp; folks: **226**  &nbsp;&nbsp; `89 stars today`
 
 1. [overleaf / overleaf](https://github.com/overleaf/overleaf)
     - A web-based collaborative LaTeX editor
-    - language: **JavaScript** &nbsp;&nbsp; stars: **15,556** &nbsp;&nbsp; folks: **1,589**  &nbsp;&nbsp; `30 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **15,567** &nbsp;&nbsp; folks: **1,589**  &nbsp;&nbsp; `30 stars today`
 
 1. [airweave-ai / airweave](https://github.com/airweave-ai/airweave)
     - Airweave lets agents search any app
-    - language: **Python** &nbsp;&nbsp; stars: **2,001** &nbsp;&nbsp; folks: **199**  &nbsp;&nbsp; `399 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,010** &nbsp;&nbsp; folks: **200**  &nbsp;&nbsp; `399 stars today`
 
 1. [openai / simple-evals](https://github.com/openai/simple-evals)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **3,389** &nbsp;&nbsp; folks: **325**  &nbsp;&nbsp; `205 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,396** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `205 stars today`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,470** &nbsp;&nbsp; folks: **5,507**  &nbsp;&nbsp; `340 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,478** &nbsp;&nbsp; folks: **5,508**  &nbsp;&nbsp; `340 stars today`
 
 1. [facebookresearch / fairchem](https://github.com/facebookresearch/fairchem)
     - FAIR Chemistry's library of machine learning methods for chemistry
-    - language: **Python** &nbsp;&nbsp; stars: **1,246** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `73 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,250** &nbsp;&nbsp; folks: **308**  &nbsp;&nbsp; `73 stars today`
 
 1. [happycola233 / tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser)
     - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-    - language: **Python** &nbsp;&nbsp; stars: **1,199** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `261 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,235** &nbsp;&nbsp; folks: **144**  &nbsp;&nbsp; `261 stars today`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
-    - language: **Java** &nbsp;&nbsp; stars: **3,209** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `143 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **3,219** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `143 stars today`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - c/ua is the Docker Container for Computer-Use AI Agents.
-    - language: **Python** &nbsp;&nbsp; stars: **6,918** &nbsp;&nbsp; folks: **272**  &nbsp;&nbsp; `304 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,942** &nbsp;&nbsp; folks: **274**  &nbsp;&nbsp; `304 stars today`
 
 
 ## 近一周热门仓库
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **33,107** &nbsp;&nbsp; folks: **4,653**  &nbsp;&nbsp; `5,515 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **33,124** &nbsp;&nbsp; folks: **4,660**  &nbsp;&nbsp; `5,515 stars this week`
 
 1. [voideditor / void](https://github.com/voideditor/void)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,754** &nbsp;&nbsp; folks: **1,198**  &nbsp;&nbsp; `6,494 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,787** &nbsp;&nbsp; folks: **1,201**  &nbsp;&nbsp; `6,494 stars this week`
 
 1. [xming521 / WeClone](https://github.com/xming521/WeClone)
     - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
-    - language: **Python** &nbsp;&nbsp; stars: **8,833** &nbsp;&nbsp; folks: **690**  &nbsp;&nbsp; `4,998 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,929** &nbsp;&nbsp; folks: **696**  &nbsp;&nbsp; `4,998 stars this week`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **30,600** &nbsp;&nbsp; folks: **2,947**  &nbsp;&nbsp; `1,436 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **30,635** &nbsp;&nbsp; folks: **2,948**  &nbsp;&nbsp; `1,436 stars this week`
 
 1. [longbridge / gpui-component](https://github.com/longbridge/gpui-component)
     - UI components for building fantastic desktop application by using GPUI.
-    - language: **Rust** &nbsp;&nbsp; stars: **2,749** &nbsp;&nbsp; folks: **121**  &nbsp;&nbsp; `1,433 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **2,753** &nbsp;&nbsp; folks: **121**  &nbsp;&nbsp; `1,433 stars this week`
 
 1. [Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video)
     - Official repository for LTX-Video
-    - language: **Python** &nbsp;&nbsp; stars: **5,594** &nbsp;&nbsp; folks: **431**  &nbsp;&nbsp; `1,584 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,595** &nbsp;&nbsp; folks: **431**  &nbsp;&nbsp; `1,584 stars this week`
 
 1. [zed-industries / zed](https://github.com/zed-industries/zed)
     - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    - language: **Rust** &nbsp;&nbsp; stars: **59,787** &nbsp;&nbsp; folks: **4,218**  &nbsp;&nbsp; `1,426 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **59,792** &nbsp;&nbsp; folks: **4,218**  &nbsp;&nbsp; `1,426 stars this week`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
-    - language: **Java** &nbsp;&nbsp; stars: **3,209** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `506 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **3,219** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `506 stars this week`
 
 1. [GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
     - AI powered Kubernetes Assistant
-    - language: **Go** &nbsp;&nbsp; stars: **5,157** &nbsp;&nbsp; folks: **396**  &nbsp;&nbsp; `1,233 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **5,158** &nbsp;&nbsp; folks: **396**  &nbsp;&nbsp; `1,233 stars this week`
 
 1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
     - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,129** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `1,055 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,135** &nbsp;&nbsp; folks: **287**  &nbsp;&nbsp; `1,055 stars this week`
 
 1. [ruanyf / weekly](https://github.com/ruanyf/weekly)
     - 科技爱好者周刊，每周五发布
-    - language: **无** &nbsp;&nbsp; stars: **62,615** &nbsp;&nbsp; folks: **3,349**  &nbsp;&nbsp; `2,646 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **62,624** &nbsp;&nbsp; folks: **3,350**  &nbsp;&nbsp; `2,646 stars this week`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **20,817** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `351 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **20,820** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `351 stars this week`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,470** &nbsp;&nbsp; folks: **5,507**  &nbsp;&nbsp; `1,256 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,478** &nbsp;&nbsp; folks: **5,508**  &nbsp;&nbsp; `1,256 stars this week`
 
 1. [JetBrains / compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
     - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-    - language: **Kotlin** &nbsp;&nbsp; stars: **17,525** &nbsp;&nbsp; folks: **1,252**  &nbsp;&nbsp; `107 stars this week`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **17,526** &nbsp;&nbsp; folks: **1,252**  &nbsp;&nbsp; `107 stars this week`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **42,315** &nbsp;&nbsp; folks: **1,764**  &nbsp;&nbsp; `1,109 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **42,316** &nbsp;&nbsp; folks: **1,764**  &nbsp;&nbsp; `1,109 stars this week`
 
 1. [NVIDIA / NeMo](https://github.com/NVIDIA/NeMo)
     - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-    - language: **Python** &nbsp;&nbsp; stars: **14,420** &nbsp;&nbsp; folks: **2,865**  &nbsp;&nbsp; `496 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,422** &nbsp;&nbsp; folks: **2,865**  &nbsp;&nbsp; `496 stars this week`
 
 1. [modular / modular](https://github.com/modular/modular)
     - The Modular Platform (includes MAX & Mojo)
-    - language: **Mojo** &nbsp;&nbsp; stars: **24,028** &nbsp;&nbsp; folks: **2,608**  &nbsp;&nbsp; `103 stars this week`
+    - language: **Mojo** &nbsp;&nbsp; stars: **24,027** &nbsp;&nbsp; folks: **2,608**  &nbsp;&nbsp; `103 stars this week`
 
 1. [awslabs / agent-squad](https://github.com/awslabs/agent-squad)
     - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -143,74 +143,74 @@
 
 1. [comet-ml / opik](https://github.com/comet-ml/opik)
     - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-    - language: **Python** &nbsp;&nbsp; stars: **8,120** &nbsp;&nbsp; folks: **542**  &nbsp;&nbsp; `764 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,122** &nbsp;&nbsp; folks: **543**  &nbsp;&nbsp; `764 stars this week`
 
 1. [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
     - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    - language: **Python** &nbsp;&nbsp; stars: **8,623** &nbsp;&nbsp; folks: **716**  &nbsp;&nbsp; `461 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,630** &nbsp;&nbsp; folks: **717**  &nbsp;&nbsp; `461 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **67,325** &nbsp;&nbsp; folks: **9,434**  &nbsp;&nbsp; `17,387 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **67,339** &nbsp;&nbsp; folks: **9,436**  &nbsp;&nbsp; `17,387 stars this month`
 
 1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
     - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **84,569** &nbsp;&nbsp; folks: **9,939**  &nbsp;&nbsp; `13,745 stars this month`
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **84,578** &nbsp;&nbsp; folks: **9,939**  &nbsp;&nbsp; `13,745 stars this month`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **7,452** &nbsp;&nbsp; folks: **897**  &nbsp;&nbsp; `5,103 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **7,466** &nbsp;&nbsp; folks: **901**  &nbsp;&nbsp; `5,103 stars this month`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **33,107** &nbsp;&nbsp; folks: **4,653**  &nbsp;&nbsp; `6,983 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **33,124** &nbsp;&nbsp; folks: **4,660**  &nbsp;&nbsp; `6,983 stars this month`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **9,000** &nbsp;&nbsp; folks: **618**  &nbsp;&nbsp; `5,180 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,009** &nbsp;&nbsp; folks: **619**  &nbsp;&nbsp; `5,180 stars this month`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **320,894** &nbsp;&nbsp; folks: **41,469**  &nbsp;&nbsp; `7,548 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **320,898** &nbsp;&nbsp; folks: **41,469**  &nbsp;&nbsp; `7,548 stars this month`
 
 1. [QwenLM / Qwen3](https://github.com/QwenLM/Qwen3)
     - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Shell** &nbsp;&nbsp; stars: **21,169** &nbsp;&nbsp; folks: **1,394**  &nbsp;&nbsp; `4,597 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **21,172** &nbsp;&nbsp; folks: **1,394**  &nbsp;&nbsp; `4,597 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **57,202** &nbsp;&nbsp; folks: **2,920**  &nbsp;&nbsp; `8,393 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **57,209** &nbsp;&nbsp; folks: **2,920**  &nbsp;&nbsp; `8,393 stars this month`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **4,841** &nbsp;&nbsp; folks: **468**  &nbsp;&nbsp; `2,546 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,846** &nbsp;&nbsp; folks: **468**  &nbsp;&nbsp; `2,546 stars this month`
 
 1. [jlowin / fastmcp](https://github.com/jlowin/fastmcp)
     - 🚀 The fast, Pythonic way to build MCP servers and clients
-    - language: **Python** &nbsp;&nbsp; stars: **9,926** &nbsp;&nbsp; folks: **544**  &nbsp;&nbsp; `5,013 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,931** &nbsp;&nbsp; folks: **544**  &nbsp;&nbsp; `5,013 stars this month`
 
 1. [bytedance / UI-TARS](https://github.com/bytedance/UI-TARS)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **5,965** &nbsp;&nbsp; folks: **389**  &nbsp;&nbsp; `2,036 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,966** &nbsp;&nbsp; folks: **389**  &nbsp;&nbsp; `2,036 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **94,106** &nbsp;&nbsp; folks: **25,789**  &nbsp;&nbsp; `12,876 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **94,135** &nbsp;&nbsp; folks: **25,797**  &nbsp;&nbsp; `12,876 stars this month`
 
 1. [Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
     - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    - language: **Python** &nbsp;&nbsp; stars: **23,560** &nbsp;&nbsp; folks: **2,017**  &nbsp;&nbsp; `3,338 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,564** &nbsp;&nbsp; folks: **2,017**  &nbsp;&nbsp; `3,338 stars this month`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **30,103** &nbsp;&nbsp; folks: **2,111**  &nbsp;&nbsp; `3,228 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **30,105** &nbsp;&nbsp; folks: **2,111**  &nbsp;&nbsp; `3,228 stars this month`
 
 1. [lapce / lapce](https://github.com/lapce/lapce)
     - Lightning-fast and Powerful Code Editor written in Rust
-    - language: **Rust** &nbsp;&nbsp; stars: **36,234** &nbsp;&nbsp; folks: **1,130**  &nbsp;&nbsp; `1,249 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **36,235** &nbsp;&nbsp; folks: **1,130**  &nbsp;&nbsp; `1,249 stars this month`
 
 
 ## 历史归档
