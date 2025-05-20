@@ -10,88 +10,88 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-05-21 04:18:05 +0800`
+`更新时间：2025-05-21 05:14:55 +0800`
 
 ## 今日热门仓库
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **31,065** &nbsp;&nbsp; folks: **5,328**  &nbsp;&nbsp; `1,754 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **31,091** &nbsp;&nbsp; folks: **5,330**  &nbsp;&nbsp; `1,754 stars today`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **345,067** &nbsp;&nbsp; folks: **36,249**  &nbsp;&nbsp; `811 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **345,085** &nbsp;&nbsp; folks: **36,249**  &nbsp;&nbsp; `811 stars today`
 
 1. [appwrite / appwrite](https://github.com/appwrite/appwrite)
     - The open-source Vercel alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **49,112** &nbsp;&nbsp; folks: **4,343**  &nbsp;&nbsp; `235 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **49,130** &nbsp;&nbsp; folks: **4,344**  &nbsp;&nbsp; `235 stars today`
 
 1. [usememos / memos](https://github.com/usememos/memos)
     - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-    - language: **Go** &nbsp;&nbsp; stars: **40,051** &nbsp;&nbsp; folks: **2,858**  &nbsp;&nbsp; `220 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **40,065** &nbsp;&nbsp; folks: **2,859**  &nbsp;&nbsp; `220 stars today`
 
 1. [ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering)
     - Repo to accompany my mastering LLM engineering course
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,060** &nbsp;&nbsp; folks: **1,777**  &nbsp;&nbsp; `198 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,066** &nbsp;&nbsp; folks: **1,777**  &nbsp;&nbsp; `198 stars today`
 
 1. [HeyPuter / puter](https://github.com/HeyPuter/puter)
     - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **31,222** &nbsp;&nbsp; folks: **2,348**  &nbsp;&nbsp; `240 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **31,233** &nbsp;&nbsp; folks: **2,348**  &nbsp;&nbsp; `240 stars today`
 
 1. [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
     - A new bootable USB solution.
-    - language: **C** &nbsp;&nbsp; stars: **67,302** &nbsp;&nbsp; folks: **4,294**  &nbsp;&nbsp; `237 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **67,312** &nbsp;&nbsp; folks: **4,294**  &nbsp;&nbsp; `237 stars today`
 
 1. [kortix-ai / suna](https://github.com/kortix-ai/suna)
     - Suna - Open Source Generalist AI Agent
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,008** &nbsp;&nbsp; folks: **1,678**  &nbsp;&nbsp; `362 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,023** &nbsp;&nbsp; folks: **1,680**  &nbsp;&nbsp; `362 stars today`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **98,086** &nbsp;&nbsp; folks: **14,721**  &nbsp;&nbsp; `208 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **98,095** &nbsp;&nbsp; folks: **14,721**  &nbsp;&nbsp; `208 stars today`
 
 1. [colinhacks / zod](https://github.com/colinhacks/zod)
     - TypeScript-first schema validation with static type inference
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,949** &nbsp;&nbsp; folks: **1,435**  &nbsp;&nbsp; `95 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,957** &nbsp;&nbsp; folks: **1,435**  &nbsp;&nbsp; `95 stars today`
 
 1. [kmeps4 / PSFree](https://github.com/kmeps4/PSFree)
     - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
-    - language: **JavaScript** &nbsp;&nbsp; stars: **233** &nbsp;&nbsp; folks: **34**  &nbsp;&nbsp; `35 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **235** &nbsp;&nbsp; folks: **34**  &nbsp;&nbsp; `35 stars today`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **125,680** &nbsp;&nbsp; folks: **16,739**  &nbsp;&nbsp; `381 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **125,690** &nbsp;&nbsp; folks: **16,740**  &nbsp;&nbsp; `381 stars today`
 
 1. [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
     - This is a repo with links to everything you'd ever want to learn about data engineering
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,884** &nbsp;&nbsp; folks: **5,680**  &nbsp;&nbsp; `86 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,892** &nbsp;&nbsp; folks: **5,681**  &nbsp;&nbsp; `86 stars today`
 
 1. [tinygrad / tinygrad](https://github.com/tinygrad/tinygrad)
     - You like pytorch? You like micrograd? You love tinygrad! ❤️
-    - language: **Python** &nbsp;&nbsp; stars: **29,078** &nbsp;&nbsp; folks: **3,386**  &nbsp;&nbsp; `119 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **29,078** &nbsp;&nbsp; folks: **3,387**  &nbsp;&nbsp; `119 stars today`
 
 
 ## 近一周热门仓库
 
 1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
     - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **27,151** &nbsp;&nbsp; folks: **5,761**  &nbsp;&nbsp; `23,259 stars this week`
+    - language: **Roff** &nbsp;&nbsp; stars: **27,157** &nbsp;&nbsp; folks: **5,763**  &nbsp;&nbsp; `23,259 stars this week`
 
 1. [xming521 / WeClone](https://github.com/xming521/WeClone)
     - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案
-    - language: **Python** &nbsp;&nbsp; stars: **10,867** &nbsp;&nbsp; folks: **839**  &nbsp;&nbsp; `6,623 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,871** &nbsp;&nbsp; folks: **841**  &nbsp;&nbsp; `6,623 stars this week`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **31,833** &nbsp;&nbsp; folks: **3,089**  &nbsp;&nbsp; `2,550 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **31,839** &nbsp;&nbsp; folks: **3,090**  &nbsp;&nbsp; `2,550 stars this week`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **345,067** &nbsp;&nbsp; folks: **36,249**  &nbsp;&nbsp; `5,200 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **345,085** &nbsp;&nbsp; folks: **36,249**  &nbsp;&nbsp; `5,200 stars this week`
 
 1. [voideditor / void](https://github.com/voideditor/void)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,992** &nbsp;&nbsp; folks: **1,296**  &nbsp;&nbsp; `2,958 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,999** &nbsp;&nbsp; folks: **1,298**  &nbsp;&nbsp; `2,958 stars this week`
 
 1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
     - Agentic AI Framework for Java Developers
@@ -99,58 +99,58 @@
 
 1. [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
     - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,701** &nbsp;&nbsp; folks: **2,738**  &nbsp;&nbsp; `723 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,710** &nbsp;&nbsp; folks: **2,738**  &nbsp;&nbsp; `723 stars this week`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **33,913** &nbsp;&nbsp; folks: **4,783**  &nbsp;&nbsp; `2,990 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **33,916** &nbsp;&nbsp; folks: **4,783**  &nbsp;&nbsp; `2,990 stars this week`
 
 1. [th-ch / youtube-music](https://github.com/th-ch/youtube-music)
     - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,113** &nbsp;&nbsp; folks: **1,093**  &nbsp;&nbsp; `1,259 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,115** &nbsp;&nbsp; folks: **1,093**  &nbsp;&nbsp; `1,259 stars this week`
 
 1. [ventoy / Ventoy](https://github.com/ventoy/Ventoy)
     - A new bootable USB solution.
-    - language: **C** &nbsp;&nbsp; stars: **67,302** &nbsp;&nbsp; folks: **4,294**  &nbsp;&nbsp; `516 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **67,312** &nbsp;&nbsp; folks: **4,294**  &nbsp;&nbsp; `516 stars this week`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **125,680** &nbsp;&nbsp; folks: **16,739**  &nbsp;&nbsp; `1,029 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **125,690** &nbsp;&nbsp; folks: **16,740**  &nbsp;&nbsp; `1,029 stars this week`
 
 1. [i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **423** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `141 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **424** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `141 stars this week`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,971** &nbsp;&nbsp; folks: **5,552**  &nbsp;&nbsp; `1,603 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **51,972** &nbsp;&nbsp; folks: **5,553**  &nbsp;&nbsp; `1,603 stars this week`
 
 1. [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
     - Windows system utilities to maximize productivity
-    - language: **C#** &nbsp;&nbsp; stars: **118,897** &nbsp;&nbsp; folks: **7,028**  &nbsp;&nbsp; `433 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **118,901** &nbsp;&nbsp; folks: **7,028**  &nbsp;&nbsp; `433 stars this week`
 
 1. [neondatabase / neon](https://github.com/neondatabase/neon)
     - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-    - language: **Rust** &nbsp;&nbsp; stars: **18,093** &nbsp;&nbsp; folks: **636**  &nbsp;&nbsp; `894 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,095** &nbsp;&nbsp; folks: **636**  &nbsp;&nbsp; `894 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **68,261** &nbsp;&nbsp; folks: **9,608**  &nbsp;&nbsp; `18,026 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **68,263** &nbsp;&nbsp; folks: **9,609**  &nbsp;&nbsp; `18,026 stars this month`
 
 1. [xming521 / WeClone](https://github.com/xming521/WeClone)
     - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案
-    - language: **Python** &nbsp;&nbsp; stars: **10,867** &nbsp;&nbsp; folks: **839**  &nbsp;&nbsp; `8,377 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,871** &nbsp;&nbsp; folks: **841**  &nbsp;&nbsp; `8,377 stars this month`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **7,916** &nbsp;&nbsp; folks: **970**  &nbsp;&nbsp; `5,474 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **7,921** &nbsp;&nbsp; folks: **970**  &nbsp;&nbsp; `5,474 stars this month`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **33,913** &nbsp;&nbsp; folks: **4,783**  &nbsp;&nbsp; `7,617 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **33,916** &nbsp;&nbsp; folks: **4,783**  &nbsp;&nbsp; `7,617 stars this month`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
@@ -162,35 +162,35 @@
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **9,382** &nbsp;&nbsp; folks: **661**  &nbsp;&nbsp; `5,354 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,385** &nbsp;&nbsp; folks: **661**  &nbsp;&nbsp; `5,354 stars this month`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **321,791** &nbsp;&nbsp; folks: **41,543**  &nbsp;&nbsp; `7,993 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **321,796** &nbsp;&nbsp; folks: **41,543**  &nbsp;&nbsp; `7,993 stars this month`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **31,833** &nbsp;&nbsp; folks: **3,089**  &nbsp;&nbsp; `3,937 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,839** &nbsp;&nbsp; folks: **3,090**  &nbsp;&nbsp; `3,937 stars this month`
 
 1. [bytedance / flowgram.ai](https://github.com/bytedance/flowgram.ai)
     - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,503** &nbsp;&nbsp; folks: **250**  &nbsp;&nbsp; `2,229 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,504** &nbsp;&nbsp; folks: **250**  &nbsp;&nbsp; `2,229 stars this month`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **5,024** &nbsp;&nbsp; folks: **483**  &nbsp;&nbsp; `2,644 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,026** &nbsp;&nbsp; folks: **483**  &nbsp;&nbsp; `2,644 stars this month`
 
 1. [Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek)
     - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-    - language: **Python** &nbsp;&nbsp; stars: **2,834** &nbsp;&nbsp; folks: **309**  &nbsp;&nbsp; `1,858 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **2,839** &nbsp;&nbsp; folks: **309**  &nbsp;&nbsp; `1,858 stars this month`
 
 1. [voideditor / void](https://github.com/voideditor/void)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,992** &nbsp;&nbsp; folks: **1,296**  &nbsp;&nbsp; `8,910 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,999** &nbsp;&nbsp; folks: **1,298**  &nbsp;&nbsp; `8,910 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **57,631** &nbsp;&nbsp; folks: **2,952**  &nbsp;&nbsp; `8,178 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **57,634** &nbsp;&nbsp; folks: **2,952**  &nbsp;&nbsp; `8,178 stars this month`
 
 1. [modular / modular](https://github.com/modular/modular)
     - The Modular Platform (includes MAX & Mojo)
@@ -198,7 +198,7 @@
 
 1. [bytedance / UI-TARS](https://github.com/bytedance/UI-TARS)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **6,090** &nbsp;&nbsp; folks: **403**  &nbsp;&nbsp; `1,949 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,091** &nbsp;&nbsp; folks: **403**  &nbsp;&nbsp; `1,949 stars this month`
 
 
 ## 历史归档
