@@ -10,215 +10,215 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-06-02 07:14:39 +0800`
+`更新时间：2025-06-02 09:21:10 +0800`
 
 ## 今日热门仓库
 
 1. [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
     - Anthropic's Interactive Prompt Engineering Tutorial
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,834** &nbsp;&nbsp; folks: **778**  &nbsp;&nbsp; `993 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,932** &nbsp;&nbsp; folks: **783**  &nbsp;&nbsp; `971 stars today`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,343** &nbsp;&nbsp; folks: **1,159**  &nbsp;&nbsp; `462 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,413** &nbsp;&nbsp; folks: **1,163**  &nbsp;&nbsp; `258 stars today`
 
 1. [frdel / agent-zero](https://github.com/frdel/agent-zero)
     - Agent Zero AI framework
-    - language: **Python** &nbsp;&nbsp; stars: **7,285** &nbsp;&nbsp; folks: **1,546**  &nbsp;&nbsp; `255 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,327** &nbsp;&nbsp; folks: **1,548**  &nbsp;&nbsp; `255 stars today`
 
 1. [onlook-dev / onlook](https://github.com/onlook-dev/onlook)
     - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,383** &nbsp;&nbsp; folks: **632**  &nbsp;&nbsp; `455 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,427** &nbsp;&nbsp; folks: **634**  &nbsp;&nbsp; `453 stars today`
 
 1. [imputnet / cobalt](https://github.com/imputnet/cobalt)
     - best way to save what you love
-    - language: **Svelte** &nbsp;&nbsp; stars: **32,888** &nbsp;&nbsp; folks: **2,747**  &nbsp;&nbsp; `328 stars today`
+    - language: **Svelte** &nbsp;&nbsp; stars: **32,921** &nbsp;&nbsp; folks: **2,749**  &nbsp;&nbsp; `80 stars today`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **302,092** &nbsp;&nbsp; folks: **50,060**  &nbsp;&nbsp; `404 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **302,146** &nbsp;&nbsp; folks: **50,071**  &nbsp;&nbsp; `421 stars today`
 
 1. [Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
     - 无
-    - language: **Batchfile** &nbsp;&nbsp; stars: **13,173** &nbsp;&nbsp; folks: **899**  &nbsp;&nbsp; `21 stars today`
+    - language: **Batchfile** &nbsp;&nbsp; stars: **13,179** &nbsp;&nbsp; folks: **899**  &nbsp;&nbsp; `8 stars today`
 
 1. [elebumm / RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
     - Create Reddit Videos with just✨ one command ✨
-    - language: **Python** &nbsp;&nbsp; stars: **7,133** &nbsp;&nbsp; folks: **1,971**  &nbsp;&nbsp; `88 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,144** &nbsp;&nbsp; folks: **1,972**  &nbsp;&nbsp; `70 stars today`
 
 1. [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
     - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    - language: **无** &nbsp;&nbsp; stars: **171,951** &nbsp;&nbsp; folks: **10,751**  &nbsp;&nbsp; `256 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **171,978** &nbsp;&nbsp; folks: **10,755**  &nbsp;&nbsp; `418 stars today`
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 11 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **23,514** &nbsp;&nbsp; folks: **6,233**  &nbsp;&nbsp; `368 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **23,550** &nbsp;&nbsp; folks: **6,244**  &nbsp;&nbsp; `360 stars today`
 
 1. [coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
     - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
-    - language: **Python** &nbsp;&nbsp; stars: **1,566** &nbsp;&nbsp; folks: **661**  &nbsp;&nbsp; `78 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,584** &nbsp;&nbsp; folks: **663**  &nbsp;&nbsp; `57 stars today`
 
 1. [syncthing / syncthing](https://github.com/syncthing/syncthing)
     - Open Source Continuous File Synchronization
-    - language: **Go** &nbsp;&nbsp; stars: **71,206** &nbsp;&nbsp; folks: **4,566**  &nbsp;&nbsp; `372 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **71,223** &nbsp;&nbsp; folks: **4,567**  &nbsp;&nbsp; `369 stars today`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Python** &nbsp;&nbsp; stars: **6,155** &nbsp;&nbsp; folks: **872**  &nbsp;&nbsp; `54 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,176** &nbsp;&nbsp; folks: **873**  &nbsp;&nbsp; `27 stars today`
 
 1. [assimp / assimp](https://github.com/assimp/assimp)
     - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
-    - language: **C++** &nbsp;&nbsp; stars: **11,762** &nbsp;&nbsp; folks: **3,029**  &nbsp;&nbsp; `12 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **11,772** &nbsp;&nbsp; folks: **3,030**  &nbsp;&nbsp; `21 stars today`
 
 1. [mui / mui-x](https://github.com/mui/mui-x)
     - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,120** &nbsp;&nbsp; folks: **1,468**  &nbsp;&nbsp; `163 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,135** &nbsp;&nbsp; folks: **1,467**  &nbsp;&nbsp; `169 stars today`
 
 1. [googleapis / go-genai](https://github.com/googleapis/go-genai)
     - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
-    - language: **Go** &nbsp;&nbsp; stars: **399** &nbsp;&nbsp; folks: **50**  &nbsp;&nbsp; `4 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **413** &nbsp;&nbsp; folks: **52**  &nbsp;&nbsp; `10 stars today`
 
 1. [GeostatsGuy / DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
     - Python interactive dashboards for learning data science
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,509** &nbsp;&nbsp; folks: **289**  &nbsp;&nbsp; `103 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,534** &nbsp;&nbsp; folks: **291**  &nbsp;&nbsp; `115 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek)
     - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
-    - language: **Python** &nbsp;&nbsp; stars: **14,720** &nbsp;&nbsp; folks: **1,272**  &nbsp;&nbsp; `10,499 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,754** &nbsp;&nbsp; folks: **1,283**  &nbsp;&nbsp; `10,514 stars this week`
 
 1. [microsoft / qlib](https://github.com/microsoft/qlib)
     - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    - language: **Python** &nbsp;&nbsp; stars: **23,591** &nbsp;&nbsp; folks: **3,654**  &nbsp;&nbsp; `3,114 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **23,602** &nbsp;&nbsp; folks: **3,656**  &nbsp;&nbsp; `2,669 stars this week`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    - language: **Python** &nbsp;&nbsp; stars: **31,158** &nbsp;&nbsp; folks: **5,206**  &nbsp;&nbsp; `1,878 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **31,168** &nbsp;&nbsp; folks: **5,206**  &nbsp;&nbsp; `1,624 stars this week`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,343** &nbsp;&nbsp; folks: **1,159**  &nbsp;&nbsp; `969 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,413** &nbsp;&nbsp; folks: **1,163**  &nbsp;&nbsp; `1,198 stars this week`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **10,900** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `1,284 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **10,911** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `1,085 stars this week`
 
 1. [wg-easy / wg-easy](https://github.com/wg-easy/wg-easy)
     - The easiest way to run WireGuard VPN + Web-based Admin UI.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,520** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `698 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,525** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `680 stars this week`
 
 1. [seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
     - Python APIs for web automation, testing, and bypassing bot-detection.
-    - language: **Python** &nbsp;&nbsp; stars: **10,744** &nbsp;&nbsp; folks: **1,343**  &nbsp;&nbsp; `536 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,750** &nbsp;&nbsp; folks: **1,343**  &nbsp;&nbsp; `540 stars this week`
 
 1. [gofiber / fiber](https://github.com/gofiber/fiber)
     - ⚡️ Express inspired web framework written in Go
-    - language: **Go** &nbsp;&nbsp; stars: **36,665** &nbsp;&nbsp; folks: **1,790**  &nbsp;&nbsp; `152 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **36,666** &nbsp;&nbsp; folks: **1,790**  &nbsp;&nbsp; `159 stars this week`
 
 1. [KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait)
     - Bring portraits to life!
-    - language: **Python** &nbsp;&nbsp; stars: **15,794** &nbsp;&nbsp; folks: **1,650**  &nbsp;&nbsp; `800 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **15,798** &nbsp;&nbsp; folks: **1,651**  &nbsp;&nbsp; `866 stars this week`
 
 1. [actions / runner-images](https://github.com/actions/runner-images)
     - GitHub Actions runner images
-    - language: **PowerShell** &nbsp;&nbsp; stars: **11,240** &nbsp;&nbsp; folks: **3,342**  &nbsp;&nbsp; `129 stars this week`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **11,242** &nbsp;&nbsp; folks: **3,342**  &nbsp;&nbsp; `133 stars this week`
 
 1. [simonw / llm](https://github.com/simonw/llm)
     - Access large language models from the command-line
-    - language: **Python** &nbsp;&nbsp; stars: **8,182** &nbsp;&nbsp; folks: **486**  &nbsp;&nbsp; `483 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,186** &nbsp;&nbsp; folks: **486**  &nbsp;&nbsp; `462 stars this week`
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 11 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **23,514** &nbsp;&nbsp; folks: **6,233**  &nbsp;&nbsp; `1,668 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **23,550** &nbsp;&nbsp; folks: **6,244**  &nbsp;&nbsp; `1,825 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek)
     - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
-    - language: **Python** &nbsp;&nbsp; stars: **14,720** &nbsp;&nbsp; folks: **1,272**  &nbsp;&nbsp; `12,554 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,754** &nbsp;&nbsp; folks: **1,283**  &nbsp;&nbsp; `13,041 stars this month`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **35,171** &nbsp;&nbsp; folks: **4,981**  &nbsp;&nbsp; `8,903 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **35,174** &nbsp;&nbsp; folks: **4,982**  &nbsp;&nbsp; `8,944 stars this month`
 
 1. [xming521 / WeClone](https://github.com/xming521/WeClone)
     - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案
-    - language: **Python** &nbsp;&nbsp; stars: **12,668** &nbsp;&nbsp; folks: **944**  &nbsp;&nbsp; `9,873 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,670** &nbsp;&nbsp; folks: **945**  &nbsp;&nbsp; `9,926 stars this month`
 
 1. [voideditor / void](https://github.com/voideditor/void)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,605** &nbsp;&nbsp; folks: **1,455**  &nbsp;&nbsp; `10,453 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,612** &nbsp;&nbsp; folks: **1,457**  &nbsp;&nbsp; `10,502 stars this month`
 
 1. [Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video)
     - Official repository for LTX-Video
-    - language: **Python** &nbsp;&nbsp; stars: **6,352** &nbsp;&nbsp; folks: **519**  &nbsp;&nbsp; `2,752 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,353** &nbsp;&nbsp; folks: **519**  &nbsp;&nbsp; `2,791 stars this month`
 
 1. [bytedance / flowgram.ai](https://github.com/bytedance/flowgram.ai)
     - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,556** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `3,294 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,563** &nbsp;&nbsp; folks: **313**  &nbsp;&nbsp; `3,347 stars this month`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **43,193** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `5,382 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **43,196** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `5,278 stars this month`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    - language: **Python** &nbsp;&nbsp; stars: **31,158** &nbsp;&nbsp; folks: **5,206**  &nbsp;&nbsp; `3,287 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,168** &nbsp;&nbsp; folks: **5,206**  &nbsp;&nbsp; `3,402 stars this month`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **33,369** &nbsp;&nbsp; folks: **3,284**  &nbsp;&nbsp; `5,122 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **33,375** &nbsp;&nbsp; folks: **3,285**  &nbsp;&nbsp; `5,137 stars this month`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **70,186** &nbsp;&nbsp; folks: **9,919**  &nbsp;&nbsp; `16,098 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **70,192** &nbsp;&nbsp; folks: **9,920**  &nbsp;&nbsp; `14,933 stars this month`
 
 1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
     - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,859** &nbsp;&nbsp; folks: **347**  &nbsp;&nbsp; `3,107 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,861** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `3,102 stars this month`
 
 1. [microsoft / qlib](https://github.com/microsoft/qlib)
     - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    - language: **Python** &nbsp;&nbsp; stars: **23,591** &nbsp;&nbsp; folks: **3,654**  &nbsp;&nbsp; `4,556 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **23,602** &nbsp;&nbsp; folks: **3,656**  &nbsp;&nbsp; `4,674 stars this month`
 
 1. [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
     - Collection of leaked system prompts
-    - language: **无** &nbsp;&nbsp; stars: **8,871** &nbsp;&nbsp; folks: **1,107**  &nbsp;&nbsp; `3,402 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **8,877** &nbsp;&nbsp; folks: **1,106**  &nbsp;&nbsp; `3,314 stars this month`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **无** &nbsp;&nbsp; stars: **53,683** &nbsp;&nbsp; folks: **5,701**  &nbsp;&nbsp; `3,962 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **53,688** &nbsp;&nbsp; folks: **5,700**  &nbsp;&nbsp; `3,992 stars this month`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **325,048** &nbsp;&nbsp; folks: **41,886**  &nbsp;&nbsp; `8,635 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **325,060** &nbsp;&nbsp; folks: **41,888**  &nbsp;&nbsp; `8,670 stars this month`
 
 1. [zed-industries / zed](https://github.com/zed-industries/zed)
     - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    - language: **Rust** &nbsp;&nbsp; stars: **60,768** &nbsp;&nbsp; folks: **4,397**  &nbsp;&nbsp; `3,436 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **60,772** &nbsp;&nbsp; folks: **4,398**  &nbsp;&nbsp; `3,372 stars this month`
 
 1. [appwrite / appwrite](https://github.com/appwrite/appwrite)
     - Build like a team of hundreds_
-    - language: **TypeScript** &nbsp;&nbsp; stars: **50,716** &nbsp;&nbsp; folks: **4,436**  &nbsp;&nbsp; `2,403 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **50,721** &nbsp;&nbsp; folks: **4,435**  &nbsp;&nbsp; `2,472 stars this month`
 
 1. [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
     - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **127,615** &nbsp;&nbsp; folks: **16,944**  &nbsp;&nbsp; `3,959 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **127,620** &nbsp;&nbsp; folks: **16,944**  &nbsp;&nbsp; `4,039 stars this month`
 
 1. [QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
     - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    - language: **Python** &nbsp;&nbsp; stars: **9,194** &nbsp;&nbsp; folks: **776**  &nbsp;&nbsp; `1,887 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,193** &nbsp;&nbsp; folks: **776**  &nbsp;&nbsp; `1,727 stars this month`
 
 1. [CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit)
     - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,512** &nbsp;&nbsp; folks: **2,823**  &nbsp;&nbsp; `2,153 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,517** &nbsp;&nbsp; folks: **2,823**  &nbsp;&nbsp; `2,165 stars this month`
 
 1. [public-apis / public-apis](https://github.com/public-apis/public-apis)
     - A collective list of free APIs
-    - language: **Python** &nbsp;&nbsp; stars: **348,437** &nbsp;&nbsp; folks: **36,630**  &nbsp;&nbsp; `10,442 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **348,452** &nbsp;&nbsp; folks: **36,632**  &nbsp;&nbsp; `10,574 stars this month`
 
 
 ## 历史归档
