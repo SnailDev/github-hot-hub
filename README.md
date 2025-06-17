@@ -10,203 +10,203 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-06-17 07:15:10 +0800`
+`更新时间：2025-06-17 09:19:51 +0800`
 
 ## 今日热门仓库
 
 1. [microsoft / fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
     - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-    - language: **HTML** &nbsp;&nbsp; stars: **6,859** &nbsp;&nbsp; folks: **584**  &nbsp;&nbsp; `60 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **6,957** &nbsp;&nbsp; folks: **587**  &nbsp;&nbsp; `59 stars today`
 
 1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,739** &nbsp;&nbsp; folks: **1,592**  &nbsp;&nbsp; `165 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,861** &nbsp;&nbsp; folks: **1,596**  &nbsp;&nbsp; `165 stars today`
 
 1. [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
     - Anthropic's Interactive Prompt Engineering Tutorial
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **12,749** &nbsp;&nbsp; folks: **1,160**  &nbsp;&nbsp; `175 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **12,788** &nbsp;&nbsp; folks: **1,162**  &nbsp;&nbsp; `175 stars today`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **43,223** &nbsp;&nbsp; folks: **4,882**  &nbsp;&nbsp; `1,593 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **43,260** &nbsp;&nbsp; folks: **4,887**  &nbsp;&nbsp; `1,593 stars today`
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **68,215** &nbsp;&nbsp; folks: **3,586**  &nbsp;&nbsp; `71 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **68,251** &nbsp;&nbsp; folks: **3,587**  &nbsp;&nbsp; `71 stars today`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **14,707** &nbsp;&nbsp; folks: **1,936**  &nbsp;&nbsp; `88 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **14,727** &nbsp;&nbsp; folks: **1,937**  &nbsp;&nbsp; `88 stars today`
 
 1. [gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser)
     - 📂 Web File Browser
-    - language: **Go** &nbsp;&nbsp; stars: **1,611** &nbsp;&nbsp; folks: **39**  &nbsp;&nbsp; `85 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,646** &nbsp;&nbsp; folks: **40**  &nbsp;&nbsp; `82 stars today`
 
 1. [zen-browser / desktop](https://github.com/zen-browser/desktop)
     - Welcome to a calmer internet
-    - language: **C++** &nbsp;&nbsp; stars: **32,985** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `53 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **33,014** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `53 stars today`
 
 1. [linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
     - 一款提示词优化器，助力于编写高质量的提示词
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,075** &nbsp;&nbsp; folks: **806**  &nbsp;&nbsp; `145 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,109** &nbsp;&nbsp; folks: **807**  &nbsp;&nbsp; `145 stars today`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **36,588** &nbsp;&nbsp; folks: **6,339**  &nbsp;&nbsp; `242 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **36,598** &nbsp;&nbsp; folks: **6,340**  &nbsp;&nbsp; `242 stars today`
 
 1. [panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
     - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,905** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `8 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,920** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `8 stars today`
 
 1. [YaLTeR / niri](https://github.com/YaLTeR/niri)
     - A scrollable-tiling Wayland compositor.
-    - language: **Rust** &nbsp;&nbsp; stars: **8,772** &nbsp;&nbsp; folks: **284**  &nbsp;&nbsp; `160 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **8,782** &nbsp;&nbsp; folks: **285**  &nbsp;&nbsp; `161 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **43,223** &nbsp;&nbsp; folks: **4,882**  &nbsp;&nbsp; `7,968 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **43,260** &nbsp;&nbsp; folks: **4,887**  &nbsp;&nbsp; `9,238 stars this week`
 
 1. [jwohlwend / boltz](https://github.com/jwohlwend/boltz)
     - Official repository for the Boltz biomolecular interaction models
-    - language: **Python** &nbsp;&nbsp; stars: **2,825** &nbsp;&nbsp; folks: **424**  &nbsp;&nbsp; `744 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,826** &nbsp;&nbsp; folks: **424**  &nbsp;&nbsp; `708 stars this week`
 
 1. [tensorzero / tensorzero](https://github.com/tensorzero/tensorzero)
     - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    - language: **Rust** &nbsp;&nbsp; stars: **7,273** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `2,168 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **7,302** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `1,431 stars this week`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **368,916** &nbsp;&nbsp; folks: **29,653**  &nbsp;&nbsp; `4,006 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **368,945** &nbsp;&nbsp; folks: **29,654**  &nbsp;&nbsp; `4,504 stars this week`
 
 1. [alphacep / vosk-api](https://github.com/alphacep/vosk-api)
     - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **12,160** &nbsp;&nbsp; folks: **1,452**  &nbsp;&nbsp; `1,922 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **12,171** &nbsp;&nbsp; folks: **1,453**  &nbsp;&nbsp; `1,594 stars this week`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **14,707** &nbsp;&nbsp; folks: **1,936**  &nbsp;&nbsp; `411 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,727** &nbsp;&nbsp; folks: **1,937**  &nbsp;&nbsp; `433 stars this week`
 
 1. [datawhalechina / self-llm](https://github.com/datawhalechina/self-llm)
     - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **18,769** &nbsp;&nbsp; folks: **1,956**  &nbsp;&nbsp; `1,934 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **18,777** &nbsp;&nbsp; folks: **1,958**  &nbsp;&nbsp; `2,136 stars this week`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **13,173** &nbsp;&nbsp; folks: **742**  &nbsp;&nbsp; `1,136 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **13,195** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `1,162 stars this week`
 
 1. [facebookresearch / vggt](https://github.com/facebookresearch/vggt)
     - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
-    - language: **Python** &nbsp;&nbsp; stars: **8,111** &nbsp;&nbsp; folks: **807**  &nbsp;&nbsp; `755 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,119** &nbsp;&nbsp; folks: **807**  &nbsp;&nbsp; `755 stars this week`
 
 1. [filamentphp / filament](https://github.com/filamentphp/filament)
     - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-    - language: **PHP** &nbsp;&nbsp; stars: **24,232** &nbsp;&nbsp; folks: **3,518**  &nbsp;&nbsp; `238 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **24,235** &nbsp;&nbsp; folks: **3,518**  &nbsp;&nbsp; `249 stars this week`
 
 1. [frdel / agent-zero](https://github.com/frdel/agent-zero)
     - Agent Zero AI framework
-    - language: **Python** &nbsp;&nbsp; stars: **9,971** &nbsp;&nbsp; folks: **1,945**  &nbsp;&nbsp; `704 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,979** &nbsp;&nbsp; folks: **1,946**  &nbsp;&nbsp; `590 stars this week`
 
 1. [XTLS / Xray-core](https://github.com/XTLS/Xray-core)
     - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-    - language: **Go** &nbsp;&nbsp; stars: **29,399** &nbsp;&nbsp; folks: **4,363**  &nbsp;&nbsp; `515 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **29,400** &nbsp;&nbsp; folks: **4,363**  &nbsp;&nbsp; `409 stars this week`
 
 1. [Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
     - 无
-    - language: **Batchfile** &nbsp;&nbsp; stars: **13,714** &nbsp;&nbsp; folks: **929**  &nbsp;&nbsp; `354 stars this week`
+    - language: **Batchfile** &nbsp;&nbsp; stars: **13,713** &nbsp;&nbsp; folks: **929**  &nbsp;&nbsp; `341 stars this week`
 
 1. [confident-ai / deepeval](https://github.com/confident-ai/deepeval)
     - The LLM Evaluation Framework
-    - language: **Python** &nbsp;&nbsp; stars: **8,218** &nbsp;&nbsp; folks: **717**  &nbsp;&nbsp; `1,060 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,222** &nbsp;&nbsp; folks: **717**  &nbsp;&nbsp; `1,060 stars this week`
 
 1. [eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master)
     - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **15,197** &nbsp;&nbsp; folks: **1,561**  &nbsp;&nbsp; `2,119 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **15,212** &nbsp;&nbsp; folks: **1,564**  &nbsp;&nbsp; `1,983 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek)
     - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
-    - language: **Python** &nbsp;&nbsp; stars: **18,410** &nbsp;&nbsp; folks: **1,797**  &nbsp;&nbsp; `15,825 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,414** &nbsp;&nbsp; folks: **1,797**  &nbsp;&nbsp; `15,907 stars this month`
 
 1. [microsoft / qlib](https://github.com/microsoft/qlib)
     - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    - language: **Python** &nbsp;&nbsp; stars: **25,298** &nbsp;&nbsp; folks: **3,892**  &nbsp;&nbsp; `6,173 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,301** &nbsp;&nbsp; folks: **3,893**  &nbsp;&nbsp; `6,231 stars this month`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    - language: **Python** &nbsp;&nbsp; stars: **32,174** &nbsp;&nbsp; folks: **5,294**  &nbsp;&nbsp; `4,335 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **32,181** &nbsp;&nbsp; folks: **5,295**  &nbsp;&nbsp; `4,359 stars this month`
 
 1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
     - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **39,265** &nbsp;&nbsp; folks: **8,709**  &nbsp;&nbsp; `24,733 stars this month`
+    - language: **Roff** &nbsp;&nbsp; stars: **39,310** &nbsp;&nbsp; folks: **8,720**  &nbsp;&nbsp; `20,181 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **13,173** &nbsp;&nbsp; folks: **742**  &nbsp;&nbsp; `4,355 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **13,195** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `4,534 stars this month`
 
 1. [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
     - This is a repo with links to everything you'd ever want to learn about data engineering
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **29,446** &nbsp;&nbsp; folks: **5,925**  &nbsp;&nbsp; `1,712 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **29,450** &nbsp;&nbsp; folks: **5,928**  &nbsp;&nbsp; `1,752 stars this month`
 
 1. [anthropics / courses](https://github.com/anthropics/courses)
     - Anthropic's educational courses
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,421** &nbsp;&nbsp; folks: **1,315**  &nbsp;&nbsp; `3,871 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,425** &nbsp;&nbsp; folks: **1,316**  &nbsp;&nbsp; `3,926 stars this month`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **36,588** &nbsp;&nbsp; folks: **6,339**  &nbsp;&nbsp; `9,166 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **36,598** &nbsp;&nbsp; folks: **6,340**  &nbsp;&nbsp; `9,108 stars this month`
 
 1. [tensorzero / tensorzero](https://github.com/tensorzero/tensorzero)
     - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    - language: **Rust** &nbsp;&nbsp; stars: **7,273** &nbsp;&nbsp; folks: **437**  &nbsp;&nbsp; `2,943 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **7,302** &nbsp;&nbsp; folks: **438**  &nbsp;&nbsp; `3,121 stars this month`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Python** &nbsp;&nbsp; stars: **8,898** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `2,980 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,900** &nbsp;&nbsp; folks: **1,080**  &nbsp;&nbsp; `3,039 stars this month`
 
 1. [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
     - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    - language: **Python** &nbsp;&nbsp; stars: **5,924** &nbsp;&nbsp; folks: **552**  &nbsp;&nbsp; `1,572 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,925** &nbsp;&nbsp; folks: **552**  &nbsp;&nbsp; `1,607 stars this month`
 
 1. [mem0ai / mem0](https://github.com/mem0ai/mem0)
     - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-    - language: **Python** &nbsp;&nbsp; stars: **34,619** &nbsp;&nbsp; folks: **3,451**  &nbsp;&nbsp; `4,426 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **34,626** &nbsp;&nbsp; folks: **3,452**  &nbsp;&nbsp; `3,904 stars this month`
 
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
     - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **368,916** &nbsp;&nbsp; folks: **29,653**  &nbsp;&nbsp; `8,225 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **368,945** &nbsp;&nbsp; folks: **29,654**  &nbsp;&nbsp; `8,741 stars this month`
 
 1. [netbirdio / netbird](https://github.com/netbirdio/netbird)
     - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    - language: **Go** &nbsp;&nbsp; stars: **15,783** &nbsp;&nbsp; folks: **739**  &nbsp;&nbsp; `2,128 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **15,790** &nbsp;&nbsp; folks: **739**  &nbsp;&nbsp; `2,183 stars this month`
 
 1. [appwrite / appwrite](https://github.com/appwrite/appwrite)
     - Build like a team of hundreds_
-    - language: **TypeScript** &nbsp;&nbsp; stars: **51,314** &nbsp;&nbsp; folks: **4,496**  &nbsp;&nbsp; `2,768 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **51,318** &nbsp;&nbsp; folks: **4,496**  &nbsp;&nbsp; `2,798 stars this month`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
-    - language: **Python** &nbsp;&nbsp; stars: **58,171** &nbsp;&nbsp; folks: **6,677**  &nbsp;&nbsp; `4,076 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **58,176** &nbsp;&nbsp; folks: **6,677**  &nbsp;&nbsp; `4,087 stars this month`
 
 1. [FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
     - Implementation of all RAG techniques in a simpler way
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,633** &nbsp;&nbsp; folks: **572**  &nbsp;&nbsp; `2,878 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,636** &nbsp;&nbsp; folks: **572**  &nbsp;&nbsp; `2,878 stars this month`
 
 1. [stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart)
     - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-    - language: **Rust** &nbsp;&nbsp; stars: **8,727** &nbsp;&nbsp; folks: **419**  &nbsp;&nbsp; `1,181 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **8,731** &nbsp;&nbsp; folks: **420**  &nbsp;&nbsp; `1,198 stars this month`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **306,367** &nbsp;&nbsp; folks: **50,655**  &nbsp;&nbsp; `7,311 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **306,375** &nbsp;&nbsp; folks: **50,656**  &nbsp;&nbsp; `7,321 stars this month`
 
 1. [datawhalechina / self-llm](https://github.com/datawhalechina/self-llm)
     - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **18,769** &nbsp;&nbsp; folks: **1,956**  &nbsp;&nbsp; `2,992 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **18,777** &nbsp;&nbsp; folks: **1,958**  &nbsp;&nbsp; `3,343 stars this month`
 
 
 ## 历史归档
