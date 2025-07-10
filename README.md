@@ -10,199 +10,211 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-07-10 18:18:24 +0800`
+`更新时间：2025-07-10 19:15:08 +0800`
 
 ## 今日热门仓库
 
-1. [googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox)
-    - MCP Toolbox for Databases is an open source MCP server for databases.
-    - language: **Go** &nbsp;&nbsp; stars: **4,439** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `970 stars today`
-
-1. [rustfs / rustfs](https://github.com/rustfs/rustfs)
-    - 🚀 High-performance distributed object storage for MinIO alternative.
-    - language: **Rust** &nbsp;&nbsp; stars: **3,965** &nbsp;&nbsp; folks: **189**  &nbsp;&nbsp; `650 stars today`
-
-1. [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-    - Anthropic's Interactive Prompt Engineering Tutorial
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **16,306** &nbsp;&nbsp; folks: **1,494**  &nbsp;&nbsp; `451 stars today`
-
 1. [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent)
     - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-    - language: **Python** &nbsp;&nbsp; stars: **3,065** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `780 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,075** &nbsp;&nbsp; folks: **207**  &nbsp;&nbsp; `780 stars today`
 
-1. [putyy / res-downloader](https://github.com/putyy/res-downloader)
-    - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-    - language: **Go** &nbsp;&nbsp; stars: **8,546** &nbsp;&nbsp; folks: **1,011**  &nbsp;&nbsp; `159 stars today`
+1. [WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop)
+    - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+    - language: **PHP** &nbsp;&nbsp; stars: **2,809** &nbsp;&nbsp; folks: **2,961**  &nbsp;&nbsp; `4 stars today`
 
-1. [ed-donner / agents](https://github.com/ed-donner/agents)
-    - Repo for the Complete Agentic AI Engineering Course
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,160** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `87 stars today`
+1. [googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox)
+    - MCP Toolbox for Databases is an open source MCP server for databases.
+    - language: **Go** &nbsp;&nbsp; stars: **4,474** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `970 stars today`
 
-1. [wanghongenpin / proxypin](https://github.com/wanghongenpin/proxypin)
-    - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
-    - language: **Dart** &nbsp;&nbsp; stars: **9,526** &nbsp;&nbsp; folks: **816**  &nbsp;&nbsp; `50 stars today`
+1. [LMCache / LMCache](https://github.com/LMCache/LMCache)
+    - Supercharge Your LLM with the Fastest KV Cache Layer
+    - language: **Python** &nbsp;&nbsp; stars: **2,709** &nbsp;&nbsp; folks: **312**  &nbsp;&nbsp; `148 stars today`
 
-1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-    - 11 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **29,801** &nbsp;&nbsp; folks: **8,424**  &nbsp;&nbsp; `246 stars today`
+1. [forthespada / CS-Books](https://github.com/forthespada/CS-Books)
+    - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+    - language: **无** &nbsp;&nbsp; stars: **23,536** &nbsp;&nbsp; folks: **3,900**  &nbsp;&nbsp; `336 stars today`
+
+1. [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+    - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+    - language: **无** &nbsp;&nbsp; stars: **74,030** &nbsp;&nbsp; folks: **7,920**  &nbsp;&nbsp; `192 stars today`
+
+1. [snap-stanford / Biomni](https://github.com/snap-stanford/Biomni)
+    - Biomni: a general-purpose biomedical AI agent
+    - language: **Python** &nbsp;&nbsp; stars: **765** &nbsp;&nbsp; folks: **81**  &nbsp;&nbsp; `338 stars today`
+
+1. [pybind / pybind11](https://github.com/pybind/pybind11)
+    - Seamless operability between C++11 and Python
+    - language: **C++** &nbsp;&nbsp; stars: **16,809** &nbsp;&nbsp; folks: **2,189**  &nbsp;&nbsp; `8 stars today`
 
 1. [punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
     - A collection of MCP clients.
-    - language: **无** &nbsp;&nbsp; stars: **4,437** &nbsp;&nbsp; folks: **305**  &nbsp;&nbsp; `96 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **4,444** &nbsp;&nbsp; folks: **309**  &nbsp;&nbsp; `96 stars today`
 
-1. [strapi / strapi](https://github.com/strapi/strapi)
-    - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **67,579** &nbsp;&nbsp; folks: **8,708**  &nbsp;&nbsp; `35 stars today`
+1. [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+    - Automate the process of making money online.
+    - language: **Python** &nbsp;&nbsp; stars: **12,145** &nbsp;&nbsp; folks: **1,147**  &nbsp;&nbsp; `301 stars today`
 
-1. [microsoft / MoGe](https://github.com/microsoft/MoGe)
-    - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
-    - language: **Python** &nbsp;&nbsp; stars: **1,309** &nbsp;&nbsp; folks: **73**  &nbsp;&nbsp; `29 stars today`
+1. [helm / helm](https://github.com/helm/helm)
+    - The Kubernetes Package Manager
+    - language: **Go** &nbsp;&nbsp; stars: **28,126** &nbsp;&nbsp; folks: **7,275**  &nbsp;&nbsp; `10 stars today`
 
-1. [alibaba / MNN](https://github.com/alibaba/MNN)
-    - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
-    - language: **C++** &nbsp;&nbsp; stars: **12,445** &nbsp;&nbsp; folks: **1,990**  &nbsp;&nbsp; `25 stars today`
+1. [coleam00 / ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
+    - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
+    - language: **Python** &nbsp;&nbsp; stars: **2,433** &nbsp;&nbsp; folks: **1,109**  &nbsp;&nbsp; `58 stars today`
 
-1. [ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering)
-    - Repo to accompany my mastering LLM engineering course
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,890** &nbsp;&nbsp; folks: **2,284**  &nbsp;&nbsp; `25 stars today`
+1. [HandsOnLLM / Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+    - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,780** &nbsp;&nbsp; folks: **2,762**  &nbsp;&nbsp; `286 stars today`
 
-1. [junegunn / fzf](https://github.com/junegunn/fzf)
-    - 🌸 A command-line fuzzy finder
-    - language: **Go** &nbsp;&nbsp; stars: **71,873** &nbsp;&nbsp; folks: **2,545**  &nbsp;&nbsp; `62 stars today`
+1. [volcengine / verl](https://github.com/volcengine/verl)
+    - verl: Volcano Engine Reinforcement Learning for LLMs
+    - language: **Python** &nbsp;&nbsp; stars: **10,641** &nbsp;&nbsp; folks: **1,763**  &nbsp;&nbsp; `58 stars today`
+
+1. [hashicorp / terraform](https://github.com/hashicorp/terraform)
+    - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+    - language: **Go** &nbsp;&nbsp; stars: **45,546** &nbsp;&nbsp; folks: **9,924**  &nbsp;&nbsp; `10 stars today`
+
+1. [flutter / packages](https://github.com/flutter/packages)
+    - A collection of useful packages maintained by the Flutter team
+    - language: **Dart** &nbsp;&nbsp; stars: **4,775** &nbsp;&nbsp; folks: **3,354**  &nbsp;&nbsp; `4 stars today`
 
 
 ## 近一周热门仓库
 
 1. [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
     - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    - language: **Python** &nbsp;&nbsp; stars: **29,166** &nbsp;&nbsp; folks: **7,328**  &nbsp;&nbsp; `4,106 stars this week`
-
-1. [RSSNext / Folo](https://github.com/RSSNext/Folo)
-    - 🧡 Follow everything in one place
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,392** &nbsp;&nbsp; folks: **1,261**  &nbsp;&nbsp; `1,126 stars this week`
-
-1. [zaidmukaddam / scira](https://github.com/zaidmukaddam/scira)
-    - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,692** &nbsp;&nbsp; folks: **1,185**  &nbsp;&nbsp; `823 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **29,180** &nbsp;&nbsp; folks: **7,330**  &nbsp;&nbsp; `4,106 stars this week`
 
 1. [googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox)
     - MCP Toolbox for Databases is an open source MCP server for databases.
-    - language: **Go** &nbsp;&nbsp; stars: **4,439** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `1,929 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,474** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `1,929 stars this week`
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,732** &nbsp;&nbsp; folks: **701**  &nbsp;&nbsp; `537 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,733** &nbsp;&nbsp; folks: **701**  &nbsp;&nbsp; `537 stars this week`
+
+1. [RSSNext / Folo](https://github.com/RSSNext/Folo)
+    - 🧡 Follow everything in one place
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,400** &nbsp;&nbsp; folks: **1,261**  &nbsp;&nbsp; `1,126 stars this week`
 
 1. [GyulyVGC / sniffnet](https://github.com/GyulyVGC/sniffnet)
     - Comfortably monitor your Internet traffic 🕵️‍♂️
-    - language: **Rust** &nbsp;&nbsp; stars: **27,750** &nbsp;&nbsp; folks: **907**  &nbsp;&nbsp; `1,958 stars this week`
-
-1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
-    - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **45,097** &nbsp;&nbsp; folks: **1,922**  &nbsp;&nbsp; `953 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **27,759** &nbsp;&nbsp; folks: **907**  &nbsp;&nbsp; `1,958 stars this week`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **398,368** &nbsp;&nbsp; folks: **37,185**  &nbsp;&nbsp; `4,512 stars this week`
-
-1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-    - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **91,629** &nbsp;&nbsp; folks: **46,816**  &nbsp;&nbsp; `2,281 stars this week`
+    - language: **Markdown** &nbsp;&nbsp; stars: **398,399** &nbsp;&nbsp; folks: **37,187**  &nbsp;&nbsp; `4,512 stars this week`
 
 1. [pocketbase / pocketbase](https://github.com/pocketbase/pocketbase)
     - Open Source realtime backend in 1 file
-    - language: **Go** &nbsp;&nbsp; stars: **48,865** &nbsp;&nbsp; folks: **2,460**  &nbsp;&nbsp; `797 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **48,867** &nbsp;&nbsp; folks: **2,460**  &nbsp;&nbsp; `797 stars this week`
 
-1. [Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode)
-    - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,080** &nbsp;&nbsp; folks: **325**  &nbsp;&nbsp; `2,307 stars this week`
-
-1. [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-    - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    - language: **HTML** &nbsp;&nbsp; stars: **74,264** &nbsp;&nbsp; folks: **16,340**  &nbsp;&nbsp; `733 stars this week`
+1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
+    - Truly independent web browser
+    - language: **C++** &nbsp;&nbsp; stars: **45,101** &nbsp;&nbsp; folks: **1,922**  &nbsp;&nbsp; `953 stars this week`
 
 1. [commaai / openpilot](https://github.com/commaai/openpilot)
     - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    - language: **Python** &nbsp;&nbsp; stars: **55,133** &nbsp;&nbsp; folks: **9,917**  &nbsp;&nbsp; `880 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **55,137** &nbsp;&nbsp; folks: **9,918**  &nbsp;&nbsp; `880 stars this week`
 
-1. [Infisical / infisical](https://github.com/Infisical/infisical)
-    - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,773** &nbsp;&nbsp; folks: **1,250**  &nbsp;&nbsp; `533 stars this week`
+1. [GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
+    - GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **182** &nbsp;&nbsp; folks: **62**  &nbsp;&nbsp; `46 stars this week`
 
-1. [directus / directus](https://github.com/directus/directus)
-    - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **31,574** &nbsp;&nbsp; folks: **4,290**  &nbsp;&nbsp; `534 stars this week`
+1. [zaidmukaddam / scira](https://github.com/zaidmukaddam/scira)
+    - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,695** &nbsp;&nbsp; folks: **1,186**  &nbsp;&nbsp; `823 stars this week`
+
+1. [home-assistant / home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+    - 📘 Home Assistant User documentation
+    - language: **HTML** &nbsp;&nbsp; stars: **6,970** &nbsp;&nbsp; folks: **7,777**  &nbsp;&nbsp; `263 stars this week`
+
+1. [Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode)
+    - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,083** &nbsp;&nbsp; folks: **325**  &nbsp;&nbsp; `2,307 stars this week`
+
+1. [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+    - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    - language: **HTML** &nbsp;&nbsp; stars: **74,266** &nbsp;&nbsp; folks: **16,341**  &nbsp;&nbsp; `733 stars this week`
 
 
 ## 近一月热门仓库
 
+1. [GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite)
+    - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+    - language: **Rust** &nbsp;&nbsp; stars: **18,799** &nbsp;&nbsp; folks: **789**  &nbsp;&nbsp; `6,875 stars this month`
+
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **49,416** &nbsp;&nbsp; folks: **5,719**  &nbsp;&nbsp; `15,588 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **49,422** &nbsp;&nbsp; folks: **5,720**  &nbsp;&nbsp; `15,588 stars this month`
 
 1. [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
     - This is a repo with links to everything you'd ever want to learn about data engineering
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **35,088** &nbsp;&nbsp; folks: **6,743**  &nbsp;&nbsp; `6,169 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **35,089** &nbsp;&nbsp; folks: **6,745**  &nbsp;&nbsp; `6,169 stars this month`
 
 1. [menloresearch / jan](https://github.com/menloresearch/jan)
     - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    - language: **TypeScript** &nbsp;&nbsp; stars: **34,528** &nbsp;&nbsp; folks: **2,017**  &nbsp;&nbsp; `5,195 stars this month`
-
-1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
-    - 😎 Awesome lists about all kinds of interesting topics
-    - language: **无** &nbsp;&nbsp; stars: **380,699** &nbsp;&nbsp; folks: **30,432**  &nbsp;&nbsp; `16,604 stars this month`
-
-1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
-    - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,614** &nbsp;&nbsp; folks: **3,739**  &nbsp;&nbsp; `5,494 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **34,531** &nbsp;&nbsp; folks: **2,017**  &nbsp;&nbsp; `5,195 stars this month`
 
 1. [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
     - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    - language: **Python** &nbsp;&nbsp; stars: **29,166** &nbsp;&nbsp; folks: **7,328**  &nbsp;&nbsp; `5,617 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,180** &nbsp;&nbsp; folks: **7,330**  &nbsp;&nbsp; `5,617 stars this month`
+
+1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
+    - Building a modern alternative to Salesforce, powered by the community.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,617** &nbsp;&nbsp; folks: **3,740**  &nbsp;&nbsp; `5,494 stars this month`
 
 1. [datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm)
     - 📚 从零开始的大语言模型原理与实践教程
-    - language: **无** &nbsp;&nbsp; stars: **10,057** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `7,210 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **10,068** &nbsp;&nbsp; folks: **731**  &nbsp;&nbsp; `7,210 stars this month`
 
 1. [embabel / embabel-agent](https://github.com/embabel/embabel-agent)
     - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-    - language: **Kotlin** &nbsp;&nbsp; stars: **2,045** &nbsp;&nbsp; folks: **155**  &nbsp;&nbsp; `1,716 stars this month`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **2,047** &nbsp;&nbsp; folks: **156**  &nbsp;&nbsp; `1,716 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **18,513** &nbsp;&nbsp; folks: **1,047**  &nbsp;&nbsp; `6,396 stars this month`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **18,517** &nbsp;&nbsp; folks: **1,047**  &nbsp;&nbsp; `6,396 stars this month`
 
 1. [anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,916** &nbsp;&nbsp; folks: **1,855**  &nbsp;&nbsp; `4,878 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **17,917** &nbsp;&nbsp; folks: **1,855**  &nbsp;&nbsp; `4,878 stars this month`
 
-1. [DrKLO / Telegram](https://github.com/DrKLO/Telegram)
-    - Telegram for Android source
-    - language: **Java** &nbsp;&nbsp; stars: **27,083** &nbsp;&nbsp; folks: **8,754**  &nbsp;&nbsp; `891 stars this month`
-
-1. [linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
-    - 一款提示词优化器，助力于编写高质量的提示词
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,279** &nbsp;&nbsp; folks: **1,161**  &nbsp;&nbsp; `3,706 stars this month`
-
-1. [Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode)
-    - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,080** &nbsp;&nbsp; folks: **325**  &nbsp;&nbsp; `3,136 stars this month`
+1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+    - 😎 Awesome lists about all kinds of interesting topics
+    - language: **无** &nbsp;&nbsp; stars: **380,715** &nbsp;&nbsp; folks: **30,433**  &nbsp;&nbsp; `16,604 stars this month`
 
 1. [googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox)
     - MCP Toolbox for Databases is an open source MCP server for databases.
-    - language: **Go** &nbsp;&nbsp; stars: **4,439** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `2,324 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **4,474** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `2,324 stars this month`
 
-1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
-    - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    - language: **Python** &nbsp;&nbsp; stars: **26,474** &nbsp;&nbsp; folks: **2,381**  &nbsp;&nbsp; `1,976 stars this month`
+1. [DrKLO / Telegram](https://github.com/DrKLO/Telegram)
+    - Telegram for Android source
+    - language: **Java** &nbsp;&nbsp; stars: **27,083** &nbsp;&nbsp; folks: **8,757**  &nbsp;&nbsp; `891 stars this month`
 
-1. [jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
-    - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
-    - language: **Python** &nbsp;&nbsp; stars: **5,715** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `1,705 stars this month`
+1. [linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+    - 一款提示词优化器，助力于编写高质量的提示词
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,280** &nbsp;&nbsp; folks: **1,161**  &nbsp;&nbsp; `3,706 stars this month`
+
+1. [Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode)
+    - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,083** &nbsp;&nbsp; folks: **325**  &nbsp;&nbsp; `3,136 stars this month`
+
+1. [humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents)
+    - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,082** &nbsp;&nbsp; folks: **504**  &nbsp;&nbsp; `3,659 stars this month`
 
 1. [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
     - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-    - language: **JavaScript** &nbsp;&nbsp; stars: **90,371** &nbsp;&nbsp; folks: **13,655**  &nbsp;&nbsp; `2,040 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **90,373** &nbsp;&nbsp; folks: **13,655**  &nbsp;&nbsp; `2,040 stars this month`
+
+1. [stanford-oval / storm](https://github.com/stanford-oval/storm)
+    - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    - language: **Python** &nbsp;&nbsp; stars: **26,476** &nbsp;&nbsp; folks: **2,381**  &nbsp;&nbsp; `1,976 stars this month`
+
+1. [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+    - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    - language: **HTML** &nbsp;&nbsp; stars: **74,266** &nbsp;&nbsp; folks: **16,341**  &nbsp;&nbsp; `1,639 stars this month`
 
 
 ## 历史归档
