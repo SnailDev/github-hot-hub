@@ -10,92 +10,92 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-08-02 16:20:51 +0800`
+`更新时间：2025-08-02 17:19:37 +0800`
 
 ## 今日热门仓库
 
 1. [OpenPipe / ART](https://github.com/OpenPipe/ART)
     - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-    - language: **Python** &nbsp;&nbsp; stars: **4,641** &nbsp;&nbsp; folks: **283**  &nbsp;&nbsp; `397 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,653** &nbsp;&nbsp; folks: **283**  &nbsp;&nbsp; `397 stars today`
 
 1. [TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes)
     - Application for managing recipes, planning meals, building shopping lists and much much more!
-    - language: **HTML** &nbsp;&nbsp; stars: **6,820** &nbsp;&nbsp; folks: **663**  &nbsp;&nbsp; `38 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **6,826** &nbsp;&nbsp; folks: **663**  &nbsp;&nbsp; `38 stars today`
 
 1. [devlikeapro / waha](https://github.com/devlikeapro/waha)
     - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,651** &nbsp;&nbsp; folks: **657**  &nbsp;&nbsp; `152 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,657** &nbsp;&nbsp; folks: **657**  &nbsp;&nbsp; `152 stars today`
 
 1. [puppeteer / puppeteer](https://github.com/puppeteer/puppeteer)
     - JavaScript API for Chrome and Firefox
-    - language: **TypeScript** &nbsp;&nbsp; stars: **91,569** &nbsp;&nbsp; folks: **9,254**  &nbsp;&nbsp; `159 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **91,570** &nbsp;&nbsp; folks: **9,254**  &nbsp;&nbsp; `159 stars today`
 
 1. [kubesphere / kubesphere](https://github.com/kubesphere/kubesphere)
     - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-    - language: **Go** &nbsp;&nbsp; stars: **16,347** &nbsp;&nbsp; folks: **2,468**  &nbsp;&nbsp; `46 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **16,350** &nbsp;&nbsp; folks: **2,471**  &nbsp;&nbsp; `46 stars today`
 
 1. [eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo)
     - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-    - language: **C++** &nbsp;&nbsp; stars: **3,178** &nbsp;&nbsp; folks: **1,586**  &nbsp;&nbsp; `71 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **3,186** &nbsp;&nbsp; folks: **1,586**  &nbsp;&nbsp; `71 stars today`
 
 1. [9001 / copyparty](https://github.com/9001/copyparty)
     - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    - language: **Python** &nbsp;&nbsp; stars: **17,878** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `1,668 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **17,913** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `1,668 stars today`
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,288** &nbsp;&nbsp; folks: **461**  &nbsp;&nbsp; `285 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,310** &nbsp;&nbsp; folks: **462**  &nbsp;&nbsp; `285 stars today`
 
 1. [stenzek / duckstation](https://github.com/stenzek/duckstation)
     - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-    - language: **C++** &nbsp;&nbsp; stars: **8,842** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `211 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **8,847** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `211 stars today`
 
 1. [playcanvas / editor](https://github.com/playcanvas/editor)
     - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
-    - language: **TypeScript** &nbsp;&nbsp; stars: **558** &nbsp;&nbsp; folks: **71**  &nbsp;&nbsp; `51 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **562** &nbsp;&nbsp; folks: **71**  &nbsp;&nbsp; `51 stars today`
 
 1. [TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
     - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
-    - language: **Python** &nbsp;&nbsp; stars: **2,486** &nbsp;&nbsp; folks: **2,282**  &nbsp;&nbsp; `121 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,494** &nbsp;&nbsp; folks: **2,284**  &nbsp;&nbsp; `121 stars today`
 
 1. [Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo)
     - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-    - language: **Python** &nbsp;&nbsp; stars: **14,394** &nbsp;&nbsp; folks: **1,475**  &nbsp;&nbsp; `119 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **14,404** &nbsp;&nbsp; folks: **1,476**  &nbsp;&nbsp; `119 stars today`
 
 
 ## 近一周热门仓库
 
 1. [QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
     - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Python** &nbsp;&nbsp; stars: **10,830** &nbsp;&nbsp; folks: **749**  &nbsp;&nbsp; `2,108 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,834** &nbsp;&nbsp; folks: **750**  &nbsp;&nbsp; `2,108 stars this week`
 
 1. [cloudwego / eino](https://github.com/cloudwego/eino)
     - The ultimate LLM/AI application development framework in Golang.
-    - language: **Go** &nbsp;&nbsp; stars: **6,239** &nbsp;&nbsp; folks: **482**  &nbsp;&nbsp; `996 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **6,241** &nbsp;&nbsp; folks: **482**  &nbsp;&nbsp; `996 stars this week`
 
 1. [frappe / hrms](https://github.com/frappe/hrms)
     - Open Source HR and Payroll Software
-    - language: **Python** &nbsp;&nbsp; stars: **5,475** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `1,487 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,476** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `1,487 stars this week`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **47,486** &nbsp;&nbsp; folks: **4,335**  &nbsp;&nbsp; `1,449 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **47,497** &nbsp;&nbsp; folks: **4,337**  &nbsp;&nbsp; `1,449 stars this week`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **54,730** &nbsp;&nbsp; folks: **6,394**  &nbsp;&nbsp; `3,480 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **54,741** &nbsp;&nbsp; folks: **6,395**  &nbsp;&nbsp; `3,480 stars this week`
 
 1. [outline / outline](https://github.com/outline/outline)
     - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,882** &nbsp;&nbsp; folks: **2,744**  &nbsp;&nbsp; `872 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,884** &nbsp;&nbsp; folks: **2,744**  &nbsp;&nbsp; `872 stars this week`
 
 1. [tldr-pages / tldr](https://github.com/tldr-pages/tldr)
     - 📚 Collaborative cheatsheets for console commands
-    - language: **Markdown** &nbsp;&nbsp; stars: **58,168** &nbsp;&nbsp; folks: **4,644**  &nbsp;&nbsp; `1,617 stars this week`
+    - language: **Markdown** &nbsp;&nbsp; stars: **58,171** &nbsp;&nbsp; folks: **4,644**  &nbsp;&nbsp; `1,617 stars this week`
 
 1. [linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
     - 一款提示词优化器，助力于编写高质量的提示词
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,903** &nbsp;&nbsp; folks: **1,444**  &nbsp;&nbsp; `1,595 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,910** &nbsp;&nbsp; folks: **1,446**  &nbsp;&nbsp; `1,595 stars this week`
 
 1. [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
     - A generative world for general-purpose robotics & embodied AI learning.
@@ -103,74 +103,74 @@
 
 1. [mattermost-community / focalboard](https://github.com/mattermost-community/focalboard)
     - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,510** &nbsp;&nbsp; folks: **2,270**  &nbsp;&nbsp; `586 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,512** &nbsp;&nbsp; folks: **2,270**  &nbsp;&nbsp; `586 stars this week`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **32,795** &nbsp;&nbsp; folks: **2,622**  &nbsp;&nbsp; `2,528 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **32,797** &nbsp;&nbsp; folks: **2,625**  &nbsp;&nbsp; `2,528 stars this week`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    - language: **Rust** &nbsp;&nbsp; stars: **94,699** &nbsp;&nbsp; folks: **13,852**  &nbsp;&nbsp; `826 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **94,704** &nbsp;&nbsp; folks: **13,852**  &nbsp;&nbsp; `826 stars this week`
 
 1. [microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
     - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    - language: **Python** &nbsp;&nbsp; stars: **6,117** &nbsp;&nbsp; folks: **1,711**  &nbsp;&nbsp; `492 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,119** &nbsp;&nbsp; folks: **1,724**  &nbsp;&nbsp; `492 stars this week`
 
 1. [daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
     - Examples and tutorials to help developers build AI systems
-    - language: **Python** &nbsp;&nbsp; stars: **2,556** &nbsp;&nbsp; folks: **866**  &nbsp;&nbsp; `976 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,557** &nbsp;&nbsp; folks: **866**  &nbsp;&nbsp; `976 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent)
     - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    - language: **Python** &nbsp;&nbsp; stars: **5,556** &nbsp;&nbsp; folks: **406**  &nbsp;&nbsp; `4,381 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,559** &nbsp;&nbsp; folks: **407**  &nbsp;&nbsp; `4,381 stars this month`
 
 1. [googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox)
     - MCP Toolbox for Databases is an open source MCP server for databases.
-    - language: **Go** &nbsp;&nbsp; stars: **8,525** &nbsp;&nbsp; folks: **620**  &nbsp;&nbsp; `6,864 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **8,527** &nbsp;&nbsp; folks: **620**  &nbsp;&nbsp; `6,864 stars this month`
 
 1. [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
     - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    - language: **Python** &nbsp;&nbsp; stars: **34,748** &nbsp;&nbsp; folks: **8,144**  &nbsp;&nbsp; `10,690 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **34,750** &nbsp;&nbsp; folks: **8,144**  &nbsp;&nbsp; `10,690 stars this month`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **47,486** &nbsp;&nbsp; folks: **4,335**  &nbsp;&nbsp; `5,305 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **47,497** &nbsp;&nbsp; folks: **4,337**  &nbsp;&nbsp; `5,305 stars this month`
 
 1. [humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents)
     - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,184** &nbsp;&nbsp; folks: **741**  &nbsp;&nbsp; `6,227 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,186** &nbsp;&nbsp; folks: **741**  &nbsp;&nbsp; `6,227 stars this month`
 
 1. [musistudio / claude-code-router](https://github.com/musistudio/claude-code-router)
     - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,411** &nbsp;&nbsp; folks: **683**  &nbsp;&nbsp; `6,782 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,420** &nbsp;&nbsp; folks: **683**  &nbsp;&nbsp; `6,782 stars this month`
 
 1. [hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
     - A curated list of awesome commands, files, and workflows for Claude Code
-    - language: **Python** &nbsp;&nbsp; stars: **8,251** &nbsp;&nbsp; folks: **417**  &nbsp;&nbsp; `6,274 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,260** &nbsp;&nbsp; folks: **417**  &nbsp;&nbsp; `6,274 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **27,412** &nbsp;&nbsp; folks: **1,529**  &nbsp;&nbsp; `10,724 stars this month`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **27,419** &nbsp;&nbsp; folks: **1,530**  &nbsp;&nbsp; `10,724 stars this month`
 
 1. [sst / opencode](https://github.com/sst/opencode)
     - AI coding agent, built for the terminal.
-    - language: **Go** &nbsp;&nbsp; stars: **16,115** &nbsp;&nbsp; folks: **1,008**  &nbsp;&nbsp; `8,172 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **16,131** &nbsp;&nbsp; folks: **1,008**  &nbsp;&nbsp; `8,172 stars this month`
 
 1. [langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **6,884** &nbsp;&nbsp; folks: **920**  &nbsp;&nbsp; `2,721 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,889** &nbsp;&nbsp; folks: **920**  &nbsp;&nbsp; `2,721 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **70,040** &nbsp;&nbsp; folks: **3,779**  &nbsp;&nbsp; `10,575 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **70,041** &nbsp;&nbsp; folks: **3,780**  &nbsp;&nbsp; `10,575 stars this month`
 
 1. [datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm)
     - 📚 从零开始的大语言模型原理与实践教程
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **14,018** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `8,981 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **14,027** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `8,981 stars this month`
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -178,11 +178,11 @@
 
 1. [frappe / hrms](https://github.com/frappe/hrms)
     - Open Source HR and Payroll Software
-    - language: **Python** &nbsp;&nbsp; stars: **5,475** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `2,768 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,476** &nbsp;&nbsp; folks: **1,472**  &nbsp;&nbsp; `2,768 stars this month`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **15,761** &nbsp;&nbsp; folks: **1,352**  &nbsp;&nbsp; `3,808 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,764** &nbsp;&nbsp; folks: **1,352**  &nbsp;&nbsp; `3,808 stars this month`
 
 
 ## 历史归档
