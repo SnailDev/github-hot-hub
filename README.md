@@ -10,171 +10,171 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-08-20 07:14:30 +0800`
+`更新时间：2025-08-20 09:15:20 +0800`
 
 ## 今日热门仓库
 
 1. [emcie-co / parlant](https://github.com/emcie-co/parlant)
     - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    - language: **Python** &nbsp;&nbsp; stars: **6,487** &nbsp;&nbsp; folks: **558**  &nbsp;&nbsp; `543 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,552** &nbsp;&nbsp; folks: **562**  &nbsp;&nbsp; `544 stars today`
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **Python** &nbsp;&nbsp; stars: **9,697** &nbsp;&nbsp; folks: **1,678**  &nbsp;&nbsp; `1,205 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,729** &nbsp;&nbsp; folks: **1,686**  &nbsp;&nbsp; `1,198 stars today`
 
 1. [LMCache / LMCache](https://github.com/LMCache/LMCache)
     - Supercharge Your LLM with the Fastest KV Cache Layer
-    - language: **Python** &nbsp;&nbsp; stars: **4,791** &nbsp;&nbsp; folks: **526**  &nbsp;&nbsp; `87 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,805** &nbsp;&nbsp; folks: **526**  &nbsp;&nbsp; `65 stars today`
 
 1. [aaPanel / BillionMail](https://github.com/aaPanel/BillionMail)
     - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    - language: **Go** &nbsp;&nbsp; stars: **9,147** &nbsp;&nbsp; folks: **785**  &nbsp;&nbsp; `250 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **9,186** &nbsp;&nbsp; folks: **786**  &nbsp;&nbsp; `276 stars today`
 
 1. [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
     - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **65,728** &nbsp;&nbsp; folks: **9,247**  &nbsp;&nbsp; `1,100 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **65,764** &nbsp;&nbsp; folks: **9,253**  &nbsp;&nbsp; `1,101 stars today`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Financial data platform for analysts, quants and AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **50,511** &nbsp;&nbsp; folks: **4,717**  &nbsp;&nbsp; `347 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **50,533** &nbsp;&nbsp; folks: **4,719**  &nbsp;&nbsp; `347 stars today`
 
 1. [imsyy / SPlayer](https://github.com/imsyy/SPlayer)
     - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-    - language: **Vue** &nbsp;&nbsp; stars: **4,750** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `29 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **4,771** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `19 stars today`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **60,205** &nbsp;&nbsp; folks: **7,228**  &nbsp;&nbsp; `684 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **60,251** &nbsp;&nbsp; folks: **7,231**  &nbsp;&nbsp; `679 stars today`
 
 1. [HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack)
     - Useful tool to track location or mobile number
-    - language: **Python** &nbsp;&nbsp; stars: **2,086** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `122 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,124** &nbsp;&nbsp; folks: **327**  &nbsp;&nbsp; `66 stars today`
 
 1. [immich-app / immich](https://github.com/immich-app/immich)
     - High performance self-hosted photo and video management solution.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **73,595** &nbsp;&nbsp; folks: **3,881**  &nbsp;&nbsp; `347 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **73,617** &nbsp;&nbsp; folks: **3,881**  &nbsp;&nbsp; `348 stars today`
 
 1. [PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor)
     - PixiEditor is a Universal Editor for all your 2D needs
-    - language: **C#** &nbsp;&nbsp; stars: **4,864** &nbsp;&nbsp; folks: **194**  &nbsp;&nbsp; `392 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **4,882** &nbsp;&nbsp; folks: **194**  &nbsp;&nbsp; `393 stars today`
 
 1. [bytedance / UI-TARS](https://github.com/bytedance/UI-TARS)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **7,159** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `80 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,173** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `88 stars today`
 
 1. [HeyPuter / puter](https://github.com/HeyPuter/puter)
     - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **35,129** &nbsp;&nbsp; folks: **2,693**  &nbsp;&nbsp; `40 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **35,162** &nbsp;&nbsp; folks: **2,694**  &nbsp;&nbsp; `58 stars today`
 
 1. [awslabs / mcp](https://github.com/awslabs/mcp)
     - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
-    - language: **Python** &nbsp;&nbsp; stars: **5,716** &nbsp;&nbsp; folks: **754**  &nbsp;&nbsp; `132 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **5,742** &nbsp;&nbsp; folks: **755**  &nbsp;&nbsp; `157 stars today`
 
 
 ## 近一周热门仓库
 
 1. [ubicloud / ubicloud](https://github.com/ubicloud/ubicloud)
     - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-    - language: **Ruby** &nbsp;&nbsp; stars: **9,878** &nbsp;&nbsp; folks: **430**  &nbsp;&nbsp; `3,807 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **9,884** &nbsp;&nbsp; folks: **432**  &nbsp;&nbsp; `3,705 stars this week`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,641** &nbsp;&nbsp; folks: **1,621**  &nbsp;&nbsp; `1,821 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,653** &nbsp;&nbsp; folks: **1,625**  &nbsp;&nbsp; `1,908 stars this week`
 
 1. [dtyq / magic](https://github.com/dtyq/magic)
     - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    - language: **PHP** &nbsp;&nbsp; stars: **2,913** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,136 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **2,929** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,346 stars this week`
 
 1. [apple / embedding-atlas](https://github.com/apple/embedding-atlas)
     - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,842** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `1,845 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,856** &nbsp;&nbsp; folks: **120**  &nbsp;&nbsp; `1,695 stars this week`
 
 1. [external-secrets / external-secrets](https://github.com/external-secrets/external-secrets)
     - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-    - language: **Go** &nbsp;&nbsp; stars: **5,632** &nbsp;&nbsp; folks: **1,049**  &nbsp;&nbsp; `331 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **5,632** &nbsp;&nbsp; folks: **1,049**  &nbsp;&nbsp; `348 stars this week`
 
 1. [tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
     - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-    - language: **Python** &nbsp;&nbsp; stars: **9,204** &nbsp;&nbsp; folks: **717**  &nbsp;&nbsp; `1,743 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,212** &nbsp;&nbsp; folks: **718**  &nbsp;&nbsp; `1,456 stars this week`
 
 1. [syncthing / syncthing](https://github.com/syncthing/syncthing)
     - Open Source Continuous File Synchronization
-    - language: **Go** &nbsp;&nbsp; stars: **75,237** &nbsp;&nbsp; folks: **4,710**  &nbsp;&nbsp; `912 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **75,241** &nbsp;&nbsp; folks: **4,710**  &nbsp;&nbsp; `948 stars this week`
 
 1. [menloresearch / jan](https://github.com/menloresearch/jan)
     - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,243** &nbsp;&nbsp; folks: **2,186**  &nbsp;&nbsp; `1,151 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,245** &nbsp;&nbsp; folks: **2,186**  &nbsp;&nbsp; `967 stars this week`
 
 1. [PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor)
     - PixiEditor is a Universal Editor for all your 2D needs
-    - language: **C#** &nbsp;&nbsp; stars: **4,864** &nbsp;&nbsp; folks: **194**  &nbsp;&nbsp; `1,418 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **4,882** &nbsp;&nbsp; folks: **194**  &nbsp;&nbsp; `1,675 stars this week`
 
 1. [trailofbits / buttercup](https://github.com/trailofbits/buttercup)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **1,018** &nbsp;&nbsp; folks: **100**  &nbsp;&nbsp; `479 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **1,025** &nbsp;&nbsp; folks: **101**  &nbsp;&nbsp; `328 stars this week`
 
 1. [jitsi / jitsi-meet](https://github.com/jitsi/jitsi-meet)
     - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,820** &nbsp;&nbsp; folks: **7,380**  &nbsp;&nbsp; `601 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,822** &nbsp;&nbsp; folks: **7,380**  &nbsp;&nbsp; `615 stars this week`
 
 1. [filamentphp / filament](https://github.com/filamentphp/filament)
     - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
-    - language: **PHP** &nbsp;&nbsp; stars: **25,872** &nbsp;&nbsp; folks: **3,696**  &nbsp;&nbsp; `430 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **25,876** &nbsp;&nbsp; folks: **3,696**  &nbsp;&nbsp; `446 stars this week`
 
 1. [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
     - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-    - language: **C++** &nbsp;&nbsp; stars: **76,489** &nbsp;&nbsp; folks: **8,252**  &nbsp;&nbsp; `2,009 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **76,490** &nbsp;&nbsp; folks: **8,252**  &nbsp;&nbsp; `632 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **Python** &nbsp;&nbsp; stars: **9,697** &nbsp;&nbsp; folks: **1,678**  &nbsp;&nbsp; `3,278 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,729** &nbsp;&nbsp; folks: **1,686**  &nbsp;&nbsp; `4,413 stars this month`
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,417** &nbsp;&nbsp; folks: **1,290**  &nbsp;&nbsp; `11,338 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,421** &nbsp;&nbsp; folks: **1,294**  &nbsp;&nbsp; `11,437 stars this month`
 
 1. [srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
     - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-    - language: **Python** &nbsp;&nbsp; stars: **22,635** &nbsp;&nbsp; folks: **4,348**  &nbsp;&nbsp; `13,434 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,646** &nbsp;&nbsp; folks: **4,348**  &nbsp;&nbsp; `13,539 stars this month`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Financial data platform for analysts, quants and AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **50,511** &nbsp;&nbsp; folks: **4,717**  &nbsp;&nbsp; `7,132 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **50,533** &nbsp;&nbsp; folks: **4,719**  &nbsp;&nbsp; `7,393 stars this month`
 
 1. [musistudio / claude-code-router](https://github.com/musistudio/claude-code-router)
     - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,052** &nbsp;&nbsp; folks: **1,037**  &nbsp;&nbsp; `8,154 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,061** &nbsp;&nbsp; folks: **1,037**  &nbsp;&nbsp; `8,128 stars this month`
 
 1. [frappe / hrms](https://github.com/frappe/hrms)
     - Open Source HR and Payroll Software
-    - language: **Python** &nbsp;&nbsp; stars: **6,383** &nbsp;&nbsp; folks: **1,565**  &nbsp;&nbsp; `3,585 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,387** &nbsp;&nbsp; folks: **1,565**  &nbsp;&nbsp; `3,624 stars this month`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Rust** &nbsp;&nbsp; stars: **14,217** &nbsp;&nbsp; folks: **1,528**  &nbsp;&nbsp; `4,459 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **14,219** &nbsp;&nbsp; folks: **1,529**  &nbsp;&nbsp; `4,496 stars this month`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **34,137** &nbsp;&nbsp; folks: **2,755**  &nbsp;&nbsp; `6,956 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **34,141** &nbsp;&nbsp; folks: **2,755**  &nbsp;&nbsp; `6,786 stars this month`
 
 1. [langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **8,079** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `3,115 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,083** &nbsp;&nbsp; folks: **1,070**  &nbsp;&nbsp; `2,942 stars this month`
 
 1. [dtyq / magic](https://github.com/dtyq/magic)
     - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    - language: **PHP** &nbsp;&nbsp; stars: **2,913** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,605 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **2,929** &nbsp;&nbsp; folks: **292**  &nbsp;&nbsp; `1,782 stars this month`
 
 1. [hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
     - A curated list of awesome commands, files, and workflows for Claude Code
-    - language: **Python** &nbsp;&nbsp; stars: **11,550** &nbsp;&nbsp; folks: **617**  &nbsp;&nbsp; `7,087 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,564** &nbsp;&nbsp; folks: **619**  &nbsp;&nbsp; `7,218 stars this month`
 
 1. [vllm-project / vllm](https://github.com/vllm-project/vllm)
     - A high-throughput and memory-efficient inference and serving engine for LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **55,736** &nbsp;&nbsp; folks: **9,503**  &nbsp;&nbsp; `3,097 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **55,744** &nbsp;&nbsp; folks: **9,505**  &nbsp;&nbsp; `3,174 stars this month`
 
 
 ## 历史归档
