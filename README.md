@@ -10,171 +10,171 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-08-26 01:13:00 +0800`
+`更新时间：2025-08-26 02:23:34 +0800`
 
 ## 今日热门仓库
 
 1. [plait-board / drawnix](https://github.com/plait-board/drawnix)
     - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,181** &nbsp;&nbsp; folks: **533**  &nbsp;&nbsp; `649 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,232** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `649 stars today`
 
 1. [HKUDS / DeepCode](https://github.com/HKUDS/DeepCode)
     - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    - language: **Python** &nbsp;&nbsp; stars: **3,100** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `805 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,152** &nbsp;&nbsp; folks: **340**  &nbsp;&nbsp; `805 stars today`
 
 1. [winapps-org / winapps](https://github.com/winapps-org/winapps)
     - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    - language: **Shell** &nbsp;&nbsp; stars: **7,151** &nbsp;&nbsp; folks: **217**  &nbsp;&nbsp; `1,881 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **7,177** &nbsp;&nbsp; folks: **218**  &nbsp;&nbsp; `1,881 stars today`
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **Vue** &nbsp;&nbsp; stars: **10,201** &nbsp;&nbsp; folks: **757**  &nbsp;&nbsp; `1,382 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **10,229** &nbsp;&nbsp; folks: **763**  &nbsp;&nbsp; `1,382 stars today`
 
 1. [HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack)
     - Useful tool to track location or mobile number
-    - language: **Python** &nbsp;&nbsp; stars: **4,518** &nbsp;&nbsp; folks: **532**  &nbsp;&nbsp; `671 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,552** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `671 stars today`
 
 1. [willccbb / verifiers](https://github.com/willccbb/verifiers)
     - Verifiers for LLM Reinforcement Learning
-    - language: **Python** &nbsp;&nbsp; stars: **2,168** &nbsp;&nbsp; folks: **270**  &nbsp;&nbsp; `270 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,181** &nbsp;&nbsp; folks: **270**  &nbsp;&nbsp; `270 stars today`
 
 1. [spotDL / spotify-downloader](https://github.com/spotDL/spotify-downloader)
     - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-    - language: **Python** &nbsp;&nbsp; stars: **21,377** &nbsp;&nbsp; folks: **1,894**  &nbsp;&nbsp; `32 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,395** &nbsp;&nbsp; folks: **1,920**  &nbsp;&nbsp; `32 stars today`
 
 1. [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
     - ⚡ Dynamically generated stats for your github readmes
-    - language: **JavaScript** &nbsp;&nbsp; stars: **75,372** &nbsp;&nbsp; folks: **25,769**  &nbsp;&nbsp; `66 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **75,377** &nbsp;&nbsp; folks: **25,769**  &nbsp;&nbsp; `66 stars today`
 
 1. [karpathy / nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
     - Neural Networks: Zero to Hero
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,629** &nbsp;&nbsp; folks: **2,202**  &nbsp;&nbsp; `109 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,645** &nbsp;&nbsp; folks: **2,202**  &nbsp;&nbsp; `109 stars today`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,359** &nbsp;&nbsp; folks: **2,019**  &nbsp;&nbsp; `467 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,396** &nbsp;&nbsp; folks: **2,050**  &nbsp;&nbsp; `467 stars today`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **95,851** &nbsp;&nbsp; folks: **50,116**  &nbsp;&nbsp; `167 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **95,867** &nbsp;&nbsp; folks: **50,146**  &nbsp;&nbsp; `167 stars today`
 
 1. [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
     - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    - language: **无** &nbsp;&nbsp; stars: **40,768** &nbsp;&nbsp; folks: **4,166**  &nbsp;&nbsp; `499 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **40,780** &nbsp;&nbsp; folks: **4,167**  &nbsp;&nbsp; `499 stars today`
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A feature-rich command-line audio/video downloader
-    - language: **Python** &nbsp;&nbsp; stars: **123,973** &nbsp;&nbsp; folks: **9,879**  &nbsp;&nbsp; `321 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **123,990** &nbsp;&nbsp; folks: **9,879**  &nbsp;&nbsp; `321 stars today`
 
 1. [rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis)
     - List of projects that provide terminal user interfaces
-    - language: **无** &nbsp;&nbsp; stars: **11,252** &nbsp;&nbsp; folks: **436**  &nbsp;&nbsp; `197 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **11,279** &nbsp;&nbsp; folks: **436**  &nbsp;&nbsp; `197 stars today`
 
 
 ## 近一周热门仓库
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **Vue** &nbsp;&nbsp; stars: **10,201** &nbsp;&nbsp; folks: **757**  &nbsp;&nbsp; `6,633 stars this week`
+    - language: **Vue** &nbsp;&nbsp; stars: **10,229** &nbsp;&nbsp; folks: **763**  &nbsp;&nbsp; `6,633 stars this week`
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,114** &nbsp;&nbsp; folks: **1,404**  &nbsp;&nbsp; `4,608 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,128** &nbsp;&nbsp; folks: **1,406**  &nbsp;&nbsp; `4,608 stars this week`
 
 1. [winapps-org / winapps](https://github.com/winapps-org/winapps)
     - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    - language: **Shell** &nbsp;&nbsp; stars: **7,151** &nbsp;&nbsp; folks: **217**  &nbsp;&nbsp; `1,825 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **7,177** &nbsp;&nbsp; folks: **218**  &nbsp;&nbsp; `1,825 stars this week`
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,703** &nbsp;&nbsp; folks: **1,843**  &nbsp;&nbsp; `3,441 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,712** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `3,441 stars this week`
 
 1. [emcie-co / parlant](https://github.com/emcie-co/parlant)
     - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    - language: **Python** &nbsp;&nbsp; stars: **7,781** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `3,046 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,796** &nbsp;&nbsp; folks: **650**  &nbsp;&nbsp; `3,046 stars this week`
 
 1. [plait-board / drawnix](https://github.com/plait-board/drawnix)
     - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,181** &nbsp;&nbsp; folks: **533**  &nbsp;&nbsp; `1,900 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,232** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,900 stars this week`
 
 1. [HKUDS / DeepCode](https://github.com/HKUDS/DeepCode)
     - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    - language: **Python** &nbsp;&nbsp; stars: **3,100** &nbsp;&nbsp; folks: **335**  &nbsp;&nbsp; `1,406 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,152** &nbsp;&nbsp; folks: **340**  &nbsp;&nbsp; `1,406 stars this week`
 
 1. [Leantime / leantime](https://github.com/Leantime/leantime)
     - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-    - language: **PHP** &nbsp;&nbsp; stars: **7,472** &nbsp;&nbsp; folks: **741**  &nbsp;&nbsp; `1,488 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **7,477** &nbsp;&nbsp; folks: **741**  &nbsp;&nbsp; `1,488 stars this week`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **36,885** &nbsp;&nbsp; folks: **10,482**  &nbsp;&nbsp; `289 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **36,888** &nbsp;&nbsp; folks: **10,481**  &nbsp;&nbsp; `289 stars this week`
 
 1. [firecrawl / firecrawl](https://github.com/firecrawl/firecrawl)
     - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
-    - language: **TypeScript** &nbsp;&nbsp; stars: **51,918** &nbsp;&nbsp; folks: **4,495**  &nbsp;&nbsp; `3,033 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **51,930** &nbsp;&nbsp; folks: **4,495**  &nbsp;&nbsp; `3,033 stars this week`
 
 1. [aliasrobotics / cai](https://github.com/aliasrobotics/cai)
     - Cybersecurity AI (CAI), the framework for AI Security
-    - language: **Python** &nbsp;&nbsp; stars: **3,192** &nbsp;&nbsp; folks: **444**  &nbsp;&nbsp; `611 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,197** &nbsp;&nbsp; folks: **444**  &nbsp;&nbsp; `611 stars this week`
 
 1. [bitwarden / clients](https://github.com/bitwarden/clients)
     - Bitwarden client apps (web, browser extension, desktop, and cli).
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,046** &nbsp;&nbsp; folks: **1,464**  &nbsp;&nbsp; `397 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,048** &nbsp;&nbsp; folks: **1,464**  &nbsp;&nbsp; `397 stars this week`
 
 1. [PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor)
     - PixiEditor is a Universal Editor for all your 2D needs
-    - language: **C#** &nbsp;&nbsp; stars: **5,759** &nbsp;&nbsp; folks: **223**  &nbsp;&nbsp; `1,826 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **5,765** &nbsp;&nbsp; folks: **223**  &nbsp;&nbsp; `1,826 stars this week`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,359** &nbsp;&nbsp; folks: **2,019**  &nbsp;&nbsp; `707 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,396** &nbsp;&nbsp; folks: **2,050**  &nbsp;&nbsp; `707 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,703** &nbsp;&nbsp; folks: **1,843**  &nbsp;&nbsp; `5,389 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,712** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `5,389 stars this month`
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **Vue** &nbsp;&nbsp; stars: **10,201** &nbsp;&nbsp; folks: **757**  &nbsp;&nbsp; `7,262 stars this month`
+    - language: **Vue** &nbsp;&nbsp; stars: **10,229** &nbsp;&nbsp; folks: **763**  &nbsp;&nbsp; `7,262 stars this month`
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,842** &nbsp;&nbsp; folks: **1,341**  &nbsp;&nbsp; `11,731 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,850** &nbsp;&nbsp; folks: **1,343**  &nbsp;&nbsp; `11,731 stars this month`
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,114** &nbsp;&nbsp; folks: **1,404**  &nbsp;&nbsp; `5,840 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,128** &nbsp;&nbsp; folks: **1,406**  &nbsp;&nbsp; `5,840 stars this month`
 
 1. [musistudio / claude-code-router](https://github.com/musistudio/claude-code-router)
     - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,221** &nbsp;&nbsp; folks: **1,135**  &nbsp;&nbsp; `7,799 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,225** &nbsp;&nbsp; folks: **1,136**  &nbsp;&nbsp; `7,799 stars this month`
 
 1. [dtyq / magic](https://github.com/dtyq/magic)
     - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    - language: **PHP** &nbsp;&nbsp; stars: **3,496** &nbsp;&nbsp; folks: **340**  &nbsp;&nbsp; `2,318 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **3,498** &nbsp;&nbsp; folks: **340**  &nbsp;&nbsp; `2,318 stars this month`
 
 1. [winapps-org / winapps](https://github.com/winapps-org/winapps)
     - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    - language: **Shell** &nbsp;&nbsp; stars: **7,151** &nbsp;&nbsp; folks: **217**  &nbsp;&nbsp; `2,416 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **7,177** &nbsp;&nbsp; folks: **218**  &nbsp;&nbsp; `2,416 stars this month`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Rust** &nbsp;&nbsp; stars: **14,545** &nbsp;&nbsp; folks: **1,573**  &nbsp;&nbsp; `4,688 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **14,546** &nbsp;&nbsp; folks: **1,573**  &nbsp;&nbsp; `4,688 stars this month`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Financial data platform for analysts, quants and AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **51,273** &nbsp;&nbsp; folks: **4,821**  &nbsp;&nbsp; `5,994 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **51,279** &nbsp;&nbsp; folks: **4,822**  &nbsp;&nbsp; `5,994 stars this month`
 
 1. [plait-board / drawnix](https://github.com/plait-board/drawnix)
     - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,181** &nbsp;&nbsp; folks: **533**  &nbsp;&nbsp; `3,876 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,232** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `3,876 stars this month`
 
 1. [vllm-project / vllm](https://github.com/vllm-project/vllm)
     - A high-throughput and memory-efficient inference and serving engine for LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **56,263** &nbsp;&nbsp; folks: **9,647**  &nbsp;&nbsp; `3,175 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **56,268** &nbsp;&nbsp; folks: **9,649**  &nbsp;&nbsp; `3,175 stars this month`
 
 
 ## 历史归档
