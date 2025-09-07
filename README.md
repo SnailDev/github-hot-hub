@@ -10,37 +10,37 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-09-07 11:35:35 +0800`
+`更新时间：2025-09-07 12:17:51 +0800`
 
 ## 今日热门仓库
 
 1. [zama-ai / fhevm](https://github.com/zama-ai/fhevm)
     - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    - language: **Rust** &nbsp;&nbsp; stars: **17,209** &nbsp;&nbsp; folks: **715**  &nbsp;&nbsp; `146 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,228** &nbsp;&nbsp; folks: **718**  &nbsp;&nbsp; `146 stars today`
 
 1. [aquasecurity / trivy](https://github.com/aquasecurity/trivy)
     - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    - language: **Go** &nbsp;&nbsp; stars: **28,623** &nbsp;&nbsp; folks: **2,731**  &nbsp;&nbsp; `111 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **28,624** &nbsp;&nbsp; folks: **2,731**  &nbsp;&nbsp; `111 stars today`
 
 1. [trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog)
     - Find, verify, and analyze leaked credentials
-    - language: **Go** &nbsp;&nbsp; stars: **21,023** &nbsp;&nbsp; folks: **1,999**  &nbsp;&nbsp; `212 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **21,028** &nbsp;&nbsp; folks: **1,999**  &nbsp;&nbsp; `212 stars today`
 
 1. [rails / rails](https://github.com/rails/rails)
     - Ruby on Rails
-    - language: **Ruby** &nbsp;&nbsp; stars: **57,490** &nbsp;&nbsp; folks: **21,955**  &nbsp;&nbsp; `27 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **57,492** &nbsp;&nbsp; folks: **21,955**  &nbsp;&nbsp; `27 stars today`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **21,606** &nbsp;&nbsp; folks: **1,640**  &nbsp;&nbsp; `167 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,608** &nbsp;&nbsp; folks: **1,640**  &nbsp;&nbsp; `167 stars today`
 
 1. [coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents)
     - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    - language: **Python** &nbsp;&nbsp; stars: **3,934** &nbsp;&nbsp; folks: **1,428**  &nbsp;&nbsp; `71 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,936** &nbsp;&nbsp; folks: **1,428**  &nbsp;&nbsp; `71 stars today`
 
 1. [emcie-co / parlant](https://github.com/emcie-co/parlant)
     - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    - language: **Python** &nbsp;&nbsp; stars: **9,229** &nbsp;&nbsp; folks: **766**  &nbsp;&nbsp; `299 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,241** &nbsp;&nbsp; folks: **768**  &nbsp;&nbsp; `299 stars today`
 
 1. [mack-a / v2ray-agent](https://github.com/mack-a/v2ray-agent)
     - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
@@ -48,86 +48,86 @@
 
 1. [quarkusio / quarkus](https://github.com/quarkusio/quarkus)
     - Quarkus: Supersonic Subatomic Java.
-    - language: **Java** &nbsp;&nbsp; stars: **14,921** &nbsp;&nbsp; folks: **2,949**  &nbsp;&nbsp; `9 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **14,924** &nbsp;&nbsp; folks: **2,949**  &nbsp;&nbsp; `9 stars today`
 
 1. [apache / airflow](https://github.com/apache/airflow)
     - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-    - language: **Python** &nbsp;&nbsp; stars: **42,159** &nbsp;&nbsp; folks: **15,544**  &nbsp;&nbsp; `198 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **42,164** &nbsp;&nbsp; folks: **15,544**  &nbsp;&nbsp; `198 stars today`
 
 1. [apple / embedding-atlas](https://github.com/apple/embedding-atlas)
     - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,601** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `67 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,608** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `67 stars today`
 
 1. [Eventual-Inc / Daft](https://github.com/Eventual-Inc/Daft)
     - Distributed query engine providing simple and reliable data processing for any modality and scale
-    - language: **Rust** &nbsp;&nbsp; stars: **3,697** &nbsp;&nbsp; folks: **276**  &nbsp;&nbsp; `61 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,707** &nbsp;&nbsp; folks: **276**  &nbsp;&nbsp; `61 stars today`
 
 1. [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
     - #1 Locally hosted web application that allows you to perform various operations on PDF files
-    - language: **Java** &nbsp;&nbsp; stars: **65,286** &nbsp;&nbsp; folks: **5,568**  &nbsp;&nbsp; `89 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **65,295** &nbsp;&nbsp; folks: **5,567**  &nbsp;&nbsp; `89 stars today`
 
 
 ## 近一周热门仓库
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **44,587** &nbsp;&nbsp; folks: **3,241**  &nbsp;&nbsp; `6,784 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **44,590** &nbsp;&nbsp; folks: **3,241**  &nbsp;&nbsp; `6,784 stars this week`
 
 1. [bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot)
     - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,676** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `2,671 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,683** &nbsp;&nbsp; folks: **606**  &nbsp;&nbsp; `2,671 stars this week`
 
 1. [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
     - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    - language: **Python** &nbsp;&nbsp; stars: **6,450** &nbsp;&nbsp; folks: **545**  &nbsp;&nbsp; `2,964 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,453** &nbsp;&nbsp; folks: **546**  &nbsp;&nbsp; `2,964 stars this week`
 
 1. [humanlayer / humanlayer](https://github.com/humanlayer/humanlayer)
     - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,213** &nbsp;&nbsp; folks: **206**  &nbsp;&nbsp; `599 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,216** &nbsp;&nbsp; folks: **206**  &nbsp;&nbsp; `599 stars this week`
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **19,248** &nbsp;&nbsp; folks: **4,468**  &nbsp;&nbsp; `1,471 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **19,249** &nbsp;&nbsp; folks: **4,468**  &nbsp;&nbsp; `1,471 stars this week`
 
 1. [elixir-lang / expert](https://github.com/elixir-lang/expert)
     - Official Elixir Language Server Protocol implementation
-    - language: **Elixir** &nbsp;&nbsp; stars: **1,372** &nbsp;&nbsp; folks: **30**  &nbsp;&nbsp; `351 stars this week`
+    - language: **Elixir** &nbsp;&nbsp; stars: **1,373** &nbsp;&nbsp; folks: **30**  &nbsp;&nbsp; `351 stars this week`
 
 1. [chiphuyen / aie-book](https://github.com/chiphuyen/aie-book)
     - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **7,998** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `1,874 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **8,001** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `1,874 stars this week`
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **21,398** &nbsp;&nbsp; folks: **1,591**  &nbsp;&nbsp; `816 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **21,405** &nbsp;&nbsp; folks: **1,592**  &nbsp;&nbsp; `816 stars this week`
 
 1. [laramies / theHarvester](https://github.com/laramies/theHarvester)
     - E-mails, subdomains and names Harvester - OSINT
-    - language: **Python** &nbsp;&nbsp; stars: **14,289** &nbsp;&nbsp; folks: **2,290**  &nbsp;&nbsp; `859 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,290** &nbsp;&nbsp; folks: **2,290**  &nbsp;&nbsp; `859 stars this week`
 
 1. [gristlabs / grist-core](https://github.com/gristlabs/grist-core)
     - Grist is the evolution of spreadsheets.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,427** &nbsp;&nbsp; folks: **459**  &nbsp;&nbsp; `467 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,429** &nbsp;&nbsp; folks: **459**  &nbsp;&nbsp; `467 stars this week`
 
 1. [JetBrains / koog](https://github.com/JetBrains/koog)
     - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-    - language: **Kotlin** &nbsp;&nbsp; stars: **2,935** &nbsp;&nbsp; folks: **197**  &nbsp;&nbsp; `1,243 stars this week`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **2,936** &nbsp;&nbsp; folks: **197**  &nbsp;&nbsp; `1,243 stars this week`
 
 1. [HKUDS / DeepCode](https://github.com/HKUDS/DeepCode)
     - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    - language: **Python** &nbsp;&nbsp; stars: **5,695** &nbsp;&nbsp; folks: **749**  &nbsp;&nbsp; `1,134 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,698** &nbsp;&nbsp; folks: **750**  &nbsp;&nbsp; `1,134 stars this week`
 
 1. [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent)
     - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    - language: **Python** &nbsp;&nbsp; stars: **7,484** &nbsp;&nbsp; folks: **777**  &nbsp;&nbsp; `213 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,485** &nbsp;&nbsp; folks: **777**  &nbsp;&nbsp; `213 stars this week`
 
 1. [google / comprehensive-rust](https://github.com/google/comprehensive-rust)
     - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-    - language: **Rust** &nbsp;&nbsp; stars: **31,702** &nbsp;&nbsp; folks: **1,876**  &nbsp;&nbsp; `904 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **31,704** &nbsp;&nbsp; folks: **1,876**  &nbsp;&nbsp; `904 stars this week`
 
 1. [aquasecurity / trivy](https://github.com/aquasecurity/trivy)
     - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    - language: **Go** &nbsp;&nbsp; stars: **28,623** &nbsp;&nbsp; folks: **2,731**  &nbsp;&nbsp; `491 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **28,624** &nbsp;&nbsp; folks: **2,731**  &nbsp;&nbsp; `491 stars this week`
 
 1. [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc)
     - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
@@ -138,71 +138,71 @@
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **Vue** &nbsp;&nbsp; stars: **13,019** &nbsp;&nbsp; folks: **1,094**  &nbsp;&nbsp; `11,231 stars this month`
+    - language: **Vue** &nbsp;&nbsp; stars: **13,021** &nbsp;&nbsp; folks: **1,095**  &nbsp;&nbsp; `11,231 stars this month`
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **Python** &nbsp;&nbsp; stars: **11,680** &nbsp;&nbsp; folks: **2,022**  &nbsp;&nbsp; `6,506 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,682** &nbsp;&nbsp; folks: **2,023**  &nbsp;&nbsp; `6,506 stars this month`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    - language: **JavaScript** &nbsp;&nbsp; stars: **19,203** &nbsp;&nbsp; folks: **3,060**  &nbsp;&nbsp; `11,082 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **19,207** &nbsp;&nbsp; folks: **3,060**  &nbsp;&nbsp; `11,082 stars this month`
 
 1. [winapps-org / winapps](https://github.com/winapps-org/winapps)
     - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    - language: **Shell** &nbsp;&nbsp; stars: **8,877** &nbsp;&nbsp; folks: **266**  &nbsp;&nbsp; `5,545 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **8,882** &nbsp;&nbsp; folks: **267**  &nbsp;&nbsp; `5,545 stars this month`
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Open-source platform to build and deploy AI agent workflows.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,292** &nbsp;&nbsp; folks: **1,745**  &nbsp;&nbsp; `7,705 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,297** &nbsp;&nbsp; folks: **1,746**  &nbsp;&nbsp; `7,705 stars this month`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **39,082** &nbsp;&nbsp; folks: **4,525**  &nbsp;&nbsp; `7,280 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **39,090** &nbsp;&nbsp; folks: **4,525**  &nbsp;&nbsp; `7,280 stars this month`
 
 1. [langchain-ai / open-swe](https://github.com/langchain-ai/open-swe)
     - An Open-Source Asynchronous Coding Agent
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,707** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `4,644 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,710** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `4,644 stars this month`
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **44,587** &nbsp;&nbsp; folks: **3,241**  &nbsp;&nbsp; `7,923 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **44,590** &nbsp;&nbsp; folks: **3,241**  &nbsp;&nbsp; `7,923 stars this month`
 
 1. [basecamp / omarchy](https://github.com/basecamp/omarchy)
     - Opinionated Arch/Hyprland Setup
-    - language: **Shell** &nbsp;&nbsp; stars: **7,069** &nbsp;&nbsp; folks: **850**  &nbsp;&nbsp; `4,035 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **7,073** &nbsp;&nbsp; folks: **849**  &nbsp;&nbsp; `4,035 stars this month`
 
 1. [dtyq / magic](https://github.com/dtyq/magic)
     - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    - language: **PHP** &nbsp;&nbsp; stars: **3,965** &nbsp;&nbsp; folks: **398**  &nbsp;&nbsp; `2,588 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **3,967** &nbsp;&nbsp; folks: **398**  &nbsp;&nbsp; `2,588 stars this month`
 
 1. [aliasrobotics / cai](https://github.com/aliasrobotics/cai)
     - Cybersecurity AI (CAI), the framework for AI Security
-    - language: **Python** &nbsp;&nbsp; stars: **3,563** &nbsp;&nbsp; folks: **484**  &nbsp;&nbsp; `1,591 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,565** &nbsp;&nbsp; folks: **484**  &nbsp;&nbsp; `1,591 stars this month`
 
 1. [librespot-org / librespot](https://github.com/librespot-org/librespot)
     - Open Source Spotify client library
-    - language: **Rust** &nbsp;&nbsp; stars: **5,600** &nbsp;&nbsp; folks: **729**  &nbsp;&nbsp; `218 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **5,601** &nbsp;&nbsp; folks: **729**  &nbsp;&nbsp; `218 stars this month`
 
 1. [Canner / WrenAI](https://github.com/Canner/WrenAI)
     - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,717** &nbsp;&nbsp; folks: **1,173**  &nbsp;&nbsp; `2,209 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,720** &nbsp;&nbsp; folks: **1,173**  &nbsp;&nbsp; `2,209 stars this month`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **37,030** &nbsp;&nbsp; folks: **10,507**  &nbsp;&nbsp; `546 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **37,031** &nbsp;&nbsp; folks: **10,507**  &nbsp;&nbsp; `546 stars this month`
 
 1. [oraios / serena](https://github.com/oraios/serena)
     - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
-    - language: **Python** &nbsp;&nbsp; stars: **11,666** &nbsp;&nbsp; folks: **809**  &nbsp;&nbsp; `4,071 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,667** &nbsp;&nbsp; folks: **809**  &nbsp;&nbsp; `4,071 stars this month`
 
 1. [OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
     - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    - language: **Python** &nbsp;&nbsp; stars: **21,398** &nbsp;&nbsp; folks: **1,591**  &nbsp;&nbsp; `1,479 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,405** &nbsp;&nbsp; folks: **1,592**  &nbsp;&nbsp; `1,479 stars this month`
 
 1. [external-secrets / external-secrets](https://github.com/external-secrets/external-secrets)
     - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-    - language: **Go** &nbsp;&nbsp; stars: **5,785** &nbsp;&nbsp; folks: **1,066**  &nbsp;&nbsp; `525 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **5,786** &nbsp;&nbsp; folks: **1,066**  &nbsp;&nbsp; `525 stars this month`
 
 
 ## 历史归档
