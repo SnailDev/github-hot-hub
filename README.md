@@ -10,116 +10,116 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-09-27 14:19:59 +0800`
+`更新时间：2025-09-27 15:12:28 +0800`
 
 ## 今日热门仓库
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,176** &nbsp;&nbsp; folks: **4,320**  &nbsp;&nbsp; `448 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,213** &nbsp;&nbsp; folks: **4,323**  &nbsp;&nbsp; `448 stars today`
 
 1. [HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything)
     - "RAG-Anything: All-in-One RAG Framework"
-    - language: **Python** &nbsp;&nbsp; stars: **6,420** &nbsp;&nbsp; folks: **729**  &nbsp;&nbsp; `213 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,439** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `213 stars today`
 
 1. [humanlayer / humanlayer](https://github.com/humanlayer/humanlayer)
     - The best way to get AI to solve hard problems in complex codebases.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,288** &nbsp;&nbsp; folks: **279**  &nbsp;&nbsp; `338 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,297** &nbsp;&nbsp; folks: **280**  &nbsp;&nbsp; `338 stars today`
 
 1. [gin-gonic / gin](https://github.com/gin-gonic/gin)
     - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    - language: **Go** &nbsp;&nbsp; stars: **85,898** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `750 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **85,901** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `750 stars today`
 
 1. [basecamp / omarchy](https://github.com/basecamp/omarchy)
     - Opinionated Arch/Hyprland Setup
-    - language: **Shell** &nbsp;&nbsp; stars: **10,970** &nbsp;&nbsp; folks: **1,071**  &nbsp;&nbsp; `517 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **10,973** &nbsp;&nbsp; folks: **1,071**  &nbsp;&nbsp; `517 stars today`
 
 1. [onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx)
     - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    - language: **Python** &nbsp;&nbsp; stars: **14,151** &nbsp;&nbsp; folks: **1,943**  &nbsp;&nbsp; `408 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **14,155** &nbsp;&nbsp; folks: **1,943**  &nbsp;&nbsp; `408 stars today`
 
 1. [ericciarla / trendFinder](https://github.com/ericciarla/trendFinder)
     - Stay on top of trending topics on social media and the web with AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,705** &nbsp;&nbsp; folks: **403**  &nbsp;&nbsp; `84 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,718** &nbsp;&nbsp; folks: **405**  &nbsp;&nbsp; `84 stars today`
 
 1. [netdata / netdata](https://github.com/netdata/netdata)
     - The fastest path to AI-powered full stack observability, even for lean teams.
-    - language: **C** &nbsp;&nbsp; stars: **76,156** &nbsp;&nbsp; folks: **6,171**  &nbsp;&nbsp; `38 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **76,162** &nbsp;&nbsp; folks: **6,171**  &nbsp;&nbsp; `38 stars today`
 
 1. [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin)
     - The Free Software Media System - Server Backend & API
-    - language: **C#** &nbsp;&nbsp; stars: **43,781** &nbsp;&nbsp; folks: **3,933**  &nbsp;&nbsp; `47 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **43,785** &nbsp;&nbsp; folks: **3,933**  &nbsp;&nbsp; `47 stars today`
 
 1. [bytedance / Dolphin](https://github.com/bytedance/Dolphin)
     - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
-    - language: **Python** &nbsp;&nbsp; stars: **6,854** &nbsp;&nbsp; folks: **547**  &nbsp;&nbsp; `108 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,858** &nbsp;&nbsp; folks: **547**  &nbsp;&nbsp; `108 stars today`
 
 1. [google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli)
     - An open-source AI agent that brings the power of Gemini directly into your terminal.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **77,017** &nbsp;&nbsp; folks: **8,266**  &nbsp;&nbsp; `195 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **77,027** &nbsp;&nbsp; folks: **8,268**  &nbsp;&nbsp; `195 stars today`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **31,520** &nbsp;&nbsp; folks: **2,090**  &nbsp;&nbsp; `62 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **31,522** &nbsp;&nbsp; folks: **2,091**  &nbsp;&nbsp; `62 stars today`
 
 1. [is-a-dev / register](https://github.com/is-a-dev/register)
     - Grab your own sweet-looking '.is-a.dev' subdomain.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **7,824** &nbsp;&nbsp; folks: **14,225**  &nbsp;&nbsp; `73 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **7,836** &nbsp;&nbsp; folks: **14,230**  &nbsp;&nbsp; `73 stars today`
 
 1. [google-gemini / cookbook](https://github.com/google-gemini/cookbook)
     - Examples and guides for using the Gemini API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **14,938** &nbsp;&nbsp; folks: **2,126**  &nbsp;&nbsp; `35 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **14,944** &nbsp;&nbsp; folks: **2,127**  &nbsp;&nbsp; `35 stars today`
 
 1. [ultralytics / ultralytics](https://github.com/ultralytics/ultralytics)
     - Ultralytics YOLO 🚀
-    - language: **Python** &nbsp;&nbsp; stars: **46,447** &nbsp;&nbsp; folks: **8,991**  &nbsp;&nbsp; `65 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **46,454** &nbsp;&nbsp; folks: **8,992**  &nbsp;&nbsp; `65 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
     - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    - language: **Python** &nbsp;&nbsp; stars: **14,805** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `5,138 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,812** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `5,138 stars this week`
 
 1. [get-convex / chef](https://github.com/get-convex/chef)
     - The only AI app builder that knows backend
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,857** &nbsp;&nbsp; folks: **316**  &nbsp;&nbsp; `775 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,859** &nbsp;&nbsp; folks: **316**  &nbsp;&nbsp; `775 stars this week`
 
 1. [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
     - 12 Weeks, 24 Lessons, AI for All!
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **42,499** &nbsp;&nbsp; folks: **8,230**  &nbsp;&nbsp; `2,014 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **42,500** &nbsp;&nbsp; folks: **8,231**  &nbsp;&nbsp; `2,014 stars this week`
 
 1. [bytedance / Dolphin](https://github.com/bytedance/Dolphin)
     - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
-    - language: **Python** &nbsp;&nbsp; stars: **6,854** &nbsp;&nbsp; folks: **547**  &nbsp;&nbsp; `955 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,858** &nbsp;&nbsp; folks: **547**  &nbsp;&nbsp; `955 stars this week`
 
 1. [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
     - Free and Open Source, Distributed, RESTful Search Engine
-    - language: **Java** &nbsp;&nbsp; stars: **74,789** &nbsp;&nbsp; folks: **25,510**  &nbsp;&nbsp; `988 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **74,790** &nbsp;&nbsp; folks: **25,511**  &nbsp;&nbsp; `988 stars this week`
 
 1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
     - Neovim config for the lazy
-    - language: **Lua** &nbsp;&nbsp; stars: **23,085** &nbsp;&nbsp; folks: **1,630**  &nbsp;&nbsp; `541 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **23,086** &nbsp;&nbsp; folks: **1,630**  &nbsp;&nbsp; `541 stars this week`
 
 1. [gin-gonic / gin](https://github.com/gin-gonic/gin)
     - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    - language: **Go** &nbsp;&nbsp; stars: **85,898** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `1,832 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **85,901** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `1,832 stars this week`
 
 1. [fmtlib / fmt](https://github.com/fmtlib/fmt)
     - A modern formatting library
-    - language: **C++** &nbsp;&nbsp; stars: **22,630** &nbsp;&nbsp; folks: **2,728**  &nbsp;&nbsp; `279 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **22,631** &nbsp;&nbsp; folks: **2,729**  &nbsp;&nbsp; `279 stars this week`
 
 1. [tldraw / tldraw](https://github.com/tldraw/tldraw)
     - very good whiteboard SDK / infinite canvas SDK
-    - language: **TypeScript** &nbsp;&nbsp; stars: **43,017** &nbsp;&nbsp; folks: **2,764**  &nbsp;&nbsp; `1,160 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **43,019** &nbsp;&nbsp; folks: **2,765**  &nbsp;&nbsp; `1,160 stars this week`
 
 1. [WebGoat / WebGoat](https://github.com/WebGoat/WebGoat)
     - WebGoat is a deliberately insecure application
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,354** &nbsp;&nbsp; folks: **6,745**  &nbsp;&nbsp; `525 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,356** &nbsp;&nbsp; folks: **6,745**  &nbsp;&nbsp; `525 stars this week`
 
 1. [ytdl-org / youtube-dl](https://github.com/ytdl-org/youtube-dl)
     - Command-line program to download videos from YouTube.com and other video sites
-    - language: **Python** &nbsp;&nbsp; stars: **138,122** &nbsp;&nbsp; folks: **10,503**  &nbsp;&nbsp; `820 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **138,123** &nbsp;&nbsp; folks: **10,503**  &nbsp;&nbsp; `820 stars this week`
 
 1. [knownsec / aipyapp](https://github.com/knownsec/aipyapp)
     - AI-Powered Python & Python-Powered AI (Python-Use)
@@ -127,7 +127,7 @@
 
 1. [cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba)
     - 无
-    - language: **C** &nbsp;&nbsp; stars: **1,268** &nbsp;&nbsp; folks: **43**  &nbsp;&nbsp; `238 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **1,269** &nbsp;&nbsp; folks: **43**  &nbsp;&nbsp; `238 stars this week`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
@@ -135,30 +135,30 @@
 
 1. [google-agentic-commerce / a2a-x402](https://github.com/google-agentic-commerce/a2a-x402)
     - The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem.
-    - language: **Python** &nbsp;&nbsp; stars: **234** &nbsp;&nbsp; folks: **38**  &nbsp;&nbsp; `79 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **236** &nbsp;&nbsp; folks: **38**  &nbsp;&nbsp; `79 stars this week`
 
 1. [iDvel / rime-ice](https://github.com/iDvel/rime-ice)
     - Rime 配置：雾凇拼音 | 长期维护的简体词库
-    - language: **Lua** &nbsp;&nbsp; stars: **13,084** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `213 stars this week`
+    - language: **Lua** &nbsp;&nbsp; stars: **13,088** &nbsp;&nbsp; folks: **837**  &nbsp;&nbsp; `213 stars this week`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **321,240** &nbsp;&nbsp; folks: **52,460**  &nbsp;&nbsp; `1,132 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **321,247** &nbsp;&nbsp; folks: **52,460**  &nbsp;&nbsp; `1,132 stars this week`
 
 1. [OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
     - OpenZeppelin Contracts is a library for secure smart contract development.
-    - language: **Solidity** &nbsp;&nbsp; stars: **26,507** &nbsp;&nbsp; folks: **12,200**  &nbsp;&nbsp; `196 stars this week`
+    - language: **Solidity** &nbsp;&nbsp; stars: **26,509** &nbsp;&nbsp; folks: **12,200**  &nbsp;&nbsp; `196 stars this week`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **429,000** &nbsp;&nbsp; folks: **41,776**  &nbsp;&nbsp; `887 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **429,005** &nbsp;&nbsp; folks: **41,776**  &nbsp;&nbsp; `887 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
     - Source code for the X Recommendation Algorithm
-    - language: **Scala** &nbsp;&nbsp; stars: **67,188** &nbsp;&nbsp; folks: **12,580**  &nbsp;&nbsp; `3,787 stars this month`
+    - language: **Scala** &nbsp;&nbsp; stars: **67,190** &nbsp;&nbsp; folks: **12,580**  &nbsp;&nbsp; `3,787 stars this month`
 
 1. [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi)
     - 无
@@ -166,31 +166,31 @@
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **46,251** &nbsp;&nbsp; folks: **3,366**  &nbsp;&nbsp; `9,300 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **46,252** &nbsp;&nbsp; folks: **3,368**  &nbsp;&nbsp; `9,300 stars this month`
 
 1. [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
     - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    - language: **Python** &nbsp;&nbsp; stars: **7,135** &nbsp;&nbsp; folks: **649**  &nbsp;&nbsp; `6,170 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,136** &nbsp;&nbsp; folks: **649**  &nbsp;&nbsp; `6,170 stars this month`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **44,735** &nbsp;&nbsp; folks: **5,242**  &nbsp;&nbsp; `8,353 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **44,743** &nbsp;&nbsp; folks: **5,243**  &nbsp;&nbsp; `8,353 stars this month`
 
 1. [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
     - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    - language: **Python** &nbsp;&nbsp; stars: **14,805** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `8,588 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,812** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `8,588 stars this month`
 
 1. [modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry)
     - A community driven registry service for Model Context Protocol (MCP) servers.
-    - language: **Go** &nbsp;&nbsp; stars: **5,196** &nbsp;&nbsp; folks: **382**  &nbsp;&nbsp; `3,110 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **5,197** &nbsp;&nbsp; folks: **382**  &nbsp;&nbsp; `3,110 stars this month`
 
 1. [dataease / SQLBot](https://github.com/dataease/SQLBot)
     - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **3,198** &nbsp;&nbsp; folks: **324**  &nbsp;&nbsp; `1,994 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,208** &nbsp;&nbsp; folks: **324**  &nbsp;&nbsp; `1,994 stars this month`
 
 1. [CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
     - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    - language: **Python** &nbsp;&nbsp; stars: **57,436** &nbsp;&nbsp; folks: **9,257**  &nbsp;&nbsp; `2,581 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **57,437** &nbsp;&nbsp; folks: **9,257**  &nbsp;&nbsp; `2,581 stars this month`
 
 1. [uutils / coreutils](https://github.com/uutils/coreutils)
     - Cross-platform Rust rewrite of the GNU coreutils
@@ -198,23 +198,23 @@
 
 1. [gin-gonic / gin](https://github.com/gin-gonic/gin)
     - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    - language: **Go** &nbsp;&nbsp; stars: **85,898** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `2,273 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **85,901** &nbsp;&nbsp; folks: **8,418**  &nbsp;&nbsp; `2,273 stars this month`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,950** &nbsp;&nbsp; folks: **2,688**  &nbsp;&nbsp; `2,335 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,956** &nbsp;&nbsp; folks: **2,689**  &nbsp;&nbsp; `2,335 stars this month`
 
 1. [trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog)
     - Find, verify, and analyze leaked credentials
-    - language: **Go** &nbsp;&nbsp; stars: **22,440** &nbsp;&nbsp; folks: **2,069**  &nbsp;&nbsp; `2,154 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **22,441** &nbsp;&nbsp; folks: **2,069**  &nbsp;&nbsp; `2,154 stars this month`
 
 1. [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
     - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    - language: **JavaScript** &nbsp;&nbsp; stars: **19,650** &nbsp;&nbsp; folks: **4,534**  &nbsp;&nbsp; `1,949 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **19,651** &nbsp;&nbsp; folks: **4,534**  &nbsp;&nbsp; `1,949 stars this month`
 
 1. [resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox)
     - SoTA open-source TTS
-    - language: **Python** &nbsp;&nbsp; stars: **13,425** &nbsp;&nbsp; folks: **1,716**  &nbsp;&nbsp; `3,047 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,426** &nbsp;&nbsp; folks: **1,715**  &nbsp;&nbsp; `3,047 stars this month`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
@@ -222,7 +222,7 @@
 
 1. [HKUDS / DeepCode](https://github.com/HKUDS/DeepCode)
     - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    - language: **Python** &nbsp;&nbsp; stars: **7,220** &nbsp;&nbsp; folks: **997**  &nbsp;&nbsp; `3,293 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,222** &nbsp;&nbsp; folks: **997**  &nbsp;&nbsp; `3,293 stars this month`
 
 
 ## 历史归档
