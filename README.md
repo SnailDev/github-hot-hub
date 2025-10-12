@@ -10,191 +10,215 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-10-12 18:14:06 +0800`
+`更新时间：2025-10-12 19:11:14 +0800`
 
 ## 今日热门仓库
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,308** &nbsp;&nbsp; folks: **2,344**  &nbsp;&nbsp; `387 stars today`
-
-1. [QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
-    - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **14,119** &nbsp;&nbsp; folks: **1,074**  &nbsp;&nbsp; `112 stars today`
-
-1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
-    - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    - language: **Python** &nbsp;&nbsp; stars: **9,413** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `194 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,339** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `1,005 stars today`
 
 1. [davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates)
     - CLI tool for configuring and monitoring Claude Code
-    - language: **JavaScript** &nbsp;&nbsp; stars: **7,320** &nbsp;&nbsp; folks: **639**  &nbsp;&nbsp; `135 stars today`
-
-1. [timelinize / timelinize](https://github.com/timelinize/timelinize)
-    - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-    - language: **Go** &nbsp;&nbsp; stars: **2,633** &nbsp;&nbsp; folks: **80**  &nbsp;&nbsp; `74 stars today`
-
-1. [PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz)
-    - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
-    - language: **Zig** &nbsp;&nbsp; stars: **1,895** &nbsp;&nbsp; folks: **126**  &nbsp;&nbsp; `365 stars today`
-
-1. [supermemoryai / supermemory](https://github.com/supermemoryai/supermemory)
-    - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,874** &nbsp;&nbsp; folks: **1,239**  &nbsp;&nbsp; `367 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **7,330** &nbsp;&nbsp; folks: **639**  &nbsp;&nbsp; `304 stars today`
 
 1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
     - 🛍️ Typescript E-commerce Platform
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,904** &nbsp;&nbsp; folks: **1,845**  &nbsp;&nbsp; `662 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,911** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `388 stars today`
 
-1. [CapSoftware / Cap](https://github.com/CapSoftware/Cap)
-    - Open source Loom alternative. Beautiful, shareable screen recordings.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,773** &nbsp;&nbsp; folks: **870**  &nbsp;&nbsp; `344 stars today`
+1. [78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+    - An MCP-based chatbot | 一个基于MCP的聊天机器人
+    - language: **C++** &nbsp;&nbsp; stars: **19,752** &nbsp;&nbsp; folks: **4,012**  &nbsp;&nbsp; `374 stars today`
 
-1. [dataease / SQLBot](https://github.com/dataease/SQLBot)
-    - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **3,841** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `44 stars today`
+1. [daytonaio / daytona](https://github.com/daytonaio/daytona)
+    - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,553** &nbsp;&nbsp; folks: **2,372**  &nbsp;&nbsp; `242 stars today`
+
+1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+    - 所有小初高、大学PDF教材。
+    - language: **Roff** &nbsp;&nbsp; stars: **52,978** &nbsp;&nbsp; folks: **11,883**  &nbsp;&nbsp; `407 stars today`
+
+1. [WECENG / ticket-purchase](https://github.com/WECENG/ticket-purchase)
+    - 大麦自动抢票，支持人员、城市、日期场次、价格选择
+    - language: **Python** &nbsp;&nbsp; stars: **4,750** &nbsp;&nbsp; folks: **605**  &nbsp;&nbsp; `35 stars today`
+
+1. [DIYgod / RSSHub](https://github.com/DIYgod/RSSHub)
+    - 🧡 Everything is RSSible
+    - language: **TypeScript** &nbsp;&nbsp; stars: **39,069** &nbsp;&nbsp; folks: **8,590**  &nbsp;&nbsp; `18 stars today`
+
+1. [DearVa / Everywhere](https://github.com/DearVa/Everywhere)
+    - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+    - language: **C#** &nbsp;&nbsp; stars: **340** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `84 stars today`
+
+1. [Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook)
+    - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **94,777** &nbsp;&nbsp; folks: **10,613**  &nbsp;&nbsp; `56 stars today`
+
+1. [coze-dev / coze-studio](https://github.com/coze-dev/coze-studio)
+    - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,654** &nbsp;&nbsp; folks: **2,446**  &nbsp;&nbsp; `19 stars today`
+
+1. [lobehub / lobe-chat](https://github.com/lobehub/lobe-chat)
+    - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **66,597** &nbsp;&nbsp; folks: **13,803**  &nbsp;&nbsp; `32 stars today`
+
+1. [PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz)
+    - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    - language: **Zig** &nbsp;&nbsp; stars: **1,914** &nbsp;&nbsp; folks: **127**  &nbsp;&nbsp; `276 stars today`
+
+1. [basecamp / omarchy](https://github.com/basecamp/omarchy)
+    - Opinionated Arch/Hyprland Setup
+    - language: **Shell** &nbsp;&nbsp; stars: **13,491** &nbsp;&nbsp; folks: **1,259**  &nbsp;&nbsp; `268 stars today`
 
 1. [TibixDev / winboat](https://github.com/TibixDev/winboat)
     - Run Windows apps on 🐧 Linux with ✨ seamless integration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,189** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `831 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,209** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `623 stars today`
 
-1. [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-    - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    - language: **TypeScript** &nbsp;&nbsp; stars: **77,603** &nbsp;&nbsp; folks: **5,800**  &nbsp;&nbsp; `141 stars today`
+1. [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+    - Agentic AI Framework for Java Developers
+    - language: **Java** &nbsp;&nbsp; stars: **6,090** &nbsp;&nbsp; folks: **1,312**  &nbsp;&nbsp; `19 stars today`
+
+1. [oven-sh / bun](https://github.com/oven-sh/bun)
+    - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    - language: **Zig** &nbsp;&nbsp; stars: **80,985** &nbsp;&nbsp; folks: **3,383**  &nbsp;&nbsp; `92 stars today`
+
+1. [huggingface / diffusers](https://github.com/huggingface/diffusers)
+    - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+    - language: **Python** &nbsp;&nbsp; stars: **31,069** &nbsp;&nbsp; folks: **6,401**  &nbsp;&nbsp; `17 stars today`
+
+1. [Klavis-AI / klavis](https://github.com/Klavis-AI/klavis)
+    - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
+    - language: **Python** &nbsp;&nbsp; stars: **4,703** &nbsp;&nbsp; folks: **447**  &nbsp;&nbsp; `47 stars today`
+
+1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
+    - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+    - language: **Python** &nbsp;&nbsp; stars: **45,723** &nbsp;&nbsp; folks: **3,801**  &nbsp;&nbsp; `68 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Stremio / stremio-web](https://github.com/Stremio/stremio-web)
     - Stremio - Freedom to Stream
-    - language: **JavaScript** &nbsp;&nbsp; stars: **7,420** &nbsp;&nbsp; folks: **841**  &nbsp;&nbsp; `5,686 stars this week`
-
-1. [audacity / audacity](https://github.com/audacity/audacity)
-    - Audio Editor
-    - language: **C++** &nbsp;&nbsp; stars: **15,347** &nbsp;&nbsp; folks: **2,438**  &nbsp;&nbsp; `920 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **7,435** &nbsp;&nbsp; folks: **842**  &nbsp;&nbsp; `5,686 stars this week`
 
 1. [BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
     - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-    - language: **Python** &nbsp;&nbsp; stars: **8,700** &nbsp;&nbsp; folks: **727**  &nbsp;&nbsp; `1,276 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,702** &nbsp;&nbsp; folks: **727**  &nbsp;&nbsp; `1,276 stars this week`
+
+1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
+    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,339** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `986 stars this week`
+
+1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+    - 所有小初高、大学PDF教材。
+    - language: **Roff** &nbsp;&nbsp; stars: **52,978** &nbsp;&nbsp; folks: **11,883**  &nbsp;&nbsp; `2,218 stars this week`
+
+1. [audacity / audacity](https://github.com/audacity/audacity)
+    - Audio Editor
+    - language: **C++** &nbsp;&nbsp; stars: **15,351** &nbsp;&nbsp; folks: **2,438**  &nbsp;&nbsp; `920 stars this week`
 
 1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
     - Official inference framework for 1-bit LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **24,106** &nbsp;&nbsp; folks: **1,861**  &nbsp;&nbsp; `1,688 stars this week`
-
-1. [Infisical / infisical](https://github.com/Infisical/infisical)
-    - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,543** &nbsp;&nbsp; folks: **1,516**  &nbsp;&nbsp; `2,233 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **24,107** &nbsp;&nbsp; folks: **1,860**  &nbsp;&nbsp; `1,688 stars this week`
 
 1. [dgtlmoon / changedetection.io](https://github.com/dgtlmoon/changedetection.io)
     - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
     - language: **Python** &nbsp;&nbsp; stars: **27,759** &nbsp;&nbsp; folks: **1,547**  &nbsp;&nbsp; `1,015 stars this week`
 
-1. [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    - language: **Python** &nbsp;&nbsp; stars: **10,275** &nbsp;&nbsp; folks: **2,251**  &nbsp;&nbsp; `1,254 stars this week`
+1. [Infisical / infisical](https://github.com/Infisical/infisical)
+    - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,543** &nbsp;&nbsp; folks: **1,516**  &nbsp;&nbsp; `2,233 stars this week`
 
-1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-    - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **52,974** &nbsp;&nbsp; folks: **11,883**  &nbsp;&nbsp; `2,218 stars this week`
+1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
+    - 🛍️ Typescript E-commerce Platform
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,911** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `781 stars this week`
 
-1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
-    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,308** &nbsp;&nbsp; folks: **2,344**  &nbsp;&nbsp; `986 stars this week`
-
-1. [airweave-ai / airweave](https://github.com/airweave-ai/airweave)
-    - Airweave lets agents search any app
-    - language: **Python** &nbsp;&nbsp; stars: **4,208** &nbsp;&nbsp; folks: **518**  &nbsp;&nbsp; `464 stars this week`
+1. [meshery / meshery](https://github.com/meshery/meshery)
+    - Meshery, the cloud native manager
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,222** &nbsp;&nbsp; folks: **2,720**  &nbsp;&nbsp; `1,166 stars this week`
 
 1. [openemr / openemr](https://github.com/openemr/openemr)
     - The most popular open source electronic health records and medical practice management solution.
-    - language: **PHP** &nbsp;&nbsp; stars: **4,349** &nbsp;&nbsp; folks: **2,562**  &nbsp;&nbsp; `650 stars this week`
-
-1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
-    - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    - language: **Python** &nbsp;&nbsp; stars: **9,413** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `956 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **4,350** &nbsp;&nbsp; folks: **2,562**  &nbsp;&nbsp; `650 stars this week`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-    - language: **Python** &nbsp;&nbsp; stars: **10,651** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `821 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **10,653** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `821 stars this week`
 
-1. [YaLTeR / niri](https://github.com/YaLTeR/niri)
-    - A scrollable-tiling Wayland compositor.
-    - language: **Rust** &nbsp;&nbsp; stars: **13,297** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `795 stars this week`
+1. [TibixDev / winboat](https://github.com/TibixDev/winboat)
+    - Run Windows apps on 🐧 Linux with ✨ seamless integration
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,209** &nbsp;&nbsp; folks: **263**  &nbsp;&nbsp; `4,068 stars this week`
 
-1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
-    - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,046** &nbsp;&nbsp; folks: **1,704**  &nbsp;&nbsp; `869 stars this week`
+1. [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    - language: **Python** &nbsp;&nbsp; stars: **10,275** &nbsp;&nbsp; folks: **2,253**  &nbsp;&nbsp; `1,254 stars this week`
 
-1. [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
-    - Design patterns implemented in Java
-    - language: **Java** &nbsp;&nbsp; stars: **93,059** &nbsp;&nbsp; folks: **27,258**  &nbsp;&nbsp; `227 stars this week`
-
-1. [DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus)
-    - Fullstack app framework for web, desktop, and mobile.
-    - language: **Rust** &nbsp;&nbsp; stars: **31,056** &nbsp;&nbsp; folks: **1,314**  &nbsp;&nbsp; `331 stars this week`
+1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
+    - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    - language: **Python** &nbsp;&nbsp; stars: **9,416** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `956 stars this week`
 
 1. [firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii)
     - Firefly III: a personal finances manager
     - language: **PHP** &nbsp;&nbsp; stars: **21,099** &nbsp;&nbsp; folks: **1,913**  &nbsp;&nbsp; `563 stars this week`
 
-1. [kestra-io / kestra](https://github.com/kestra-io/kestra)
-    - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
-    - language: **Java** &nbsp;&nbsp; stars: **22,503** &nbsp;&nbsp; folks: **2,055**  &nbsp;&nbsp; `777 stars this week`
+1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
+    - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,050** &nbsp;&nbsp; folks: **1,704**  &nbsp;&nbsp; `869 stars this week`
 
-1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
-    - 🛍️ Typescript E-commerce Platform
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,904** &nbsp;&nbsp; folks: **1,845**  &nbsp;&nbsp; `781 stars this week`
+1. [xyflow / xyflow](https://github.com/xyflow/xyflow)
+    - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **32,585** &nbsp;&nbsp; folks: **2,140**  &nbsp;&nbsp; `785 stars this week`
+
+1. [antiwork / gumroad](https://github.com/antiwork/gumroad)
+    - Sell stuff and see what sticks
+    - language: **Ruby** &nbsp;&nbsp; stars: **7,180** &nbsp;&nbsp; folks: **1,338**  &nbsp;&nbsp; `67 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
     - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    - language: **Python** &nbsp;&nbsp; stars: **15,796** &nbsp;&nbsp; folks: **1,182**  &nbsp;&nbsp; `9,382 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,798** &nbsp;&nbsp; folks: **1,183**  &nbsp;&nbsp; `9,382 stars this month`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **46,142** &nbsp;&nbsp; folks: **6,464**  &nbsp;&nbsp; `6,517 stars this month`
-
-1. [tile-ai / tilelang](https://github.com/tile-ai/tilelang)
-    - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    - language: **C++** &nbsp;&nbsp; stars: **3,479** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `1,871 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **46,146** &nbsp;&nbsp; folks: **6,464**  &nbsp;&nbsp; `6,517 stars this month`
 
 1. [humanlayer / humanlayer](https://github.com/humanlayer/humanlayer)
     - The best way to get AI coding agents to solve hard problems in complex codebases.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,904** &nbsp;&nbsp; folks: **452**  &nbsp;&nbsp; `3,506 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,905** &nbsp;&nbsp; folks: **453**  &nbsp;&nbsp; `3,506 stars this month`
 
 1. [CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
     - Clone a voice in 5 seconds to generate arbitrary speech in real-time
     - language: **Python** &nbsp;&nbsp; stars: **58,406** &nbsp;&nbsp; folks: **9,335**  &nbsp;&nbsp; `3,491 stars this month`
 
-1. [sentient-agi / ROMA](https://github.com/sentient-agi/ROMA)
-    - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    - language: **Python** &nbsp;&nbsp; stars: **3,892** &nbsp;&nbsp; folks: **582**  &nbsp;&nbsp; `2,556 stars this month`
+1. [anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **2,462** &nbsp;&nbsp; folks: **305**  &nbsp;&nbsp; `1,484 stars this month`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **47,045** &nbsp;&nbsp; folks: **5,666**  &nbsp;&nbsp; `7,074 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **47,049** &nbsp;&nbsp; folks: **5,665**  &nbsp;&nbsp; `7,074 stars this month`
 
-1. [anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,461** &nbsp;&nbsp; folks: **305**  &nbsp;&nbsp; `1,484 stars this month`
+1. [sentient-agi / ROMA](https://github.com/sentient-agi/ROMA)
+    - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    - language: **Python** &nbsp;&nbsp; stars: **3,899** &nbsp;&nbsp; folks: **582**  &nbsp;&nbsp; `2,556 stars this month`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,085** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `1,177 stars this month`
-
-1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-    - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,684** &nbsp;&nbsp; folks: **2,758**  &nbsp;&nbsp; `2,737 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,086** &nbsp;&nbsp; folks: **314**  &nbsp;&nbsp; `1,177 stars this month`
 
 1. [dataease / SQLBot](https://github.com/dataease/SQLBot)
     - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **3,841** &nbsp;&nbsp; folks: **377**  &nbsp;&nbsp; `2,348 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,843** &nbsp;&nbsp; folks: **378**  &nbsp;&nbsp; `2,348 stars this month`
 
 1. [audacity / audacity](https://github.com/audacity/audacity)
     - Audio Editor
-    - language: **C++** &nbsp;&nbsp; stars: **15,347** &nbsp;&nbsp; folks: **2,438**  &nbsp;&nbsp; `1,203 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **15,351** &nbsp;&nbsp; folks: **2,438**  &nbsp;&nbsp; `1,203 stars this month`
+
+1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+    - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,685** &nbsp;&nbsp; folks: **2,758**  &nbsp;&nbsp; `2,737 stars this month`
 
 1. [gin-gonic / gin](https://github.com/gin-gonic/gin)
     - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
@@ -204,25 +228,25 @@
     - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     - language: **Python** &nbsp;&nbsp; stars: **6,682** &nbsp;&nbsp; folks: **579**  &nbsp;&nbsp; `1,222 stars this month`
 
-1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
-    - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **210,582** &nbsp;&nbsp; folks: **48,619**  &nbsp;&nbsp; `4,008 stars this month`
-
-1. [modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry)
-    - A community driven registry service for Model Context Protocol (MCP) servers.
-    - language: **Go** &nbsp;&nbsp; stars: **5,616** &nbsp;&nbsp; folks: **422**  &nbsp;&nbsp; `2,099 stars this month`
-
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **80,958** &nbsp;&nbsp; folks: **4,493**  &nbsp;&nbsp; `8,021 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **80,959** &nbsp;&nbsp; folks: **4,493**  &nbsp;&nbsp; `8,021 stars this month`
+
+1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
+    - All Algorithms implemented in Python
+    - language: **Python** &nbsp;&nbsp; stars: **210,583** &nbsp;&nbsp; folks: **48,619**  &nbsp;&nbsp; `4,008 stars this month`
 
 1. [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
     - Bitcoin Core integration/staging tree
-    - language: **C++** &nbsp;&nbsp; stars: **86,084** &nbsp;&nbsp; folks: **38,011**  &nbsp;&nbsp; `704 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **86,085** &nbsp;&nbsp; folks: **38,011**  &nbsp;&nbsp; `704 stars this month`
 
-1. [microsoft / BitNet](https://github.com/microsoft/BitNet)
-    - Official inference framework for 1-bit LLMs
-    - language: **Python** &nbsp;&nbsp; stars: **24,106** &nbsp;&nbsp; folks: **1,861**  &nbsp;&nbsp; `2,242 stars this month`
+1. [LazyVim / LazyVim](https://github.com/LazyVim/LazyVim)
+    - Neovim config for the lazy
+    - language: **Lua** &nbsp;&nbsp; stars: **23,346** &nbsp;&nbsp; folks: **1,644**  &nbsp;&nbsp; `1,050 stars this month`
+
+1. [WebGoat / WebGoat](https://github.com/WebGoat/WebGoat)
+    - WebGoat is a deliberately insecure application
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,566** &nbsp;&nbsp; folks: **6,776**  &nbsp;&nbsp; `855 stars this month`
 
 
 ## 历史归档
