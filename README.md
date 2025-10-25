@@ -10,239 +10,239 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-10-25 07:14:19 +0800`
+`更新时间：2025-10-25 09:11:56 +0800`
 
 ## 今日热门仓库
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **51,377** &nbsp;&nbsp; folks: **2,265**  &nbsp;&nbsp; `312 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **51,450** &nbsp;&nbsp; folks: **2,270**  &nbsp;&nbsp; `315 stars today`
 
 1. [guofei9987 / blind_watermark](https://github.com/guofei9987/blind_watermark)
     - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-    - language: **Python** &nbsp;&nbsp; stars: **9,602** &nbsp;&nbsp; folks: **988**  &nbsp;&nbsp; `681 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,633** &nbsp;&nbsp; folks: **991**  &nbsp;&nbsp; `680 stars today`
 
 1. [hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch)
     - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **75,665** &nbsp;&nbsp; folks: **5,321**  &nbsp;&nbsp; `363 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **75,680** &nbsp;&nbsp; folks: **5,322**  &nbsp;&nbsp; `355 stars today`
 
 1. [zephyrproject-rtos / zephyr](https://github.com/zephyrproject-rtos/zephyr)
     - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    - language: **C** &nbsp;&nbsp; stars: **13,395** &nbsp;&nbsp; folks: **8,106**  &nbsp;&nbsp; `33 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **13,405** &nbsp;&nbsp; folks: **8,106**  &nbsp;&nbsp; `17 stars today`
 
 1. [minio / minio](https://github.com/minio/minio)
     - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    - language: **Go** &nbsp;&nbsp; stars: **57,128** &nbsp;&nbsp; folks: **6,351**  &nbsp;&nbsp; `1,140 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **57,140** &nbsp;&nbsp; folks: **6,351**  &nbsp;&nbsp; `1,127 stars today`
 
 1. [emcie-co / parlant](https://github.com/emcie-co/parlant)
     - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    - language: **Python** &nbsp;&nbsp; stars: **14,627** &nbsp;&nbsp; folks: **1,191**  &nbsp;&nbsp; `137 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **14,640** &nbsp;&nbsp; folks: **1,193**  &nbsp;&nbsp; `137 stars today`
 
 1. [zyronon / TypeWords](https://github.com/zyronon/TypeWords)
     - 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
-    - language: **Vue** &nbsp;&nbsp; stars: **4,566** &nbsp;&nbsp; folks: **535**  &nbsp;&nbsp; `77 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **4,573** &nbsp;&nbsp; folks: **535**  &nbsp;&nbsp; `72 stars today`
 
 1. [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
     - A community-supported supercharged document management system: scan, index and archive all your documents
-    - language: **Python** &nbsp;&nbsp; stars: **33,367** &nbsp;&nbsp; folks: **2,082**  &nbsp;&nbsp; `239 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **33,373** &nbsp;&nbsp; folks: **2,081**  &nbsp;&nbsp; `238 stars today`
 
 1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
     - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **50,471** &nbsp;&nbsp; folks: **8,010**  &nbsp;&nbsp; `37 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **50,477** &nbsp;&nbsp; folks: **8,010**  &nbsp;&nbsp; `35 stars today`
 
 1. [Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video)
     - Official repository for LTX-Video
-    - language: **Python** &nbsp;&nbsp; stars: **8,428** &nbsp;&nbsp; folks: **755**  &nbsp;&nbsp; `57 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **8,434** &nbsp;&nbsp; folks: **755**  &nbsp;&nbsp; `58 stars today`
 
 1. [OpenMind / OM1](https://github.com/OpenMind/OM1)
     - Modular AI runtime for robots
-    - language: **Python** &nbsp;&nbsp; stars: **1,034** &nbsp;&nbsp; folks: **362**  &nbsp;&nbsp; `98 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,045** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `98 stars today`
 
 1. [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - A feature-rich command-line audio/video downloader
-    - language: **Python** &nbsp;&nbsp; stars: **132,218** &nbsp;&nbsp; folks: **10,624**  &nbsp;&nbsp; `337 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **132,238** &nbsp;&nbsp; folks: **10,625**  &nbsp;&nbsp; `339 stars today`
 
 1. [isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim)
     - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
-    - language: **Python** &nbsp;&nbsp; stars: **1,694** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `15 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,703** &nbsp;&nbsp; folks: **206**  &nbsp;&nbsp; `15 stars today`
 
 1. [seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs)
     - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
-    - language: **Go** &nbsp;&nbsp; stars: **26,390** &nbsp;&nbsp; folks: **2,498**  &nbsp;&nbsp; `89 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **26,405** &nbsp;&nbsp; folks: **2,498**  &nbsp;&nbsp; `48 stars today`
 
 1. [rustfs / rustfs](https://github.com/rustfs/rustfs)
     - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    - language: **Rust** &nbsp;&nbsp; stars: **10,108** &nbsp;&nbsp; folks: **484**  &nbsp;&nbsp; `255 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **10,121** &nbsp;&nbsp; folks: **484**  &nbsp;&nbsp; `255 stars today`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **34,083** &nbsp;&nbsp; folks: **2,551**  &nbsp;&nbsp; `67 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **34,111** &nbsp;&nbsp; folks: **2,553**  &nbsp;&nbsp; `62 stars today`
 
 1. [directus / directus](https://github.com/directus/directus)
     - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,151** &nbsp;&nbsp; folks: **4,432**  &nbsp;&nbsp; `14 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,169** &nbsp;&nbsp; folks: **4,433**  &nbsp;&nbsp; `17 stars today`
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,104** &nbsp;&nbsp; folks: **1,840**  &nbsp;&nbsp; `212 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,123** &nbsp;&nbsp; folks: **1,840**  &nbsp;&nbsp; `213 stars today`
 
 1. [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
     - Free and Open Source, Distributed, RESTful Search Engine
-    - language: **Java** &nbsp;&nbsp; stars: **75,202** &nbsp;&nbsp; folks: **25,574**  &nbsp;&nbsp; `19 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **75,209** &nbsp;&nbsp; folks: **25,575**  &nbsp;&nbsp; `21 stars today`
 
 
 ## 近一周热门仓库
 
 1. [mountain-loop / yaak](https://github.com/mountain-loop/yaak)
     - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,582** &nbsp;&nbsp; folks: **473**  &nbsp;&nbsp; `5,051 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,600** &nbsp;&nbsp; folks: **474**  &nbsp;&nbsp; `5,540 stars this week`
 
 1. [anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,214** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `3,972 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,225** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `4,155 stars this week`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **13,612** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `1,847 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **13,620** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `1,950 stars this week`
 
 1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
     - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,910** &nbsp;&nbsp; folks: **787**  &nbsp;&nbsp; `2,648 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,933** &nbsp;&nbsp; folks: **789**  &nbsp;&nbsp; `2,834 stars this week`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **31,498** &nbsp;&nbsp; folks: **3,619**  &nbsp;&nbsp; `3,351 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **31,506** &nbsp;&nbsp; folks: **3,619**  &nbsp;&nbsp; `3,011 stars this week`
 
 1. [minio / minio](https://github.com/minio/minio)
     - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    - language: **Go** &nbsp;&nbsp; stars: **57,128** &nbsp;&nbsp; folks: **6,351**  &nbsp;&nbsp; `361 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **57,140** &nbsp;&nbsp; folks: **6,351**  &nbsp;&nbsp; `1,426 stars this week`
 
 1. [karpathy / nanoGPT](https://github.com/karpathy/nanoGPT)
     - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    - language: **Python** &nbsp;&nbsp; stars: **47,804** &nbsp;&nbsp; folks: **8,013**  &nbsp;&nbsp; `1,588 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **47,814** &nbsp;&nbsp; folks: **8,014**  &nbsp;&nbsp; `1,377 stars this week`
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-    - language: **Python** &nbsp;&nbsp; stars: **61,011** &nbsp;&nbsp; folks: **9,114**  &nbsp;&nbsp; `3,546 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **61,022** &nbsp;&nbsp; folks: **9,117**  &nbsp;&nbsp; `3,277 stars this week`
 
 1. [clockworklabs / SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
     - Multiplayer at the speed of light
-    - language: **Rust** &nbsp;&nbsp; stars: **18,366** &nbsp;&nbsp; folks: **640**  &nbsp;&nbsp; `635 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,371** &nbsp;&nbsp; folks: **640**  &nbsp;&nbsp; `680 stars this week`
 
 1. [karpathy / micrograd](https://github.com/karpathy/micrograd)
     - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,399** &nbsp;&nbsp; folks: **1,971**  &nbsp;&nbsp; `415 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,402** &nbsp;&nbsp; folks: **1,972**  &nbsp;&nbsp; `458 stars this week`
 
 1. [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
     - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-    - language: **C#** &nbsp;&nbsp; stars: **125,141** &nbsp;&nbsp; folks: **7,443**  &nbsp;&nbsp; `740 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **125,145** &nbsp;&nbsp; folks: **7,444**  &nbsp;&nbsp; `710 stars this week`
 
 1. [Anuken / Mindustry](https://github.com/Anuken/Mindustry)
     - The automation tower defense RTS
-    - language: **Java** &nbsp;&nbsp; stars: **25,480** &nbsp;&nbsp; folks: **3,254**  &nbsp;&nbsp; `422 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **25,480** &nbsp;&nbsp; folks: **3,254**  &nbsp;&nbsp; `465 stars this week`
 
 1. [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    - language: **MDX** &nbsp;&nbsp; stars: **65,316** &nbsp;&nbsp; folks: **6,788**  &nbsp;&nbsp; `1,047 stars this week`
+    - language: **MDX** &nbsp;&nbsp; stars: **65,324** &nbsp;&nbsp; folks: **6,788**  &nbsp;&nbsp; `1,050 stars this week`
 
 1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
     - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **34,083** &nbsp;&nbsp; folks: **2,551**  &nbsp;&nbsp; `788 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **34,111** &nbsp;&nbsp; folks: **2,553**  &nbsp;&nbsp; `834 stars this week`
 
 1. [seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs)
     - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
-    - language: **Go** &nbsp;&nbsp; stars: **26,390** &nbsp;&nbsp; folks: **2,498**  &nbsp;&nbsp; `196 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **26,405** &nbsp;&nbsp; folks: **2,498**  &nbsp;&nbsp; `253 stars this week`
 
 1. [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
     - Amnezia VPN Client (Desktop+Mobile)
-    - language: **C++** &nbsp;&nbsp; stars: **8,674** &nbsp;&nbsp; folks: **596**  &nbsp;&nbsp; `233 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **8,678** &nbsp;&nbsp; folks: **597**  &nbsp;&nbsp; `287 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **47,102** &nbsp;&nbsp; folks: **6,579**  &nbsp;&nbsp; `7,231 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **47,107** &nbsp;&nbsp; folks: **6,580**  &nbsp;&nbsp; `7,282 stars this month`
 
 1. [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
     - Anthropic's Interactive Prompt Engineering Tutorial
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,009** &nbsp;&nbsp; folks: **2,273**  &nbsp;&nbsp; `6,578 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,014** &nbsp;&nbsp; folks: **2,274**  &nbsp;&nbsp; `6,624 stars this month`
 
 1. [anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,214** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `4,846 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,225** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `5,110 stars this month`
 
 1. [TibixDev / winboat](https://github.com/TibixDev/winboat)
     - Run Windows apps on 🐧 Linux with ✨ seamless integration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,464** &nbsp;&nbsp; folks: **338**  &nbsp;&nbsp; `8,563 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,474** &nbsp;&nbsp; folks: **338**  &nbsp;&nbsp; `8,715 stars this month`
 
 1. [humanlayer / humanlayer](https://github.com/humanlayer/humanlayer)
     - The best way to get AI coding agents to solve hard problems in complex codebases.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,448** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `3,870 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,451** &nbsp;&nbsp; folks: **498**  &nbsp;&nbsp; `3,816 stars this month`
 
 1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
     - 🛍️ Typescript E-commerce Platform
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,245** &nbsp;&nbsp; folks: **1,985**  &nbsp;&nbsp; `2,514 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,250** &nbsp;&nbsp; folks: **1,985**  &nbsp;&nbsp; `2,556 stars this month`
 
 1. [karpathy / nanoGPT](https://github.com/karpathy/nanoGPT)
     - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    - language: **Python** &nbsp;&nbsp; stars: **47,804** &nbsp;&nbsp; folks: **8,013**  &nbsp;&nbsp; `3,050 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **47,814** &nbsp;&nbsp; folks: **8,014**  &nbsp;&nbsp; `3,174 stars this month`
 
 1. [supermemoryai / supermemory](https://github.com/supermemoryai/supermemory)
     - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,879** &nbsp;&nbsp; folks: **1,340**  &nbsp;&nbsp; `1,906 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,882** &nbsp;&nbsp; folks: **1,339**  &nbsp;&nbsp; `1,957 stars this month`
 
 1. [QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
     - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,444** &nbsp;&nbsp; folks: **1,201**  &nbsp;&nbsp; `2,850 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,445** &nbsp;&nbsp; folks: **1,201**  &nbsp;&nbsp; `2,499 stars this month`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **13,612** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `2,123 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,620** &nbsp;&nbsp; folks: **1,025**  &nbsp;&nbsp; `2,262 stars this month`
 
 1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
     - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,910** &nbsp;&nbsp; folks: **787**  &nbsp;&nbsp; `3,143 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,933** &nbsp;&nbsp; folks: **789**  &nbsp;&nbsp; `3,393 stars this month`
 
 1. [Infisical / infisical](https://github.com/Infisical/infisical)
     - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,071** &nbsp;&nbsp; folks: **1,547**  &nbsp;&nbsp; `3,018 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,073** &nbsp;&nbsp; folks: **1,547**  &nbsp;&nbsp; `3,043 stars this month`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **Python** &nbsp;&nbsp; stars: **374,854** &nbsp;&nbsp; folks: **65,100**  &nbsp;&nbsp; `5,245 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **374,868** &nbsp;&nbsp; folks: **65,101**  &nbsp;&nbsp; `5,043 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **40,229** &nbsp;&nbsp; folks: **2,582**  &nbsp;&nbsp; `6,311 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **40,233** &nbsp;&nbsp; folks: **2,583**  &nbsp;&nbsp; `6,353 stars this month`
 
 1. [dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    - language: **MDX** &nbsp;&nbsp; stars: **65,316** &nbsp;&nbsp; folks: **6,788**  &nbsp;&nbsp; `3,109 stars this month`
+    - language: **MDX** &nbsp;&nbsp; stars: **65,324** &nbsp;&nbsp; folks: **6,788**  &nbsp;&nbsp; `3,196 stars this month`
 
 1. [nextcloud / server](https://github.com/nextcloud/server)
     - ☁️ Nextcloud server, a safe home for all your data
-    - language: **PHP** &nbsp;&nbsp; stars: **33,122** &nbsp;&nbsp; folks: **4,609**  &nbsp;&nbsp; `2,305 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **33,122** &nbsp;&nbsp; folks: **4,608**  &nbsp;&nbsp; `2,327 stars this month`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,401** &nbsp;&nbsp; folks: **363**  &nbsp;&nbsp; `1,284 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,407** &nbsp;&nbsp; folks: **364**  &nbsp;&nbsp; `1,203 stars this month`
 
 1. [zama-ai / fhevm](https://github.com/zama-ai/fhevm)
     - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    - language: **Rust** &nbsp;&nbsp; stars: **24,894** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `4,712 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **24,895** &nbsp;&nbsp; folks: **1,274**  &nbsp;&nbsp; `4,632 stars this month`
 
 1. [YaLTeR / niri](https://github.com/YaLTeR/niri)
     - A scrollable-tiling Wayland compositor.
-    - language: **Rust** &nbsp;&nbsp; stars: **14,031** &nbsp;&nbsp; folks: **497**  &nbsp;&nbsp; `2,510 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **14,035** &nbsp;&nbsp; folks: **497**  &nbsp;&nbsp; `2,499 stars this month`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **31,498** &nbsp;&nbsp; folks: **3,619**  &nbsp;&nbsp; `4,822 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,506** &nbsp;&nbsp; folks: **3,619**  &nbsp;&nbsp; `4,925 stars this month`
 
 1. [openemr / openemr](https://github.com/openemr/openemr)
     - The most popular open source electronic health records and medical practice management solution.
-    - language: **PHP** &nbsp;&nbsp; stars: **4,458** &nbsp;&nbsp; folks: **2,598**  &nbsp;&nbsp; `782 stars this month`
+    - language: **PHP** &nbsp;&nbsp; stars: **4,459** &nbsp;&nbsp; folks: **2,598**  &nbsp;&nbsp; `785 stars this month`
 
 
 ## 历史归档
