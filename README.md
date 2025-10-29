@@ -10,231 +10,231 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-10-29 19:14:14 +0800`
+`更新时间：2025-10-29 20:35:17 +0800`
 
 ## 今日热门仓库
 
-1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
-    - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **58,248** &nbsp;&nbsp; folks: **3,971**  &nbsp;&nbsp; `1,289 stars today`
-
-1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
-    - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **39,357** &nbsp;&nbsp; folks: **4,785**  &nbsp;&nbsp; `534 stars today`
-
-1. [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning)
-    - The absolute trainer to light up AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **3,618** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `475 stars today`
-
-1. [spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc)
-    - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
-    - language: **Python** &nbsp;&nbsp; stars: **2,300** &nbsp;&nbsp; folks: **184**  &nbsp;&nbsp; `178 stars today`
-
-1. [longbridge / gpui-component](https://github.com/longbridge/gpui-component)
-    - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    - language: **Rust** &nbsp;&nbsp; stars: **6,286** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `1,285 stars today`
-
-1. [juanfont / headscale](https://github.com/juanfont/headscale)
-    - An open source, self-hosted implementation of the Tailscale control server
-    - language: **Go** &nbsp;&nbsp; stars: **32,271** &nbsp;&nbsp; folks: **1,718**  &nbsp;&nbsp; `53 stars today`
-
-1. [harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book)
-    - Introduction to Machine Learning Systems
-    - language: **Python** &nbsp;&nbsp; stars: **7,263** &nbsp;&nbsp; folks: **700**  &nbsp;&nbsp; `417 stars today`
-
-1. [qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer)
-    - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-    - language: **JavaScript** &nbsp;&nbsp; stars: **15,385** &nbsp;&nbsp; folks: **1,268**  &nbsp;&nbsp; `847 stars today`
-
-1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-    - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **19,419** &nbsp;&nbsp; folks: **3,275**  &nbsp;&nbsp; `149 stars today`
-
-1. [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-    - A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    - language: **无** &nbsp;&nbsp; stars: **41,780** &nbsp;&nbsp; folks: **2,771**  &nbsp;&nbsp; `665 stars today`
-
-1. [coinbase / x402](https://github.com/coinbase/x402)
-    - A payments protocol for the internet. Built on HTTP.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,386** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `277 stars today`
-
-1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-    - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    - language: **Python** &nbsp;&nbsp; stars: **74,054** &nbsp;&nbsp; folks: **9,632**  &nbsp;&nbsp; `381 stars today`
+1. [smartcontractkit / chainlink](https://github.com/smartcontractkit/chainlink)
+    - node of the decentralized oracle network, bridging on and off-chain computation
+    - language: **Go** &nbsp;&nbsp; stars: **7,830** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `1 star today`
 
 1. [cjpais / Handy](https://github.com/cjpais/Handy)
     - A free, open source, and extensible speech-to-text application that works completely offline.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,220** &nbsp;&nbsp; folks: **268**  &nbsp;&nbsp; `132 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,242** &nbsp;&nbsp; folks: **269**  &nbsp;&nbsp; `465 stars today`
 
-1. [iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
-    - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
-    - language: **Python** &nbsp;&nbsp; stars: **9,199** &nbsp;&nbsp; folks: **13,197**  &nbsp;&nbsp; `27 stars today`
+1. [qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer)
+    - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+    - language: **JavaScript** &nbsp;&nbsp; stars: **15,433** &nbsp;&nbsp; folks: **1,270**  &nbsp;&nbsp; `683 stars today`
 
-1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-    - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **431,392** &nbsp;&nbsp; folks: **40,496**  &nbsp;&nbsp; `725 stars today`
+1. [open-telemetry / opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+    - OpenTelemetry Collector
+    - language: **Go** &nbsp;&nbsp; stars: **5,919** &nbsp;&nbsp; folks: **1,750**  &nbsp;&nbsp; `3 stars today`
+
+1. [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+    - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+    - language: **JavaScript** &nbsp;&nbsp; stars: **92,547** &nbsp;&nbsp; folks: **14,357**  &nbsp;&nbsp; `52 stars today`
+
+1. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+    - Protocol Buffers - Google's data interchange format
+    - language: **C++** &nbsp;&nbsp; stars: **69,407** &nbsp;&nbsp; folks: **15,921**  &nbsp;&nbsp; `15 stars today`
+
+1. [Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk)
+    - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+    - language: **Swift** &nbsp;&nbsp; stars: **2,189** &nbsp;&nbsp; folks: **276**  &nbsp;&nbsp; `87 stars today`
+
+1. [block / goose](https://github.com/block/goose)
+    - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    - language: **Rust** &nbsp;&nbsp; stars: **20,941** &nbsp;&nbsp; folks: **1,905**  &nbsp;&nbsp; `246 stars today`
+
+1. [allenai / olmocr](https://github.com/allenai/olmocr)
+    - Toolkit for linearizing PDFs for LLM datasets/training
+    - language: **Python** &nbsp;&nbsp; stars: **14,902** &nbsp;&nbsp; folks: **1,141**  &nbsp;&nbsp; `191 stars today`
+
+1. [dotnet / eShop](https://github.com/dotnet/eShop)
+    - A reference .NET application implementing an eCommerce site
+    - language: **C#** &nbsp;&nbsp; stars: **9,366** &nbsp;&nbsp; folks: **3,184**  &nbsp;&nbsp; `21 stars today`
+
+1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
+    - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **58,269** &nbsp;&nbsp; folks: **3,974**  &nbsp;&nbsp; `534 stars today`
+
+1. [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning)
+    - The absolute trainer to light up AI agents.
+    - language: **Python** &nbsp;&nbsp; stars: **3,659** &nbsp;&nbsp; folks: **255**  &nbsp;&nbsp; `562 stars today`
 
 
 ## 近一周热门仓库
 
-1. [mountain-loop / yaak](https://github.com/mountain-loop/yaak)
-    - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,479** &nbsp;&nbsp; folks: **511**  &nbsp;&nbsp; `4,703 stars this week`
-
-1. [minio / minio](https://github.com/minio/minio)
-    - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    - language: **Go** &nbsp;&nbsp; stars: **57,549** &nbsp;&nbsp; folks: **6,395**  &nbsp;&nbsp; `1,823 stars this week`
+1. [guofei9987 / blind_watermark](https://github.com/guofei9987/blind_watermark)
+    - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+    - language: **Python** &nbsp;&nbsp; stars: **10,440** &nbsp;&nbsp; folks: **1,064**  &nbsp;&nbsp; `2,886 stars this week`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **54,582** &nbsp;&nbsp; folks: **2,415**  &nbsp;&nbsp; `4,746 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **54,591** &nbsp;&nbsp; folks: **2,415**  &nbsp;&nbsp; `4,746 stars this week`
 
-1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
-    - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **14,109** &nbsp;&nbsp; folks: **1,069**  &nbsp;&nbsp; `1,240 stars this week`
+1. [minio / minio](https://github.com/minio/minio)
+    - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    - language: **Go** &nbsp;&nbsp; stars: **57,555** &nbsp;&nbsp; folks: **6,396**  &nbsp;&nbsp; `1,823 stars this week`
 
-1. [servo / servo](https://github.com/servo/servo)
-    - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    - language: **Rust** &nbsp;&nbsp; stars: **33,276** &nbsp;&nbsp; folks: **3,314**  &nbsp;&nbsp; `889 stars this week`
+1. [moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
+    - autonomous ai agents for trading in python
+    - language: **Python** &nbsp;&nbsp; stars: **1,718** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `876 stars this week`
 
-1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
-    - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,854** &nbsp;&nbsp; folks: **872**  &nbsp;&nbsp; `2,177 stars this week`
-
-1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
-    - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Python** &nbsp;&nbsp; stars: **39,357** &nbsp;&nbsp; folks: **4,785**  &nbsp;&nbsp; `2,693 stars this week`
+1. [mountain-loop / yaak](https://github.com/mountain-loop/yaak)
+    - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,487** &nbsp;&nbsp; folks: **511**  &nbsp;&nbsp; `4,703 stars this week`
 
 1. [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning)
     - The absolute trainer to light up AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **3,618** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `1,359 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,659** &nbsp;&nbsp; folks: **255**  &nbsp;&nbsp; `1,359 stars this week`
 
-1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-    - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-    - language: **Python** &nbsp;&nbsp; stars: **61,849** &nbsp;&nbsp; folks: **9,174**  &nbsp;&nbsp; `1,806 stars this week`
-
-1. [karpathy / nanoGPT](https://github.com/karpathy/nanoGPT)
-    - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    - language: **Python** &nbsp;&nbsp; stars: **48,394** &nbsp;&nbsp; folks: **8,103**  &nbsp;&nbsp; `1,075 stars this week`
+1. [yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+    - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    - language: **Python** &nbsp;&nbsp; stars: **39,371** &nbsp;&nbsp; folks: **4,787**  &nbsp;&nbsp; `2,693 stars this week`
 
 1. [amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)
     - Chronos: Pretrained Models for Time Series Forecasting
-    - language: **Python** &nbsp;&nbsp; stars: **4,020** &nbsp;&nbsp; folks: **460**  &nbsp;&nbsp; `203 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,024** &nbsp;&nbsp; folks: **460**  &nbsp;&nbsp; `203 stars this week`
 
-1. [hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch)
-    - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-    - language: **TypeScript** &nbsp;&nbsp; stars: **76,497** &nbsp;&nbsp; folks: **5,371**  &nbsp;&nbsp; `1,383 stars this week`
-
-1. [karpathy / micrograd](https://github.com/karpathy/micrograd)
-    - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,516** &nbsp;&nbsp; folks: **1,992**  &nbsp;&nbsp; `250 stars this week`
+1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+    - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+    - language: **Python** &nbsp;&nbsp; stars: **14,115** &nbsp;&nbsp; folks: **1,069**  &nbsp;&nbsp; `1,240 stars this week`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,386** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `969 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,394** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `969 stars this week`
+
+1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+    - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    - language: **Python** &nbsp;&nbsp; stars: **61,854** &nbsp;&nbsp; folks: **9,174**  &nbsp;&nbsp; `1,806 stars this week`
 
 1. [k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
     - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
-    - language: **C++** &nbsp;&nbsp; stars: **8,597** &nbsp;&nbsp; folks: **953**  &nbsp;&nbsp; `700 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **8,600** &nbsp;&nbsp; folks: **953**  &nbsp;&nbsp; `700 stars this week`
 
-1. [drawdb-io / drawdb](https://github.com/drawdb-io/drawdb)
-    - Free, simple, and intuitive online database diagram editor and SQL generator.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **34,551** &nbsp;&nbsp; folks: **2,577**  &nbsp;&nbsp; `1,172 stars this week`
+1. [hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch)
+    - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+    - language: **TypeScript** &nbsp;&nbsp; stars: **76,501** &nbsp;&nbsp; folks: **5,371**  &nbsp;&nbsp; `1,383 stars this week`
 
-1. [anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-    - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **26,081** &nbsp;&nbsp; folks: **2,627**  &nbsp;&nbsp; `1,407 stars this week`
+1. [bol-van / zapret](https://github.com/bol-van/zapret)
+    - DPI bypass multi platform
+    - language: **C** &nbsp;&nbsp; stars: **12,991** &nbsp;&nbsp; folks: **915**  &nbsp;&nbsp; `205 stars this week`
+
+1. [seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs)
+    - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+    - language: **Go** &nbsp;&nbsp; stars: **26,675** &nbsp;&nbsp; folks: **2,508**  &nbsp;&nbsp; `550 stars this week`
+
+1. [vanna-ai / vanna](https://github.com/vanna-ai/vanna)
+    - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+    - language: **Python** &nbsp;&nbsp; stars: **21,252** &nbsp;&nbsp; folks: **1,981**  &nbsp;&nbsp; `368 stars this week`
+
+1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
+    - An Open Source implementation of Notebook LM with more flexibility and features
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,862** &nbsp;&nbsp; folks: **873**  &nbsp;&nbsp; `2,177 stars this week`
+
+1. [karpathy / micrograd](https://github.com/karpathy/micrograd)
+    - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,517** &nbsp;&nbsp; folks: **1,992**  &nbsp;&nbsp; `250 stars this week`
+
+1. [TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+    - Standard Open Arm 100
+    - language: **无** &nbsp;&nbsp; stars: **4,132** &nbsp;&nbsp; folks: **341**  &nbsp;&nbsp; `821 stars this week`
+
+1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+    - Master programming by recreating your favorite technologies from scratch.
+    - language: **Markdown** &nbsp;&nbsp; stars: **431,422** &nbsp;&nbsp; folks: **40,498**  &nbsp;&nbsp; `2,897 stars this week`
 
 1. [jj-vcs / jj](https://github.com/jj-vcs/jj)
     - A Git-compatible VCS that is both simple and powerful
-    - language: **Rust** &nbsp;&nbsp; stars: **21,688** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `395 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **21,693** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `395 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
     - Anthropic's Interactive Prompt Engineering Tutorial
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,334** &nbsp;&nbsp; folks: **2,302**  &nbsp;&nbsp; `6,880 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **25,338** &nbsp;&nbsp; folks: **2,302**  &nbsp;&nbsp; `6,880 stars this month`
 
 1. [anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
     - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **26,081** &nbsp;&nbsp; folks: **2,627**  &nbsp;&nbsp; `5,460 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **26,110** &nbsp;&nbsp; folks: **2,629**  &nbsp;&nbsp; `5,460 stars this month`
 
-1. [tile-ai / tilelang](https://github.com/tile-ai/tilelang)
-    - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    - language: **C++** &nbsp;&nbsp; stars: **3,766** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `2,108 stars this month`
-
-1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
-    - 🛍️ Typescript E-commerce Platform
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,429** &nbsp;&nbsp; folks: **1,999**  &nbsp;&nbsp; `2,709 stars this month`
+1. [cjpais / Handy](https://github.com/cjpais/Handy)
+    - A free, open source, and extensible speech-to-text application that works completely offline.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,242** &nbsp;&nbsp; folks: **269**  &nbsp;&nbsp; `3,399 stars this month`
 
 1. [karpathy / nanoGPT](https://github.com/karpathy/nanoGPT)
     - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    - language: **Python** &nbsp;&nbsp; stars: **48,394** &nbsp;&nbsp; folks: **8,103**  &nbsp;&nbsp; `3,635 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **48,403** &nbsp;&nbsp; folks: **8,105**  &nbsp;&nbsp; `3,635 stars this month`
 
 1. [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
     - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    - language: **Python** &nbsp;&nbsp; stars: **14,109** &nbsp;&nbsp; folks: **1,069**  &nbsp;&nbsp; `2,686 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,115** &nbsp;&nbsp; folks: **1,069**  &nbsp;&nbsp; `2,686 stars this month`
 
-1. [anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
-    - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,883** &nbsp;&nbsp; folks: **356**  &nbsp;&nbsp; `1,718 stars this month`
-
-1. [TibixDev / winboat](https://github.com/TibixDev/winboat)
-    - Run Windows apps on 🐧 Linux with ✨ seamless integration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,063** &nbsp;&nbsp; folks: **357**  &nbsp;&nbsp; `9,019 stars this month`
+1. [evershopcommerce / evershop](https://github.com/evershopcommerce/evershop)
+    - 🛍️ Typescript E-commerce Platform
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,434** &nbsp;&nbsp; folks: **1,999**  &nbsp;&nbsp; `2,709 stars this month`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **54,582** &nbsp;&nbsp; folks: **2,415**  &nbsp;&nbsp; `5,795 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **54,591** &nbsp;&nbsp; folks: **2,415**  &nbsp;&nbsp; `5,795 stars this month`
 
-1. [supermemoryai / supermemory](https://github.com/supermemoryai/supermemory)
-    - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **13,076** &nbsp;&nbsp; folks: **1,356**  &nbsp;&nbsp; `2,081 stars this month`
-
-1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-    - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **47,379** &nbsp;&nbsp; folks: **6,615**  &nbsp;&nbsp; `6,985 stars this month`
-
-1. [Infisical / infisical](https://github.com/Infisical/infisical)
-    - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,320** &nbsp;&nbsp; folks: **1,557**  &nbsp;&nbsp; `3,244 stars this month`
-
-1. [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    - language: **Python** &nbsp;&nbsp; stars: **11,812** &nbsp;&nbsp; folks: **2,519**  &nbsp;&nbsp; `4,527 stars this month`
-
-1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
-    - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,854** &nbsp;&nbsp; folks: **872**  &nbsp;&nbsp; `4,208 stars this month`
+1. [TibixDev / winboat](https://github.com/TibixDev/winboat)
+    - Run Windows apps on 🐧 Linux with ✨ seamless integration
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,072** &nbsp;&nbsp; folks: **356**  &nbsp;&nbsp; `9,019 stars this month`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **31,976** &nbsp;&nbsp; folks: **3,679**  &nbsp;&nbsp; `5,216 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,986** &nbsp;&nbsp; folks: **3,680**  &nbsp;&nbsp; `5,216 stars this month`
+
+1. [Infisical / infisical](https://github.com/Infisical/infisical)
+    - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,322** &nbsp;&nbsp; folks: **1,557**  &nbsp;&nbsp; `3,244 stars this month`
+
+1. [tile-ai / tilelang](https://github.com/tile-ai/tilelang)
+    - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    - language: **C++** &nbsp;&nbsp; stars: **3,767** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `2,108 stars this month`
+
+1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
+    - An Open Source implementation of Notebook LM with more flexibility and features
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,862** &nbsp;&nbsp; folks: **873**  &nbsp;&nbsp; `4,208 stars this month`
+
+1. [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+    - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    - language: **Python** &nbsp;&nbsp; stars: **11,821** &nbsp;&nbsp; folks: **2,520**  &nbsp;&nbsp; `4,527 stars this month`
+
+1. [anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+    - 无
+    - language: **Python** &nbsp;&nbsp; stars: **2,886** &nbsp;&nbsp; folks: **356**  &nbsp;&nbsp; `1,718 stars this month`
 
 1. [minio / minio](https://github.com/minio/minio)
     - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    - language: **Go** &nbsp;&nbsp; stars: **57,549** &nbsp;&nbsp; folks: **6,395**  &nbsp;&nbsp; `2,298 stars this month`
-
-1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-    - 📚 Freely available programming books
-    - language: **Python** &nbsp;&nbsp; stars: **375,411** &nbsp;&nbsp; folks: **65,215**  &nbsp;&nbsp; `5,012 stars this month`
-
-1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
-    - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **40,707** &nbsp;&nbsp; folks: **2,626**  &nbsp;&nbsp; `6,416 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **57,555** &nbsp;&nbsp; folks: **6,396**  &nbsp;&nbsp; `2,298 stars this month`
 
 1. [coinbase / x402](https://github.com/coinbase/x402)
     - A payments protocol for the internet. Built on HTTP.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,386** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `1,581 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,394** &nbsp;&nbsp; folks: **538**  &nbsp;&nbsp; `1,581 stars this month`
+
+1. [QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+    - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **15,670** &nbsp;&nbsp; folks: **1,227**  &nbsp;&nbsp; `2,314 stars this month`
 
 1. [simular-ai / Agent-S](https://github.com/simular-ai/Agent-S)
     - Agent S: an open agentic framework that uses computers like a human
-    - language: **Python** &nbsp;&nbsp; stars: **7,694** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `1,400 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,695** &nbsp;&nbsp; folks: **836**  &nbsp;&nbsp; `1,400 stars this month`
+
+1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+    - 📚 Freely available programming books
+    - language: **Python** &nbsp;&nbsp; stars: **375,419** &nbsp;&nbsp; folks: **65,219**  &nbsp;&nbsp; `5,012 stars this month`
 
 1. [servo / servo](https://github.com/servo/servo)
     - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    - language: **Rust** &nbsp;&nbsp; stars: **33,276** &nbsp;&nbsp; folks: **3,314**  &nbsp;&nbsp; `1,681 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **33,278** &nbsp;&nbsp; folks: **3,314**  &nbsp;&nbsp; `1,681 stars this month`
+
+1. [karpathy / micrograd](https://github.com/karpathy/micrograd)
+    - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **13,517** &nbsp;&nbsp; folks: **1,992**  &nbsp;&nbsp; `698 stars this month`
 
 
 ## 历史归档
