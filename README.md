@@ -10,104 +10,104 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-12-12 14:28:04 +0800`
+`更新时间：2025-12-12 15:20:31 +0800`
 
 ## 今日热门仓库
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **3,955** &nbsp;&nbsp; folks: **227**  &nbsp;&nbsp; `1,669 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **3,994** &nbsp;&nbsp; folks: **228**  &nbsp;&nbsp; `1,669 stars today`
 
 1. [Tencent / WeKnora](https://github.com/Tencent/WeKnora)
     - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    - language: **Go** &nbsp;&nbsp; stars: **8,218** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `68 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **8,234** &nbsp;&nbsp; folks: **919**  &nbsp;&nbsp; `68 stars today`
 
 1. [block / goose](https://github.com/block/goose)
     - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    - language: **Rust** &nbsp;&nbsp; stars: **23,869** &nbsp;&nbsp; folks: **2,132**  &nbsp;&nbsp; `443 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **23,885** &nbsp;&nbsp; folks: **2,133**  &nbsp;&nbsp; `443 stars today`
 
 1. [KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju)
     - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
-    - language: **Go** &nbsp;&nbsp; stars: **3,418** &nbsp;&nbsp; folks: **108**  &nbsp;&nbsp; `999 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **3,433** &nbsp;&nbsp; folks: **108**  &nbsp;&nbsp; `999 stars today`
 
 1. [tempoxyz / tempo](https://github.com/tempoxyz/tempo)
     - the blockchain for payments
-    - language: **Rust** &nbsp;&nbsp; stars: **362** &nbsp;&nbsp; folks: **59**  &nbsp;&nbsp; `52 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **368** &nbsp;&nbsp; folks: **60**  &nbsp;&nbsp; `52 stars today`
 
 1. [YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2)
     - Experimental menu for GTA 5: Enhanced
-    - language: **C++** &nbsp;&nbsp; stars: **763** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `22 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **766** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `22 stars today`
 
 1. [mlabonne / llm-course](https://github.com/mlabonne/llm-course)
     - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    - language: **无** &nbsp;&nbsp; stars: **69,954** &nbsp;&nbsp; folks: **7,983**  &nbsp;&nbsp; `187 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **69,972** &nbsp;&nbsp; folks: **7,984**  &nbsp;&nbsp; `187 stars today`
 
 1. [agentsmd / agents.md](https://github.com/agentsmd/agents.md)
     - AGENTS.md — a simple, open format for guiding coding agents
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,494** &nbsp;&nbsp; folks: **794**  &nbsp;&nbsp; `682 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,521** &nbsp;&nbsp; folks: **798**  &nbsp;&nbsp; `682 stars today`
 
 1. [HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
     - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
-    - language: **C#** &nbsp;&nbsp; stars: **3,593** &nbsp;&nbsp; folks: **278**  &nbsp;&nbsp; `42 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **3,597** &nbsp;&nbsp; folks: **278**  &nbsp;&nbsp; `42 stars today`
 
 1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
     - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **61,704** &nbsp;&nbsp; folks: **13,684**  &nbsp;&nbsp; `127 stars today`
+    - language: **Roff** &nbsp;&nbsp; stars: **61,713** &nbsp;&nbsp; folks: **13,687**  &nbsp;&nbsp; `127 stars today`
 
 1. [mindsdb / mindsdb](https://github.com/mindsdb/mindsdb)
     - Federated query engine for AI - The only MCP Server you'll ever need
-    - language: **Python** &nbsp;&nbsp; stars: **37,679** &nbsp;&nbsp; folks: **6,044**  &nbsp;&nbsp; `33 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **37,688** &nbsp;&nbsp; folks: **6,044**  &nbsp;&nbsp; `33 stars today`
 
 1. [GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
     - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    - language: **Python** &nbsp;&nbsp; stars: **4,190** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `90 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,201** &nbsp;&nbsp; folks: **1,099**  &nbsp;&nbsp; `90 stars today`
 
 1. [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk)
     - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    - language: **Rust** &nbsp;&nbsp; stars: **103,998** &nbsp;&nbsp; folks: **15,342**  &nbsp;&nbsp; `84 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **104,017** &nbsp;&nbsp; folks: **15,344**  &nbsp;&nbsp; `84 stars today`
 
 
 ## 近一周热门仓库
 
 1. [basecamp / fizzy](https://github.com/basecamp/fizzy)
     - Kanban as it should be. Not as it has been.
-    - language: **Ruby** &nbsp;&nbsp; stars: **5,524** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `3,172 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **5,530** &nbsp;&nbsp; folks: **609**  &nbsp;&nbsp; `3,172 stars this week`
 
 1. [rustfs / rustfs](https://github.com/rustfs/rustfs)
     - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    - language: **Rust** &nbsp;&nbsp; stars: **16,752** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `3,732 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **16,762** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `3,732 stars this week`
 
 1. [DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
     - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,647** &nbsp;&nbsp; folks: **818**  &nbsp;&nbsp; `4,107 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,718** &nbsp;&nbsp; folks: **825**  &nbsp;&nbsp; `4,107 stars this week`
 
 1. [anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
     - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    - language: **Python** &nbsp;&nbsp; stars: **11,981** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `1,347 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,987** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `1,347 stars this week`
 
 1. [agentsmd / agents.md](https://github.com/agentsmd/agents.md)
     - AGENTS.md — a simple, open format for guiding coding agents
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,494** &nbsp;&nbsp; folks: **794**  &nbsp;&nbsp; `1,179 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,521** &nbsp;&nbsp; folks: **798**  &nbsp;&nbsp; `1,179 stars this week`
 
 1. [oven-sh / bun](https://github.com/oven-sh/bun)
     - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    - language: **Zig** &nbsp;&nbsp; stars: **84,929** &nbsp;&nbsp; folks: **3,789**  &nbsp;&nbsp; `1,725 stars this week`
+    - language: **Zig** &nbsp;&nbsp; stars: **84,932** &nbsp;&nbsp; folks: **3,789**  &nbsp;&nbsp; `1,725 stars this week`
 
 1. [srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
     - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-    - language: **Python** &nbsp;&nbsp; stars: **24,671** &nbsp;&nbsp; folks: **4,549**  &nbsp;&nbsp; `616 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **24,673** &nbsp;&nbsp; folks: **4,549**  &nbsp;&nbsp; `616 stars this week`
 
 1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
     - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,395** &nbsp;&nbsp; folks: **1,451**  &nbsp;&nbsp; `2,353 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,404** &nbsp;&nbsp; folks: **1,451**  &nbsp;&nbsp; `2,353 stars this week`
 
 1. [microsoft / typescript-go](https://github.com/microsoft/typescript-go)
     - Staging repo for development of native port of TypeScript
-    - language: **Go** &nbsp;&nbsp; stars: **23,298** &nbsp;&nbsp; folks: **763**  &nbsp;&nbsp; `253 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **23,300** &nbsp;&nbsp; folks: **763**  &nbsp;&nbsp; `253 stars this week`
 
 1. [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
     - Telegram-iOS
-    - language: **Swift** &nbsp;&nbsp; stars: **7,764** &nbsp;&nbsp; folks: **2,217**  &nbsp;&nbsp; `274 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **7,765** &nbsp;&nbsp; folks: **2,216**  &nbsp;&nbsp; `274 stars this week`
 
 1. [lynx-family / lynx](https://github.com/lynx-family/lynx)
     - Empower the Web community and invite more to build across platforms.
@@ -115,106 +115,106 @@
 
 1. [cloudflare / vibesdk](https://github.com/cloudflare/vibesdk)
     - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,298** &nbsp;&nbsp; folks: **973**  &nbsp;&nbsp; `925 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,302** &nbsp;&nbsp; folks: **974**  &nbsp;&nbsp; `925 stars this week`
 
 1. [projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
     - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **11,628** &nbsp;&nbsp; folks: **3,217**  &nbsp;&nbsp; `163 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **11,629** &nbsp;&nbsp; folks: **3,217**  &nbsp;&nbsp; `163 stars this week`
 
 1. [leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
     - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **4,828** &nbsp;&nbsp; folks: **467**  &nbsp;&nbsp; `121 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **4,831** &nbsp;&nbsp; folks: **467**  &nbsp;&nbsp; `121 stars this week`
 
 1. [ostris / ai-toolkit](https://github.com/ostris/ai-toolkit)
     - The ultimate training toolkit for finetuning diffusion models
-    - language: **Python** &nbsp;&nbsp; stars: **8,072** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `542 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,079** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `542 stars this week`
 
 1. [vercel / next.js](https://github.com/vercel/next.js)
     - The React Framework
-    - language: **JavaScript** &nbsp;&nbsp; stars: **136,469** &nbsp;&nbsp; folks: **30,022**  &nbsp;&nbsp; `443 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **136,472** &nbsp;&nbsp; folks: **30,023**  &nbsp;&nbsp; `443 stars this week`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **45,556** &nbsp;&nbsp; folks: **3,178**  &nbsp;&nbsp; `954 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **45,566** &nbsp;&nbsp; folks: **3,178**  &nbsp;&nbsp; `954 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [kavishdevar / librepods](https://github.com/kavishdevar/librepods)
     - AirPods liberated from Apple's ecosystem.
-    - language: **Kotlin** &nbsp;&nbsp; stars: **21,409** &nbsp;&nbsp; folks: **1,078**  &nbsp;&nbsp; `19,752 stars this month`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **21,428** &nbsp;&nbsp; folks: **1,079**  &nbsp;&nbsp; `19,752 stars this month`
 
 1. [sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar)
     - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
-    - language: **Python** &nbsp;&nbsp; stars: **38,783** &nbsp;&nbsp; folks: **20,386**  &nbsp;&nbsp; `33,192 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **38,787** &nbsp;&nbsp; folks: **20,383**  &nbsp;&nbsp; `33,192 stars this month`
 
 1. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
     - Open-Source Frontier Voice AI
-    - language: **Python** &nbsp;&nbsp; stars: **17,428** &nbsp;&nbsp; folks: **1,914**  &nbsp;&nbsp; `7,424 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,435** &nbsp;&nbsp; folks: **1,914**  &nbsp;&nbsp; `7,424 stars this month`
 
 1. [MemoriLabs / Memori](https://github.com/MemoriLabs/Memori)
     - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-    - language: **Python** &nbsp;&nbsp; stars: **10,260** &nbsp;&nbsp; folks: **702**  &nbsp;&nbsp; `7,845 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,265** &nbsp;&nbsp; folks: **702**  &nbsp;&nbsp; `7,845 stars this month`
 
 1. [rustfs / rustfs](https://github.com/rustfs/rustfs)
     - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    - language: **Rust** &nbsp;&nbsp; stars: **16,752** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `5,504 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **16,762** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `5,504 stars this month`
 
 1. [microsoft / magentic-ui](https://github.com/microsoft/magentic-ui)
     - A research prototype of a human-centered web agent
-    - language: **Python** &nbsp;&nbsp; stars: **9,025** &nbsp;&nbsp; folks: **919**  &nbsp;&nbsp; `1,108 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,026** &nbsp;&nbsp; folks: **919**  &nbsp;&nbsp; `1,108 stars this month`
 
 1. [google / adk-go](https://github.com/google/adk-go)
     - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    - language: **Go** &nbsp;&nbsp; stars: **6,218** &nbsp;&nbsp; folks: **425**  &nbsp;&nbsp; `4,160 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **6,220** &nbsp;&nbsp; folks: **425**  &nbsp;&nbsp; `4,160 stars this month`
 
 1. [usestrix / strix](https://github.com/usestrix/strix)
     - Open-source AI agents for penetration testing
-    - language: **Python** &nbsp;&nbsp; stars: **17,529** &nbsp;&nbsp; folks: **1,785**  &nbsp;&nbsp; `8,309 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,539** &nbsp;&nbsp; folks: **1,785**  &nbsp;&nbsp; `8,309 stars this month`
 
 1. [anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
     - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    - language: **Python** &nbsp;&nbsp; stars: **11,981** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `1,699 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,987** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `1,699 stars this month`
 
 1. [ostris / ai-toolkit](https://github.com/ostris/ai-toolkit)
     - The ultimate training toolkit for finetuning diffusion models
-    - language: **Python** &nbsp;&nbsp; stars: **8,072** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `1,244 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,079** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `1,244 stars this month`
 
 1. [datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents)
     - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    - language: **Python** &nbsp;&nbsp; stars: **7,970** &nbsp;&nbsp; folks: **867**  &nbsp;&nbsp; `4,224 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,996** &nbsp;&nbsp; folks: **869**  &nbsp;&nbsp; `4,224 stars this month`
 
 1. [google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli)
     - An open-source AI agent that brings the power of Gemini directly into your terminal.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **86,980** &nbsp;&nbsp; folks: **9,940**  &nbsp;&nbsp; `5,173 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **86,987** &nbsp;&nbsp; folks: **9,942**  &nbsp;&nbsp; `5,173 stars this month`
 
 1. [trustedsec / social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
     - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-    - language: **Python** &nbsp;&nbsp; stars: **13,621** &nbsp;&nbsp; folks: **3,169**  &nbsp;&nbsp; `1,015 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **13,622** &nbsp;&nbsp; folks: **3,169**  &nbsp;&nbsp; `1,015 stars this month`
 
 1. [QuantConnect / Lean](https://github.com/QuantConnect/Lean)
     - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-    - language: **C#** &nbsp;&nbsp; stars: **13,927** &nbsp;&nbsp; folks: **3,992**  &nbsp;&nbsp; `1,189 stars this month`
+    - language: **C#** &nbsp;&nbsp; stars: **13,931** &nbsp;&nbsp; folks: **3,992**  &nbsp;&nbsp; `1,189 stars this month`
 
 1. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
     - 所有小初高、大学PDF教材。
-    - language: **Roff** &nbsp;&nbsp; stars: **61,704** &nbsp;&nbsp; folks: **13,684**  &nbsp;&nbsp; `6,560 stars this month`
+    - language: **Roff** &nbsp;&nbsp; stars: **61,714** &nbsp;&nbsp; folks: **13,687**  &nbsp;&nbsp; `6,560 stars this month`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,188** &nbsp;&nbsp; folks: **4,512**  &nbsp;&nbsp; `1,419 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,190** &nbsp;&nbsp; folks: **4,514**  &nbsp;&nbsp; `1,419 stars this month`
 
 1. [GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
     - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    - language: **Python** &nbsp;&nbsp; stars: **4,190** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `1,092 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,201** &nbsp;&nbsp; folks: **1,099**  &nbsp;&nbsp; `1,092 stars this month`
 
 1. [HKUDS / LightRAG](https://github.com/HKUDS/LightRAG)
     - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    - language: **Python** &nbsp;&nbsp; stars: **25,833** &nbsp;&nbsp; folks: **3,697**  &nbsp;&nbsp; `3,327 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,838** &nbsp;&nbsp; folks: **3,697**  &nbsp;&nbsp; `3,327 stars this month`
 
 1. [sst / opencode](https://github.com/sst/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **38,184** &nbsp;&nbsp; folks: **3,208**  &nbsp;&nbsp; `5,827 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **38,195** &nbsp;&nbsp; folks: **3,209**  &nbsp;&nbsp; `5,827 stars this month`
 
 
 ## 历史归档
