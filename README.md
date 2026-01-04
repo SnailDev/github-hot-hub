@@ -10,135 +10,135 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-01-05 03:13:07 +0800`
+`更新时间：2026-01-05 04:19:25 +0800`
 
 ## 今日热门仓库
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Financial data platform for analysts, quants and AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **56,720** &nbsp;&nbsp; folks: **5,516**  &nbsp;&nbsp; `440 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **56,731** &nbsp;&nbsp; folks: **5,518**  &nbsp;&nbsp; `440 stars today`
 
 1. [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
     - Examples and guides for using the OpenAI API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **70,591** &nbsp;&nbsp; folks: **11,840**  &nbsp;&nbsp; `43 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **70,602** &nbsp;&nbsp; folks: **11,840**  &nbsp;&nbsp; `43 stars today`
 
 1. [nocodb / nocodb](https://github.com/nocodb/nocodb)
     - 🔥 🔥 🔥 Open Source Airtable Alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **60,538** &nbsp;&nbsp; folks: **4,502**  &nbsp;&nbsp; `375 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **60,557** &nbsp;&nbsp; folks: **4,504**  &nbsp;&nbsp; `375 stars today`
 
 1. [HQarroum / docker-android](https://github.com/HQarroum/docker-android)
     - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-    - language: **Shell** &nbsp;&nbsp; stars: **2,420** &nbsp;&nbsp; folks: **144**  &nbsp;&nbsp; `410 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **2,430** &nbsp;&nbsp; folks: **144**  &nbsp;&nbsp; `410 stars today`
 
 1. [usememos / memos](https://github.com/usememos/memos)
     - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    - language: **Go** &nbsp;&nbsp; stars: **51,150** &nbsp;&nbsp; folks: **3,688**  &nbsp;&nbsp; `1,799 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **51,166** &nbsp;&nbsp; folks: **3,691**  &nbsp;&nbsp; `1,799 stars today`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **44,479** &nbsp;&nbsp; folks: **7,848**  &nbsp;&nbsp; `88 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **44,484** &nbsp;&nbsp; folks: **7,850**  &nbsp;&nbsp; `88 stars today`
 
 1. [ourongxing / newsnow](https://github.com/ourongxing/newsnow)
     - Elegant reading of real-time and hottest news
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,531** &nbsp;&nbsp; folks: **4,806**  &nbsp;&nbsp; `332 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,541** &nbsp;&nbsp; folks: **4,807**  &nbsp;&nbsp; `332 stars today`
 
 1. [anomalyco / opencode](https://github.com/anomalyco/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **47,427** &nbsp;&nbsp; folks: **4,063**  &nbsp;&nbsp; `990 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **47,474** &nbsp;&nbsp; folks: **4,072**  &nbsp;&nbsp; `990 stars today`
 
 1. [5rahim / seanime](https://github.com/5rahim/seanime)
     - Open-source media server with a web interface and desktop app for anime and manga.
-    - language: **Go** &nbsp;&nbsp; stars: **2,031** &nbsp;&nbsp; folks: **133**  &nbsp;&nbsp; `406 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **2,052** &nbsp;&nbsp; folks: **133**  &nbsp;&nbsp; `406 stars today`
 
 1. [python / cpython](https://github.com/python/cpython)
     - The Python programming language
-    - language: **Python** &nbsp;&nbsp; stars: **70,660** &nbsp;&nbsp; folks: **33,816**  &nbsp;&nbsp; `27 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **70,670** &nbsp;&nbsp; folks: **33,817**  &nbsp;&nbsp; `27 stars today`
 
 
 ## 近一周热门仓库
 
 1. [BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban)
     - Get 10X more out of Claude Code, Codex or any coding agent
-    - language: **Rust** &nbsp;&nbsp; stars: **12,406** &nbsp;&nbsp; folks: **1,153**  &nbsp;&nbsp; `4,973 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **12,417** &nbsp;&nbsp; folks: **1,154**  &nbsp;&nbsp; `4,973 stars this week`
 
 1. [usememos / memos](https://github.com/usememos/memos)
     - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    - language: **Go** &nbsp;&nbsp; stars: **51,150** &nbsp;&nbsp; folks: **3,688**  &nbsp;&nbsp; `1,996 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **51,166** &nbsp;&nbsp; folks: **3,691**  &nbsp;&nbsp; `1,996 stars this week`
 
 1. [afkarxyz / SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
     - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,261** &nbsp;&nbsp; folks: **128**  &nbsp;&nbsp; `1,418 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,265** &nbsp;&nbsp; folks: **128**  &nbsp;&nbsp; `1,418 stars this week`
 
 1. [harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book)
     - Introduction to Machine Learning Systems
-    - language: **JavaScript** &nbsp;&nbsp; stars: **15,242** &nbsp;&nbsp; folks: **1,742**  &nbsp;&nbsp; `3,439 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **15,266** &nbsp;&nbsp; folks: **1,743**  &nbsp;&nbsp; `3,439 stars this week`
 
 1. [resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox)
     - SoTA open-source TTS
-    - language: **Python** &nbsp;&nbsp; stars: **20,562** &nbsp;&nbsp; folks: **2,680**  &nbsp;&nbsp; `2,328 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **20,569** &nbsp;&nbsp; folks: **2,680**  &nbsp;&nbsp; `2,328 stars this week`
 
 1. [antiwork / gumroad](https://github.com/antiwork/gumroad)
     - Sell stuff and see what sticks
-    - language: **Ruby** &nbsp;&nbsp; stars: **8,130** &nbsp;&nbsp; folks: **1,568**  &nbsp;&nbsp; `272 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **8,132** &nbsp;&nbsp; folks: **1,568**  &nbsp;&nbsp; `272 stars this week`
 
 1. [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
     - Personal AI Infrastructure for upgrading humans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,257** &nbsp;&nbsp; folks: **580**  &nbsp;&nbsp; `769 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,272** &nbsp;&nbsp; folks: **581**  &nbsp;&nbsp; `769 stars this week`
 
 1. [alexta69 / metube](https://github.com/alexta69/metube)
     - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-    - language: **Python** &nbsp;&nbsp; stars: **11,972** &nbsp;&nbsp; folks: **811**  &nbsp;&nbsp; `652 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,975** &nbsp;&nbsp; folks: **811**  &nbsp;&nbsp; `652 stars this week`
 
 1. [google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **2,537** &nbsp;&nbsp; folks: **324**  &nbsp;&nbsp; `537 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,539** &nbsp;&nbsp; folks: **324**  &nbsp;&nbsp; `537 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,211** &nbsp;&nbsp; folks: **624**  &nbsp;&nbsp; `9,616 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,217** &nbsp;&nbsp; folks: **624**  &nbsp;&nbsp; `9,616 stars this month`
 
 1. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
     - Open-Source Frontier Voice AI
-    - language: **Python** &nbsp;&nbsp; stars: **19,497** &nbsp;&nbsp; folks: **2,168**  &nbsp;&nbsp; `9,365 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,502** &nbsp;&nbsp; folks: **2,170**  &nbsp;&nbsp; `9,365 stars this month`
 
 1. [DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
     - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,688** &nbsp;&nbsp; folks: **1,718**  &nbsp;&nbsp; `14,163 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,692** &nbsp;&nbsp; folks: **1,718**  &nbsp;&nbsp; `14,163 stars this month`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **39,385** &nbsp;&nbsp; folks: **2,662**  &nbsp;&nbsp; `6,763 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,390** &nbsp;&nbsp; folks: **2,662**  &nbsp;&nbsp; `6,763 stars this month`
 
 1. [BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban)
     - Get 10X more out of Claude Code, Codex or any coding agent
-    - language: **Rust** &nbsp;&nbsp; stars: **12,406** &nbsp;&nbsp; folks: **1,153**  &nbsp;&nbsp; `5,578 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **12,417** &nbsp;&nbsp; folks: **1,154**  &nbsp;&nbsp; `5,578 stars this month`
 
 1. [anomalyco / opencode](https://github.com/anomalyco/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **47,427** &nbsp;&nbsp; folks: **4,063**  &nbsp;&nbsp; `11,263 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **47,474** &nbsp;&nbsp; folks: **4,072**  &nbsp;&nbsp; `11,263 stars this month`
 
 1. [resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox)
     - SoTA open-source TTS
-    - language: **Python** &nbsp;&nbsp; stars: **20,562** &nbsp;&nbsp; folks: **2,680**  &nbsp;&nbsp; `5,600 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,569** &nbsp;&nbsp; folks: **2,680**  &nbsp;&nbsp; `5,600 stars this month`
 
 1. [Tencent / WeKnora](https://github.com/Tencent/WeKnora)
     - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    - language: **Go** &nbsp;&nbsp; stars: **10,875** &nbsp;&nbsp; folks: **1,167**  &nbsp;&nbsp; `3,097 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **10,876** &nbsp;&nbsp; folks: **1,167**  &nbsp;&nbsp; `3,097 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **51,072** &nbsp;&nbsp; folks: **3,668**  &nbsp;&nbsp; `6,425 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **51,083** &nbsp;&nbsp; folks: **3,669**  &nbsp;&nbsp; `6,425 stars this month`
 
 1. [agentsmd / agents.md](https://github.com/agentsmd/agents.md)
     - AGENTS.md — a simple, open format for guiding coding agents
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,121** &nbsp;&nbsp; folks: **997**  &nbsp;&nbsp; `5,262 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,129** &nbsp;&nbsp; folks: **999**  &nbsp;&nbsp; `5,262 stars this month`
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Open-source platform to build and deploy AI agent workflows.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,935** &nbsp;&nbsp; folks: **3,114**  &nbsp;&nbsp; `6,387 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,938** &nbsp;&nbsp; folks: **3,114**  &nbsp;&nbsp; `6,387 stars this month`
 
 1. [datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents)
     - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -146,7 +146,7 @@
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **32,941** &nbsp;&nbsp; folks: **2,982**  &nbsp;&nbsp; `13,018 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **32,957** &nbsp;&nbsp; folks: **2,982**  &nbsp;&nbsp; `13,018 stars this month`
 
 1. [NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python)
     - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
@@ -154,7 +154,7 @@
 
 1. [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
     - Personal AI Infrastructure for upgrading humans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,257** &nbsp;&nbsp; folks: **580**  &nbsp;&nbsp; `1,854 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,272** &nbsp;&nbsp; folks: **581**  &nbsp;&nbsp; `1,854 stars this month`
 
 
 ## 历史归档
