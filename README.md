@@ -10,139 +10,139 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-01-18 17:17:42 +0800`
+`更新时间：2026-01-18 18:17:25 +0800`
 
 ## 今日热门仓库
 
 1. [eigent-ai / eigent](https://github.com/eigent-ai/eigent)
     - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,045** &nbsp;&nbsp; folks: **950**  &nbsp;&nbsp; `760 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,072** &nbsp;&nbsp; folks: **952**  &nbsp;&nbsp; `760 stars today`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **27,830** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `1,422 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **27,881** &nbsp;&nbsp; folks: **2,080**  &nbsp;&nbsp; `1,422 stars today`
 
 1. [puckeditor / puck](https://github.com/puckeditor/puck)
     - The visual editor for React with AI superpowers
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,510** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `336 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,519** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `336 stars today`
 
 1. [google / langextract](https://github.com/google/langextract)
     - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    - language: **Python** &nbsp;&nbsp; stars: **21,730** &nbsp;&nbsp; folks: **1,510**  &nbsp;&nbsp; `425 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,745** &nbsp;&nbsp; folks: **1,510**  &nbsp;&nbsp; `425 stars today`
 
 1. [iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi)
     - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,120** &nbsp;&nbsp; folks: **403**  &nbsp;&nbsp; `605 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,147** &nbsp;&nbsp; folks: **403**  &nbsp;&nbsp; `605 stars today`
 
 
 ## 近一周热门仓库
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **27,830** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `11,114 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **27,881** &nbsp;&nbsp; folks: **2,080**  &nbsp;&nbsp; `11,114 stars this week`
 
 1. [anomalyco / opencode](https://github.com/anomalyco/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **75,711** &nbsp;&nbsp; folks: **6,669**  &nbsp;&nbsp; `15,786 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **75,798** &nbsp;&nbsp; folks: **6,676**  &nbsp;&nbsp; `15,786 stars this week`
 
 1. [frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
     - Autonomous AI development loop for Claude Code with intelligent exit detection
-    - language: **Shell** &nbsp;&nbsp; stars: **3,604** &nbsp;&nbsp; folks: **234**  &nbsp;&nbsp; `2,408 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **3,616** &nbsp;&nbsp; folks: **234**  &nbsp;&nbsp; `2,408 stars this week`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,148** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `1,926 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,154** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `1,926 stars this week`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **78,196** &nbsp;&nbsp; folks: **11,404**  &nbsp;&nbsp; `1,154 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **78,201** &nbsp;&nbsp; folks: **11,404**  &nbsp;&nbsp; `1,154 stars this week`
 
 1. [home-assistant / home-assistant.io](https://github.com/home-assistant/home-assistant.io)
     - 📘 Home Assistant User documentation
-    - language: **HTML** &nbsp;&nbsp; stars: **8,570** &nbsp;&nbsp; folks: **8,138**  &nbsp;&nbsp; `774 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **8,573** &nbsp;&nbsp; folks: **8,138**  &nbsp;&nbsp; `774 stars this week`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **57,706** &nbsp;&nbsp; folks: **4,244**  &nbsp;&nbsp; `3,079 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **57,719** &nbsp;&nbsp; folks: **4,247**  &nbsp;&nbsp; `3,079 stars this week`
 
 1. [virattt / dexter](https://github.com/virattt/dexter)
     - An autonomous agent for deep financial research
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,273** &nbsp;&nbsp; folks: **916**  &nbsp;&nbsp; `836 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,283** &nbsp;&nbsp; folks: **916**  &nbsp;&nbsp; `836 stars this week`
 
 1. [OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)
     - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-    - language: **Python** &nbsp;&nbsp; stars: **28,775** &nbsp;&nbsp; folks: **3,623**  &nbsp;&nbsp; `599 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **28,780** &nbsp;&nbsp; folks: **3,623**  &nbsp;&nbsp; `599 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [anomalyco / opencode](https://github.com/anomalyco/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **75,711** &nbsp;&nbsp; folks: **6,669**  &nbsp;&nbsp; `35,141 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **75,798** &nbsp;&nbsp; folks: **6,676**  &nbsp;&nbsp; `35,141 stars this month`
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **44,135** &nbsp;&nbsp; folks: **4,099**  &nbsp;&nbsp; `22,192 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **44,167** &nbsp;&nbsp; folks: **4,103**  &nbsp;&nbsp; `22,192 stars this month`
 
 1. [BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban)
     - Get 10X more out of Claude Code, Codex or any coding agent
-    - language: **Rust** &nbsp;&nbsp; stars: **16,897** &nbsp;&nbsp; folks: **1,568**  &nbsp;&nbsp; `10,270 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **16,905** &nbsp;&nbsp; folks: **1,569**  &nbsp;&nbsp; `10,270 stars this month`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **27,830** &nbsp;&nbsp; folks: **2,074**  &nbsp;&nbsp; `16,947 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **27,881** &nbsp;&nbsp; folks: **2,080**  &nbsp;&nbsp; `16,947 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **57,706** &nbsp;&nbsp; folks: **4,244**  &nbsp;&nbsp; `11,414 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **57,719** &nbsp;&nbsp; folks: **4,247**  &nbsp;&nbsp; `11,414 stars this month`
 
 1. [ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
     - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    - language: **Python** &nbsp;&nbsp; stars: **20,944** &nbsp;&nbsp; folks: **2,121**  &nbsp;&nbsp; `13,091 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,965** &nbsp;&nbsp; folks: **2,124**  &nbsp;&nbsp; `13,091 stars this month`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **40,161** &nbsp;&nbsp; folks: **2,707**  &nbsp;&nbsp; `7,453 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **40,166** &nbsp;&nbsp; folks: **2,707**  &nbsp;&nbsp; `7,453 stars this month`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,148** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `4,167 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,154** &nbsp;&nbsp; folks: **2,346**  &nbsp;&nbsp; `4,167 stars this month`
 
 1. [usememos / memos](https://github.com/usememos/memos)
     - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    - language: **Go** &nbsp;&nbsp; stars: **54,631** &nbsp;&nbsp; folks: **3,922**  &nbsp;&nbsp; `7,509 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **54,638** &nbsp;&nbsp; folks: **3,923**  &nbsp;&nbsp; `7,509 stars this month`
 
 1. [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
     - Personal AI Infrastructure for upgrading humans.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,041** &nbsp;&nbsp; folks: **808**  &nbsp;&nbsp; `3,463 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,047** &nbsp;&nbsp; folks: **808**  &nbsp;&nbsp; `3,463 stars this month`
 
 1. [shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
     - How can we build a true AI agent? Like Claude Code.
-    - language: **Python** &nbsp;&nbsp; stars: **14,489** &nbsp;&nbsp; folks: **3,344**  &nbsp;&nbsp; `2,845 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,497** &nbsp;&nbsp; folks: **3,346**  &nbsp;&nbsp; `2,845 stars this month`
 
 1. [Lissy93 / web-check](https://github.com/Lissy93/web-check)
     - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,145** &nbsp;&nbsp; folks: **2,388**  &nbsp;&nbsp; `3,123 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,151** &nbsp;&nbsp; folks: **2,388**  &nbsp;&nbsp; `3,123 stars this month`
 
 1. [steveyegge / beads](https://github.com/steveyegge/beads)
     - Beads - A memory upgrade for your coding agent
-    - language: **Go** &nbsp;&nbsp; stars: **10,886** &nbsp;&nbsp; folks: **675**  &nbsp;&nbsp; `5,273 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **10,896** &nbsp;&nbsp; folks: **676**  &nbsp;&nbsp; `5,273 stars this month`
 
 1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
     - Source code for the X Recommendation Algorithm
-    - language: **Scala** &nbsp;&nbsp; stars: **70,444** &nbsp;&nbsp; folks: **12,954**  &nbsp;&nbsp; `2,568 stars this month`
+    - language: **Scala** &nbsp;&nbsp; stars: **70,448** &nbsp;&nbsp; folks: **12,954**  &nbsp;&nbsp; `2,568 stars this month`
 
 1. [resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox)
     - SoTA open-source TTS
-    - language: **Python** &nbsp;&nbsp; stars: **21,645** &nbsp;&nbsp; folks: **2,817**  &nbsp;&nbsp; `6,099 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,651** &nbsp;&nbsp; folks: **2,818**  &nbsp;&nbsp; `6,099 stars this month`
 
 1. [badlogic / pi-mono](https://github.com/badlogic/pi-mono)
     - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,903** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `1,355 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,907** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `1,355 stars this month`
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,382** &nbsp;&nbsp; folks: **957**  &nbsp;&nbsp; `6,727 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,389** &nbsp;&nbsp; folks: **958**  &nbsp;&nbsp; `6,727 stars this month`
 
 
 ## 历史归档
