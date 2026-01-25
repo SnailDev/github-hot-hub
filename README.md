@@ -10,111 +10,111 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-01-26 04:20:00 +0800`
+`更新时间：2026-01-26 05:16:07 +0800`
 
 ## 今日热门仓库
 
 1. [Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio)
     - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-    - language: **Python** &nbsp;&nbsp; stars: **4,057** &nbsp;&nbsp; folks: **328**  &nbsp;&nbsp; `263 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,096** &nbsp;&nbsp; folks: **331**  &nbsp;&nbsp; `263 stars today`
 
 1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
     - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    - language: **Python** &nbsp;&nbsp; stars: **8,969** &nbsp;&nbsp; folks: **661**  &nbsp;&nbsp; `1,007 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **8,983** &nbsp;&nbsp; folks: **662**  &nbsp;&nbsp; `1,007 stars today`
 
 1. [remotion-dev / remotion](https://github.com/remotion-dev/remotion)
     - 🎥 Make videos programmatically with React
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,475** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `1,118 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,503** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `1,118 stars today`
 
 1. [qarmin / czkawka](https://github.com/qarmin/czkawka)
     - Multi functional app to find duplicates, empty folders, similar images etc.
-    - language: **Rust** &nbsp;&nbsp; stars: **28,482** &nbsp;&nbsp; folks: **931**  &nbsp;&nbsp; `60 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **28,495** &nbsp;&nbsp; folks: **931**  &nbsp;&nbsp; `60 stars today`
 
 1. [OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG)
     - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-    - language: **Python** &nbsp;&nbsp; stars: **3,920** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `437 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,941** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `437 stars today`
 
 1. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
     - Open-Source Frontier Voice AI
-    - language: **Python** &nbsp;&nbsp; stars: **21,961** &nbsp;&nbsp; folks: **2,391**  &nbsp;&nbsp; `362 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,978** &nbsp;&nbsp; folks: **2,391**  &nbsp;&nbsp; `362 stars today`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **57,388** &nbsp;&nbsp; folks: **7,440**  &nbsp;&nbsp; `208 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **57,397** &nbsp;&nbsp; folks: **7,442**  &nbsp;&nbsp; `208 stars today`
 
 1. [supermemoryai / supermemory](https://github.com/supermemoryai/supermemory)
     - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,612** &nbsp;&nbsp; folks: **1,543**  &nbsp;&nbsp; `159 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,626** &nbsp;&nbsp; folks: **1,544**  &nbsp;&nbsp; `159 stars today`
 
 
 ## 近一周热门仓库
 
 1. [remotion-dev / remotion](https://github.com/remotion-dev/remotion)
     - 🎥 Make videos programmatically with React
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,475** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `3,712 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,503** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `3,712 stars this week`
 
 1. [iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi)
     - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,584** &nbsp;&nbsp; folks: **808**  &nbsp;&nbsp; `5,447 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,589** &nbsp;&nbsp; folks: **808**  &nbsp;&nbsp; `5,447 stars this week`
 
 1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
     - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    - language: **Python** &nbsp;&nbsp; stars: **8,969** &nbsp;&nbsp; folks: **661**  &nbsp;&nbsp; `2,362 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,984** &nbsp;&nbsp; folks: **662**  &nbsp;&nbsp; `2,362 stars this week`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **35,859** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `8,266 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **35,878** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `8,266 stars this week`
 
 1. [OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG)
     - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-    - language: **Python** &nbsp;&nbsp; stars: **3,920** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `912 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,941** &nbsp;&nbsp; folks: **281**  &nbsp;&nbsp; `912 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [anomalyco / opencode](https://github.com/anomalyco/opencode)
     - The open source coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **87,277** &nbsp;&nbsp; folks: **7,930**  &nbsp;&nbsp; `44,741 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **87,305** &nbsp;&nbsp; folks: **7,932**  &nbsp;&nbsp; `44,741 stars this month`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **35,859** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `23,983 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **35,878** &nbsp;&nbsp; folks: **2,737**  &nbsp;&nbsp; `23,983 stars this month`
 
 1. [BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban)
     - Get 10X more out of Claude Code, Codex or any coding agent
-    - language: **Rust** &nbsp;&nbsp; stars: **18,961** &nbsp;&nbsp; folks: **1,763**  &nbsp;&nbsp; `12,116 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,969** &nbsp;&nbsp; folks: **1,764**  &nbsp;&nbsp; `12,116 stars this month`
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **52,782** &nbsp;&nbsp; folks: **5,137**  &nbsp;&nbsp; `25,497 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **52,798** &nbsp;&nbsp; folks: **5,141**  &nbsp;&nbsp; `25,497 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **Shell** &nbsp;&nbsp; stars: **60,551** &nbsp;&nbsp; folks: **4,522**  &nbsp;&nbsp; `12,132 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **60,555** &nbsp;&nbsp; folks: **4,524**  &nbsp;&nbsp; `12,132 stars this month`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,781** &nbsp;&nbsp; folks: **2,394**  &nbsp;&nbsp; `4,706 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,782** &nbsp;&nbsp; folks: **2,394**  &nbsp;&nbsp; `4,706 stars this month`
 
 1. [usememos / memos](https://github.com/usememos/memos)
     - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    - language: **Go** &nbsp;&nbsp; stars: **55,629** &nbsp;&nbsp; folks: **3,992**  &nbsp;&nbsp; `8,245 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **55,637** &nbsp;&nbsp; folks: **3,993**  &nbsp;&nbsp; `8,245 stars this month`
 
 1. [shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
     - Bash is all you need！write a claude code with only 16 line code
-    - language: **Python** &nbsp;&nbsp; stars: **15,265** &nbsp;&nbsp; folks: **3,427**  &nbsp;&nbsp; `3,458 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,266** &nbsp;&nbsp; folks: **3,427**  &nbsp;&nbsp; `3,458 stars this month`
 
 1. [steveyegge / beads](https://github.com/steveyegge/beads)
     - Beads - A memory upgrade for your coding agent
-    - language: **Go** &nbsp;&nbsp; stars: **12,736** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `6,359 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **12,744** &nbsp;&nbsp; folks: **765**  &nbsp;&nbsp; `6,359 stars this month`
 
 1. [Lissy93 / web-check](https://github.com/Lissy93/web-check)
     - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,973** &nbsp;&nbsp; folks: **2,431**  &nbsp;&nbsp; `3,844 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,974** &nbsp;&nbsp; folks: **2,431**  &nbsp;&nbsp; `3,844 stars this month`
 
 1. [ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
     - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    - language: **Python** &nbsp;&nbsp; stars: **25,675** &nbsp;&nbsp; folks: **2,510**  &nbsp;&nbsp; `15,999 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **25,689** &nbsp;&nbsp; folks: **2,513**  &nbsp;&nbsp; `15,999 stars this month`
 
 1. [virattt / dexter](https://github.com/virattt/dexter)
     - An autonomous agent for deep financial research
@@ -122,19 +122,19 @@
 
 1. [remotion-dev / remotion](https://github.com/remotion-dev/remotion)
     - 🎥 Make videos programmatically with React
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,475** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `4,163 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,503** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `4,163 stars this month`
 
 1. [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
     - Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,822** &nbsp;&nbsp; folks: **899**  &nbsp;&nbsp; `3,789 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,829** &nbsp;&nbsp; folks: **900**  &nbsp;&nbsp; `3,789 stars this month`
 
 1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
     - Source code for the X Recommendation Algorithm
-    - language: **Scala** &nbsp;&nbsp; stars: **72,143** &nbsp;&nbsp; folks: **13,183**  &nbsp;&nbsp; `3,796 stars this month`
+    - language: **Scala** &nbsp;&nbsp; stars: **72,145** &nbsp;&nbsp; folks: **13,183**  &nbsp;&nbsp; `3,796 stars this month`
 
 1. [davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates)
     - CLI tool for configuring and monitoring Claude Code
-    - language: **Python** &nbsp;&nbsp; stars: **18,367** &nbsp;&nbsp; folks: **1,672**  &nbsp;&nbsp; `4,759 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,370** &nbsp;&nbsp; folks: **1,672**  &nbsp;&nbsp; `4,759 stars this month`
 
 
 ## 历史归档
