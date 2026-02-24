@@ -10,80 +10,80 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-02-24 15:51:50 +0800`
+`更新时间：2026-02-24 16:41:35 +0800`
 
 ## 今日热门仓库
 
 1. [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
     - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    - language: **无** &nbsp;&nbsp; stars: **121,840** &nbsp;&nbsp; folks: **31,467**  &nbsp;&nbsp; `2,454 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **122,001** &nbsp;&nbsp; folks: **31,497**  &nbsp;&nbsp; `2,454 stars today`
 
 1. [huggingface / skills](https://github.com/huggingface/skills)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **4,323** &nbsp;&nbsp; folks: **303**  &nbsp;&nbsp; `1,451 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **4,375** &nbsp;&nbsp; folks: **306**  &nbsp;&nbsp; `1,451 stars today`
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Financial data platform for analysts, quants and AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **61,633** &nbsp;&nbsp; folks: **6,008**  &nbsp;&nbsp; `470 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **61,657** &nbsp;&nbsp; folks: **6,012**  &nbsp;&nbsp; `470 stars today`
 
 1. [muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
     - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    - language: **Python** &nbsp;&nbsp; stars: **9,225** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `178 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,260** &nbsp;&nbsp; folks: **732**  &nbsp;&nbsp; `178 stars today`
 
 1. [f / prompts.chat](https://github.com/f/prompts.chat)
     - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-    - language: **HTML** &nbsp;&nbsp; stars: **147,269** &nbsp;&nbsp; folks: **19,411**  &nbsp;&nbsp; `295 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **147,290** &nbsp;&nbsp; folks: **19,415**  &nbsp;&nbsp; `295 stars today`
 
 1. [CompVis / stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - A latent text-to-image diffusion model
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **72,534** &nbsp;&nbsp; folks: **10,600**  &nbsp;&nbsp; `36 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **72,536** &nbsp;&nbsp; folks: **10,600**  &nbsp;&nbsp; `36 stars today`
 
 1. [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus)
     - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,104** &nbsp;&nbsp; folks: **143**  &nbsp;&nbsp; `467 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,154** &nbsp;&nbsp; folks: **145**  &nbsp;&nbsp; `467 stars today`
 
 1. [Stremio / stremio-web](https://github.com/Stremio/stremio-web)
     - Stremio - Freedom to Stream
-    - language: **JavaScript** &nbsp;&nbsp; stars: **10,025** &nbsp;&nbsp; folks: **1,082**  &nbsp;&nbsp; `272 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **10,033** &nbsp;&nbsp; folks: **1,084**  &nbsp;&nbsp; `272 stars today`
 
 1. [stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW)
     - Make beautiful isometric infrastructure diagrams
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,636** &nbsp;&nbsp; folks: **1,201**  &nbsp;&nbsp; `430 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,649** &nbsp;&nbsp; folks: **1,204**  &nbsp;&nbsp; `430 stars today`
 
 1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
     - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    - language: **Python** &nbsp;&nbsp; stars: **16,984** &nbsp;&nbsp; folks: **1,214**  &nbsp;&nbsp; `624 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **17,008** &nbsp;&nbsp; folks: **1,216**  &nbsp;&nbsp; `624 stars today`
 
 1. [cloudflare / agents](https://github.com/cloudflare/agents)
     - Build and deploy AI Agents on Cloudflare
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,101** &nbsp;&nbsp; folks: **421**  &nbsp;&nbsp; `318 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,110** &nbsp;&nbsp; folks: **421**  &nbsp;&nbsp; `318 stars today`
 
 1. [siteboon / claudecodeui](https://github.com/siteboon/claudecodeui)
     - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-    - language: **JavaScript** &nbsp;&nbsp; stars: **6,733** &nbsp;&nbsp; folks: **865**  &nbsp;&nbsp; `62 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **6,747** &nbsp;&nbsp; folks: **868**  &nbsp;&nbsp; `62 stars today`
 
 1. [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU)
     - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    - language: **Python** &nbsp;&nbsp; stars: **10,306** &nbsp;&nbsp; folks: **772**  &nbsp;&nbsp; `163 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,328** &nbsp;&nbsp; folks: **774**  &nbsp;&nbsp; `163 stars today`
 
 1. [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
     - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    - language: **TypeScript** &nbsp;&nbsp; stars: **98,406** &nbsp;&nbsp; folks: **7,185**  &nbsp;&nbsp; `142 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **98,422** &nbsp;&nbsp; folks: **7,185**  &nbsp;&nbsp; `142 stars today`
 
 
 ## 近一周热门仓库
 
 1. [p-e-w / heretic](https://github.com/p-e-w/heretic)
     - Fully automatic censorship removal for language models
-    - language: **Python** &nbsp;&nbsp; stars: **9,422** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `3,218 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,433** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `3,218 stars this week`
 
 1. [alibaba / zvec](https://github.com/alibaba/zvec)
     - A lightweight, lightning-fast, in-process vector database
-    - language: **C++** &nbsp;&nbsp; stars: **7,610** &nbsp;&nbsp; folks: **413**  &nbsp;&nbsp; `4,493 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **7,621** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `4,493 stars this week`
 
 1. [huggingface / skills](https://github.com/huggingface/skills)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **4,323** &nbsp;&nbsp; folks: **303**  &nbsp;&nbsp; `2,174 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,375** &nbsp;&nbsp; folks: **306**  &nbsp;&nbsp; `2,174 stars this week`
 
 1. [SynkraAI / aios-core](https://github.com/SynkraAI/aios-core)
     - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
@@ -91,106 +91,106 @@
 
 1. [google-research / timesfm](https://github.com/google-research/timesfm)
     - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    - language: **Python** &nbsp;&nbsp; stars: **9,603** &nbsp;&nbsp; folks: **801**  &nbsp;&nbsp; `1,800 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **9,605** &nbsp;&nbsp; folks: **801**  &nbsp;&nbsp; `1,800 stars this week`
 
 1. [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
     - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    - language: **无** &nbsp;&nbsp; stars: **121,840** &nbsp;&nbsp; folks: **31,467**  &nbsp;&nbsp; `4,400 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **122,001** &nbsp;&nbsp; folks: **31,497**  &nbsp;&nbsp; `4,400 stars this week`
 
 1. [seerr-team / seerr](https://github.com/seerr-team/seerr)
     - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,732** &nbsp;&nbsp; folks: **638**  &nbsp;&nbsp; `792 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,735** &nbsp;&nbsp; folks: **637**  &nbsp;&nbsp; `792 stars this week`
 
 1. [cloudflare / agents](https://github.com/cloudflare/agents)
     - Build and deploy AI Agents on Cloudflare
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,101** &nbsp;&nbsp; folks: **421**  &nbsp;&nbsp; `696 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,110** &nbsp;&nbsp; folks: **421**  &nbsp;&nbsp; `696 stars this week`
 
 1. [rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat)
     - Open-source AI coworker, with memory
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,563** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `1,388 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,569** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `1,388 stars this week`
 
 1. [Stremio / stremio-web](https://github.com/Stremio/stremio-web)
     - Stremio - Freedom to Stream
-    - language: **JavaScript** &nbsp;&nbsp; stars: **10,025** &nbsp;&nbsp; folks: **1,082**  &nbsp;&nbsp; `860 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **10,033** &nbsp;&nbsp; folks: **1,084**  &nbsp;&nbsp; `860 stars this week`
 
 1. [steipete / gogcli](https://github.com/steipete/gogcli)
     - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    - language: **Go** &nbsp;&nbsp; stars: **4,824** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `1,463 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,826** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `1,463 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [openclaw / openclaw](https://github.com/openclaw/openclaw)
     - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-    - language: **TypeScript** &nbsp;&nbsp; stars: **222,924** &nbsp;&nbsp; folks: **42,565**  &nbsp;&nbsp; `214,532 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **223,149** &nbsp;&nbsp; folks: **42,606**  &nbsp;&nbsp; `214,532 stars this month`
 
 1. [badlogic / pi-mono](https://github.com/badlogic/pi-mono)
     - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,435** &nbsp;&nbsp; folks: **1,619**  &nbsp;&nbsp; `12,823 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,484** &nbsp;&nbsp; folks: **1,625**  &nbsp;&nbsp; `12,823 stars this month`
 
 1. [KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon)
     - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,705** &nbsp;&nbsp; folks: **2,453**  &nbsp;&nbsp; `20,678 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,714** &nbsp;&nbsp; folks: **2,453**  &nbsp;&nbsp; `20,678 stars this month`
 
 1. [tobi / qmd](https://github.com/tobi/qmd)
     - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,270** &nbsp;&nbsp; folks: **578**  &nbsp;&nbsp; `7,627 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,284** &nbsp;&nbsp; folks: **578**  &nbsp;&nbsp; `7,627 stars this month`
 
 1. [openai / skills](https://github.com/openai/skills)
     - Skills Catalog for Codex
-    - language: **Python** &nbsp;&nbsp; stars: **9,529** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `7,560 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,534** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `7,560 stars this month`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    - language: **HTML** &nbsp;&nbsp; stars: **32,782** &nbsp;&nbsp; folks: **5,214**  &nbsp;&nbsp; `7,558 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **32,792** &nbsp;&nbsp; folks: **5,214**  &nbsp;&nbsp; `7,558 stars this month`
 
 1. [steipete / gogcli](https://github.com/steipete/gogcli)
     - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    - language: **Go** &nbsp;&nbsp; stars: **4,824** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `4,187 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **4,826** &nbsp;&nbsp; folks: **368**  &nbsp;&nbsp; `4,187 stars this month`
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,533** &nbsp;&nbsp; folks: **2,071**  &nbsp;&nbsp; `15,777 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **30,555** &nbsp;&nbsp; folks: **2,073**  &nbsp;&nbsp; `15,777 stars this month`
 
 1. [p-e-w / heretic](https://github.com/p-e-w/heretic)
     - Fully automatic censorship removal for language models
-    - language: **Python** &nbsp;&nbsp; stars: **9,422** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `5,040 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,433** &nbsp;&nbsp; folks: **934**  &nbsp;&nbsp; `5,040 stars this month`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **59,700** &nbsp;&nbsp; folks: **4,552**  &nbsp;&nbsp; `25,002 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **59,756** &nbsp;&nbsp; folks: **4,557**  &nbsp;&nbsp; `25,002 stars this month`
 
 1. [ThePrimeagen / 99](https://github.com/ThePrimeagen/99)
     - Neovim AI agent done right
-    - language: **Lua** &nbsp;&nbsp; stars: **4,037** &nbsp;&nbsp; folks: **193**  &nbsp;&nbsp; `2,976 stars this month`
+    - language: **Lua** &nbsp;&nbsp; stars: **4,038** &nbsp;&nbsp; folks: **193**  &nbsp;&nbsp; `2,976 stars this month`
 
 1. [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU)
     - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    - language: **Python** &nbsp;&nbsp; stars: **10,306** &nbsp;&nbsp; folks: **772**  &nbsp;&nbsp; `5,078 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,328** &nbsp;&nbsp; folks: **774**  &nbsp;&nbsp; `5,078 stars this month`
 
 1. [modelcontextprotocol / ext-apps](https://github.com/modelcontextprotocol/ext-apps)
     - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,640** &nbsp;&nbsp; folks: **187**  &nbsp;&nbsp; `1,238 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,641** &nbsp;&nbsp; folks: **187**  &nbsp;&nbsp; `1,238 stars this month`
 
 1. [MoonshotAI / kimi-cli](https://github.com/MoonshotAI/kimi-cli)
     - Kimi Code CLI is your next CLI agent.
-    - language: **Python** &nbsp;&nbsp; stars: **6,692** &nbsp;&nbsp; folks: **641**  &nbsp;&nbsp; `2,763 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **6,695** &nbsp;&nbsp; folks: **641**  &nbsp;&nbsp; `2,763 stars this month`
 
 1. [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done)
     - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **18,760** &nbsp;&nbsp; folks: **1,671**  &nbsp;&nbsp; `11,691 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **18,792** &nbsp;&nbsp; folks: **1,672**  &nbsp;&nbsp; `11,691 stars this month`
 
 1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
     - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    - language: **Python** &nbsp;&nbsp; stars: **16,984** &nbsp;&nbsp; folks: **1,214**  &nbsp;&nbsp; `10,025 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **17,008** &nbsp;&nbsp; folks: **1,216**  &nbsp;&nbsp; `10,025 stars this month`
 
 1. [steipete / summarize](https://github.com/steipete/summarize)
     - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,280** &nbsp;&nbsp; folks: **261**  &nbsp;&nbsp; `3,321 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,283** &nbsp;&nbsp; folks: **262**  &nbsp;&nbsp; `3,321 stars this month`
 
 1. [virattt / dexter](https://github.com/virattt/dexter)
     - An autonomous agent for deep financial research
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,167** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `7,445 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,173** &nbsp;&nbsp; folks: **1,953**  &nbsp;&nbsp; `7,445 stars this month`
 
 
 ## 历史归档
