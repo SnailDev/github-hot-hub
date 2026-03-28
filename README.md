@@ -10,187 +10,187 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-03-28 16:34:29 +0800`
+`更新时间：2026-03-28 17:33:09 +0800`
 
 ## 今日热门仓库
 
 1. [mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill)
     - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    - language: **Python** &nbsp;&nbsp; stars: **13,149** &nbsp;&nbsp; folks: **1,048**  &nbsp;&nbsp; `2,821 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **13,230** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `2,821 stars today`
 
 1. [hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
     - real time face swap and one-click video deepfake with only a single image
-    - language: **Python** &nbsp;&nbsp; stars: **83,508** &nbsp;&nbsp; folks: **12,219**  &nbsp;&nbsp; `1,616 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **83,572** &nbsp;&nbsp; folks: **12,223**  &nbsp;&nbsp; `1,616 stars today`
 
 1. [SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
     - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-    - language: **Python** &nbsp;&nbsp; stars: **3,035** &nbsp;&nbsp; folks: **493**  &nbsp;&nbsp; `143 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,059** &nbsp;&nbsp; folks: **494**  &nbsp;&nbsp; `143 stars today`
 
 1. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
     - Open-Source Frontier Voice AI
-    - language: **Python** &nbsp;&nbsp; stars: **24,840** &nbsp;&nbsp; folks: **2,720**  &nbsp;&nbsp; `337 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **24,865** &nbsp;&nbsp; folks: **2,720**  &nbsp;&nbsp; `337 stars today`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **42,130** &nbsp;&nbsp; folks: **5,601**  &nbsp;&nbsp; `668 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **42,144** &nbsp;&nbsp; folks: **5,601**  &nbsp;&nbsp; `668 stars today`
 
 1. [datalab-to / chandra](https://github.com/datalab-to/chandra)
     - OCR model that handles complex tables, forms, handwriting with full layout.
-    - language: **Python** &nbsp;&nbsp; stars: **7,188** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `912 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **7,208** &nbsp;&nbsp; folks: **744**  &nbsp;&nbsp; `912 stars today`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **119,289** &nbsp;&nbsp; folks: **9,652**  &nbsp;&nbsp; `2,752 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **119,399** &nbsp;&nbsp; folks: **9,660**  &nbsp;&nbsp; `2,752 stars today`
 
 1. [virattt / dexter](https://github.com/virattt/dexter)
     - An autonomous agent for deep financial research
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,850** &nbsp;&nbsp; folks: **2,394**  &nbsp;&nbsp; `672 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,867** &nbsp;&nbsp; folks: **2,397**  &nbsp;&nbsp; `672 stars today`
 
 1. [Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
     - Teams-first Multi-agent orchestration for Claude Code
-    - language: **TypeScript** &nbsp;&nbsp; stars: **14,248** &nbsp;&nbsp; folks: **920**  &nbsp;&nbsp; `1,411 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **14,286** &nbsp;&nbsp; folks: **923**  &nbsp;&nbsp; `1,411 stars today`
 
 1. [FreeCAD / FreeCAD](https://github.com/FreeCAD/FreeCAD)
     - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-    - language: **C++** &nbsp;&nbsp; stars: **29,770** &nbsp;&nbsp; folks: **5,338**  &nbsp;&nbsp; `79 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **29,780** &nbsp;&nbsp; folks: **5,338**  &nbsp;&nbsp; `79 stars today`
 
 1. [Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
     - 无
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,972** &nbsp;&nbsp; folks: **854**  &nbsp;&nbsp; `1,066 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **11,983** &nbsp;&nbsp; folks: **855**  &nbsp;&nbsp; `1,066 stars today`
 
 1. [onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx)
     - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    - language: **Python** &nbsp;&nbsp; stars: **19,348** &nbsp;&nbsp; folks: **2,617**  &nbsp;&nbsp; `547 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **19,380** &nbsp;&nbsp; folks: **2,618**  &nbsp;&nbsp; `547 stars today`
 
 
 ## 近一周热门仓库
 
 1. [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
     - Automate the process of making money online.
-    - language: **Python** &nbsp;&nbsp; stars: **26,815** &nbsp;&nbsp; folks: **2,819**  &nbsp;&nbsp; `10,158 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **26,822** &nbsp;&nbsp; folks: **2,820**  &nbsp;&nbsp; `10,158 stars this week`
 
 1. [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
     - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,486** &nbsp;&nbsp; folks: **1,768**  &nbsp;&nbsp; `14,531 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,508** &nbsp;&nbsp; folks: **1,775**  &nbsp;&nbsp; `14,531 stars this week`
 
 1. [mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill)
     - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    - language: **Python** &nbsp;&nbsp; stars: **13,149** &nbsp;&nbsp; folks: **1,048**  &nbsp;&nbsp; `7,349 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **13,230** &nbsp;&nbsp; folks: **1,054**  &nbsp;&nbsp; `7,349 stars this week`
 
 1. [bytedance / deer-flow](https://github.com/bytedance/deer-flow)
     - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    - language: **Python** &nbsp;&nbsp; stars: **50,569** &nbsp;&nbsp; folks: **6,044**  &nbsp;&nbsp; `17,843 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **50,618** &nbsp;&nbsp; folks: **6,049**  &nbsp;&nbsp; `17,843 stars this week`
 
 1. [TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents)
     - TradingAgents: Multi-Agents LLM Financial Trading Framework
-    - language: **Python** &nbsp;&nbsp; stars: **43,025** &nbsp;&nbsp; folks: **7,852**  &nbsp;&nbsp; `9,267 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **43,039** &nbsp;&nbsp; folks: **7,855**  &nbsp;&nbsp; `9,267 stars this week`
 
 1. [affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code)
     - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **113,205** &nbsp;&nbsp; folks: **14,743**  &nbsp;&nbsp; `22,361 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **113,326** &nbsp;&nbsp; folks: **14,761**  &nbsp;&nbsp; `22,361 stars this week`
 
 1. [supermemoryai / supermemory](https://github.com/supermemoryai/supermemory)
     - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,971** &nbsp;&nbsp; folks: **1,852**  &nbsp;&nbsp; `2,749 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,977** &nbsp;&nbsp; folks: **1,852**  &nbsp;&nbsp; `2,749 stars this week`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **53,667** &nbsp;&nbsp; folks: **7,588**  &nbsp;&nbsp; `3,236 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **53,673** &nbsp;&nbsp; folks: **7,589**  &nbsp;&nbsp; `3,236 stars this week`
 
 1. [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
     - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    - language: **Python** &nbsp;&nbsp; stars: **21,873** &nbsp;&nbsp; folks: **4,514**  &nbsp;&nbsp; `2,968 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **21,880** &nbsp;&nbsp; folks: **4,515**  &nbsp;&nbsp; `2,968 stars this week`
 
 1. [jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud)
     - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    - language: **JavaScript** &nbsp;&nbsp; stars: **14,426** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `5,080 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **14,435** &nbsp;&nbsp; folks: **588**  &nbsp;&nbsp; `5,080 stars this week`
 
 1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
     - The agent that grows with you
-    - language: **Python** &nbsp;&nbsp; stars: **14,798** &nbsp;&nbsp; folks: **1,786**  &nbsp;&nbsp; `4,929 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **14,818** &nbsp;&nbsp; folks: **1,792**  &nbsp;&nbsp; `4,929 stars this week`
 
 1. [letta-ai / claude-subconscious](https://github.com/letta-ai/claude-subconscious)
     - Give Claude Code a subconscious
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,008** &nbsp;&nbsp; folks: **144**  &nbsp;&nbsp; `890 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,014** &nbsp;&nbsp; folks: **144**  &nbsp;&nbsp; `890 stars this week`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **119,289** &nbsp;&nbsp; folks: **9,652**  &nbsp;&nbsp; `17,053 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **119,399** &nbsp;&nbsp; folks: **9,660**  &nbsp;&nbsp; `17,053 stars this week`
 
 1. [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
     - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-    - language: **Java** &nbsp;&nbsp; stars: **9,926** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `3,271 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **9,935** &nbsp;&nbsp; folks: **733**  &nbsp;&nbsp; `3,271 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [666ghj / MiroFish](https://github.com/666ghj/MiroFish)
     - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    - language: **Python** &nbsp;&nbsp; stars: **44,506** &nbsp;&nbsp; folks: **6,198**  &nbsp;&nbsp; `39,863 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **44,538** &nbsp;&nbsp; folks: **6,205**  &nbsp;&nbsp; `39,863 stars this month`
 
 1. [ruvnet / RuView](https://github.com/ruvnet/RuView)
     - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-    - language: **Rust** &nbsp;&nbsp; stars: **43,954** &nbsp;&nbsp; folks: **5,921**  &nbsp;&nbsp; `36,290 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **43,973** &nbsp;&nbsp; folks: **5,923**  &nbsp;&nbsp; `36,290 stars this month`
 
 1. [bytedance / deer-flow](https://github.com/bytedance/deer-flow)
     - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    - language: **Python** &nbsp;&nbsp; stars: **50,569** &nbsp;&nbsp; folks: **6,044**  &nbsp;&nbsp; `28,423 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **50,618** &nbsp;&nbsp; folks: **6,049**  &nbsp;&nbsp; `28,423 stars this month`
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **35,934** &nbsp;&nbsp; folks: **3,572**  &nbsp;&nbsp; `18,188 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **35,942** &nbsp;&nbsp; folks: **3,572**  &nbsp;&nbsp; `18,188 stars this month`
 
 1. [shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
     - practice made claude perfect
-    - language: **HTML** &nbsp;&nbsp; stars: **22,753** &nbsp;&nbsp; folks: **1,960**  &nbsp;&nbsp; `17,306 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **22,772** &nbsp;&nbsp; folks: **1,961**  &nbsp;&nbsp; `17,306 stars this month`
 
 1. [shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
     - Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    - language: **TypeScript** &nbsp;&nbsp; stars: **41,186** &nbsp;&nbsp; folks: **6,387**  &nbsp;&nbsp; `21,879 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **41,231** &nbsp;&nbsp; folks: **6,399**  &nbsp;&nbsp; `21,879 stars this month`
 
 1. [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus)
     - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,266** &nbsp;&nbsp; folks: **2,325**  &nbsp;&nbsp; `14,318 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,277** &nbsp;&nbsp; folks: **2,328**  &nbsp;&nbsp; `14,318 stars this month`
 
 1. [lightpanda-io / browser](https://github.com/lightpanda-io/browser)
     - Lightpanda: the headless browser designed for AI and automation
-    - language: **Zig** &nbsp;&nbsp; stars: **25,409** &nbsp;&nbsp; folks: **1,029**  &nbsp;&nbsp; `13,405 stars this month`
+    - language: **Zig** &nbsp;&nbsp; stars: **25,425** &nbsp;&nbsp; folks: **1,030**  &nbsp;&nbsp; `13,405 stars this month`
 
 1. [affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code)
     - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **113,205** &nbsp;&nbsp; folks: **14,743**  &nbsp;&nbsp; `58,298 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **113,326** &nbsp;&nbsp; folks: **14,761**  &nbsp;&nbsp; `58,298 stars this month`
 
 1. [koala73 / worldmonitor](https://github.com/koala73/worldmonitor)
     - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    - language: **TypeScript** &nbsp;&nbsp; stars: **44,772** &nbsp;&nbsp; folks: **7,220**  &nbsp;&nbsp; `28,260 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **44,782** &nbsp;&nbsp; folks: **7,221**  &nbsp;&nbsp; `28,260 stars this month`
 
 1. [alibaba / OpenSandbox](https://github.com/alibaba/OpenSandbox)
     - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-    - language: **Python** &nbsp;&nbsp; stars: **9,404** &nbsp;&nbsp; folks: **715**  &nbsp;&nbsp; `8,089 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,408** &nbsp;&nbsp; folks: **715**  &nbsp;&nbsp; `8,089 stars this month`
 
 1. [volcengine / OpenViking](https://github.com/volcengine/OpenViking)
     - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    - language: **Python** &nbsp;&nbsp; stars: **19,572** &nbsp;&nbsp; folks: **1,358**  &nbsp;&nbsp; `15,431 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,578** &nbsp;&nbsp; folks: **1,358**  &nbsp;&nbsp; `15,431 stars this month`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **119,289** &nbsp;&nbsp; folks: **9,652**  &nbsp;&nbsp; `53,968 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **119,399** &nbsp;&nbsp; folks: **9,660**  &nbsp;&nbsp; `53,968 stars this month`
 
 1. [alirezarezvani / claude-skills](https://github.com/alirezarezvani/claude-skills)
     - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
-    - language: **Python** &nbsp;&nbsp; stars: **7,519** &nbsp;&nbsp; folks: **905**  &nbsp;&nbsp; `5,346 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,526** &nbsp;&nbsp; folks: **905**  &nbsp;&nbsp; `5,346 stars this month`
 
 1. [langchain-ai / open-swe](https://github.com/langchain-ai/open-swe)
     - An Open-Source Asynchronous Coding Agent
-    - language: **Python** &nbsp;&nbsp; stars: **8,714** &nbsp;&nbsp; folks: **1,007**  &nbsp;&nbsp; `3,418 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,722** &nbsp;&nbsp; folks: **1,008**  &nbsp;&nbsp; `3,418 stars this month`
 
 1. [D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling)
     - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    - language: **Python** &nbsp;&nbsp; stars: **33,493** &nbsp;&nbsp; folks: **2,687**  &nbsp;&nbsp; `15,975 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **33,511** &nbsp;&nbsp; folks: **2,688**  &nbsp;&nbsp; `15,975 stars this month`
 
 1. [TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents)
     - TradingAgents: Multi-Agents LLM Financial Trading Framework
-    - language: **Python** &nbsp;&nbsp; stars: **43,025** &nbsp;&nbsp; folks: **7,852**  &nbsp;&nbsp; `11,986 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **43,039** &nbsp;&nbsp; folks: **7,855**  &nbsp;&nbsp; `11,986 stars this month`
 
 
 ## 历史归档
