@@ -10,191 +10,191 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-04-26 22:05:52 +0800`
+`更新时间：2026-04-26 23:38:34 +0800`
 
 ## 今日热门仓库
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - My personal directory of skills, straight from my .claude directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **21,736** &nbsp;&nbsp; folks: **1,790**  &nbsp;&nbsp; `2,507 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **22,055** &nbsp;&nbsp; folks: **1,816**  &nbsp;&nbsp; `2,507 stars today`
 
 1. [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code)
     - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    - language: **Python** &nbsp;&nbsp; stars: **12,529** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `1,694 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **12,712** &nbsp;&nbsp; folks: **1,864**  &nbsp;&nbsp; `1,694 stars today`
 
 1. [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
     - ALL IN ONE Hacking Tool For Hackers
-    - language: **Python** &nbsp;&nbsp; stars: **64,786** &nbsp;&nbsp; folks: **7,259**  &nbsp;&nbsp; `1,724 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **64,937** &nbsp;&nbsp; folks: **7,274**  &nbsp;&nbsp; `1,724 stars today`
 
 1. [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus)
     - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **29,782** &nbsp;&nbsp; folks: **3,431**  &nbsp;&nbsp; `667 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **29,868** &nbsp;&nbsp; folks: **3,443**  &nbsp;&nbsp; `667 stars today`
 
 1. [PostHog / posthog](https://github.com/PostHog/posthog)
     - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-    - language: **Python** &nbsp;&nbsp; stars: **33,677** &nbsp;&nbsp; folks: **2,622**  &nbsp;&nbsp; `338 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **33,702** &nbsp;&nbsp; folks: **2,622**  &nbsp;&nbsp; `338 stars today`
 
 1. [microsoft / typescript-go](https://github.com/microsoft/typescript-go)
     - Staging repo for development of native port of TypeScript
-    - language: **Go** &nbsp;&nbsp; stars: **25,116** &nbsp;&nbsp; folks: **915**  &nbsp;&nbsp; `130 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **25,123** &nbsp;&nbsp; folks: **915**  &nbsp;&nbsp; `38 stars today`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-    - language: **HTML** &nbsp;&nbsp; stars: **14,241** &nbsp;&nbsp; folks: **885**  &nbsp;&nbsp; `204 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **14,262** &nbsp;&nbsp; folks: **888**  &nbsp;&nbsp; `204 stars today`
 
 1. [gastownhall / beads](https://github.com/gastownhall/beads)
     - Beads - A memory upgrade for your coding agent
-    - language: **Go** &nbsp;&nbsp; stars: **21,498** &nbsp;&nbsp; folks: **1,434**  &nbsp;&nbsp; `133 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **21,523** &nbsp;&nbsp; folks: **1,434**  &nbsp;&nbsp; `133 stars today`
 
 1. [curl / curl](https://github.com/curl/curl)
     - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-    - language: **C** &nbsp;&nbsp; stars: **41,435** &nbsp;&nbsp; folks: **7,148**  &nbsp;&nbsp; `50 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **41,452** &nbsp;&nbsp; folks: **7,149**  &nbsp;&nbsp; `50 stars today`
 
 1. [home-assistant / core](https://github.com/home-assistant/core)
     - 🏡 Open source home automation that puts local control and privacy first.
-    - language: **Python** &nbsp;&nbsp; stars: **86,312** &nbsp;&nbsp; folks: **37,348**  &nbsp;&nbsp; `52 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **86,348** &nbsp;&nbsp; folks: **37,351**  &nbsp;&nbsp; `52 stars today`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **496,507** &nbsp;&nbsp; folks: **47,053**  &nbsp;&nbsp; `1,074 stars today`
+    - language: **Markdown** &nbsp;&nbsp; stars: **496,580** &nbsp;&nbsp; folks: **47,061**  &nbsp;&nbsp; `1,074 stars today`
 
 1. [openclaw / openclaw](https://github.com/openclaw/openclaw)
     - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-    - language: **TypeScript** &nbsp;&nbsp; stars: **364,253** &nbsp;&nbsp; folks: **74,599**  &nbsp;&nbsp; `620 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **364,323** &nbsp;&nbsp; folks: **74,612**  &nbsp;&nbsp; `620 stars today`
 
 1. [ComposioHQ / awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
     - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    - language: **Python** &nbsp;&nbsp; stars: **1,786** &nbsp;&nbsp; folks: **151**  &nbsp;&nbsp; `518 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,824** &nbsp;&nbsp; folks: **152**  &nbsp;&nbsp; `518 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code)
     - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    - language: **Python** &nbsp;&nbsp; stars: **12,529** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `8,668 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **12,711** &nbsp;&nbsp; folks: **1,864**  &nbsp;&nbsp; `8,668 stars this week`
 
 1. [Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
     - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    - language: **Python** &nbsp;&nbsp; stars: **15,254** &nbsp;&nbsp; folks: **2,077**  &nbsp;&nbsp; `10,185 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **15,311** &nbsp;&nbsp; folks: **2,082**  &nbsp;&nbsp; `10,185 stars this week`
 
 1. [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
     - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    - language: **无** &nbsp;&nbsp; stars: **89,538** &nbsp;&nbsp; folks: **8,535**  &nbsp;&nbsp; `29,917 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **89,829** &nbsp;&nbsp; folks: **8,573**  &nbsp;&nbsp; `29,917 stars this week`
 
 1. [zilliztech / claude-context](https://github.com/zilliztech/claude-context)
     - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,521** &nbsp;&nbsp; folks: **727**  &nbsp;&nbsp; `3,301 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,541** &nbsp;&nbsp; folks: **728**  &nbsp;&nbsp; `3,301 stars this week`
 
 1. [thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt)
     - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,124** &nbsp;&nbsp; folks: **260**  &nbsp;&nbsp; `2,799 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,134** &nbsp;&nbsp; folks: **262**  &nbsp;&nbsp; `2,799 stars this week`
 
 1. [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
     - ALL IN ONE Hacking Tool For Hackers
-    - language: **Python** &nbsp;&nbsp; stars: **64,786** &nbsp;&nbsp; folks: **7,259**  &nbsp;&nbsp; `4,799 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **64,937** &nbsp;&nbsp; folks: **7,274**  &nbsp;&nbsp; `4,799 stars this week`
 
 1. [lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent)
     - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    - language: **Python** &nbsp;&nbsp; stars: **7,297** &nbsp;&nbsp; folks: **825**  &nbsp;&nbsp; `3,006 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,321** &nbsp;&nbsp; folks: **827**  &nbsp;&nbsp; `3,006 stars this week`
 
 1. [SimoneAvogadro / android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
     - Claude Code skill to support Android app's reverse engineering
-    - language: **Shell** &nbsp;&nbsp; stars: **5,069** &nbsp;&nbsp; folks: **584**  &nbsp;&nbsp; `1,981 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **5,084** &nbsp;&nbsp; folks: **585**  &nbsp;&nbsp; `1,981 stars this week`
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - My personal directory of skills, straight from my .claude directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **21,736** &nbsp;&nbsp; folks: **1,790**  &nbsp;&nbsp; `3,731 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **22,055** &nbsp;&nbsp; folks: **1,816**  &nbsp;&nbsp; `3,731 stars this week`
 
 1. [Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre)
     - Build your own AI SRE agents. The open source toolkit for the AI era ✨
-    - language: **Python** &nbsp;&nbsp; stars: **3,263** &nbsp;&nbsp; folks: **362**  &nbsp;&nbsp; `1,385 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **3,282** &nbsp;&nbsp; folks: **365**  &nbsp;&nbsp; `1,385 stars this week`
 
 1. [Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
     - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,618** &nbsp;&nbsp; folks: **1,576**  &nbsp;&nbsp; `2,917 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,664** &nbsp;&nbsp; folks: **1,582**  &nbsp;&nbsp; `2,917 stars this week`
 
 1. [HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything)
     - "RAG-Anything: All-in-One RAG Framework"
-    - language: **Python** &nbsp;&nbsp; stars: **18,729** &nbsp;&nbsp; folks: **2,149**  &nbsp;&nbsp; `2,592 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **18,746** &nbsp;&nbsp; folks: **2,151**  &nbsp;&nbsp; `2,592 stars this week`
 
 1. [multica-ai / multica](https://github.com/multica-ai/multica)
     - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,310** &nbsp;&nbsp; folks: **2,592**  &nbsp;&nbsp; `5,118 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,342** &nbsp;&nbsp; folks: **2,595**  &nbsp;&nbsp; `5,118 stars this week`
 
 1. [deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
     - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-    - language: **Cuda** &nbsp;&nbsp; stars: **7,062** &nbsp;&nbsp; folks: **932**  &nbsp;&nbsp; `614 stars this week`
+    - language: **Cuda** &nbsp;&nbsp; stars: **7,067** &nbsp;&nbsp; folks: **933**  &nbsp;&nbsp; `614 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
     - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    - language: **无** &nbsp;&nbsp; stars: **89,538** &nbsp;&nbsp; folks: **8,535**  &nbsp;&nbsp; `78,581 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **89,829** &nbsp;&nbsp; folks: **8,572**  &nbsp;&nbsp; `78,581 stars this month`
 
 1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
     - The agent that grows with you
-    - language: **Python** &nbsp;&nbsp; stars: **117,742** &nbsp;&nbsp; folks: **17,440**  &nbsp;&nbsp; `103,696 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **117,883** &nbsp;&nbsp; folks: **17,468**  &nbsp;&nbsp; `103,696 stars this month`
 
 1. [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto)
     - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    - language: **Python** &nbsp;&nbsp; stars: **29,065** &nbsp;&nbsp; folks: **3,557**  &nbsp;&nbsp; `27,798 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,088** &nbsp;&nbsp; folks: **3,561**  &nbsp;&nbsp; `27,798 stars this month`
 
 1. [shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos)
     - Kronos: A Foundation Model for the Language of Financial Markets
-    - language: **Python** &nbsp;&nbsp; stars: **21,562** &nbsp;&nbsp; folks: **3,814**  &nbsp;&nbsp; `10,218 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,574** &nbsp;&nbsp; folks: **3,816**  &nbsp;&nbsp; `10,218 stars this month`
 
 1. [siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen)
     - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **32,865** &nbsp;&nbsp; folks: **2,214**  &nbsp;&nbsp; `24,060 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **32,878** &nbsp;&nbsp; folks: **2,215**  &nbsp;&nbsp; `24,060 stars this month`
 
 1. [Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
     - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    - language: **Python** &nbsp;&nbsp; stars: **15,254** &nbsp;&nbsp; folks: **2,077**  &nbsp;&nbsp; `11,821 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,311** &nbsp;&nbsp; folks: **2,082**  &nbsp;&nbsp; `11,821 stars this month`
 
 1. [HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor)
     - "DeepTutor: Agent-Native Personalized Learning Assistant"
-    - language: **Python** &nbsp;&nbsp; stars: **21,939** &nbsp;&nbsp; folks: **2,936**  &nbsp;&nbsp; `10,894 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **21,968** &nbsp;&nbsp; folks: **2,938**  &nbsp;&nbsp; `10,894 stars this month`
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,776** &nbsp;&nbsp; folks: **3,052**  &nbsp;&nbsp; `5,998 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,783** &nbsp;&nbsp; folks: **3,055**  &nbsp;&nbsp; `5,998 stars this month`
 
 1. [google-ai-edge / gallery](https://github.com/google-ai-edge/gallery)
     - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    - language: **Kotlin** &nbsp;&nbsp; stars: **22,075** &nbsp;&nbsp; folks: **2,143**  &nbsp;&nbsp; `6,648 stars this month`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **22,078** &nbsp;&nbsp; folks: **2,143**  &nbsp;&nbsp; `6,648 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **117,246** &nbsp;&nbsp; folks: **7,693**  &nbsp;&nbsp; `25,114 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **117,296** &nbsp;&nbsp; folks: **7,695**  &nbsp;&nbsp; `25,114 stars this month`
 
 1. [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code)
     - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    - language: **Python** &nbsp;&nbsp; stars: **12,529** &nbsp;&nbsp; folks: **1,846**  &nbsp;&nbsp; `9,506 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,711** &nbsp;&nbsp; folks: **1,864**  &nbsp;&nbsp; `9,506 stars this month`
 
 1. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
     - Open-Source Frontier Voice AI
-    - language: **Python** &nbsp;&nbsp; stars: **41,663** &nbsp;&nbsp; folks: **4,794**  &nbsp;&nbsp; `17,315 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **41,724** &nbsp;&nbsp; folks: **4,796**  &nbsp;&nbsp; `17,315 stars this month`
 
 1. [google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
     - 无
-    - language: **C++** &nbsp;&nbsp; stars: **4,351** &nbsp;&nbsp; folks: **430**  &nbsp;&nbsp; `3,337 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **4,355** &nbsp;&nbsp; folks: **432**  &nbsp;&nbsp; `3,337 stars this month`
 
 1. [lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent)
     - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    - language: **Python** &nbsp;&nbsp; stars: **7,297** &nbsp;&nbsp; folks: **825**  &nbsp;&nbsp; `6,306 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,321** &nbsp;&nbsp; folks: **827**  &nbsp;&nbsp; `6,306 stars this month`
 
 1. [hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master)
     - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
-    - language: **Python** &nbsp;&nbsp; stars: **8,244** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `5,105 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,262** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `5,105 stars this month`
 
 1. [rtk-ai / rtk](https://github.com/rtk-ai/rtk)
     - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-    - language: **Rust** &nbsp;&nbsp; stars: **35,866** &nbsp;&nbsp; folks: **2,172**  &nbsp;&nbsp; `22,183 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **35,913** &nbsp;&nbsp; folks: **2,178**  &nbsp;&nbsp; `22,183 stars this month`
 
 1. [google-research / timesfm](https://github.com/google-research/timesfm)
     - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    - language: **Python** &nbsp;&nbsp; stars: **18,616** &nbsp;&nbsp; folks: **1,816**  &nbsp;&nbsp; `8,492 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,623** &nbsp;&nbsp; folks: **1,817**  &nbsp;&nbsp; `8,492 stars this month`
 
 
 ## 历史归档
