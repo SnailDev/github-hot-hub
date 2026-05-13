@@ -10,199 +10,215 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-05-13 18:22:11 +0800`
+`更新时间：2026-05-13 21:07:39 +0800`
 
 ## 今日热门仓库
 
 1. [tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman)
     - Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    - language: **Rust** &nbsp;&nbsp; stars: **3,492** &nbsp;&nbsp; folks: **321**  &nbsp;&nbsp; `1,014 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **3,910** &nbsp;&nbsp; folks: **342**  &nbsp;&nbsp; `1,595 stars today`
 
 1. [rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory)
     - #1 Persistent memory for AI coding agents based on real-world benchmarks
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,504** &nbsp;&nbsp; folks: **589**  &nbsp;&nbsp; `1,048 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,763** &nbsp;&nbsp; folks: **607**  &nbsp;&nbsp; `1,335 stars today`
 
-1. [CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-    - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    - language: **Python** &nbsp;&nbsp; stars: **8,763** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `1,606 stars today`
-
-1. [apernet / hysteria](https://github.com/apernet/hysteria)
-    - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-    - language: **Go** &nbsp;&nbsp; stars: **20,453** &nbsp;&nbsp; folks: **2,116**  &nbsp;&nbsp; `51 stars today`
-
-1. [mattpocock / skills](https://github.com/mattpocock/skills)
-    - Skills for Real Engineers. Straight from my .claude directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **77,602** &nbsp;&nbsp; folks: **6,692**  &nbsp;&nbsp; `3,867 stars today`
-
-1. [anonfaded / FadCam](https://github.com/anonfaded/FadCam)
-    - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
-    - language: **Java** &nbsp;&nbsp; stars: **2,350** &nbsp;&nbsp; folks: **177**  &nbsp;&nbsp; `116 stars today`
-
-1. [millionco / react-doctor](https://github.com/millionco/react-doctor)
-    - Your agent writes bad React. This catches it
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,001** &nbsp;&nbsp; folks: **284**  &nbsp;&nbsp; `788 stars today`
-
-1. [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-    - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **94,144** &nbsp;&nbsp; folks: **14,443**  &nbsp;&nbsp; `772 stars today`
-
-1. [datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents)
-    - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    - language: **Python** &nbsp;&nbsp; stars: **48,828** &nbsp;&nbsp; folks: **5,869**  &nbsp;&nbsp; `599 stars today`
+1. [obra / superpowers](https://github.com/obra/superpowers)
+    - An agentic skills framework & software development methodology that works.
+    - language: **Shell** &nbsp;&nbsp; stars: **188,919** &nbsp;&nbsp; folks: **16,792**  &nbsp;&nbsp; `1,419 stars today`
 
 1. [yikart / AiToEarn](https://github.com/yikart/AiToEarn)
     - Let's use AI to Earn!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,403** &nbsp;&nbsp; folks: **2,136**  &nbsp;&nbsp; `1,282 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,534** &nbsp;&nbsp; folks: **2,159**  &nbsp;&nbsp; `987 stars today`
 
-1. [HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader)
-    - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-    - language: **Python** &nbsp;&nbsp; stars: **16,923** &nbsp;&nbsp; folks: **2,630**  &nbsp;&nbsp; `229 stars today`
+1. [influxdata / telegraf](https://github.com/influxdata/telegraf)
+    - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+    - language: **Go** &nbsp;&nbsp; stars: **16,902** &nbsp;&nbsp; folks: **5,773**  &nbsp;&nbsp; `6 stars today`
+
+1. [millionco / react-doctor](https://github.com/millionco/react-doctor)
+    - Your agent writes bad React. This catches it
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,055** &nbsp;&nbsp; folks: **286**  &nbsp;&nbsp; `620 stars today`
+
+1. [K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+    - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+    - language: **Python** &nbsp;&nbsp; stars: **20,870** &nbsp;&nbsp; folks: **2,307**  &nbsp;&nbsp; `83 stars today`
+
+1. [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+    - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **13,092** &nbsp;&nbsp; folks: **1,842**  &nbsp;&nbsp; `620 stars today`
+
+1. [supertone-inc / supertonic](https://github.com/supertone-inc/supertonic)
+    - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    - language: **Swift** &nbsp;&nbsp; stars: **3,868** &nbsp;&nbsp; folks: **397**  &nbsp;&nbsp; `53 stars today`
+
+1. [CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+    - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    - language: **Python** &nbsp;&nbsp; stars: **8,956** &nbsp;&nbsp; folks: **664**  &nbsp;&nbsp; `1,829 stars today`
+
+1. [Greedeks / GTweak](https://github.com/Greedeks/GTweak)
+    - Portable Tool for an Ideal Windows Setup
+    - language: **C#** &nbsp;&nbsp; stars: **763** &nbsp;&nbsp; folks: **70**  &nbsp;&nbsp; `220 stars today`
+
+1. [mattpocock / skills](https://github.com/mattpocock/skills)
+    - Skills for Real Engineers. Straight from my .claude directory.
+    - language: **Shell** &nbsp;&nbsp; stars: **77,972** &nbsp;&nbsp; folks: **6,722**  &nbsp;&nbsp; `3,372 stars today`
+
+1. [ArthurBrussee / brush](https://github.com/ArthurBrussee/brush)
+    - 3D Reconstruction for all
+    - language: **Rust** &nbsp;&nbsp; stars: **4,254** &nbsp;&nbsp; folks: **227**  &nbsp;&nbsp; `78 stars today`
+
+1. [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+    - An evolving how-to guide for securing a Linux server.
+    - language: **无** &nbsp;&nbsp; stars: **26,858** &nbsp;&nbsp; folks: **1,760**  &nbsp;&nbsp; `233 stars today`
+
+1. [apernet / hysteria](https://github.com/apernet/hysteria)
+    - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    - language: **Go** &nbsp;&nbsp; stars: **20,490** &nbsp;&nbsp; folks: **2,118**  &nbsp;&nbsp; `489 stars today`
+
+1. [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+    - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **94,210** &nbsp;&nbsp; folks: **14,453**  &nbsp;&nbsp; `824 stars today`
+
+1. [ton-blockchain / acton](https://github.com/ton-blockchain/acton)
+    - Toolchain for TON smart contract development and beyond
+    - language: **Rust** &nbsp;&nbsp; stars: **107** &nbsp;&nbsp; folks: **19**  &nbsp;&nbsp; `15 stars today`
+
+1. [trycua / cua](https://github.com/trycua/cua)
+    - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    - language: **HTML** &nbsp;&nbsp; stars: **16,381** &nbsp;&nbsp; folks: **1,033**  &nbsp;&nbsp; `307 stars today`
+
+1. [github / spec-kit](https://github.com/github/spec-kit)
+    - 💫 Toolkit to help you get started with Spec-Driven Development
+    - language: **Python** &nbsp;&nbsp; stars: **97,836** &nbsp;&nbsp; folks: **8,523**  &nbsp;&nbsp; `1,299 stars today`
 
 
 ## 近一周热门仓库
 
 1. [anthropics / financial-services](https://github.com/anthropics/financial-services)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **21,917** &nbsp;&nbsp; folks: **2,950**  &nbsp;&nbsp; `13,176 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **22,001** &nbsp;&nbsp; folks: **2,967**  &nbsp;&nbsp; `13,176 stars this week`
 
 1. [Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
     - Coding agent for DeepSeek models that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **27,210** &nbsp;&nbsp; folks: **2,271**  &nbsp;&nbsp; `20,835 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **27,335** &nbsp;&nbsp; folks: **2,282**  &nbsp;&nbsp; `20,835 stars this week`
 
 1. [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
     - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    - language: **TypeScript** &nbsp;&nbsp; stars: **33,637** &nbsp;&nbsp; folks: **3,338**  &nbsp;&nbsp; `3,872 stars this week`
-
-1. [CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-    - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    - language: **Python** &nbsp;&nbsp; stars: **8,763** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `5,488 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **33,649** &nbsp;&nbsp; folks: **3,340**  &nbsp;&nbsp; `3,872 stars this week`
 
 1. [decolua / 9router](https://github.com/decolua/9router)
     - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,683** &nbsp;&nbsp; folks: **1,491**  &nbsp;&nbsp; `5,204 stars this week`
-
-1. [LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research)
-    - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    - language: **Python** &nbsp;&nbsp; stars: **7,436** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `2,412 stars this week`
-
-1. [ruvnet / ruflo](https://github.com/ruvnet/ruflo)
-    - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    - language: **TypeScript** &nbsp;&nbsp; stars: **49,979** &nbsp;&nbsp; folks: **5,565**  &nbsp;&nbsp; `7,088 stars this week`
-
-1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
-    - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    - language: **Python** &nbsp;&nbsp; stars: **30,989** &nbsp;&nbsp; folks: **2,642**  &nbsp;&nbsp; `4,351 stars this week`
-
-1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
-    - Production-grade engineering skills for AI coding agents.
-    - language: **Shell** &nbsp;&nbsp; stars: **40,686** &nbsp;&nbsp; folks: **4,484**  &nbsp;&nbsp; `11,791 stars this week`
-
-1. [docusealco / docuseal](https://github.com/docusealco/docuseal)
-    - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    - language: **Ruby** &nbsp;&nbsp; stars: **16,488** &nbsp;&nbsp; folks: **1,514**  &nbsp;&nbsp; `2,819 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,723** &nbsp;&nbsp; folks: **1,494**  &nbsp;&nbsp; `5,204 stars this week`
 
 1. [yikart / AiToEarn](https://github.com/yikart/AiToEarn)
     - Let's use AI to Earn!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,403** &nbsp;&nbsp; folks: **2,136**  &nbsp;&nbsp; `2,348 stars this week`
-
-1. [Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-    - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    - language: **Python** &nbsp;&nbsp; stars: **6,562** &nbsp;&nbsp; folks: **772**  &nbsp;&nbsp; `1,893 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,534** &nbsp;&nbsp; folks: **2,159**  &nbsp;&nbsp; `2,348 stars this week`
 
 1. [rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory)
     - #1 Persistent memory for AI coding agents based on real-world benchmarks
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,504** &nbsp;&nbsp; folks: **589**  &nbsp;&nbsp; `3,096 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,763** &nbsp;&nbsp; folks: **607**  &nbsp;&nbsp; `3,096 stars this week`
 
-1. [AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
-    - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    - language: **Python** &nbsp;&nbsp; stars: **15,869** &nbsp;&nbsp; folks: **2,278**  &nbsp;&nbsp; `4,301 stars this week`
+1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
+    - Production-grade engineering skills for AI coding agents.
+    - language: **Shell** &nbsp;&nbsp; stars: **40,771** &nbsp;&nbsp; folks: **4,492**  &nbsp;&nbsp; `11,791 stars this week`
 
-1. [playcanvas / supersplat](https://github.com/playcanvas/supersplat)
-    - 3D Gaussian Splat Editor
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,764** &nbsp;&nbsp; folks: **845**  &nbsp;&nbsp; `2,600 stars this week`
+1. [LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+    - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    - language: **Python** &nbsp;&nbsp; stars: **7,449** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `2,412 stars this week`
 
 1. [HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader)
     - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-    - language: **Python** &nbsp;&nbsp; stars: **16,923** &nbsp;&nbsp; folks: **2,630**  &nbsp;&nbsp; `2,282 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,952** &nbsp;&nbsp; folks: **2,634**  &nbsp;&nbsp; `2,282 stars this week`
 
-1. [TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents)
-    - TradingAgents: Multi-Agents LLM Financial Trading Framework
-    - language: **Python** &nbsp;&nbsp; stars: **74,681** &nbsp;&nbsp; folks: **14,553**  &nbsp;&nbsp; `5,683 stars this week`
+1. [Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+    - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    - language: **Python** &nbsp;&nbsp; stars: **6,627** &nbsp;&nbsp; folks: **775**  &nbsp;&nbsp; `1,893 stars this week`
 
-1. [InsForge / InsForge](https://github.com/InsForge/InsForge)
-    - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,647** &nbsp;&nbsp; folks: **794**  &nbsp;&nbsp; `1,549 stars this week`
+1. [ruvnet / ruflo](https://github.com/ruvnet/ruflo)
+    - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    - language: **TypeScript** &nbsp;&nbsp; stars: **50,055** &nbsp;&nbsp; folks: **5,577**  &nbsp;&nbsp; `7,088 stars this week`
+
+1. [playcanvas / supersplat](https://github.com/playcanvas/supersplat)
+    - 3D Gaussian Splat Editor
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,778** &nbsp;&nbsp; folks: **846**  &nbsp;&nbsp; `2,600 stars this week`
+
+1. [VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex)
+    - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    - language: **Python** &nbsp;&nbsp; stars: **31,034** &nbsp;&nbsp; folks: **2,643**  &nbsp;&nbsp; `4,351 stars this week`
+
+1. [mattpocock / skills](https://github.com/mattpocock/skills)
+    - Skills for Real Engineers. Straight from my .claude directory.
+    - language: **Shell** &nbsp;&nbsp; stars: **77,972** &nbsp;&nbsp; folks: **6,722**  &nbsp;&nbsp; `15,234 stars this week`
+
+1. [datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe)
+    - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **10,475** &nbsp;&nbsp; folks: **987**  &nbsp;&nbsp; `2,833 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [multica-ai / andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
     - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    - language: **无** &nbsp;&nbsp; stars: **127,758** &nbsp;&nbsp; folks: **12,975**  &nbsp;&nbsp; `112,357 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **127,926** &nbsp;&nbsp; folks: **12,988**  &nbsp;&nbsp; `112,357 stars this month`
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - Skills for Real Engineers. Straight from my .claude directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **77,602** &nbsp;&nbsp; folks: **6,692**  &nbsp;&nbsp; `60,612 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **77,972** &nbsp;&nbsp; folks: **6,722**  &nbsp;&nbsp; `60,612 stars this month`
 
 1. [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code)
     - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    - language: **Python** &nbsp;&nbsp; stars: **24,239** &nbsp;&nbsp; folks: **3,589**  &nbsp;&nbsp; `22,285 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **24,265** &nbsp;&nbsp; folks: **3,593**  &nbsp;&nbsp; `22,285 stars this month`
 
 1. [lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent)
     - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    - language: **Python** &nbsp;&nbsp; stars: **11,147** &nbsp;&nbsp; folks: **1,272**  &nbsp;&nbsp; `10,192 stars this month`
-
-1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
-    - The agent that grows with you
-    - language: **Python** &nbsp;&nbsp; stars: **147,816** &nbsp;&nbsp; folks: **23,229**  &nbsp;&nbsp; `84,327 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,164** &nbsp;&nbsp; folks: **1,277**  &nbsp;&nbsp; `10,192 stars this month`
 
 1. [AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
     - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    - language: **Python** &nbsp;&nbsp; stars: **15,869** &nbsp;&nbsp; folks: **2,278**  &nbsp;&nbsp; `12,025 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,941** &nbsp;&nbsp; folks: **2,287**  &nbsp;&nbsp; `12,025 stars this month`
 
-1. [Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre)
-    - Build your own AI SRE agents. The open source toolkit for the AI era.
-    - language: **Python** &nbsp;&nbsp; stars: **4,949** &nbsp;&nbsp; folks: **624**  &nbsp;&nbsp; `4,343 stars this month`
-
-1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
-    - Production-grade engineering skills for AI coding agents.
-    - language: **Shell** &nbsp;&nbsp; stars: **40,686** &nbsp;&nbsp; folks: **4,484**  &nbsp;&nbsp; `27,115 stars this month`
+1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
+    - The agent that grows with you
+    - language: **Python** &nbsp;&nbsp; stars: **148,010** &nbsp;&nbsp; folks: **23,274**  &nbsp;&nbsp; `84,327 stars this month`
 
 1. [ComposioHQ / awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
     - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    - language: **Python** &nbsp;&nbsp; stars: **8,952** &nbsp;&nbsp; folks: **730**  &nbsp;&nbsp; `7,910 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,978** &nbsp;&nbsp; folks: **738**  &nbsp;&nbsp; `7,910 stars this month`
+
+1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
+    - Production-grade engineering skills for AI coding agents.
+    - language: **Shell** &nbsp;&nbsp; stars: **40,771** &nbsp;&nbsp; folks: **4,492**  &nbsp;&nbsp; `27,115 stars this month`
+
+1. [Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre)
+    - Build your own AI SRE agents. The open source toolkit for the AI era.
+    - language: **Python** &nbsp;&nbsp; stars: **4,957** &nbsp;&nbsp; folks: **625**  &nbsp;&nbsp; `4,343 stars this month`
 
 1. [Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool)
     - ALL IN ONE Hacking Tool For Hackers
-    - language: **Python** &nbsp;&nbsp; stars: **74,000** &nbsp;&nbsp; folks: **8,351**  &nbsp;&nbsp; `16,078 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **74,017** &nbsp;&nbsp; folks: **8,352**  &nbsp;&nbsp; `16,078 stars this month`
 
 1. [soxoj / maigret](https://github.com/soxoj/maigret)
     - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    - language: **Python** &nbsp;&nbsp; stars: **28,284** &nbsp;&nbsp; folks: **2,037**  &nbsp;&nbsp; `8,676 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **28,310** &nbsp;&nbsp; folks: **2,038**  &nbsp;&nbsp; `8,676 stars this month`
 
 1. [TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents)
     - TradingAgents: Multi-Agents LLM Financial Trading Framework
-    - language: **Python** &nbsp;&nbsp; stars: **74,681** &nbsp;&nbsp; folks: **14,553**  &nbsp;&nbsp; `24,880 stars this month`
-
-1. [multica-ai / multica](https://github.com/multica-ai/multica)
-    - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **27,921** &nbsp;&nbsp; folks: **3,353**  &nbsp;&nbsp; `19,082 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **74,729** &nbsp;&nbsp; folks: **14,564**  &nbsp;&nbsp; `24,880 stars this month`
 
 1. [anthropics / financial-services](https://github.com/anthropics/financial-services)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **21,917** &nbsp;&nbsp; folks: **2,950**  &nbsp;&nbsp; `13,692 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **22,001** &nbsp;&nbsp; folks: **2,967**  &nbsp;&nbsp; `13,692 stars this month`
 
 1. [Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
     - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **13,088** &nbsp;&nbsp; folks: **2,310**  &nbsp;&nbsp; `8,544 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **13,110** &nbsp;&nbsp; folks: **2,313**  &nbsp;&nbsp; `8,544 stars this month`
+
+1. [multica-ai / multica](https://github.com/multica-ai/multica)
+    - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **27,960** &nbsp;&nbsp; folks: **3,357**  &nbsp;&nbsp; `19,082 stars this month`
 
 1. [hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master)
     - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
-    - language: **Python** &nbsp;&nbsp; stars: **15,642** &nbsp;&nbsp; folks: **1,532**  &nbsp;&nbsp; `10,574 stars this month`
-
-1. [z-lab / dflash](https://github.com/z-lab/dflash)
-    - DFlash: Block Diffusion for Flash Speculative Decoding
-    - language: **Python** &nbsp;&nbsp; stars: **4,512** &nbsp;&nbsp; folks: **319**  &nbsp;&nbsp; `3,448 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,723** &nbsp;&nbsp; folks: **1,541**  &nbsp;&nbsp; `10,574 stars this month`
 
 
 ## 历史归档
