@@ -10,247 +10,247 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-06-16 00:13:47 +0800`
+`更新时间：2026-06-16 04:22:12 +0800`
 
 ## 今日热门仓库
 
 1. [iptv-org / iptv](https://github.com/iptv-org/iptv)
     - Collection of publicly available IPTV channels from all over the world
-    - language: **TypeScript** &nbsp;&nbsp; stars: **122,592** &nbsp;&nbsp; folks: **6,578**  &nbsp;&nbsp; `2,650 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **122,725** &nbsp;&nbsp; folks: **6,584**  &nbsp;&nbsp; `2,650 stars today`
 
 1. [teslamate-org / teslamate](https://github.com/teslamate-org/teslamate)
     - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
-    - language: **Elixir** &nbsp;&nbsp; stars: **8,176** &nbsp;&nbsp; folks: **943**  &nbsp;&nbsp; `35 stars today`
+    - language: **Elixir** &nbsp;&nbsp; stars: **8,200** &nbsp;&nbsp; folks: **945**  &nbsp;&nbsp; `35 stars today`
 
 1. [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach)
     - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    - language: **Python** &nbsp;&nbsp; stars: **29,741** &nbsp;&nbsp; folks: **2,423**  &nbsp;&nbsp; `1,045 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **29,948** &nbsp;&nbsp; folks: **2,431**  &nbsp;&nbsp; `1,045 stars today`
 
 1. [meshery / meshery](https://github.com/meshery/meshery)
     - Meshery, the cloud native manager
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,567** &nbsp;&nbsp; folks: **3,430**  &nbsp;&nbsp; `227 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,592** &nbsp;&nbsp; folks: **3,432**  &nbsp;&nbsp; `227 stars today`
 
 1. [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
     - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    - language: **Ruby** &nbsp;&nbsp; stars: **31,548** &nbsp;&nbsp; folks: **7,619**  &nbsp;&nbsp; `431 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **31,605** &nbsp;&nbsp; folks: **7,626**  &nbsp;&nbsp; `431 stars today`
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-    - language: **Java** &nbsp;&nbsp; stars: **126,816** &nbsp;&nbsp; folks: **15,131**  &nbsp;&nbsp; `95 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **126,852** &nbsp;&nbsp; folks: **15,134**  &nbsp;&nbsp; `95 stars today`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **447,720** &nbsp;&nbsp; folks: **44,975**  &nbsp;&nbsp; `738 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **447,804** &nbsp;&nbsp; folks: **44,981**  &nbsp;&nbsp; `738 stars today`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-    - language: **HTML** &nbsp;&nbsp; stars: **18,066** &nbsp;&nbsp; folks: **1,169**  &nbsp;&nbsp; `57 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **18,101** &nbsp;&nbsp; folks: **1,170**  &nbsp;&nbsp; `57 stars today`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **352,146** &nbsp;&nbsp; folks: **83,548**  &nbsp;&nbsp; `516 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **352,237** &nbsp;&nbsp; folks: **83,555**  &nbsp;&nbsp; `352 stars today`
 
 1. [rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
     - Learn it. Build it. Ship it for others.
-    - language: **Python** &nbsp;&nbsp; stars: **32,876** &nbsp;&nbsp; folks: **5,386**  &nbsp;&nbsp; `538 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **32,986** &nbsp;&nbsp; folks: **5,401**  &nbsp;&nbsp; `538 stars today`
 
 1. [music-assistant / server](https://github.com/music-assistant/server)
     - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-    - language: **Python** &nbsp;&nbsp; stars: **2,341** &nbsp;&nbsp; folks: **442**  &nbsp;&nbsp; `226 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,364** &nbsp;&nbsp; folks: **443**  &nbsp;&nbsp; `226 stars today`
 
 1. [Free-TV / IPTV](https://github.com/Free-TV/IPTV)
     - M3U Playlist for free TV channels
-    - language: **Python** &nbsp;&nbsp; stars: **17,184** &nbsp;&nbsp; folks: **2,554**  &nbsp;&nbsp; `361 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **17,227** &nbsp;&nbsp; folks: **2,558**  &nbsp;&nbsp; `361 stars today`
 
 1. [Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
     - Introduction to Autonomous Robots
-    - language: **TeX** &nbsp;&nbsp; stars: **3,003** &nbsp;&nbsp; folks: **647**  &nbsp;&nbsp; `488 stars today`
+    - language: **TeX** &nbsp;&nbsp; stars: **3,042** &nbsp;&nbsp; folks: **652**  &nbsp;&nbsp; `488 stars today`
 
 1. [Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat)
     - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **47,813** &nbsp;&nbsp; folks: **1,929**  &nbsp;&nbsp; `114 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **47,942** &nbsp;&nbsp; folks: **1,934**  &nbsp;&nbsp; `114 stars today`
 
 1. [mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
     - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-    - language: **Dockerfile** &nbsp;&nbsp; stars: **20,746** &nbsp;&nbsp; folks: **1,052**  &nbsp;&nbsp; `256 stars today`
+    - language: **Dockerfile** &nbsp;&nbsp; stars: **20,883** &nbsp;&nbsp; folks: **1,055**  &nbsp;&nbsp; `256 stars today`
 
 1. [itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
     - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
-    - language: **C#** &nbsp;&nbsp; stars: **3,562** &nbsp;&nbsp; folks: **158**  &nbsp;&nbsp; `321 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **3,629** &nbsp;&nbsp; folks: **158**  &nbsp;&nbsp; `321 stars today`
 
 1. [NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector)
     - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    - language: **Python** &nbsp;&nbsp; stars: **6,066** &nbsp;&nbsp; folks: **446**  &nbsp;&nbsp; `1,079 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,217** &nbsp;&nbsp; folks: **454**  &nbsp;&nbsp; `1,079 stars today`
 
 1. [shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos)
     - Kronos: A Foundation Model for the Language of Financial Markets
-    - language: **Python** &nbsp;&nbsp; stars: **30,164** &nbsp;&nbsp; folks: **5,179**  &nbsp;&nbsp; `395 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **30,217** &nbsp;&nbsp; folks: **5,185**  &nbsp;&nbsp; `395 stars today`
 
 
 ## 近一周热门仓库
 
 1. [mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill)
     - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    - language: **Python** &nbsp;&nbsp; stars: **42,694** &nbsp;&nbsp; folks: **3,475**  &nbsp;&nbsp; `12,053 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **42,788** &nbsp;&nbsp; folks: **3,486**  &nbsp;&nbsp; `12,053 stars this week`
 
 1. [apple / container](https://github.com/apple/container)
     - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-    - language: **Swift** &nbsp;&nbsp; stars: **37,345** &nbsp;&nbsp; folks: **1,068**  &nbsp;&nbsp; `10,021 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **37,410** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `10,021 stars this week`
 
 1. [phuryn / pm-skills](https://github.com/phuryn/pm-skills)
     - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    - language: **无** &nbsp;&nbsp; stars: **18,515** &nbsp;&nbsp; folks: **1,908**  &nbsp;&nbsp; `5,713 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **18,551** &nbsp;&nbsp; folks: **1,911**  &nbsp;&nbsp; `5,713 stars this week`
 
 1. [NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector)
     - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    - language: **Python** &nbsp;&nbsp; stars: **6,066** &nbsp;&nbsp; folks: **446**  &nbsp;&nbsp; `3,669 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,217** &nbsp;&nbsp; folks: **454**  &nbsp;&nbsp; `3,669 stars this week`
 
 1. [chopratejas / headroom](https://github.com/chopratejas/headroom)
     - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    - language: **Python** &nbsp;&nbsp; stars: **28,502** &nbsp;&nbsp; folks: **1,930**  &nbsp;&nbsp; `10,653 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **28,679** &nbsp;&nbsp; folks: **1,942**  &nbsp;&nbsp; `10,653 stars this week`
 
 1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
     - Production-grade engineering skills for AI coding agents.
-    - language: **Shell** &nbsp;&nbsp; stars: **60,115** &nbsp;&nbsp; folks: **6,515**  &nbsp;&nbsp; `10,445 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **60,213** &nbsp;&nbsp; folks: **6,527**  &nbsp;&nbsp; `10,445 stars this week`
 
 1. [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach)
     - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    - language: **Python** &nbsp;&nbsp; stars: **29,741** &nbsp;&nbsp; folks: **2,423**  &nbsp;&nbsp; `5,468 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **29,948** &nbsp;&nbsp; folks: **2,431**  &nbsp;&nbsp; `5,468 stars this week`
 
 1. [RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec)
     - A vector index built on TurboQuant, written in Rust with Python bindings
-    - language: **Python** &nbsp;&nbsp; stars: **11,613** &nbsp;&nbsp; folks: **1,012**  &nbsp;&nbsp; `4,895 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **11,630** &nbsp;&nbsp; folks: **1,014**  &nbsp;&nbsp; `4,895 stars this week`
 
 1. [refactoringhq / tolaria](https://github.com/refactoringhq/tolaria)
     - Desktop app to manage markdown knowledge bases
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,354** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `3,592 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,375** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `3,592 stars this week`
 
 1. [music-assistant / server](https://github.com/music-assistant/server)
     - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-    - language: **Python** &nbsp;&nbsp; stars: **2,341** &nbsp;&nbsp; folks: **442**  &nbsp;&nbsp; `504 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,364** &nbsp;&nbsp; folks: **443**  &nbsp;&nbsp; `504 stars this week`
 
 1. [roboflow / supervision](https://github.com/roboflow/supervision)
     - We write your reusable computer vision tools. 💜
-    - language: **Python** &nbsp;&nbsp; stars: **44,301** &nbsp;&nbsp; folks: **3,937**  &nbsp;&nbsp; `3,315 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **44,326** &nbsp;&nbsp; folks: **3,937**  &nbsp;&nbsp; `3,315 stars this week`
 
 1. [Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill)
     - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-    - language: **Shell** &nbsp;&nbsp; stars: **44,326** &nbsp;&nbsp; folks: **3,093**  &nbsp;&nbsp; `7,591 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **44,428** &nbsp;&nbsp; folks: **3,099**  &nbsp;&nbsp; `7,591 stars this week`
 
 1. [openai / plugins](https://github.com/openai/plugins)
     - OpenAI Plugins
-    - language: **JavaScript** &nbsp;&nbsp; stars: **3,072** &nbsp;&nbsp; folks: **358**  &nbsp;&nbsp; `1,085 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **3,078** &nbsp;&nbsp; folks: **359**  &nbsp;&nbsp; `1,085 stars this week`
 
 1. [mattermost / mattermost](https://github.com/mattermost/mattermost)
     - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,877** &nbsp;&nbsp; folks: **8,737**  &nbsp;&nbsp; `779 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,889** &nbsp;&nbsp; folks: **8,738**  &nbsp;&nbsp; `779 stars this week`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **153,922** &nbsp;&nbsp; folks: **10,640**  &nbsp;&nbsp; `6,280 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **154,017** &nbsp;&nbsp; folks: **10,650**  &nbsp;&nbsp; `6,280 stars this week`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **42,375** &nbsp;&nbsp; folks: **7,047**  &nbsp;&nbsp; `819 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **42,406** &nbsp;&nbsp; folks: **7,052**  &nbsp;&nbsp; `819 stars this week`
 
 1. [chatwoot / chatwoot](https://github.com/chatwoot/chatwoot)
     - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    - language: **Ruby** &nbsp;&nbsp; stars: **31,548** &nbsp;&nbsp; folks: **7,619**  &nbsp;&nbsp; `1,228 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **31,605** &nbsp;&nbsp; folks: **7,626**  &nbsp;&nbsp; `1,228 stars this week`
 
 1. [microsoft / PowerToys](https://github.com/microsoft/PowerToys)
     - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-    - language: **C** &nbsp;&nbsp; stars: **134,967** &nbsp;&nbsp; folks: **8,100**  &nbsp;&nbsp; `1,042 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **134,989** &nbsp;&nbsp; folks: **8,100**  &nbsp;&nbsp; `1,042 stars this week`
 
 1. [huggingface / OpenEnv](https://github.com/huggingface/OpenEnv)
     - An interface library for RL post training with environments.
-    - language: **Python** &nbsp;&nbsp; stars: **2,258** &nbsp;&nbsp; folks: **396**  &nbsp;&nbsp; `276 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,269** &nbsp;&nbsp; folks: **397**  &nbsp;&nbsp; `276 stars this week`
 
 1. [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
     - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    - language: **无** &nbsp;&nbsp; stars: **140,540** &nbsp;&nbsp; folks: **34,693**  &nbsp;&nbsp; `1,642 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **140,554** &nbsp;&nbsp; folks: **34,693**  &nbsp;&nbsp; `1,642 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [colbymchenry / codegraph](https://github.com/colbymchenry/codegraph)
     - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    - language: **TypeScript** &nbsp;&nbsp; stars: **49,548** &nbsp;&nbsp; folks: **3,030**  &nbsp;&nbsp; `47,635 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **49,615** &nbsp;&nbsp; folks: **3,032**  &nbsp;&nbsp; `47,635 stars this month`
 
 1. [chopratejas / headroom](https://github.com/chopratejas/headroom)
     - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    - language: **Python** &nbsp;&nbsp; stars: **28,502** &nbsp;&nbsp; folks: **1,930**  &nbsp;&nbsp; `25,399 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **28,679** &nbsp;&nbsp; folks: **1,942**  &nbsp;&nbsp; `25,399 stars this month`
 
 1. [Egonex-AI / Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
     - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **60,163** &nbsp;&nbsp; folks: **4,978**  &nbsp;&nbsp; `44,690 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **60,367** &nbsp;&nbsp; folks: **4,989**  &nbsp;&nbsp; `44,690 stars this month`
 
 1. [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
     - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    - language: **Python** &nbsp;&nbsp; stars: **88,184** &nbsp;&nbsp; folks: **12,648**  &nbsp;&nbsp; `30,998 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **88,234** &nbsp;&nbsp; folks: **12,660**  &nbsp;&nbsp; `30,998 stars this month`
 
 1. [rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
     - Learn it. Build it. Ship it for others.
-    - language: **Python** &nbsp;&nbsp; stars: **32,876** &nbsp;&nbsp; folks: **5,386**  &nbsp;&nbsp; `24,741 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **32,986** &nbsp;&nbsp; folks: **5,401**  &nbsp;&nbsp; `24,741 stars this month`
 
 1. [tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman)
     - Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    - language: **Rust** &nbsp;&nbsp; stars: **32,224** &nbsp;&nbsp; folks: **3,121**  &nbsp;&nbsp; `25,134 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **32,248** &nbsp;&nbsp; folks: **3,123**  &nbsp;&nbsp; `25,134 stars this month`
 
 1. [Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
     - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    - language: **Python** &nbsp;&nbsp; stars: **31,680** &nbsp;&nbsp; folks: **2,607**  &nbsp;&nbsp; `24,371 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,714** &nbsp;&nbsp; folks: **2,607**  &nbsp;&nbsp; `24,371 stars this month`
 
 1. [apple / container](https://github.com/apple/container)
     - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-    - language: **Swift** &nbsp;&nbsp; stars: **37,345** &nbsp;&nbsp; folks: **1,068**  &nbsp;&nbsp; `10,383 stars this month`
+    - language: **Swift** &nbsp;&nbsp; stars: **37,410** &nbsp;&nbsp; folks: **1,072**  &nbsp;&nbsp; `10,383 stars this month`
 
 1. [can1357 / oh-my-pi](https://github.com/can1357/oh-my-pi)
     - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,581** &nbsp;&nbsp; folks: **1,067**  &nbsp;&nbsp; `8,029 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,620** &nbsp;&nbsp; folks: **1,068**  &nbsp;&nbsp; `8,029 stars this month`
 
 1. [ruvnet / RuView](https://github.com/ruvnet/RuView)
     - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    - language: **Rust** &nbsp;&nbsp; stars: **73,967** &nbsp;&nbsp; folks: **9,875**  &nbsp;&nbsp; `19,369 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **74,006** &nbsp;&nbsp; folks: **9,881**  &nbsp;&nbsp; `19,369 stars this month`
 
 1. [hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop)
     - A skill file for removing AI tells from prose
-    - language: **无** &nbsp;&nbsp; stars: **10,755** &nbsp;&nbsp; folks: **760**  &nbsp;&nbsp; `6,931 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **10,784** &nbsp;&nbsp; folks: **764**  &nbsp;&nbsp; `6,931 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **153,922** &nbsp;&nbsp; folks: **10,640**  &nbsp;&nbsp; `30,576 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **154,017** &nbsp;&nbsp; folks: **10,650**  &nbsp;&nbsp; `30,576 stars this month`
 
 1. [anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
     - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    - language: **Python** &nbsp;&nbsp; stars: **20,751** &nbsp;&nbsp; folks: **2,449**  &nbsp;&nbsp; `8,577 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,770** &nbsp;&nbsp; folks: **2,450**  &nbsp;&nbsp; `8,577 stars this month`
 
 1. [Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill)
     - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-    - language: **Shell** &nbsp;&nbsp; stars: **44,326** &nbsp;&nbsp; folks: **3,093**  &nbsp;&nbsp; `26,394 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **44,428** &nbsp;&nbsp; folks: **3,099**  &nbsp;&nbsp; `26,394 stars this month`
 
 1. [ogulcancelik / herdr](https://github.com/ogulcancelik/herdr)
     - agent multiplexer that lives in your terminal.
-    - language: **Rust** &nbsp;&nbsp; stars: **5,727** &nbsp;&nbsp; folks: **342**  &nbsp;&nbsp; `4,876 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **5,768** &nbsp;&nbsp; folks: **346**  &nbsp;&nbsp; `4,876 stars this month`
 
 1. [HKUDS / ViMax](https://github.com/HKUDS/ViMax)
     - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-    - language: **Python** &nbsp;&nbsp; stars: **10,100** &nbsp;&nbsp; folks: **1,487**  &nbsp;&nbsp; `6,188 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,127** &nbsp;&nbsp; folks: **1,487**  &nbsp;&nbsp; `6,188 stars this month`
 
 1. [rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory)
     - #1 Persistent memory for AI coding agents based on real-world benchmarks
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,927** &nbsp;&nbsp; folks: **1,889**  &nbsp;&nbsp; `14,292 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,946** &nbsp;&nbsp; folks: **1,892**  &nbsp;&nbsp; `14,292 stars this month`
 
 1. [CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
     - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    - language: **Python** &nbsp;&nbsp; stars: **26,191** &nbsp;&nbsp; folks: **2,071**  &nbsp;&nbsp; `15,875 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **26,206** &nbsp;&nbsp; folks: **2,071**  &nbsp;&nbsp; `15,875 stars this month`
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - Skills for Real Engineers. Straight from my .claude directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **129,785** &nbsp;&nbsp; folks: **11,327**  &nbsp;&nbsp; `48,195 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **129,958** &nbsp;&nbsp; folks: **11,346**  &nbsp;&nbsp; `48,195 stars this month`
 
 1. [iii-hq / iii](https://github.com/iii-hq/iii)
     - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-    - language: **Rust** &nbsp;&nbsp; stars: **18,135** &nbsp;&nbsp; folks: **1,209**  &nbsp;&nbsp; `2,547 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,139** &nbsp;&nbsp; folks: **1,209**  &nbsp;&nbsp; `2,547 stars this month`
 
 
 ## 历史归档
