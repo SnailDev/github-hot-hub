@@ -10,235 +10,231 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-08-04 18:33:43 +0800`
+`更新时间：2026-08-04 20:58:02 +0800`
 
 ## 今日热门仓库
 
-1. [lyogavin / airllm](https://github.com/lyogavin/airllm)
-    - AirLLM 70B inference with single 4GB GPU
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,871** &nbsp;&nbsp; folks: **3,019**  &nbsp;&nbsp; `1,085 stars today`
+1. [TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+    - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,845** &nbsp;&nbsp; folks: **1,216**  &nbsp;&nbsp; `1,138 stars today`
 
 1. [zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
     - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    - language: **PowerShell** &nbsp;&nbsp; stars: **16,924** &nbsp;&nbsp; folks: **2,347**  &nbsp;&nbsp; `2,446 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **17,190** &nbsp;&nbsp; folks: **2,385**  &nbsp;&nbsp; `2,310 stars today`
 
 1. [firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector)
     - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-    - language: **Rust** &nbsp;&nbsp; stars: **9,128** &nbsp;&nbsp; folks: **601**  &nbsp;&nbsp; `1,699 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **9,320** &nbsp;&nbsp; folks: **619**  &nbsp;&nbsp; `2,524 stars today`
 
-1. [esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-    - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    - language: **Go** &nbsp;&nbsp; stars: **30,413** &nbsp;&nbsp; folks: **1,961**  &nbsp;&nbsp; `883 stars today`
+1. [uber / ADR](https://github.com/uber/ADR)
+    - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+    - language: **Python** &nbsp;&nbsp; stars: **533** &nbsp;&nbsp; folks: **61**  &nbsp;&nbsp; `140 stars today`
 
-1. [TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-    - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **12,643** &nbsp;&nbsp; folks: **1,198**  &nbsp;&nbsp; `1,090 stars today`
-
-1. [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-    - 12 Weeks, 24 Lessons, AI for All!
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **61,415** &nbsp;&nbsp; folks: **11,930**  &nbsp;&nbsp; `1,902 stars today`
+1. [obra / superpowers](https://github.com/obra/superpowers)
+    - An agentic skills framework & software development methodology that works.
+    - language: **Shell** &nbsp;&nbsp; stars: **266,087** &nbsp;&nbsp; folks: **23,791**  &nbsp;&nbsp; `617 stars today`
 
 1. [microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
     - 21 Lessons, Get Started Building with Generative AI
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **115,964** &nbsp;&nbsp; folks: **61,503**  &nbsp;&nbsp; `775 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **116,021** &nbsp;&nbsp; folks: **61,516**  &nbsp;&nbsp; `784 stars today`
 
-1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
-    - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    - language: **Python** &nbsp;&nbsp; stars: **360,848** &nbsp;&nbsp; folks: **57,547**  &nbsp;&nbsp; `237 stars today`
+1. [cypress-io / cypress](https://github.com/cypress-io/cypress)
+    - Fast, easy and reliable testing for anything that runs in a browser.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **50,673** &nbsp;&nbsp; folks: **3,621**  &nbsp;&nbsp; `6 stars today`
 
-1. [antirez / ds4](https://github.com/antirez/ds4)
-    - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-    - language: **C** &nbsp;&nbsp; stars: **20,495** &nbsp;&nbsp; folks: **1,809**  &nbsp;&nbsp; `384 stars today`
+1. [lyogavin / airllm](https://github.com/lyogavin/airllm)
+    - AirLLM 70B inference with single 4GB GPU
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,993** &nbsp;&nbsp; folks: **3,031**  &nbsp;&nbsp; `1,716 stars today`
 
-1. [shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos)
-    - Kronos: A Foundation Model for the Language of Financial Markets
-    - language: **Python** &nbsp;&nbsp; stars: **35,939** &nbsp;&nbsp; folks: **5,974**  &nbsp;&nbsp; `200 stars today`
+1. [webpack / webpack](https://github.com/webpack/webpack)
+    - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **65,886** &nbsp;&nbsp; folks: **9,520**  &nbsp;&nbsp; `8 stars today`
 
-1. [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-    - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    - language: **Python** &nbsp;&nbsp; stars: **66,217** &nbsp;&nbsp; folks: **5,486**  &nbsp;&nbsp; `1,057 stars today`
+1. [gabime / spdlog](https://github.com/gabime/spdlog)
+    - Fast C++ logging library.
+    - language: **C++** &nbsp;&nbsp; stars: **29,344** &nbsp;&nbsp; folks: **5,366**  &nbsp;&nbsp; `9 stars today`
 
-1. [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-    - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
-    - language: **Python** &nbsp;&nbsp; stars: **44,232** &nbsp;&nbsp; folks: **7,287**  &nbsp;&nbsp; `278 stars today`
-
-1. [iv-org / invidious](https://github.com/iv-org/invidious)
-    - Invidious is an alternative front-end to YouTube
-    - language: **Crystal** &nbsp;&nbsp; stars: **22,348** &nbsp;&nbsp; folks: **2,488**  &nbsp;&nbsp; `402 stars today`
-
-1. [livekit / agents](https://github.com/livekit/agents)
-    - A framework for building realtime voice AI agents 🤖🎙️📹
-    - language: **Python** &nbsp;&nbsp; stars: **12,208** &nbsp;&nbsp; folks: **3,462**  &nbsp;&nbsp; `148 stars today`
+1. [denoland / deno](https://github.com/denoland/deno)
+    - A modern runtime for JavaScript and TypeScript.
+    - language: **Rust** &nbsp;&nbsp; stars: **107,990** &nbsp;&nbsp; folks: **6,297**  &nbsp;&nbsp; `27 stars today`
 
 1. [usekaneo / kaneo](https://github.com/usekaneo/kaneo)
     - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,077** &nbsp;&nbsp; folks: **569**  &nbsp;&nbsp; `665 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,118** &nbsp;&nbsp; folks: **572**  &nbsp;&nbsp; `565 stars today`
 
-1. [jamiepine / voicebox](https://github.com/jamiepine/voicebox)
-    - The open-source AI voice studio. Clone, dictate, create.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **49,005** &nbsp;&nbsp; folks: **6,014**  &nbsp;&nbsp; `412 stars today`
+1. [livekit / agents](https://github.com/livekit/agents)
+    - A framework for building realtime voice AI agents 🤖🎙️📹
+    - language: **Python** &nbsp;&nbsp; stars: **12,230** &nbsp;&nbsp; folks: **3,463**  &nbsp;&nbsp; `432 stars today`
+
+1. [angular / angular](https://github.com/angular/angular)
+    - Deliver web apps with confidence 🚀
+    - language: **TypeScript** &nbsp;&nbsp; stars: **100,711** &nbsp;&nbsp; folks: **27,384**  &nbsp;&nbsp; `8 stars today`
+
+1. [tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+    - A utility-first CSS framework for rapid UI development.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **96,271** &nbsp;&nbsp; folks: **5,523**  &nbsp;&nbsp; `30 stars today`
+
+1. [browser-use / video-use](https://github.com/browser-use/video-use)
+    - Edit videos with coding agents
+    - language: **Python** &nbsp;&nbsp; stars: **18,994** &nbsp;&nbsp; folks: **2,383**  &nbsp;&nbsp; `306 stars today`
+
+1. [esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+    - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    - language: **Go** &nbsp;&nbsp; stars: **30,511** &nbsp;&nbsp; folks: **1,966**  &nbsp;&nbsp; `924 stars today`
+
+1. [EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+    - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,769** &nbsp;&nbsp; folks: **1,944**  &nbsp;&nbsp; `33 stars today`
 
 
 ## 近一周热门仓库
 
-1. [block / buzz](https://github.com/block/buzz)
-    - A hive mind communication platform
-    - language: **Rust** &nbsp;&nbsp; stars: **22,148** &nbsp;&nbsp; folks: **2,437**  &nbsp;&nbsp; `7,372 stars this week`
+1. [zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+    - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    - language: **PowerShell** &nbsp;&nbsp; stars: **17,190** &nbsp;&nbsp; folks: **2,385**  &nbsp;&nbsp; `6,154 stars this week`
 
 1. [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
     - 12 Weeks, 24 Lessons, AI for All!
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **61,415** &nbsp;&nbsp; folks: **11,930**  &nbsp;&nbsp; `7,554 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **61,464** &nbsp;&nbsp; folks: **11,940**  &nbsp;&nbsp; `7,554 stars this week`
+
+1. [block / buzz](https://github.com/block/buzz)
+    - A hive mind communication platform
+    - language: **Rust** &nbsp;&nbsp; stars: **22,225** &nbsp;&nbsp; folks: **2,455**  &nbsp;&nbsp; `7,372 stars this week`
 
 1. [virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill)
     - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    - language: **Python** &nbsp;&nbsp; stars: **16,166** &nbsp;&nbsp; folks: **1,721**  &nbsp;&nbsp; `5,405 stars this week`
-
-1. [zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-    - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    - language: **PowerShell** &nbsp;&nbsp; stars: **16,924** &nbsp;&nbsp; folks: **2,347**  &nbsp;&nbsp; `6,154 stars this week`
-
-1. [ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd)
-    - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    - language: **Python** &nbsp;&nbsp; stars: **16,508** &nbsp;&nbsp; folks: **929**  &nbsp;&nbsp; `5,012 stars this week`
-
-1. [1jehuang / jcode](https://github.com/1jehuang/jcode)
-    - The most RAM efficient harness
-    - language: **Rust** &nbsp;&nbsp; stars: **15,720** &nbsp;&nbsp; folks: **1,734**  &nbsp;&nbsp; `3,735 stars this week`
-
-1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
-    - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **46,801** &nbsp;&nbsp; folks: **4,618**  &nbsp;&nbsp; `2,978 stars this week`
-
-1. [opengeos / GeoLibre](https://github.com/opengeos/GeoLibre)
-    - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,290** &nbsp;&nbsp; folks: **524**  &nbsp;&nbsp; `2,630 stars this week`
-
-1. [pascalorg / editor](https://github.com/pascalorg/editor)
-    - Create and share 3D architectural projects.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,988** &nbsp;&nbsp; folks: **2,682**  &nbsp;&nbsp; `2,953 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,203** &nbsp;&nbsp; folks: **1,722**  &nbsp;&nbsp; `5,405 stars this week`
 
 1. [different-ai / openwork](https://github.com/different-ai/openwork)
     - The open-source alternative to Claude Cowork (powered by opencode)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **20,791** &nbsp;&nbsp; folks: **2,037**  &nbsp;&nbsp; `3,429 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,812** &nbsp;&nbsp; folks: **2,044**  &nbsp;&nbsp; `3,429 stars this week`
 
-1. [andrewyng / aisuite](https://github.com/andrewyng/aisuite)
-    - Simple, unified interface to multiple Generative AI providers
-    - language: **Python** &nbsp;&nbsp; stars: **16,005** &nbsp;&nbsp; folks: **1,687**  &nbsp;&nbsp; `444 stars this week`
-
-1. [alibaba / open-code-review](https://github.com/alibaba/open-code-review)
-    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    - language: **Go** &nbsp;&nbsp; stars: **18,634** &nbsp;&nbsp; folks: **1,255**  &nbsp;&nbsp; `3,881 stars this week`
-
-1. [citrolabs / ego-lite](https://github.com/citrolabs/ego-lite)
-    - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,198** &nbsp;&nbsp; folks: **399**  &nbsp;&nbsp; `2,625 stars this week`
-
-1. [pingdotgg / t3code](https://github.com/pingdotgg/t3code)
-    - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,578** &nbsp;&nbsp; folks: **3,706**  &nbsp;&nbsp; `1,270 stars this week`
-
-1. [microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
-    - Native and Compact Structured Latents for 3D Generation
-    - language: **Python** &nbsp;&nbsp; stars: **10,356** &nbsp;&nbsp; folks: **1,237**  &nbsp;&nbsp; `1,250 stars this week`
-
-1. [earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad)
-    - A library of agent skills for CAD, CAE and CAM
-    - language: **JavaScript** &nbsp;&nbsp; stars: **12,767** &nbsp;&nbsp; folks: **1,345**  &nbsp;&nbsp; `1,908 stars this week`
+1. [ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd)
+    - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    - language: **Python** &nbsp;&nbsp; stars: **16,563** &nbsp;&nbsp; folks: **931**  &nbsp;&nbsp; `5,012 stars this week`
 
 1. [lyogavin / airllm](https://github.com/lyogavin/airllm)
     - AirLLM 70B inference with single 4GB GPU
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,871** &nbsp;&nbsp; folks: **3,019**  &nbsp;&nbsp; `2,410 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **27,993** &nbsp;&nbsp; folks: **3,031**  &nbsp;&nbsp; `2,410 stars this week`
+
+1. [1jehuang / jcode](https://github.com/1jehuang/jcode)
+    - The most RAM efficient harness
+    - language: **Rust** &nbsp;&nbsp; stars: **15,759** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `3,735 stars this week`
+
+1. [TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+    - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **12,845** &nbsp;&nbsp; folks: **1,216**  &nbsp;&nbsp; `2,463 stars this week`
+
+1. [opengeos / GeoLibre](https://github.com/opengeos/GeoLibre)
+    - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,310** &nbsp;&nbsp; folks: **526**  &nbsp;&nbsp; `2,630 stars this week`
+
+1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
+    - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **46,814** &nbsp;&nbsp; folks: **4,622**  &nbsp;&nbsp; `2,978 stars this week`
+
+1. [alibaba / open-code-review](https://github.com/alibaba/open-code-review)
+    - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    - language: **Go** &nbsp;&nbsp; stars: **18,663** &nbsp;&nbsp; folks: **1,256**  &nbsp;&nbsp; `3,881 stars this week`
+
+1. [pascalorg / editor](https://github.com/pascalorg/editor)
+    - Create and share 3D architectural projects.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **20,993** &nbsp;&nbsp; folks: **2,684**  &nbsp;&nbsp; `2,953 stars this week`
+
+1. [citrolabs / ego-lite](https://github.com/citrolabs/ego-lite)
+    - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,222** &nbsp;&nbsp; folks: **399**  &nbsp;&nbsp; `2,625 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat)
     - bluetooth mesh chat, IRC vibes
-    - language: **Swift** &nbsp;&nbsp; stars: **34,374** &nbsp;&nbsp; folks: **5,487**  &nbsp;&nbsp; `8,367 stars this month`
+    - language: **Swift** &nbsp;&nbsp; stars: **34,380** &nbsp;&nbsp; folks: **5,487**  &nbsp;&nbsp; `8,367 stars this month`
 
 1. [diegosouzapw / OmniRoute](https://github.com/diegosouzapw/OmniRoute)
     - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-    - language: **TypeScript** &nbsp;&nbsp; stars: **39,163** &nbsp;&nbsp; folks: **5,167**  &nbsp;&nbsp; `28,232 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **39,246** &nbsp;&nbsp; folks: **5,174**  &nbsp;&nbsp; `28,232 stars this month`
 
 1. [stablyai / orca](https://github.com/stablyai/orca)
     - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **37,030** &nbsp;&nbsp; folks: **2,625**  &nbsp;&nbsp; `25,250 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **37,101** &nbsp;&nbsp; folks: **2,625**  &nbsp;&nbsp; `25,250 stars this month`
 
 1. [emilkowalski / skills](https://github.com/emilkowalski/skills)
     - Skills for Designers and Engineers.
-    - language: **无** &nbsp;&nbsp; stars: **24,642** &nbsp;&nbsp; folks: **1,328**  &nbsp;&nbsp; `19,789 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **24,694** &nbsp;&nbsp; folks: **1,329**  &nbsp;&nbsp; `19,789 stars this month`
 
 1. [tt-a1i / archify](https://github.com/tt-a1i/archify)
     - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    - language: **HTML** &nbsp;&nbsp; stars: **9,001** &nbsp;&nbsp; folks: **722**  &nbsp;&nbsp; `6,501 stars this month`
-
-1. [koala73 / worldmonitor](https://github.com/koala73/worldmonitor)
-    - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    - language: **TypeScript** &nbsp;&nbsp; stars: **78,652** &nbsp;&nbsp; folks: **11,748**  &nbsp;&nbsp; `17,517 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **9,030** &nbsp;&nbsp; folks: **726**  &nbsp;&nbsp; `6,501 stars this month`
 
 1. [Nutlope / hallmark](https://github.com/Nutlope/hallmark)
     - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    - language: **CSS** &nbsp;&nbsp; stars: **21,458** &nbsp;&nbsp; folks: **1,087**  &nbsp;&nbsp; `17,706 stars this month`
+    - language: **CSS** &nbsp;&nbsp; stars: **21,510** &nbsp;&nbsp; folks: **1,089**  &nbsp;&nbsp; `17,706 stars this month`
+
+1. [koala73 / worldmonitor](https://github.com/koala73/worldmonitor)
+    - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    - language: **TypeScript** &nbsp;&nbsp; stars: **78,694** &nbsp;&nbsp; folks: **11,755**  &nbsp;&nbsp; `17,517 stars this month`
 
 1. [iOfficeAI / OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
     - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    - language: **C#** &nbsp;&nbsp; stars: **25,178** &nbsp;&nbsp; folks: **1,692**  &nbsp;&nbsp; `16,458 stars this month`
-
-1. [bradautomates / claude-video](https://github.com/bradautomates/claude-video)
-    - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    - language: **Python** &nbsp;&nbsp; stars: **13,764** &nbsp;&nbsp; folks: **1,334**  &nbsp;&nbsp; `10,750 stars this month`
-
-1. [Zackriya-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily)
-    - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    - language: **Rust** &nbsp;&nbsp; stars: **28,225** &nbsp;&nbsp; folks: **2,949**  &nbsp;&nbsp; `14,535 stars this month`
+    - language: **C#** &nbsp;&nbsp; stars: **25,241** &nbsp;&nbsp; folks: **1,697**  &nbsp;&nbsp; `16,458 stars this month`
 
 1. [huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech)
     - Build local voice agents with open-source models
-    - language: **Python** &nbsp;&nbsp; stars: **10,834** &nbsp;&nbsp; folks: **1,328**  &nbsp;&nbsp; `5,579 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,859** &nbsp;&nbsp; folks: **1,330**  &nbsp;&nbsp; `5,579 stars this month`
+
+1. [bradautomates / claude-video](https://github.com/bradautomates/claude-video)
+    - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    - language: **Python** &nbsp;&nbsp; stars: **13,789** &nbsp;&nbsp; folks: **1,336**  &nbsp;&nbsp; `10,750 stars this month`
 
 1. [wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
     - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
     - language: **TypeScript** &nbsp;&nbsp; stars: **9,146** &nbsp;&nbsp; folks: **1,092**  &nbsp;&nbsp; `3,006 stars this month`
 
-1. [facebook / astryx](https://github.com/facebook/astryx)
-    - An open source design system that's fully customizable and agent ready
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,520** &nbsp;&nbsp; folks: **980**  &nbsp;&nbsp; `7,387 stars this month`
-
-1. [openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-    - Use Codex from Claude Code to review code or delegate tasks.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **31,214** &nbsp;&nbsp; folks: **2,100**  &nbsp;&nbsp; `8,384 stars this month`
-
-1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-    - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **62,252** &nbsp;&nbsp; folks: **10,201**  &nbsp;&nbsp; `14,503 stars this month`
-
 1. [1jehuang / jcode](https://github.com/1jehuang/jcode)
     - The most RAM efficient harness
-    - language: **Rust** &nbsp;&nbsp; stars: **15,720** &nbsp;&nbsp; folks: **1,734**  &nbsp;&nbsp; `7,469 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **15,759** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `7,469 stars this month`
 
 1. [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
     - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-    - language: **Python** &nbsp;&nbsp; stars: **130,378** &nbsp;&nbsp; folks: **19,242**  &nbsp;&nbsp; `14,250 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **130,403** &nbsp;&nbsp; folks: **19,246**  &nbsp;&nbsp; `14,250 stars this month`
 
 1. [HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor)
     - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    - language: **Python** &nbsp;&nbsp; stars: **32,310** &nbsp;&nbsp; folks: **4,222**  &nbsp;&nbsp; `7,155 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **32,333** &nbsp;&nbsp; folks: **4,228**  &nbsp;&nbsp; `7,155 stars this month`
 
 1. [pbakaus / impeccable](https://github.com/pbakaus/impeccable)
     - The design language that makes your AI harness better at design.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **54,835** &nbsp;&nbsp; folks: **3,296**  &nbsp;&nbsp; `11,471 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **54,902** &nbsp;&nbsp; folks: **3,301**  &nbsp;&nbsp; `11,471 stars this month`
 
-1. [usestrix / strix](https://github.com/usestrix/strix)
-    - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    - language: **Python** &nbsp;&nbsp; stars: **47,669** &nbsp;&nbsp; folks: **5,038**  &nbsp;&nbsp; `13,453 stars this month`
-
-1. [OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut)
-    - The open-source CapCut alternative
-    - language: **TypeScript** &nbsp;&nbsp; stars: **80,838** &nbsp;&nbsp; folks: **8,018**  &nbsp;&nbsp; `19,626 stars this month`
+1. [facebook / astryx](https://github.com/facebook/astryx)
+    - An open source design system that's fully customizable and agent ready
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,538** &nbsp;&nbsp; folks: **978**  &nbsp;&nbsp; `7,387 stars this month`
 
 1. [pingdotgg / t3code](https://github.com/pingdotgg/t3code)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,578** &nbsp;&nbsp; folks: **3,706**  &nbsp;&nbsp; `3,384 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,587** &nbsp;&nbsp; folks: **3,710**  &nbsp;&nbsp; `3,384 stars this month`
+
+1. [OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut)
+    - The open-source CapCut alternative
+    - language: **TypeScript** &nbsp;&nbsp; stars: **80,859** &nbsp;&nbsp; folks: **8,021**  &nbsp;&nbsp; `19,626 stars this month`
+
+1. [HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+    - "Vibe-Trading: Your Personal Trading Agent"
+    - language: **Python** &nbsp;&nbsp; stars: **29,556** &nbsp;&nbsp; folks: **4,768**  &nbsp;&nbsp; `12,049 stars this month`
+
+1. [openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+    - Use Codex from Claude Code to review code or delegate tasks.
+    - language: **JavaScript** &nbsp;&nbsp; stars: **31,224** &nbsp;&nbsp; folks: **2,100**  &nbsp;&nbsp; `8,384 stars this month`
+
+1. [every-app / open-seo](https://github.com/every-app/open-seo)
+    - Open source alternative to Semrush and Ahrefs
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,327** &nbsp;&nbsp; folks: **1,191**  &nbsp;&nbsp; `6,306 stars this month`
+
+1. [usestrix / strix](https://github.com/usestrix/strix)
+    - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    - language: **Python** &nbsp;&nbsp; stars: **47,792** &nbsp;&nbsp; folks: **5,051**  &nbsp;&nbsp; `13,453 stars this month`
 
 
 ## 历史归档
