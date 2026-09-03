@@ -10,259 +10,259 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-09-04 00:53:39 +0800`
+`更新时间：2026-09-04 03:36:56 +0800`
 
 ## 今日热门仓库
 
 1. [fmtlib / fmt](https://github.com/fmtlib/fmt)
     - A modern formatting library
-    - language: **C++** &nbsp;&nbsp; stars: **24,891** &nbsp;&nbsp; folks: **3,005**  &nbsp;&nbsp; `955 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **24,973** &nbsp;&nbsp; folks: **3,011**  &nbsp;&nbsp; `955 stars today`
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - Skills for Real Engineers. Straight from my .agents directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **246,739** &nbsp;&nbsp; folks: **20,931**  &nbsp;&nbsp; `1,576 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **247,016** &nbsp;&nbsp; folks: **20,948**  &nbsp;&nbsp; `1,576 stars today`
 
 1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
     - The agent that grows with you
-    - language: **Python** &nbsp;&nbsp; stars: **240,662** &nbsp;&nbsp; folks: **49,275**  &nbsp;&nbsp; `778 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **240,740** &nbsp;&nbsp; folks: **49,304**  &nbsp;&nbsp; `778 stars today`
 
 1. [DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail)
     - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **123,075** &nbsp;&nbsp; folks: **6,653**  &nbsp;&nbsp; `2,138 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **123,213** &nbsp;&nbsp; folks: **6,656**  &nbsp;&nbsp; `2,138 stars today`
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **173,518** &nbsp;&nbsp; folks: **20,591**  &nbsp;&nbsp; `277 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **173,570** &nbsp;&nbsp; folks: **20,594**  &nbsp;&nbsp; `277 stars today`
 
 1. [affaan-m / ECC](https://github.com/affaan-m/ECC)
     - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **246,888** &nbsp;&nbsp; folks: **37,206**  &nbsp;&nbsp; `749 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **246,991** &nbsp;&nbsp; folks: **37,223**  &nbsp;&nbsp; `749 stars today`
 
 1. [JuliusBrussee / caveman](https://github.com/JuliusBrussee/caveman)
     - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-    - language: **Go** &nbsp;&nbsp; stars: **102,977** &nbsp;&nbsp; folks: **5,987**  &nbsp;&nbsp; `545 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **103,023** &nbsp;&nbsp; folks: **5,989**  &nbsp;&nbsp; `545 stars today`
 
 1. [blader / humanizer](https://github.com/blader/humanizer)
     - Agent skill that removes signs of AI-generated writing from text
-    - language: **Python** &nbsp;&nbsp; stars: **41,245** &nbsp;&nbsp; folks: **3,536**  &nbsp;&nbsp; `1,214 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **41,333** &nbsp;&nbsp; folks: **3,541**  &nbsp;&nbsp; `1,214 stars today`
 
 1. [google-research / timesfm](https://github.com/google-research/timesfm)
     - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    - language: **Python** &nbsp;&nbsp; stars: **30,610** &nbsp;&nbsp; folks: **2,919**  &nbsp;&nbsp; `1,626 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **30,647** &nbsp;&nbsp; folks: **2,923**  &nbsp;&nbsp; `1,626 stars today`
 
 1. [averygan / reclip](https://github.com/averygan/reclip)
     - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
-    - language: **HTML** &nbsp;&nbsp; stars: **8,256** &nbsp;&nbsp; folks: **1,356**  &nbsp;&nbsp; `123 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **8,298** &nbsp;&nbsp; folks: **1,359**  &nbsp;&nbsp; `123 stars today`
 
 1. [bannedbook / fanqiang](https://github.com/bannedbook/fanqiang)
     - 翻墙-科学上网
-    - language: **Kotlin** &nbsp;&nbsp; stars: **52,046** &nbsp;&nbsp; folks: **8,457**  &nbsp;&nbsp; `539 stars today`
+    - language: **Kotlin** &nbsp;&nbsp; stars: **52,097** &nbsp;&nbsp; folks: **8,465**  &nbsp;&nbsp; `539 stars today`
 
 1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
     - Production-grade engineering skills for AI coding agents.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **91,927** &nbsp;&nbsp; folks: **9,804**  &nbsp;&nbsp; `260 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **91,975** &nbsp;&nbsp; folks: **9,806**  &nbsp;&nbsp; `260 stars today`
 
 1. [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101)
     - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    - language: **无** &nbsp;&nbsp; stars: **88,211** &nbsp;&nbsp; folks: **9,815**  &nbsp;&nbsp; `158 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **88,255** &nbsp;&nbsp; folks: **9,816**  &nbsp;&nbsp; `158 stars today`
 
 1. [magnitudedev / magnitude](https://github.com/magnitudedev/magnitude)
     - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,837** &nbsp;&nbsp; folks: **139**  &nbsp;&nbsp; `130 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,875** &nbsp;&nbsp; folks: **140**  &nbsp;&nbsp; `130 stars today`
 
 1. [Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
     - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    - language: **Python** &nbsp;&nbsp; stars: **45,924** &nbsp;&nbsp; folks: **3,598**  &nbsp;&nbsp; `498 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **45,952** &nbsp;&nbsp; folks: **3,600**  &nbsp;&nbsp; `498 stars today`
 
 1. [Gitlawb / openclaude](https://github.com/Gitlawb/openclaude)
     - runs anywhere. uses anything
-    - language: **TypeScript** &nbsp;&nbsp; stars: **32,260** &nbsp;&nbsp; folks: **9,016**  &nbsp;&nbsp; `453 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **32,290** &nbsp;&nbsp; folks: **9,018**  &nbsp;&nbsp; `453 stars today`
 
 1. [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio)
     - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    - language: **Python** &nbsp;&nbsp; stars: **15,908** &nbsp;&nbsp; folks: **2,179**  &nbsp;&nbsp; `1,738 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **16,042** &nbsp;&nbsp; folks: **2,187**  &nbsp;&nbsp; `1,738 stars today`
 
 1. [f / prompts.chat](https://github.com/f/prompts.chat)
     - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-    - language: **HTML** &nbsp;&nbsp; stars: **168,840** &nbsp;&nbsp; folks: **21,754**  &nbsp;&nbsp; `201 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **168,893** &nbsp;&nbsp; folks: **21,758**  &nbsp;&nbsp; `201 stars today`
 
 1. [obra / superpowers](https://github.com/obra/superpowers)
     - An agentic skills framework & software development methodology that works.
-    - language: **Shell** &nbsp;&nbsp; stars: **281,206** &nbsp;&nbsp; folks: **25,188**  &nbsp;&nbsp; `470 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **281,259** &nbsp;&nbsp; folks: **25,190**  &nbsp;&nbsp; `470 stars today`
 
 
 ## 近一周热门仓库
 
 1. [tt-a1i / archify](https://github.com/tt-a1i/archify)
     - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **45,378** &nbsp;&nbsp; folks: **2,909**  &nbsp;&nbsp; `26,626 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **45,558** &nbsp;&nbsp; folks: **2,921**  &nbsp;&nbsp; `26,626 stars this week`
 
 1. [bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
     - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **16,786** &nbsp;&nbsp; folks: **3,368**  &nbsp;&nbsp; `10,679 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **16,866** &nbsp;&nbsp; folks: **3,384**  &nbsp;&nbsp; `10,679 stars this week`
 
 1. [THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
     - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,974** &nbsp;&nbsp; folks: **5,124**  &nbsp;&nbsp; `9,426 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **31,007** &nbsp;&nbsp; folks: **5,131**  &nbsp;&nbsp; `9,426 stars this week`
 
 1. [JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
     - Help AI coding agents write modern Go
-    - language: **Go** &nbsp;&nbsp; stars: **3,088** &nbsp;&nbsp; folks: **86**  &nbsp;&nbsp; `1,403 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **3,099** &nbsp;&nbsp; folks: **86**  &nbsp;&nbsp; `1,403 stars this week`
 
 1. [Gitlawb / openclaude](https://github.com/Gitlawb/openclaude)
     - runs anywhere. uses anything
-    - language: **TypeScript** &nbsp;&nbsp; stars: **32,260** &nbsp;&nbsp; folks: **9,016**  &nbsp;&nbsp; `1,035 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **32,290** &nbsp;&nbsp; folks: **9,018**  &nbsp;&nbsp; `1,035 stars this week`
 
 1. [K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
     - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    - language: **Python** &nbsp;&nbsp; stars: **42,329** &nbsp;&nbsp; folks: **3,883**  &nbsp;&nbsp; `7,558 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **42,353** &nbsp;&nbsp; folks: **3,884**  &nbsp;&nbsp; `7,558 stars this week`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **58,191** &nbsp;&nbsp; folks: **7,560**  &nbsp;&nbsp; `2,669 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **58,209** &nbsp;&nbsp; folks: **7,565**  &nbsp;&nbsp; `2,669 stars this week`
 
 1. [every-app / open-seo](https://github.com/every-app/open-seo)
     - Open source alternative to Semrush and Ahrefs
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,606** &nbsp;&nbsp; folks: **2,046**  &nbsp;&nbsp; `2,767 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,619** &nbsp;&nbsp; folks: **2,049**  &nbsp;&nbsp; `2,767 stars this week`
 
 1. [omacom / omarchy](https://github.com/omacom/omarchy)
     - Beautiful, Modern & Opinionated Linux
-    - language: **Shell** &nbsp;&nbsp; stars: **37,630** &nbsp;&nbsp; folks: **3,955**  &nbsp;&nbsp; `5,577 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **37,667** &nbsp;&nbsp; folks: **3,963**  &nbsp;&nbsp; `5,577 stars this week`
 
 1. [google-research / timesfm](https://github.com/google-research/timesfm)
     - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    - language: **Python** &nbsp;&nbsp; stars: **30,610** &nbsp;&nbsp; folks: **2,919**  &nbsp;&nbsp; `787 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **30,647** &nbsp;&nbsp; folks: **2,923**  &nbsp;&nbsp; `787 stars this week`
 
 1. [p-e-w / heretic](https://github.com/p-e-w/heretic)
     - Fully automatic censorship removal for language models
-    - language: **Python** &nbsp;&nbsp; stars: **30,273** &nbsp;&nbsp; folks: **3,348**  &nbsp;&nbsp; `2,045 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **30,285** &nbsp;&nbsp; folks: **3,350**  &nbsp;&nbsp; `2,045 stars this week`
 
 1. [freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
     - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-    - language: **JavaScript** &nbsp;&nbsp; stars: **27,705** &nbsp;&nbsp; folks: **2,679**  &nbsp;&nbsp; `7,006 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **27,718** &nbsp;&nbsp; folks: **2,682**  &nbsp;&nbsp; `7,006 stars this week`
 
 1. [cursor / plugins](https://github.com/cursor/plugins)
     - Cursor plugin specification and official plugins
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,742** &nbsp;&nbsp; folks: **554**  &nbsp;&nbsp; `1,333 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,756** &nbsp;&nbsp; folks: **554**  &nbsp;&nbsp; `1,333 stars this week`
 
 1. [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
     - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    - language: **Python** &nbsp;&nbsp; stars: **77,352** &nbsp;&nbsp; folks: **9,423**  &nbsp;&nbsp; `2,634 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **77,381** &nbsp;&nbsp; folks: **9,428**  &nbsp;&nbsp; `2,634 stars this week`
 
 1. [colinhacks / zod](https://github.com/colinhacks/zod)
     - TypeScript-first schema validation with static type inference
-    - language: **TypeScript** &nbsp;&nbsp; stars: **43,804** &nbsp;&nbsp; folks: **2,173**  &nbsp;&nbsp; `252 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **43,808** &nbsp;&nbsp; folks: **2,173**  &nbsp;&nbsp; `252 stars this week`
 
 1. [zedeus / nitter](https://github.com/zedeus/nitter)
     - Alternative Twitter front-end
-    - language: **Nim** &nbsp;&nbsp; stars: **14,088** &nbsp;&nbsp; folks: **1,291**  &nbsp;&nbsp; `525 stars this week`
+    - language: **Nim** &nbsp;&nbsp; stars: **14,093** &nbsp;&nbsp; folks: **1,292**  &nbsp;&nbsp; `525 stars this week`
 
 1. [tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi)
     - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,060** &nbsp;&nbsp; folks: **3,274**  &nbsp;&nbsp; `3,366 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,080** &nbsp;&nbsp; folks: **3,277**  &nbsp;&nbsp; `3,366 stars this week`
 
 1. [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio)
     - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    - language: **Python** &nbsp;&nbsp; stars: **15,908** &nbsp;&nbsp; folks: **2,179**  &nbsp;&nbsp; `2,511 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **16,042** &nbsp;&nbsp; folks: **2,187**  &nbsp;&nbsp; `2,511 stars this week`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **93,967** &nbsp;&nbsp; folks: **15,561**  &nbsp;&nbsp; `1,017 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **93,990** &nbsp;&nbsp; folks: **15,574**  &nbsp;&nbsp; `1,017 stars this week`
 
 1. [handsomestWei / patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
     - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-    - language: **Python** &nbsp;&nbsp; stars: **7,189** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `1,750 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,191** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `1,750 stars this week`
 
 1. [rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
     - Learn it. Build it. Ship it for others.
-    - language: **Python** &nbsp;&nbsp; stars: **52,236** &nbsp;&nbsp; folks: **9,047**  &nbsp;&nbsp; `2,843 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **52,256** &nbsp;&nbsp; folks: **9,050**  &nbsp;&nbsp; `2,843 stars this week`
 
 1. [majd / ipatool](https://github.com/majd/ipatool)
     - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
-    - language: **Go** &nbsp;&nbsp; stars: **10,783** &nbsp;&nbsp; folks: **906**  &nbsp;&nbsp; `836 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **10,788** &nbsp;&nbsp; folks: **906**  &nbsp;&nbsp; `836 stars this week`
 
 1. [fmtlib / fmt](https://github.com/fmtlib/fmt)
     - A modern formatting library
-    - language: **C++** &nbsp;&nbsp; stars: **24,891** &nbsp;&nbsp; folks: **3,005**  &nbsp;&nbsp; `918 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **24,973** &nbsp;&nbsp; folks: **3,011**  &nbsp;&nbsp; `918 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [omacom / omarchy](https://github.com/omacom/omarchy)
     - Beautiful, Modern & Opinionated Linux
-    - language: **Shell** &nbsp;&nbsp; stars: **37,630** &nbsp;&nbsp; folks: **3,955**  &nbsp;&nbsp; `13,231 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **37,667** &nbsp;&nbsp; folks: **3,963**  &nbsp;&nbsp; `13,231 stars this month`
 
 1. [semantica-agi / semantica](https://github.com/semantica-agi/semantica)
     - Graph-Native Infrastructure for Context and Accountable AI Systems
-    - language: **Python** &nbsp;&nbsp; stars: **11,840** &nbsp;&nbsp; folks: **1,331**  &nbsp;&nbsp; `9,973 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **11,856** &nbsp;&nbsp; folks: **1,332**  &nbsp;&nbsp; `9,973 stars this month`
 
 1. [cursor / plugins](https://github.com/cursor/plugins)
     - Cursor plugin specification and official plugins
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,742** &nbsp;&nbsp; folks: **554**  &nbsp;&nbsp; `4,249 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,756** &nbsp;&nbsp; folks: **554**  &nbsp;&nbsp; `4,249 stars this month`
 
 1. [cloudflare / cloudflare-os](https://github.com/cloudflare/cloudflare-os)
     - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,550** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `9,549 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,559** &nbsp;&nbsp; folks: **1,123**  &nbsp;&nbsp; `9,549 stars this month`
 
 1. [tt-a1i / archify](https://github.com/tt-a1i/archify)
     - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **45,378** &nbsp;&nbsp; folks: **2,909**  &nbsp;&nbsp; `35,312 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **45,558** &nbsp;&nbsp; folks: **2,921**  &nbsp;&nbsp; `35,312 stars this month`
 
 1. [anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
     - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    - language: **Python** &nbsp;&nbsp; stars: **3,337** &nbsp;&nbsp; folks: **257**  &nbsp;&nbsp; `2,979 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **3,342** &nbsp;&nbsp; folks: **256**  &nbsp;&nbsp; `2,979 stars this month`
 
 1. [AprilNEA / OpenLogi](https://github.com/AprilNEA/OpenLogi)
     - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    - language: **Rust** &nbsp;&nbsp; stars: **18,720** &nbsp;&nbsp; folks: **567**  &nbsp;&nbsp; `10,586 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **18,740** &nbsp;&nbsp; folks: **568**  &nbsp;&nbsp; `10,586 stars this month`
 
 1. [volcengine / OpenViking](https://github.com/volcengine/OpenViking)
     - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    - language: **Python** &nbsp;&nbsp; stars: **35,322** &nbsp;&nbsp; folks: **2,706**  &nbsp;&nbsp; `7,539 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **35,339** &nbsp;&nbsp; folks: **2,707**  &nbsp;&nbsp; `7,539 stars this month`
 
 1. [freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
     - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-    - language: **JavaScript** &nbsp;&nbsp; stars: **27,705** &nbsp;&nbsp; folks: **2,679**  &nbsp;&nbsp; `18,715 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **27,718** &nbsp;&nbsp; folks: **2,682**  &nbsp;&nbsp; `18,715 stars this month`
 
 1. [vitali87 / code-graph-rag](https://github.com/vitali87/code-graph-rag)
     - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-    - language: **Python** &nbsp;&nbsp; stars: **4,934** &nbsp;&nbsp; folks: **653**  &nbsp;&nbsp; `2,455 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **4,941** &nbsp;&nbsp; folks: **653**  &nbsp;&nbsp; `2,455 stars this month`
 
 1. [THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
     - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,974** &nbsp;&nbsp; folks: **5,124**  &nbsp;&nbsp; `10,080 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **31,007** &nbsp;&nbsp; folks: **5,131**  &nbsp;&nbsp; `10,080 stars this month`
 
 1. [cactus-compute / needle](https://github.com/cactus-compute/needle)
     - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    - language: **Python** &nbsp;&nbsp; stars: **10,163** &nbsp;&nbsp; folks: **655**  &nbsp;&nbsp; `6,771 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,173** &nbsp;&nbsp; folks: **655**  &nbsp;&nbsp; `6,771 stars this month`
 
 1. [apache / maka](https://github.com/apache/maka)
     - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,636** &nbsp;&nbsp; folks: **432**  &nbsp;&nbsp; `3,579 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,642** &nbsp;&nbsp; folks: **434**  &nbsp;&nbsp; `3,579 stars this month`
 
 1. [TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
     - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,826** &nbsp;&nbsp; folks: **2,409**  &nbsp;&nbsp; `15,189 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,832** &nbsp;&nbsp; folks: **2,409**  &nbsp;&nbsp; `15,189 stars this month`
 
 1. [youssofal / MTPLX](https://github.com/youssofal/MTPLX)
     - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
-    - language: **Python** &nbsp;&nbsp; stars: **1,994** &nbsp;&nbsp; folks: **147**  &nbsp;&nbsp; `826 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **1,999** &nbsp;&nbsp; folks: **147**  &nbsp;&nbsp; `826 stars this month`
 
 1. [cloudflare / computer](https://github.com/cloudflare/computer)
     - Give your agent a computer 👾
-    - language: **TypeScript** &nbsp;&nbsp; stars: **8,965** &nbsp;&nbsp; folks: **501**  &nbsp;&nbsp; `8,868 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **8,972** &nbsp;&nbsp; folks: **502**  &nbsp;&nbsp; `8,868 stars this month`
 
 1. [google / skills](https://github.com/google/skills)
     - Agent Skills for Google products and technologies
-    - language: **Python** &nbsp;&nbsp; stars: **19,364** &nbsp;&nbsp; folks: **1,554**  &nbsp;&nbsp; `3,900 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,377** &nbsp;&nbsp; folks: **1,556**  &nbsp;&nbsp; `3,900 stars this month`
 
 1. [modular / modular](https://github.com/modular/modular)
     - The Modular Platform (includes MAX & Mojo)
-    - language: **Mojo** &nbsp;&nbsp; stars: **29,509** &nbsp;&nbsp; folks: **3,142**  &nbsp;&nbsp; `2,923 stars this month`
+    - language: **Mojo** &nbsp;&nbsp; stars: **29,512** &nbsp;&nbsp; folks: **3,142**  &nbsp;&nbsp; `2,923 stars this month`
 
 1. [huangruiteng / loopx](https://github.com/huangruiteng/loopx)
     - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
-    - language: **Python** &nbsp;&nbsp; stars: **5,541** &nbsp;&nbsp; folks: **491**  &nbsp;&nbsp; `5,297 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,548** &nbsp;&nbsp; folks: **493**  &nbsp;&nbsp; `5,297 stars this month`
 
 
 ## 历史归档
