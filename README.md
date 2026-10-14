@@ -10,199 +10,199 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-10-14 19:05:52 +0800`
+`更新时间：2026-10-15 00:26:15 +0800`
 
 ## 今日热门仓库
 
 1. [morluto / rea](https://github.com/morluto/rea)
     - Reverse engineer anything with agents, from app behavior down to native binaries.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **225,099** &nbsp;&nbsp; folks: **55,840**  &nbsp;&nbsp; `41,187 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **233,593** &nbsp;&nbsp; folks: **58,273**  &nbsp;&nbsp; `41,187 stars today`
 
 1. [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio)
     - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    - language: **Python** &nbsp;&nbsp; stars: **64,770** &nbsp;&nbsp; folks: **7,180**  &nbsp;&nbsp; `3,547 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **65,443** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `3,547 stars today`
 
 1. [mksglu / context-mode](https://github.com/mksglu/context-mode)
     - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,669** &nbsp;&nbsp; folks: **2,016**  &nbsp;&nbsp; `946 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,873** &nbsp;&nbsp; folks: **2,028**  &nbsp;&nbsp; `946 stars today`
 
 1. [nvm-sh / nvm](https://github.com/nvm-sh/nvm)
     - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-    - language: **Shell** &nbsp;&nbsp; stars: **95,355** &nbsp;&nbsp; folks: **10,505**  &nbsp;&nbsp; `45 stars today`
+    - language: **Shell** &nbsp;&nbsp; stars: **95,401** &nbsp;&nbsp; folks: **10,510**  &nbsp;&nbsp; `45 stars today`
 
 1. [K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
     - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    - language: **Python** &nbsp;&nbsp; stars: **48,820** &nbsp;&nbsp; folks: **4,385**  &nbsp;&nbsp; `146 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **49,088** &nbsp;&nbsp; folks: **4,404**  &nbsp;&nbsp; `146 stars today`
 
 1. [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything)
     - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    - language: **Python** &nbsp;&nbsp; stars: **52,152** &nbsp;&nbsp; folks: **4,756**  &nbsp;&nbsp; `94 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **52,306** &nbsp;&nbsp; folks: **4,763**  &nbsp;&nbsp; `94 stars today`
 
 1. [ifixai-ai / iFixAi](https://github.com/ifixai-ai/iFixAi)
     - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-    - language: **Python** &nbsp;&nbsp; stars: **26,513** &nbsp;&nbsp; folks: **1,471**  &nbsp;&nbsp; `2,143 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **26,912** &nbsp;&nbsp; folks: **1,489**  &nbsp;&nbsp; `2,143 stars today`
 
 1. [vxcontrol / pentagi](https://github.com/vxcontrol/pentagi)
     - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    - language: **Go** &nbsp;&nbsp; stars: **28,643** &nbsp;&nbsp; folks: **4,313**  &nbsp;&nbsp; `1,819 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **29,004** &nbsp;&nbsp; folks: **4,360**  &nbsp;&nbsp; `1,070 stars today`
 
 1. [rust-lang / rust](https://github.com/rust-lang/rust)
     - Empowering everyone to build reliable and efficient software.
-    - language: **Rust** &nbsp;&nbsp; stars: **119,964** &nbsp;&nbsp; folks: **18,633**  &nbsp;&nbsp; `205 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **119,853** &nbsp;&nbsp; folks: **18,680**  &nbsp;&nbsp; `205 stars today`
 
 1. [xtool-org / xtool](https://github.com/xtool-org/xtool)
     - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-    - language: **Swift** &nbsp;&nbsp; stars: **10,023** &nbsp;&nbsp; folks: **424**  &nbsp;&nbsp; `1,510 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **10,344** &nbsp;&nbsp; folks: **450**  &nbsp;&nbsp; `1,510 stars today`
 
 1. [ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder)
     - WinUI app for building smaller, customized Windows 11 images.
-    - language: **C#** &nbsp;&nbsp; stars: **20,004** &nbsp;&nbsp; folks: **1,543**  &nbsp;&nbsp; `132 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **20,103** &nbsp;&nbsp; folks: **1,545**  &nbsp;&nbsp; `194 stars today`
 
 1. [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
     - Ghidra is a software reverse engineering (SRE) framework
-    - language: **Java** &nbsp;&nbsp; stars: **86,745** &nbsp;&nbsp; folks: **9,688**  &nbsp;&nbsp; `1,550 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **87,076** &nbsp;&nbsp; folks: **9,727**  &nbsp;&nbsp; `1,002 stars today`
 
 
 ## 近一周热门仓库
 
 1. [morluto / rea](https://github.com/morluto/rea)
     - Reverse engineer anything with agents, from app behavior down to native binaries.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **225,099** &nbsp;&nbsp; folks: **55,840**  &nbsp;&nbsp; `183,758 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **233,593** &nbsp;&nbsp; folks: **58,273**  &nbsp;&nbsp; `183,758 stars this week`
 
 1. [boykopovar / AnyPS5](https://github.com/boykopovar/AnyPS5)
     - Tool for automatic PS5 executables porting to Linux and Windows
-    - language: **C++** &nbsp;&nbsp; stars: **36,125** &nbsp;&nbsp; folks: **3,154**  &nbsp;&nbsp; `28,663 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **36,604** &nbsp;&nbsp; folks: **3,215**  &nbsp;&nbsp; `28,663 stars this week`
 
 1. [mattpocock / skills](https://github.com/mattpocock/skills)
     - Skills for Real Engineers. Straight from my .agents directory.
-    - language: **Shell** &nbsp;&nbsp; stars: **290,444** &nbsp;&nbsp; folks: **24,380**  &nbsp;&nbsp; `11,955 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **290,829** &nbsp;&nbsp; folks: **24,395**  &nbsp;&nbsp; `11,955 stars this week`
 
 1. [heygen-com / hyperframes](https://github.com/heygen-com/hyperframes)
     - Write HTML. Render video. Built for agents.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **63,215** &nbsp;&nbsp; folks: **5,669**  &nbsp;&nbsp; `4,732 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **63,466** &nbsp;&nbsp; folks: **5,696**  &nbsp;&nbsp; `4,732 stars this week`
 
 1. [EpicGames / raddebugger](https://github.com/EpicGames/raddebugger)
     - A native, user-mode, multi-process, graphical debugger.
-    - language: **C** &nbsp;&nbsp; stars: **8,503** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `857 stars this week`
+    - language: **C** &nbsp;&nbsp; stars: **8,521** &nbsp;&nbsp; folks: **414**  &nbsp;&nbsp; `857 stars this week`
 
 1. [tester-army / e2e](https://github.com/tester-army/e2e)
     - Next generation e2e testing framework for web and mobile apps.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,331** &nbsp;&nbsp; folks: **500**  &nbsp;&nbsp; `4,426 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,407** &nbsp;&nbsp; folks: **507**  &nbsp;&nbsp; `4,426 stars this week`
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    - language: **TypeScript** &nbsp;&nbsp; stars: **100,592** &nbsp;&nbsp; folks: **8,815**  &nbsp;&nbsp; `3,587 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **100,689** &nbsp;&nbsp; folks: **8,825**  &nbsp;&nbsp; `3,587 stars this week`
 
 1. [cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design)
     - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    - language: **HTML** &nbsp;&nbsp; stars: **54,956** &nbsp;&nbsp; folks: **3,463**  &nbsp;&nbsp; `9,867 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **55,151** &nbsp;&nbsp; folks: **3,486**  &nbsp;&nbsp; `9,867 stars this week`
 
 1. [twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
     - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-    - language: **无** &nbsp;&nbsp; stars: **5,890** &nbsp;&nbsp; folks: **216**  &nbsp;&nbsp; `911 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **5,924** &nbsp;&nbsp; folks: **218**  &nbsp;&nbsp; `911 stars this week`
 
 1. [earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad)
     - Give your agent CAD superpowers.
-    - language: **Python** &nbsp;&nbsp; stars: **20,168** &nbsp;&nbsp; folks: **1,985**  &nbsp;&nbsp; `2,173 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **20,262** &nbsp;&nbsp; folks: **1,994**  &nbsp;&nbsp; `2,173 stars this week`
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **180,169** &nbsp;&nbsp; folks: **34,076**  &nbsp;&nbsp; `967 stars this week`
+    - language: **Dart** &nbsp;&nbsp; stars: **180,129** &nbsp;&nbsp; folks: **34,088**  &nbsp;&nbsp; `967 stars this week`
 
 1. [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
     - Ghidra is a software reverse engineering (SRE) framework
-    - language: **Java** &nbsp;&nbsp; stars: **86,745** &nbsp;&nbsp; folks: **9,688**  &nbsp;&nbsp; `4,986 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **87,076** &nbsp;&nbsp; folks: **9,727**  &nbsp;&nbsp; `4,986 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [paperclipai / paperclip](https://github.com/paperclipai/paperclip)
     - The open-source app everyone uses to manage agents at work
-    - language: **TypeScript** &nbsp;&nbsp; stars: **101,840** &nbsp;&nbsp; folks: **17,066**  &nbsp;&nbsp; `21,106 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **101,988** &nbsp;&nbsp; folks: **17,091**  &nbsp;&nbsp; `21,106 stars this month`
 
 1. [anthropics / financial-services](https://github.com/anthropics/financial-services)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **39,786** &nbsp;&nbsp; folks: **5,602**  &nbsp;&nbsp; `4,971 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,819** &nbsp;&nbsp; folks: **5,605**  &nbsp;&nbsp; `4,971 stars this month`
 
 1. [alibaba / open-code-review](https://github.com/alibaba/open-code-review)
     - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    - language: **Go** &nbsp;&nbsp; stars: **47,082** &nbsp;&nbsp; folks: **3,422**  &nbsp;&nbsp; `24,283 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **47,135** &nbsp;&nbsp; folks: **3,428**  &nbsp;&nbsp; `24,283 stars this month`
 
 1. [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight)
     - Hindsight: Agent Memory That Learns
-    - language: **Python** &nbsp;&nbsp; stars: **49,462** &nbsp;&nbsp; folks: **6,047**  &nbsp;&nbsp; `25,874 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **49,589** &nbsp;&nbsp; folks: **6,053**  &nbsp;&nbsp; `25,874 stars this month`
 
 1. [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio)
     - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    - language: **Python** &nbsp;&nbsp; stars: **64,770** &nbsp;&nbsp; folks: **7,180**  &nbsp;&nbsp; `36,408 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **65,443** &nbsp;&nbsp; folks: **7,237**  &nbsp;&nbsp; `36,408 stars this month`
 
 1. [heygen-com / hyperframes](https://github.com/heygen-com/hyperframes)
     - Write HTML. Render video. Built for agents.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **63,215** &nbsp;&nbsp; folks: **5,669**  &nbsp;&nbsp; `13,203 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **63,466** &nbsp;&nbsp; folks: **5,696**  &nbsp;&nbsp; `13,203 stars this month`
 
 1. [affaan-m / ECC](https://github.com/affaan-m/ECC)
     - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **278,883** &nbsp;&nbsp; folks: **41,531**  &nbsp;&nbsp; `22,653 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **279,121** &nbsp;&nbsp; folks: **41,541**  &nbsp;&nbsp; `22,653 stars this month`
 
 1. [anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
     - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    - language: **Python** &nbsp;&nbsp; stars: **29,609** &nbsp;&nbsp; folks: **3,360**  &nbsp;&nbsp; `5,569 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,637** &nbsp;&nbsp; folks: **3,361**  &nbsp;&nbsp; `5,569 stars this month`
 
 1. [agent-substrate / substrate](https://github.com/agent-substrate/substrate)
     - Agent Substrate: the core system
-    - language: **Go** &nbsp;&nbsp; stars: **5,111** &nbsp;&nbsp; folks: **565**  &nbsp;&nbsp; `3,190 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **5,134** &nbsp;&nbsp; folks: **567**  &nbsp;&nbsp; `3,190 stars this month`
 
 1. [NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell)
     - OpenShell is the safe, private runtime for autonomous AI agents.
-    - language: **Rust** &nbsp;&nbsp; stars: **16,174** &nbsp;&nbsp; folks: **1,782**  &nbsp;&nbsp; `7,574 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **16,200** &nbsp;&nbsp; folks: **1,782**  &nbsp;&nbsp; `7,574 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **150,745** &nbsp;&nbsp; folks: **26,517**  &nbsp;&nbsp; `6,545 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **150,806** &nbsp;&nbsp; folks: **26,561**  &nbsp;&nbsp; `6,545 stars this month`
 
 1. [TencentCloud / Octop](https://github.com/TencentCloud/Octop)
     - A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    - language: **Python** &nbsp;&nbsp; stars: **9,273** &nbsp;&nbsp; folks: **1,142**  &nbsp;&nbsp; `7,517 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,309** &nbsp;&nbsp; folks: **1,149**  &nbsp;&nbsp; `7,517 stars this month`
 
 1. [Tencent / WeKnora](https://github.com/Tencent/WeKnora)
     - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    - language: **Go** &nbsp;&nbsp; stars: **33,902** &nbsp;&nbsp; folks: **4,508**  &nbsp;&nbsp; `11,177 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **33,955** &nbsp;&nbsp; folks: **4,518**  &nbsp;&nbsp; `11,177 stars this month`
 
 1. [tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi)
     - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **34,952** &nbsp;&nbsp; folks: **4,756**  &nbsp;&nbsp; `8,786 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **35,137** &nbsp;&nbsp; folks: **4,770**  &nbsp;&nbsp; `8,786 stars this month`
 
 1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
     - Production-grade engineering skills for AI coding agents.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **106,436** &nbsp;&nbsp; folks: **11,084**  &nbsp;&nbsp; `12,820 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **106,554** &nbsp;&nbsp; folks: **11,089**  &nbsp;&nbsp; `12,820 stars this month`
 
 1. [mksglu / context-mode](https://github.com/mksglu/context-mode)
     - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,669** &nbsp;&nbsp; folks: **2,016**  &nbsp;&nbsp; `5,378 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,873** &nbsp;&nbsp; folks: **2,028**  &nbsp;&nbsp; `5,378 stars this month`
 
 1. [trycua / cua](https://github.com/trycua/cua)
     - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-    - language: **Rust** &nbsp;&nbsp; stars: **29,691** &nbsp;&nbsp; folks: **2,126**  &nbsp;&nbsp; `7,159 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **29,716** &nbsp;&nbsp; folks: **2,128**  &nbsp;&nbsp; `7,159 stars this month`
 
 1. [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
     - Ghidra is a software reverse engineering (SRE) framework
-    - language: **Java** &nbsp;&nbsp; stars: **86,745** &nbsp;&nbsp; folks: **9,688**  &nbsp;&nbsp; `11,115 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **87,076** &nbsp;&nbsp; folks: **9,727**  &nbsp;&nbsp; `11,115 stars this month`
 
 1. [cursor / plugins](https://github.com/cursor/plugins)
     - Cursor plugin specification and official plugins
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,294** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `3,795 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,337** &nbsp;&nbsp; folks: **1,105**  &nbsp;&nbsp; `3,795 stars this month`
 
 1. [rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
     - Learn AI Engineering! Learn it. Build it. Ship it for others.
-    - language: **Python** &nbsp;&nbsp; stars: **68,887** &nbsp;&nbsp; folks: **12,061**  &nbsp;&nbsp; `14,347 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **69,016** &nbsp;&nbsp; folks: **12,088**  &nbsp;&nbsp; `14,347 stars this month`
 
 1. [longbridge / gpui-kit](https://github.com/longbridge/gpui-kit)
     - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    - language: **Rust** &nbsp;&nbsp; stars: **17,327** &nbsp;&nbsp; folks: **1,063**  &nbsp;&nbsp; `2,812 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **17,371** &nbsp;&nbsp; folks: **1,065**  &nbsp;&nbsp; `2,812 stars this month`
 
 1. [Gaurav-Gosain / tuios](https://github.com/Gaurav-Gosain/tuios)
     - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
-    - language: **Go** &nbsp;&nbsp; stars: **5,266** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `1,659 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **5,293** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `1,659 stars this month`
 
 
 ## 历史归档
