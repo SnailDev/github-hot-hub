@@ -10,179 +10,163 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2026-11-15 15:29:53 +0800`
+`更新时间：2026-11-15 23:16:12 +0800`
 
 ## 今日热门仓库
 
-1. [backnotprop / plannotator](https://github.com/backnotprop/plannotator)
-    - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,377** &nbsp;&nbsp; folks: **980**  &nbsp;&nbsp; `408 stars today`
-
-1. [GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-    - Keep your coding agent up to date with the latest web best practices
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,323** &nbsp;&nbsp; folks: **475**  &nbsp;&nbsp; `1,231 stars today`
-
-1. [tradermonty / claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-    - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-    - language: **Python** &nbsp;&nbsp; stars: **5,017** &nbsp;&nbsp; folks: **1,053**  &nbsp;&nbsp; `553 stars today`
-
-1. [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-    - Chrome DevTools for coding agents
-    - language: **TypeScript** &nbsp;&nbsp; stars: **56,477** &nbsp;&nbsp; folks: **4,782**  &nbsp;&nbsp; `664 stars today`
-
-1. [alibaba / open-code-review](https://github.com/alibaba/open-code-review)
-    - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    - language: **Go** &nbsp;&nbsp; stars: **51,586** &nbsp;&nbsp; folks: **3,984**  &nbsp;&nbsp; `893 stars today`
-
-1. [QwenLM / qwen-code](https://github.com/QwenLM/qwen-code)
-    - An open-source AI coding agent that lives in your terminal.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **30,426** &nbsp;&nbsp; folks: **3,523**  &nbsp;&nbsp; `64 stars today`
-
 1. [dream-num / univer](https://github.com/dream-num/univer)
     - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **25,104** &nbsp;&nbsp; folks: **2,297**  &nbsp;&nbsp; `495 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **25,308** &nbsp;&nbsp; folks: **2,315**  &nbsp;&nbsp; `1,041 stars today`
 
 1. [ag-ui-protocol / ag-ui](https://github.com/ag-ui-protocol/ag-ui)
     - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **17,471** &nbsp;&nbsp; folks: **1,722**  &nbsp;&nbsp; `9 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **17,623** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `393 stars today`
 
-1. [ashhart / TensorFold](https://github.com/ashhart/TensorFold)
-    - LLM Inference Engine for Metal, CUDA and Vulkan.
-    - language: **Zig** &nbsp;&nbsp; stars: **2,207** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `37 stars today`
+1. [google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills)
+    - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,098** &nbsp;&nbsp; folks: **1,085**  &nbsp;&nbsp; `248 stars today`
 
-1. [JuliusBrussee / caveman](https://github.com/JuliusBrussee/caveman)
-    - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-    - language: **Go** &nbsp;&nbsp; stars: **120,189** &nbsp;&nbsp; folks: **7,007**  &nbsp;&nbsp; `227 stars today`
+1. [backnotprop / plannotator](https://github.com/backnotprop/plannotator)
+    - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,643** &nbsp;&nbsp; folks: **1,028**  &nbsp;&nbsp; `860 stars today`
 
-1. [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)
-    - A fancy self-hosted monitoring tool
-    - language: **JavaScript** &nbsp;&nbsp; stars: **94,327** &nbsp;&nbsp; folks: **8,836**  &nbsp;&nbsp; `430 stars today`
+1. [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+    - Chrome DevTools for coding agents
+    - language: **TypeScript** &nbsp;&nbsp; stars: **56,694** &nbsp;&nbsp; folks: **4,794**  &nbsp;&nbsp; `718 stars today`
 
-1. [we-promise / sure](https://github.com/we-promise/sure)
-    - The personal finance app for everyone (by everyone)
-    - language: **Ruby** &nbsp;&nbsp; stars: **15,441** &nbsp;&nbsp; folks: **1,321**  &nbsp;&nbsp; `659 stars today`
+1. [alibaba / open-code-review](https://github.com/alibaba/open-code-review)
+    - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    - language: **Go** &nbsp;&nbsp; stars: **51,785** &nbsp;&nbsp; folks: **4,035**  &nbsp;&nbsp; `688 stars today`
 
 1. [Tencent / LoopForge](https://github.com/Tencent/LoopForge)
     - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-    - language: **Go** &nbsp;&nbsp; stars: **1,022** &nbsp;&nbsp; folks: **232**  &nbsp;&nbsp; `33 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,253** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `484 stars today`
 
-1. [Likely7 / Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
-    - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
-    - language: **C++** &nbsp;&nbsp; stars: **2,427** &nbsp;&nbsp; folks: **205**  &nbsp;&nbsp; `420 stars today`
+1. [ggml-org / ggml](https://github.com/ggml-org/ggml)
+    - Tensor library for machine learning
+    - language: **C++** &nbsp;&nbsp; stars: **15,816** &nbsp;&nbsp; folks: **1,954**  &nbsp;&nbsp; `154 stars today`
 
-1. [martin-olivier / airgorah](https://github.com/martin-olivier/airgorah)
-    - A WiFi security auditing software
-    - language: **Rust** &nbsp;&nbsp; stars: **6,041** &nbsp;&nbsp; folks: **1,044**  &nbsp;&nbsp; `270 stars today`
+1. [elementalsouls / Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+    - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+    - language: **Python** &nbsp;&nbsp; stars: **5,997** &nbsp;&nbsp; folks: **914**  &nbsp;&nbsp; `124 stars today`
+
+1. [GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+    - Keep your coding agent up to date with the latest web best practices
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,796** &nbsp;&nbsp; folks: **537**  &nbsp;&nbsp; `1,220 stars today`
+
+1. [tradermonty / claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+    - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+    - language: **Python** &nbsp;&nbsp; stars: **5,246** &nbsp;&nbsp; folks: **1,107**  &nbsp;&nbsp; `707 stars today`
+
+1. [NVIDIA / SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+    - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+    - language: **Python** &nbsp;&nbsp; stars: **1,374** &nbsp;&nbsp; folks: **161**  &nbsp;&nbsp; `133 stars today`
 
 
 ## 近一周热门仓库
 
 1. [meta / astryx](https://github.com/meta/astryx)
     - An open source design system that's fully customizable and agent ready
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,319** &nbsp;&nbsp; folks: **2,201**  &nbsp;&nbsp; `13,660 stars this week`
-
-1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
-    - Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **111,938** &nbsp;&nbsp; folks: **12,952**  &nbsp;&nbsp; `12,401 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,600** &nbsp;&nbsp; folks: **2,236**  &nbsp;&nbsp; `13,660 stars this week`
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **194,750** &nbsp;&nbsp; folks: **22,911**  &nbsp;&nbsp; `6,220 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **195,131** &nbsp;&nbsp; folks: **22,943**  &nbsp;&nbsp; `6,220 stars this week`
 
-1. [vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser)
-    - Browser automation CLI for AI agents
-    - language: **Rust** &nbsp;&nbsp; stars: **51,316** &nbsp;&nbsp; folks: **3,584**  &nbsp;&nbsp; `4,601 stars this week`
-
-1. [google / elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-    - Open-source plugin for designing and reviewing software with agents
-    - language: **Python** &nbsp;&nbsp; stars: **19,315** &nbsp;&nbsp; folks: **1,434**  &nbsp;&nbsp; `5,539 stars this week`
-
-1. [milind-soni / OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-    - Open-source Grok Bot alternative with a virtual machine that bots can use
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,912** &nbsp;&nbsp; folks: **3,194**  &nbsp;&nbsp; `6,413 stars this week`
-
-1. [ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-    - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    - language: **Python** &nbsp;&nbsp; stars: **72,321** &nbsp;&nbsp; folks: **57,505**  &nbsp;&nbsp; `4,526 stars this week`
-
-1. [google-deepmind / mujoco](https://github.com/google-deepmind/mujoco)
-    - Multi-Joint dynamics with Contact. A general purpose physics simulator.
-    - language: **C++** &nbsp;&nbsp; stars: **18,009** &nbsp;&nbsp; folks: **2,204**  &nbsp;&nbsp; `1,859 stars this week`
+1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
+    - Hunt down social media accounts by username across social networks
+    - language: **Python** &nbsp;&nbsp; stars: **112,206** &nbsp;&nbsp; folks: **12,971**  &nbsp;&nbsp; `12,401 stars this week`
 
 1. [backnotprop / plannotator](https://github.com/backnotprop/plannotator)
     - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,377** &nbsp;&nbsp; folks: **980**  &nbsp;&nbsp; `818 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,643** &nbsp;&nbsp; folks: **1,028**  &nbsp;&nbsp; `818 stars this week`
+
+1. [vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser)
+    - Browser automation CLI for AI agents
+    - language: **Rust** &nbsp;&nbsp; stars: **51,457** &nbsp;&nbsp; folks: **3,595**  &nbsp;&nbsp; `4,601 stars this week`
+
+1. [ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+    - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+    - language: **Python** &nbsp;&nbsp; stars: **72,407** &nbsp;&nbsp; folks: **57,558**  &nbsp;&nbsp; `4,526 stars this week`
+
+1. [we-promise / sure](https://github.com/we-promise/sure)
+    - The personal finance app for everyone (by everyone)
+    - language: **Ruby** &nbsp;&nbsp; stars: **15,575** &nbsp;&nbsp; folks: **1,364**  &nbsp;&nbsp; `4,483 stars this week`
+
+1. [milind-soni / OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+    - Open-source Grok Bot alternative with a virtual machine that bots can use
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,108** &nbsp;&nbsp; folks: **3,216**  &nbsp;&nbsp; `6,413 stars this week`
+
+1. [google / elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+    - Open-source plugin for designing and reviewing software with agents
+    - language: **Python** &nbsp;&nbsp; stars: **19,507** &nbsp;&nbsp; folks: **1,451**  &nbsp;&nbsp; `5,539 stars this week`
+
+1. [google-deepmind / mujoco](https://github.com/google-deepmind/mujoco)
+    - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+    - language: **C++** &nbsp;&nbsp; stars: **18,043** &nbsp;&nbsp; folks: **2,208**  &nbsp;&nbsp; `1,859 stars this week`
 
 1. [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills)
     - Production-grade engineering skills for AI coding agents.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **117,670** &nbsp;&nbsp; folks: **12,314**  &nbsp;&nbsp; `3,670 stars this week`
-
-1. [anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-    - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    - language: **Python** &nbsp;&nbsp; stars: **21,007** &nbsp;&nbsp; folks: **3,499**  &nbsp;&nbsp; `1,794 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **117,790** &nbsp;&nbsp; folks: **12,331**  &nbsp;&nbsp; `3,670 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [Nutlope / hallmark](https://github.com/Nutlope/hallmark)
     - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    - language: **CSS** &nbsp;&nbsp; stars: **55,150** &nbsp;&nbsp; folks: **2,950**  &nbsp;&nbsp; `25,013 stars this month`
+    - language: **CSS** &nbsp;&nbsp; stars: **55,302** &nbsp;&nbsp; folks: **2,968**  &nbsp;&nbsp; `25,013 stars this month`
 
 1. [cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill)
     - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    - language: **JavaScript** &nbsp;&nbsp; stars: **72,782** &nbsp;&nbsp; folks: **4,866**  &nbsp;&nbsp; `43,171 stars this month`
-
-1. [morluto / rea](https://github.com/morluto/rea)
-    - Reverse engineer anything with agents, from app behavior down to native binaries.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **460,437** &nbsp;&nbsp; folks: **112,839**  &nbsp;&nbsp; `236,618 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **72,968** &nbsp;&nbsp; folks: **4,884**  &nbsp;&nbsp; `43,171 stars this month`
 
 1. [pingdotgg / t3code](https://github.com/pingdotgg/t3code)
     - The best way to control Claude Code, Codex and more from any computer or phone
-    - language: **TypeScript** &nbsp;&nbsp; stars: **60,839** &nbsp;&nbsp; folks: **10,942**  &nbsp;&nbsp; `32,857 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **61,161** &nbsp;&nbsp; folks: **10,981**  &nbsp;&nbsp; `32,857 stars this month`
 
 1. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
     - Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    - language: **TypeScript** &nbsp;&nbsp; stars: **117,182** &nbsp;&nbsp; folks: **10,173**  &nbsp;&nbsp; `17,051 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **117,275** &nbsp;&nbsp; folks: **10,181**  &nbsp;&nbsp; `17,051 stars this month`
 
 1. [pbakaus / impeccable](https://github.com/pbakaus/impeccable)
     - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    - language: **Rust** &nbsp;&nbsp; stars: **110,359** &nbsp;&nbsp; folks: **6,589**  &nbsp;&nbsp; `29,487 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **110,541** &nbsp;&nbsp; folks: **6,605**  &nbsp;&nbsp; `29,487 stars this month`
 
 1. [anthropics / skills](https://github.com/anthropics/skills)
     - Public repository for Agent Skills
-    - language: **Python** &nbsp;&nbsp; stars: **194,750** &nbsp;&nbsp; folks: **22,911**  &nbsp;&nbsp; `13,927 stars this month`
-
-1. [heygen-com / hyperframes](https://github.com/heygen-com/hyperframes)
-    - Write HTML. Render video. Built for agents.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **84,448** &nbsp;&nbsp; folks: **7,812**  &nbsp;&nbsp; `21,361 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **195,131** &nbsp;&nbsp; folks: **22,943**  &nbsp;&nbsp; `13,927 stars this month`
 
 1. [HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor)
     - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    - language: **Python** &nbsp;&nbsp; stars: **59,305** &nbsp;&nbsp; folks: **7,184**  &nbsp;&nbsp; `18,077 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **59,407** &nbsp;&nbsp; folks: **7,199**  &nbsp;&nbsp; `18,077 stars this month`
 
-1. [Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill)
-    - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    - language: **JavaScript** &nbsp;&nbsp; stars: **115,777** &nbsp;&nbsp; folks: **7,773**  &nbsp;&nbsp; `20,043 stars this month`
+1. [heygen-com / hyperframes](https://github.com/heygen-com/hyperframes)
+    - Write HTML. Render video. Built for agents.
+    - language: **TypeScript** &nbsp;&nbsp; stars: **84,588** &nbsp;&nbsp; folks: **7,831**  &nbsp;&nbsp; `21,361 stars this month`
+
+1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
+    - Hunt down social media accounts by username across social networks
+    - language: **Python** &nbsp;&nbsp; stars: **112,206** &nbsp;&nbsp; folks: **12,971**  &nbsp;&nbsp; `18,365 stars this month`
 
 1. [AgriciDaniel / claude-seo](https://github.com/AgriciDaniel/claude-seo)
     - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-    - language: **Python** &nbsp;&nbsp; stars: **29,460** &nbsp;&nbsp; folks: **3,726**  &nbsp;&nbsp; `10,402 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **29,571** &nbsp;&nbsp; folks: **3,732**  &nbsp;&nbsp; `10,402 stars this month`
+
+1. [Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill)
+    - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    - language: **JavaScript** &nbsp;&nbsp; stars: **115,929** &nbsp;&nbsp; folks: **7,778**  &nbsp;&nbsp; `20,043 stars this month`
 
 1. [anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
     - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    - language: **Python** &nbsp;&nbsp; stars: **35,954** &nbsp;&nbsp; folks: **3,974**  &nbsp;&nbsp; `6,228 stars this month`
-
-1. [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio)
-    - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    - language: **Python** &nbsp;&nbsp; stars: **110,849** &nbsp;&nbsp; folks: **12,284**  &nbsp;&nbsp; `46,324 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **36,078** &nbsp;&nbsp; folks: **3,990**  &nbsp;&nbsp; `6,228 stars this month`
 
 1. [Vincentwei1021 / video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
     - AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **19,741** &nbsp;&nbsp; folks: **1,848**  &nbsp;&nbsp; `7,617 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **19,890** &nbsp;&nbsp; folks: **1,864**  &nbsp;&nbsp; `7,617 stars this month`
 
 1. [vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser)
     - Browser automation CLI for AI agents
-    - language: **Rust** &nbsp;&nbsp; stars: **51,316** &nbsp;&nbsp; folks: **3,584**  &nbsp;&nbsp; `7,152 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **51,457** &nbsp;&nbsp; folks: **3,595**  &nbsp;&nbsp; `7,152 stars this month`
 
 
 ## 历史归档
